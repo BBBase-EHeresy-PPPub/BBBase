@@ -65,4 +65,4 @@ One per game, Helmut may use his Pro skill to re-roll a single dice rolled as pa
 * [Shambling Undead]
 * [Underworld Denizens]
 * [Vampire]
-* [Wood Elves]
+* [Wood Elf]

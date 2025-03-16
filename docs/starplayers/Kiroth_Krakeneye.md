@@ -25,4 +25,4 @@ Once per game, at the star of any of his activations, Kiroth can choose an oppos
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

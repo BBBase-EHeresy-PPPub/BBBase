@@ -25,4 +25,4 @@ Once per game, when Gloriel performs a Pass action, she may gain the Hail Mary P
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

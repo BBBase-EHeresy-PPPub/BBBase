@@ -35,4 +35,4 @@ Once per half, when Maple declares a Block action, he may do so against an oppos
 * [Norse]
 * [Ogre]
 * [Old World Alliance]
-* [Wood Elves]
+* [Wood Elf]

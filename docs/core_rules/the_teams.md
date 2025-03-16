@@ -33,7 +33,7 @@ All teams have one or more of the following special rules:
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]
 
 ### HALFLING THIMBLE CUP
 

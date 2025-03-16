@@ -70,4 +70,4 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
 * [Shambling Undead]
 * [Underworld Denizens]
 * [Vampire]
-* [Wood Elves]
+* [Wood Elf]

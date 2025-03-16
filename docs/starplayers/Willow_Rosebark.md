@@ -23,4 +23,4 @@ Once per game, when Willow successfully rolls to use her Dauntless skill, she ma
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

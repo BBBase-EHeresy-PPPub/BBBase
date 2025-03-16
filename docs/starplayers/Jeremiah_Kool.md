@@ -28,4 +28,4 @@ Once per game, at the start of his activation, Jeremiah may declare a Stab Speci
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

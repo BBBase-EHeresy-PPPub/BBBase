@@ -24,4 +24,4 @@ Once per game, Roxanna may attempt to Rush three times, rather than the usual tw
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

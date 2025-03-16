@@ -42,4 +42,4 @@ Once per game, if Morg fails the Passing Ability test when making a Pass action 
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]
-* [Wood Elves]
+* [Wood Elf]

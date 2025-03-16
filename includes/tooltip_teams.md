@@ -26,4 +26,4 @@
 [Shambling Undead]: ../teams/Shambling_Undead.md
 [Underworld Denizens]: ../teams/Underworld_Denizens.md
 [Vampire]: ../teams/Vampire.md
-[Wood Elves]: ../teams/Wood_Elves.md
+[Wood Elf]: ../teams/Wood_Elf.md

@@ -44,4 +44,4 @@ The Swift Twins must be hired as a pair and count as two Star Players. However i
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

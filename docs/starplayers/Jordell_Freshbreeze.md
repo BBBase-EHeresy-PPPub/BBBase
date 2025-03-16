@@ -25,4 +25,4 @@ Once per game, Jordell can choose to pass a single Dodge, Leap or Rush test on a
 * [Dark Elf]
 * [Elven Union]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

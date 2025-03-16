@@ -26,4 +26,4 @@ Once per half, so long as she is standing at the start of her activation, Swiftv
 * [Gnome]
 * [Halfling]
 * [High Elf]
-* [Wood Elves]
+* [Wood Elf]

@@ -82,4 +82,4 @@ Grak and Crumbleberry must be hired as a pair and count as two Star Players. How
 * [Shambling Undead]
 * [Underworld Denizens]
 * [Vampire]
-* [Wood Elves]
+* [Wood Elf]

@@ -252,7 +252,7 @@ Additionally, to represent the boggy state of the pitch and the fact that player
 
 ---
 
-## Wood Elves
+## Wood Elf
 
 ### Wood Elf Arboreal Sanctuary Blood Bowl Pitch
 

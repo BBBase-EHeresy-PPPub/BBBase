@@ -29,4 +29,4 @@ Once per game, when Zolcath is activated, he may gain the Hypnotic Gaze trait. Y
 * [Elven Union]
 * [High Elf]
 * [Lizardmen]
-* [Wood Elves]
+* [Wood Elf]
