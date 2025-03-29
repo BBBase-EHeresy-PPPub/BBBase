@@ -19,33 +19,33 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
+* [Cindy Piewhistle] - 50K
 * [Apothecary]  - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
+* [Rodney Roachbait] - 70K
 * [Akhorne The Squirrel] - 80K
 * [Barik Farblast] - 80K
-* [Cindy Piewhistle] - 50K
-* [Deeproot Strongbranch] - 280K
-* [Frank 'n' Stein] - 250K
-* [Grak and Crumbleberry] - 250K
-* [Griff Oberwald] - 280K
+* [Swiftvine Glimmershard] - 110K
+* [Puggy Baconbreath] - 120K
+* [Helmut Wulf] - 140K
+* [Rowana Forestfoot] - 160K
+* [Rumbelow Sheepskin] - 170K
+* [Thorsson Stoutmead] - 170K
 * [Grim Ironjaw] - 200K
 * [Grombrindal] - 210K
-* [Helmut Wulf] - 140K
-* [Ivar Eriksson] - 245K
 * [Karla Von Kill] - 210K
 * [Maple Highgrove] - 210K
 * [Mighty Zug] - 220K
-* [Morg 'n' Thorg] - 380K
-* [Puggy Baconbreath] - 120K
-* [Rodney Roachbait] - 70K
-* [Rowana Forestfoot] - 160K
-* [Rumbelow Sheepskin] - 170K
+* [Ivar Eriksson] - 245K
+* [Frank 'n' Stein] - 250K
+* [Grak and Crumbleberry] - 250K
 * [Skrorg Snowpelt] - 250K
-* [Swiftvine Glimmershard] - 110K
-* [Thorsson Stoutmead] - 170K
+* [Deeproot Strongbranch] - 280K
+* [Griff Oberwald] - 280K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 

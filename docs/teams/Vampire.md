@@ -20,22 +20,22 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
 * [Apothecary]  - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
 * [Akhorne The Squirrel] - 80K
 * [Bryce 'The Slice' Cambuel] - 130K
+* [Helmut Wulf] - 140K
+* [Skrull Halfheight] - 150K
+* [Ivan 'the Animal' Deathshroud] - 190K
+* [Wilhelm Chaney] - 220K
 * ['Captain' Karina Von Riesz] - 230K
-* [Count Luthor von Drakenborg] - 340K
 * [Frank 'n' Stein] - 250K
 * [Grak and Crumbleberry] - 250K
 * [Gretchen Wächter 'The Blood Bowl Widow'] - 260K
-* [Helmut Wulf] - 140K
-* [Ivan 'the Animal' Deathshroud] - 190K
-* [Skrull Halfheight] - 150K
-* [Wilhelm Chaney] - 220K
+* [Count Luthor von Drakenborg] - 340K
 
 ### Inducements
 

@@ -24,24 +24,24 @@
 
 ### Starplayers
 
+* [Cindy Piewhistle] - 50K
+* [Rodney Roachbait] - 70K
 * [Akhorne The Squirrel] - 80K
 * [Barik Farblast] - 80K
-* [Cindy Piewhistle] - 50K
-* [Deeproot Strongbranch] - 280K
-* [Grak and Crumbleberry] - 250K
-* [Griff Oberwald] - 280K
+* [Swiftvine Glimmershard] - 110K
+* [Puggy Baconbreath] - 120K
+* [Helmut Wulf] - 140K
+* [Rowana Forestfoot] - 160K
+* [Rumbelow Sheepskin] - 170K
 * [Grim Ironjaw] - 200K
 * [Grombrindal] - 210K
-* [Helmut Wulf] - 140K
 * [Karla Von Kill] - 210K
 * [Maple Highgrove] - 210K
 * [Mighty Zug] - 220K
+* [Grak and Crumbleberry] - 250K
+* [Deeproot Strongbranch] - 280K
+* [Griff Oberwald] - 280K
 * [Morg 'n' Thorg] - 380K
-* [Puggy Baconbreath] - 120K
-* [Rodney Roachbait] - 70K
-* [Rowana Forestfoot] - 160K
-* [Rumbelow Sheepskin] - 170K
-* [Swiftvine Glimmershard] - 110K
 
 ### Inducements
 

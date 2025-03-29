@@ -28,28 +28,28 @@ Choose either:
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
 * [Apothecary]  - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
 * [Akhorne The Squirrel] - 80K
-* [Bilerot Vomitflesh] - 180K
-* [Glart Smashrip] - 195K
-* [Grak and Crumbleberry] - 250K
-* [Grashnak Blackhoof] - 240K
-* [Guffle Pussmaw] - 180K
-* [H'thark the Unstoppable] - 300K
-* [Hakflem Skuttlespike] - 210K
-* [Helmut Wulf] - 140K
-* [Kreek 'the Verminator' Rustgouger] - 170K
-* [Lord Borak the Despoiler] - 260K
 * [Max Spleenripper] - 130K
-* [Morg 'n' Thorg] - 380K
-* [Scyla Anfingrimm] - 200K
-* [Skitter Stab-Stab] - 150K
-* [Withergrasp Doubledrool] - 170K
 * [Zzharg Madeye] - 130K
+* [Helmut Wulf] - 140K
+* [Skitter Stab-Stab] - 150K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Withergrasp Doubledrool] - 170K
+* [Bilerot Vomitflesh] - 180K
+* [Guffle Pussmaw] - 180K
+* [Glart Smashrip] - 195K
+* [Scyla Anfingrimm] - 200K
+* [Hakflem Skuttlespike] - 210K
+* [Grashnak Blackhoof] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Lord Borak the Despoiler] - 260K
+* [H'thark the Unstoppable] - 300K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 

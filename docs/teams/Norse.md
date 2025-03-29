@@ -24,39 +24,39 @@ Choose either:
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
+* [Cindy Piewhistle] - 50K
 * [Apothecary]  - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K
-* [Barik Farblast] - 80K
-* [Cindy Piewhistle] - 50K
-* [Deeproot Strongbranch] - 280K
-* [Frank 'n' Stein] - 250K
-* [Glart Smashrip] - 195K
-* [Grak and Crumbleberry] - 250K
-* [Grashnak Blackhoof] - 240K
-* [Griff Oberwald] - 280K
-* [Grim Ironjaw] - 200K
-* [Grombrindal] - 210K
-* [Hakflem Skuttlespike] - 210K
-* [Helmut Wulf] - 140K
-* [Ivar Eriksson] - 245K
-* [Karla Von Kill] - 210K
-* [Kreek 'the Verminator' Rustgouger] - 170K
-* [Lord Borak the Despoiler] - 260K
-* [Maple Highgrove] - 210K
-* [Max Spleenripper] - 130K
-* [Mighty Zug] - 220K
-* [Morg 'n' Thorg] - 380K
 * [Puggy Baconbreath] - 120K
-* [Rumbelow Sheepskin] - 170K
-* [Scyla Anfingrimm] - 200K
+* [Max Spleenripper] - 130K
+* [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
-* [Skrorg Snowpelt] - 250K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Rumbelow Sheepskin] - 170K
 * [Thorsson Stoutmead] - 170K
 * [Withergrasp Doubledrool] - 170K
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Glart Smashrip] - 195K
+* [Grim Ironjaw] - 200K
+* [Scyla Anfingrimm] - 200K
+* [Grombrindal] - 210K
+* [Hakflem Skuttlespike] - 210K
+* [Karla Von Kill] - 210K
+* [Maple Highgrove] - 210K
+* [Mighty Zug] - 220K
+* [Grashnak Blackhoof] - 240K
+* [Ivar Eriksson] - 245K
+* [Frank 'n' Stein] - 250K
+* [Grak and Crumbleberry] - 250K
+* [Skrorg Snowpelt] - 250K
+* [Lord Borak the Despoiler] - 260K
+* [Deeproot Strongbranch] - 280K
+* [Griff Oberwald] - 280K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 

@@ -18,24 +18,24 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
 * [Apothecary] - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
 * [Akhorne The Squirrel] - 80K
+* [Helmut Wulf] - 140K
 * [Anqi Panqi] - 190K
-* [Boa Kon'ssstriktr] - 200K
 * [Dribl and Drull] - 190K
 * [Estelle la Veneaux] - 190K
-* [Glotl Stop] - 270K
-* [Grak and Crumbleberry] - 250K
+* [Boa Kon'ssstriktr] - 200K
 * [Grombrindal] - 210K
-* [Helmut Wulf] - 140K
 * [Karla Von Kill] - 210K
 * [Mighty Zug] - 220K
-* [Morg 'n' Thorg] - 380K
 * [Zolcath the Zoat] - 230K
+* [Grak and Crumbleberry] - 250K
+* [Glotl Stop] - 270K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 

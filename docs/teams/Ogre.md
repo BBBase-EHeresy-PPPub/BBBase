@@ -19,40 +19,40 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 70K
 * [Apothecary]  - 50K
+* [Re-roll] - 70K
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K
-* [Barik Farblast] - 80K
 * [Bomber Dribblesnot] - 50K
 * [Cindy Piewhistle] - 50K
-* [Deeproot Strongbranch] - 280K
-* [Frank 'n' Stein] - 250K
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
 * [Fungus the Loon] - 80K
-* [Grak and Crumbleberry] - 250K
-* [Griff Oberwald] - 280K
-* [Grim Ironjaw] - 200K
-* [Grombrindal] - 210K
-* [H'thark the Unstoppable] - 300K
-* [Helmut Wulf] - 140K
-* [Ivar Eriksson] - 245K
-* [Karla Von Kill] - 210K
-* [Maple Highgrove] - 210K
-* [Mighty Zug] - 220K
-* [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
 * [Puggy Baconbreath] - 120K
 * [Rashnak Backstabber] - 130K
-* [Ripper Bolgrot] - 250K
-* [Rumbelow Sheepskin] - 170K
 * [Scrappa Sorehead] - 130K
-* [Skrorg Snowpelt] - 250K
-* [The Black Gobbo] - 225K
-* [Thorsson Stoutmead] - 170K
-* [Varag Ghoul-Chewer] - 280K
 * [Zzharg Madeye] - 130K
+* [Helmut Wulf] - 140K
+* [Rumbelow Sheepskin] - 170K
+* [Thorsson Stoutmead] - 170K
+* [Grim Ironjaw] - 200K
+* [Grombrindal] - 210K
+* [Karla Von Kill] - 210K
+* [Maple Highgrove] - 210K
+* [Mighty Zug] - 220K
+* [The Black Gobbo] - 225K
+* [Ivar Eriksson] - 245K
+* [Frank 'n' Stein] - 250K
+* [Grak and Crumbleberry] - 250K
+* [Ripper Bolgrot] - 250K
+* [Skrorg Snowpelt] - 250K
+* [Deeproot Strongbranch] - 280K
+* [Griff Oberwald] - 280K
+* [Varag Ghoul-Chewer] - 280K
+* [H'thark the Unstoppable] - 300K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 

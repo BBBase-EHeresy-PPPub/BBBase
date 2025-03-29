@@ -23,26 +23,26 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 60K
 * [Apothecary]  - 50K
+* [Re-roll] - 60K
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K
 * [Bomber Dribblesnot] - 50K
+* [Akhorne The Squirrel] - 80K
 * [Fungus the Loon] - 80K
-* [Glart Smashrip] - 195K
-* [Grak and Crumbleberry] - 250K
-* [Hakflem Skuttlespike] - 210K
-* [Helmut Wulf] - 140K
-* [Kreek 'the Verminator' Rustgouger] - 170K
-* [Morg 'n' Thorg] - 380K
 * [Nobbla Blackwart] - 120K
-* [Ripper Bolgrot] - 250K
 * [Scrappa Sorehead] - 130K
+* [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Glart Smashrip] - 195K
+* [Hakflem Skuttlespike] - 210K
 * [The Black Gobbo] - 225K
+* [Grak and Crumbleberry] - 250K
+* [Ripper Bolgrot] - 250K
 * [Varag Ghoul-Chewer] - 280K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 
