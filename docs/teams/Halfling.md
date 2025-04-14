@@ -57,11 +57,11 @@
 * [Bribe] - 100K
 * [Extra Team Training] - 100K
 * [Josef Bugman] - 100K
+* [Halfling Master Chef] - 100K
 * [Special Plays] - 100K
 * [Wandering Apothecary] - 100K
 * [Biased Referee] - 120K
 * [Hireling Sports-Wizard] (Wizard) - 150K
-* [Halfling Master Chef] - 300K
 
 ### New Inducements
 
