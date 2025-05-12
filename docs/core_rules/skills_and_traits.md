@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 The following pages feature the complete list of Skills and Traits available to players. Be they Skills a player starts with, or Skills gained during the course of a league, all players will have a degree of access to General, Agility, Strength and Passing skills, and many will have access to Mutations. Traits are more unique, the result of a player's nature rather than something they can learn.
 
 ### SKILL USE

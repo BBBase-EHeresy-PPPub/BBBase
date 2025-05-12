@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 Over the course of a league, Blood Bowl teams will grow and evolve with every game played; some rookie players will learn new skills and develop as players, others will suffer injuries that may threaten their career, and some will even die! Whilst fatalities are not unexpected in a violent bloodsport, they can be a trifle annoying for any coach, particularly if the deceased player was beginning to show promise or, even worse, if they were a valued and talented veteran of the gridiron. Fortunately, the sorrow of loss can be eased by counting the winnings, allowing new players to be recruited, providing fresh blood for an under strength team, and existing players can be trained and developed into the stars of the future!
 
 ## The Aftermath

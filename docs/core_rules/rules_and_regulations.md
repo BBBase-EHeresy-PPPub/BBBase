@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 Blood Bowl is a complex game of ancient traditions, governed by rules and regulations older than imagining. That's the official line. In truth, the game of Blood Bowl as it is known today was hurriedly translated from an ancient and illegible tome by an elderly, near-sighted Dwarf. After completing this first, rushed draft, the sacred commissioner Roze-El spent many years trying to translate the *Tome of Nuffle* properly. Where this proved impossible, he relied on that most time-honoured tradition amongst scribes and historians and simply filled in the details by making stuff up!
 
 Since the time of Roze-El, numerous others have had their say in the development of the rules. Consequently, the game as it is known today is unlikely to bear more than a passing resemblance to the original form of Nuffle's sacred game. Nuffle himself doesn't seem to be overly concerned by this, which is probably just as well!

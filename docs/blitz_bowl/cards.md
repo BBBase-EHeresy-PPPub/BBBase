@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Rookies to Watch
 
 ![](../media/blitz_bowl/rookies_to_watch.jpg)

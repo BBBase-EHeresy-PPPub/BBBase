@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 | D6 | D8 | Card                     | Deck                     |
 |----|----|----------------------------|--------------------------|
 | 1  | 1  | [BALL CLONE](#ball-clone)               | Random Events            |

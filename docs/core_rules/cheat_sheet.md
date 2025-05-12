@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 [[Download Cheat Sheet PDF]](../media/core_rules/blood_bowl_cheat_sheet.pdf)
 
 ## SEQUENCE OF PLAY

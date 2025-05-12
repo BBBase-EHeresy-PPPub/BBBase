@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 Traditionally, a game of Blood Bowl unfolds with one team kicking the ball to the other. The receiving team, the offence, will then attempt to move the ball the length of the pitch, through a series of dramatic passes and daring rushes, into the opposition's End Zone, thus scoring a touchdown. The team that kicked-off, the defence, will attempt to stop this and gain possession of the ball, so that they may instead score a touchdown.
 
 Once a touchdown has been scored, both of the teams line up once more and the scoring team kick off. And so the game progresses until the final whistle is blown, when the victors  celebrate, the losers commiserate and the stadium owners and sports promoters retire to count the money they made from ticket sales and concession stands!

@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 There are always plenty of hangers-on loitering around a Blood Bowl stadium. Be it legendary free agents willing to play for anyone if the price is right, or officials happy to take extra payment in return for being somewhat biased in their rulings, to unemployed coaching staff looking for a break and even a few apothecaries willing to roll up their sleeves. All these and more are willing to sign on with a team temporarily, for a price of course! often, the stadium owners or promoters will foot the bill, willing to help out a disadvantaged team rather than risk a team refusing to play!
 
 ## INDUCEMENTS
