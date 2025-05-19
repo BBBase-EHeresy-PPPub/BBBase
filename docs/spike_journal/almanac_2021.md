@@ -4,7 +4,7 @@
 
 **Star Players** are, perhaps, the most exciting thing about Blood Bowl. True legends and pioneers of the modern sport who have excelled in multiple aspects of Nuffle's sacred game. Whether it be as a game-winning scorer of many glorious touchdowns like Griff Oberwald or Hakflem Skuttlespike, a catastrophic casualty causer such as Varag Ghoul-Chewer or Morg 'n' Thorg, or a crowd-pleasing maniac like Helmut Wulf or Akhorne the Squirrel, Star Players come in all shapes and sizes.
 
-The aim of an All-Star Game is to allow players to field as many of their collection of Star Players as they want, creating a unique gaming experience that couldn't be achieved in a regular Blood Bowl game or league. Not only will this result in a truly spectacular match (these are the best players around after all!), but it will also mean that Star Players that could never normally be used in the same team can take to the gridiron alongside each other as a one-off – probably to try to prove which of them is really the better player (*Lord Borak, of course... – Ed*).
+The aim of an All-Star Game is to allow players to field as many of their collection of Star Players as they want, creating a unique gaming experience that couldn't be achieved in a regular Blood Bowl game or league. Not only will this result in a truly spectacular match (these are the best players around after all!), but it will also mean that Star Players that could never normally be used in the same team can take to the gridiron alongside each other as a one-off - probably to try to prove which of them is really the better player (*Lord Borak, of course... - Ed*).
 
 This is the perfect excuse for coaches to field their favourite Star Players all at the same time and see what wacky and unpredictable combinations they can come up with. It also allows seasoned coaches to try out a number of different Star Players they have been considering hiring for their own teams. That way, they can get a good feel for multiple Star Players in one go. You never know, you may find a new favourite Star Player to hire during your next league season!
 
@@ -20,9 +20,9 @@ An All-Star roster may only ever have a maximum of 16 players, though coaches ma
 
 **RANDOM METHOD**
 
-The Random Method works exactly how it sounds – completely randomly! Coaches should place the names of all the Star Players into a hat, helmet, or other suitable container, and then alternate drawing them one at a time to make up their rosters.
+The Random Method works exactly how it sounds - completely randomly! Coaches should place the names of all the Star Players into a hat, helmet, or other suitable container, and then alternate drawing them one at a time to make up their rosters.
 
-Star Players that come as a pair, such as the Swift Twins or Grak & Crumbleberry, should be part of the same draw – that way coaches draw both of them at the same time. If a coach draws Star Players that come as a pair, the next coach may make two draws (unless their first draw also picks a pair of Star Players) to even up the numbers.
+Star Players that come as a pair, such as the Swift Twins or Grak & Crumbleberry, should be part of the same draw - that way coaches draw both of them at the same time. If a coach draws Star Players that come as a pair, the next coach may make two draws (unless their first draw also picks a pair of Star Players) to even up the numbers.
 
 If a coach draws a pair of Star Players when they only have one space left on their roster, they can choose to either re-draw, or place one of their other picks back into the hat to take the pair of Star Players.
 
@@ -38,7 +38,7 @@ In the first draft round, the coach who has the first pick may choose any Star P
 
 ***For example:** In the first draft round Rob has the first pick, and he chooses Morg 'n' Thorg for his team. Jay then chooses Deeproot Strongbranch. In the second draft round it is Jay who has the first pick, and he selects Varag Ghoul-Chewer. Rob then chooses Mighty Zug for his team.*
 
-Star Players that come as a pair, such as the Swift Twins or Grak & Crumbleberry, must be selected together. Additionally, if a coach selects a pair of Star Players then they forego their next pick in the draft to ensure that the numbers remain evenly matched – unless the other coach also selects a pair of Star Players.
+Star Players that come as a pair, such as the Swift Twins or Grak & Crumbleberry, must be selected together. Additionally, if a coach selects a pair of Star Players then they forego their next pick in the draft to ensure that the numbers remain evenly matched - unless the other coach also selects a pair of Star Players.
 
 Coaches may not select a pair of Star Players if they only have one space remaining on their roster.
 
@@ -62,7 +62,7 @@ Here we are going to run through all of these rules changes for an All-Star game
 
 As you might expect, the pre-game sequence for an All-Star game is a bit different from a standard game; mainly as most of the steps are not required.
 
-When playing an All-Star game only step 2, the Weather, and step 6, Determine Kicking Team, are used. As there is no Fan Factor, no Journeymen, no Inducements, and no Prayers to Nuffle (these players think they are Nuffle's gift to the sport already!), these steps are not used – allowing coaches to get playing as quickly as possible.
+When playing an All-Star game only step 2, the Weather, and step 6, Determine Kicking Team, are used. As there is no Fan Factor, no Journeymen, no Inducements, and no Prayers to Nuffle (these players think they are Nuffle's gift to the sport already!), these steps are not used - allowing coaches to get playing as quickly as possible.
 
 **LONER**
 
@@ -78,7 +78,7 @@ Star Players themselves do not generate Star Player Points during a game; they a
 
 **INJURIES**
 
-With an All-Star game being an exhibition match, if a player is removed from the pitch as a Casualty there is no need to roll to see what happens to them – they simply miss the rest of the game. Though it can be fun to see what would've happened to the player if the casualty had happened during a regular game!
+With an All-Star game being an exhibition match, if a player is removed from the pitch as a Casualty there is no need to roll to see what happens to them - they simply miss the rest of the game. Though it can be fun to see what would've happened to the player if the casualty had happened during a regular game!
 
 **POST-GAME SEQUENCE**
 
@@ -92,11 +92,11 @@ As an All-Star game is simply an exhibition match, albeit a very important and l
 
 ### SIGNING ON
 
-**Contracts.** The huge scrolls of paper that detail a player's commitment to a team (and filled with microscopic small print, of course!) and outlines all the perks, benefits and added little extras they receive for performing well – and, on occasion, the measures taken should they underperform. Good performances on the pitch will often result in a much more lucrative deal being struck at the end of the season as the team strives to retain the services of their very best players. Though should the player fail to live up to expectations then they may soon find themselves cut from the team and looking for a new employer before the next season kicks off!
+**Contracts.** The huge scrolls of paper that detail a player's commitment to a team (and filled with microscopic small print, of course!) and outlines all the perks, benefits and added little extras they receive for performing well - and, on occasion, the measures taken should they underperform. Good performances on the pitch will often result in a much more lucrative deal being struck at the end of the season as the team strives to retain the services of their very best players. Though should the player fail to live up to expectations then they may soon find themselves cut from the team and looking for a new employer before the next season kicks off!
 
 Star Players are no exception to this; the only real differences being the amount of gold pieces they are paid, and often the length of the contract itself. Many Star Players prefer to simply sign with a team for a single game, either to give the team a helping hand, or to have another crack against a specific opponent. These one-game contracts allow Star Players to earn plenty of gold from multiple different teams in quick succession.
 
-However, it is not uncommon for Star Players to sign exclusively with a specific team for an entire season, receiving a contract that they simply cannot turn down – either through the amount of gold offered, or perhaps to ensure the team keeps a particular secret, well… secret. Sometimes the chance of glory, and another trophy or accolade to add to their storied careers, is worth more than the gold promised for their services – after all, most Star Players have plenty of gold as it is!
+However, it is not uncommon for Star Players to sign exclusively with a specific team for an entire season, receiving a contract that they simply cannot turn down - either through the amount of gold offered, or perhaps to ensure the team keeps a particular secret, well… secret. Sometimes the chance of glory, and another trophy or accolade to add to their storied careers, is worth more than the gold promised for their services - after all, most Star Players have plenty of gold as it is!
 
 This section of *Spike! Presents 2021 Almanac!* outlines an additional way coaches can use Star Players during the course of a league, one where Star Players will sign exclusively for a certain team for the entire duration of the league. Not only will this allow for coaches to get even more use out of their favourite Star Players, but it will also allow for new rivalries to be formed and add an extra dimension to the already exciting game that is Blood Bowl!
 
@@ -112,9 +112,9 @@ Once all coaches have written and submitted their team rosters, it is time to si
 
 At the start of the season, each team may sign a single Star Player to their roster. This does not cost any gold pieces; the cost is covered by the teams' owners and so the Star Player is essentially 'free.'
 
-However, as each Star Player is unique, once they have signed for a team they can only play for that team during the course of the season. As such, there needs to be a system for deciding which teams get the first chance to sign a Star Player – they can't sign for multiple teams, after all!
+However, as each Star Player is unique, once they have signed for a team they can only play for that team during the course of the season. As such, there needs to be a system for deciding which teams get the first chance to sign a Star Player - they can't sign for multiple teams, after all!
 
-After all coaches have submitted their rosters, the League Commissioner should put all the participating team names into a hat, helmet, or other suitable receptacle, and then draw them out one-by-one. Once a team has been drawn, that team's coach may choose any Star Player that is eligible to play for their team to add to their roster. Once a Star Player has been selected, they may not be chosen by another team – they have already committed themselves to a team for the entirety of the season.
+After all coaches have submitted their rosters, the League Commissioner should put all the participating team names into a hat, helmet, or other suitable receptacle, and then draw them out one-by-one. Once a team has been drawn, that team's coach may choose any Star Player that is eligible to play for their team to add to their roster. Once a Star Player has been selected, they may not be chosen by another team - they have already committed themselves to a team for the entirety of the season.
 
 Once a Star Player has been selected by a team, that team's coach adds the Star Player to their team roster. Star Players hired in this way may never be fired from a team; the financial ramifications for a team to break their contract are far too great for them to risk terminating the contract early!
 
@@ -140,7 +140,7 @@ Star Players are all pretty wealthy, having built up large sums of gold from the
 
 Should a Star Player suffer a Casualty at any point during the course of the season, they will treat any results of a Serious Injury, Lasting Injury or DEAD as Seriously Hurt instead. This means that Star Players cannot suffer Niggling Injuries, Characteristic Reductions, or be killed during the course of the season; probably due to the expert medical care or protective spells they purchase with the large amounts of gold they earn through their lucrative contracts.
 
-This means that Star Players will always be able to play at their best, and will not suddenly become significantly worse following a strong tackle – ensuring that coaches are always getting the most out of the Star Player they invested in at the start of the season. However, Star Players may still be forced to miss their team's next game if that tackle is particularly brutal!
+This means that Star Players will always be able to play at their best, and will not suddenly become significantly worse following a strong tackle - ensuring that coaches are always getting the most out of the Star Player they invested in at the start of the season. However, Star Players may still be forced to miss their team's next game if that tackle is particularly brutal!
 
 **STAR PLAYER POINTS**
 
@@ -154,7 +154,7 @@ The next stage is for teams to sign a Star Player for the new season. This works
 
 Firstly, any new teams joining the league get the first chance to sign an eligible Star Player for their team. The order that new coaches get to sign a Star Player is determined by a random draw in the same manner as explained earlier.
 
-***For example:** Nic, Sam and Luke all wish to join an ongoing league. After drafting their teams, they each need to sign a Star Player. The League Commissioner puts their name in a hat and draws them out one at a time. Sam comes out first and chooses Morg 'n' Thorg for his Halfling team. Nic's name comes out second, so he drafts Lord Borak for his Khorn team (a fine choice! – Ed). Finally, Luke chooses Roxanna Darknail for his Dark Elf team.*
+***For example:** Nic, Sam and Luke all wish to join an ongoing league. After drafting their teams, they each need to sign a Star Player. The League Commissioner puts their name in a hat and draws them out one at a time. Sam comes out first and chooses Morg 'n' Thorg for his Halfling team. Nic's name comes out second, so he drafts Lord Borak for his Khorn team (a fine choice! - Ed). Finally, Luke chooses Roxanna Darknail for his Dark Elf team.*
 
 After all new teams have signed a Star Player, the existing teams now get their opportunity to sign one of the remaining Star Players. However, the order in which existing teams select a Star Player is not done at random as was done for the first season. Instead, all existing teams should be ranked according to how well they did in the previous season as if they had all been part of the same division. The team that is ranked last will get the first pick of the remaining Star Players, followed by the team that was ranked second to last, and so on until the team that was ranked highest gets the final pick.
 
@@ -187,11 +187,11 @@ In subsequent seasons, if a team signs the same Star Player as it did in the pre
 
 ### MULTI-PLAYER MAYHEM
 
-**Dungeon Bowl** is, by its very nature, a chaotic experience at the best of times! Teams of hopeful varsity players scurrying around an underground dungeon, avoiding its various dangerous rooms and booby traps in search of the all-important game ball – and causing as much carnage along the way, of course! This unique variation on Nuffle's sacred game has long been used by the eight Colleges of Magic as a way of settling disagreements between the college Magisters, or simply as a way for colleges to earn a bit more gold by placing expensive wagers on the outcomes.
+**Dungeon Bowl** is, by its very nature, a chaotic experience at the best of times! Teams of hopeful varsity players scurrying around an underground dungeon, avoiding its various dangerous rooms and booby traps in search of the all-important game ball - and causing as much carnage along the way, of course! This unique variation on Nuffle's sacred game has long been used by the eight Colleges of Magic as a way of settling disagreements between the college Magisters, or simply as a way for colleges to earn a bit more gold by placing expensive wagers on the outcomes.
 
-Of course, games of Dungeon Bowl are usually played between two teams from different colleges – although the other college Wizards still take a keen interest in the results and place bets of course! However, there have been occasions where a particular argument, discussion, or simply a disagreement about which college is the best, grows to involve more than two colleges. Whilst this could be settled by an academic debate, or by simply having a civil and logical parlay with each other, the collegiate Wizards would rather settle things in the dungeon!
+Of course, games of Dungeon Bowl are usually played between two teams from different colleges - although the other college Wizards still take a keen interest in the results and place bets of course! However, there have been occasions where a particular argument, discussion, or simply a disagreement about which college is the best, grows to involve more than two colleges. Whilst this could be settled by an academic debate, or by simply having a civil and logical parlay with each other, the collegiate Wizards would rather settle things in the dungeon!
 
-The result of this is Multi-player Dungeon Bowl! All the chaos and excitement of a regular game of Dungeon Bowl (*if you can even refer to Dungeon Bowl as a 'regular' game! – Ed*) but with another two teams thrown into the mix, adding to the unpredictability of the game! Naturally, such spectacles are a hit with fans and are regularly snapped up for special Cabalvision shows where sportscasters can attempt to call all the action from every room for the entertainment of those watching at home!
+The result of this is Multi-player Dungeon Bowl! All the chaos and excitement of a regular game of Dungeon Bowl (*if you can even refer to Dungeon Bowl as a 'regular' game! - Ed*) but with another two teams thrown into the mix, adding to the unpredictability of the game! Naturally, such spectacles are a hit with fans and are regularly snapped up for special Cabalvision shows where sportscasters can attempt to call all the action from every room for the entertainment of those watching at home!
 
 This section allows coaches to combine multiple sets of Dungeon Bowl in order to create a larger dungeon for four teams to compete for victory in. If you are looking for a more unique Dungeon Bowl experience, or simply want to get as many coaches involved as possible, then setting up some Multi-player Dungeon Bowl is ideal. It can also play as an interesting twist for a league final with the top four teams competing for the ultimate prize.
 
@@ -207,7 +207,7 @@ Whilst players are free to make the dungeon look however they wish, and we encou
 
 Setting out the dungeon should follow all of the usual rules as laid out in the *Dungeon Bowl* rulebook, with a couple of exceptions:
 
-- When creating the dungeon, it should contain at least 6 corridor pieces, at least 6 small rooms, at least 2 large rooms and, of course, the 4 End Zones – although these are not placed until the very end of creating the dungeon.
+- When creating the dungeon, it should contain at least 6 corridor pieces, at least 6 small rooms, at least 2 large rooms and, of course, the 4 End Zones - although these are not placed until the very end of creating the dungeon.
 - When creating a dungeon for a game of Multi-player Dungeon Bowl, it is likely that players will be using tiles from multiple sets of Dungeon Bowl. This is, of course, fine. However, it should be noted that each type of room may only be used once in the dungeon. There can only be one Armoury, Sewer, or Dragon Youngling's Lair for example.
 
 **PLACING THE END ZONES**
@@ -252,11 +252,11 @@ After each coach has had one team turn, the game turn comes to an end and the ne
 
 ### OFFENSIVE AND DEFENSIVE ASSISTS
 
-Whilst all the players from all the opposition teams are considered opposition players, it is important to note that they are still not going to help each other out – after all, every team is the opposition to every other team!
+Whilst all the players from all the opposition teams are considered opposition players, it is important to note that they are still not going to help each other out - after all, every team is the opposition to every other team!
 
 As such there is an important clarification to make in regards to both offensive and defensive assists.
 
-Players can only provide an offensive assist to players from their own team. They cannot provide offensive assists if an opposition player from one team is performing a Block action or Foul action against an opposition player from another opposing team – no matter how much they may want to!
+Players can only provide an offensive assist to players from their own team. They cannot provide offensive assists if an opposition player from one team is performing a Block action or Foul action against an opposition player from another opposing team - no matter how much they may want to!
 
 ![](../media/spike_journal/almanac_assists_example_1.jpg)
 
@@ -292,7 +292,7 @@ When using these rules, coaches will need to choose which Referee they are going
 
 | **Characteristic** | **MA** | **ST** | **AG** | **PA** | **AV** |
 | ------------------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Referee                  | 5            | 2            | 3+           | –           | 8+           |
+| Referee                  | 5            | 2            | 3+           | -           | 8+           |
 
 Generic Referees have no additional Skills, Traits or special rules.
 
@@ -302,7 +302,7 @@ When setting up for a Drive, the Referee is always deployed after both teams hav
 
 **MOVING THE REF**
 
-The Referee will always move after both teams have taken a turn – for example, initially, the Referee would move after the receiving team and the kicking team have both had their turn 1, and then again after the receiving team and the kicking team have had their turn 2, and so on.
+The Referee will always move after both teams have taken a turn - for example, initially, the Referee would move after the receiving team and the kicking team have both had their turn 1, and then again after the receiving team and the kicking team have had their turn 2, and so on.
 
 When the Referee has their turn, they will try to move towards where the action is thickest. To move the Referee, place the Throw-in template over the Referee, pointing towards either Sideline or End Zone, in a direction towards the ball. Then, roll a D6 and move the Referee one square in that direction. Repeat this process a number of times equal to the Referee's MA. If the Referee would move into a square containing a player or the ball, then they do not move into that square and their turn will immediately end. The Referee will ignore all Tackle Zones when they move, and they do not have a Tackle Zone themselves.
 
@@ -322,7 +322,7 @@ Whenever a player makes a Foul action, they will not be Sent-off if they roll a 
 | 6‑7                             | 5+                             |
 | 8‑9                             | 6+                             |
 
-If the Foul action was committed 10 or more squares away from the Referee, then the player will not be Sent-off at all – the Referee is clearly too preoccupied with what is going on around them!
+If the Foul action was committed 10 or more squares away from the Referee, then the player will not be Sent-off at all - the Referee is clearly too preoccupied with what is going on around them!
 
 Players that are Sent-off in this manner may still Argue the Call as normal.
 
@@ -330,11 +330,11 @@ Players that are Sent-off in this manner may still Argue the Call as normal.
 
 Naturally, some players don't take too kindly to the Referee 'interfering' with the more violent aspects of the game. In fact, they take issue with some rulekeeper telling them who they can and can't punch, and that it's not fair to step on a downed opponent. It's not uncommon for such players to 'mistime' a tackle and instead take down the Ref, which itself often leads to an all-out brawl when the rest of the players realise there is no longer a killjoy Referee to get in the way of some proper, bone-crunching plays!
 
-Players from either team may declare a Block action on the Referee in the same manner as they would against an opposition player, which may result in the Referee being Stunned, KO'd or even killed! Openly blocking a Referee isn't without risk, however; a player that does so may find that the Referee hits back. Regardless, brazenly breaking the rules and putting the boot in on the Referee will undoubtedly result in a red card – if the Referee is still standing to show one, of course!
+Players from either team may declare a Block action on the Referee in the same manner as they would against an opposition player, which may result in the Referee being Stunned, KO'd or even killed! Openly blocking a Referee isn't without risk, however; a player that does so may find that the Referee hits back. Regardless, brazenly breaking the rules and putting the boot in on the Referee will undoubtedly result in a red card - if the Referee is still standing to show one, of course!
 
 Any player that makes a Block action, Foul action, Stab Special action or Chainsaw Attack Special action against a Referee will automatically be Sent-off if the action does not result in a Stunned, KO'd or Casualty result on the Referee. Players Sent-off in this way may never Argue the Call.
 
-If a Referee is pushed into the crowd, then they do not risk Injury by the Crowd like a normal player – though you should still make an Armour roll to see if the Referee is affected by the initial Block action, if required. Instead, if the Referee has not been Stunned, KO'd or removed as a Casualty, then they will re-enter the pitch from a Sideline as close to the Line of Scrimmage as possible, in a place chosen by the coach whose team did not push the Referee off the pitch. If the Referee's armour was not broken when they were pushed off the pitch, then the player that pushed them off will be Sent-off as normal. This does not apply if the Referee was pushed off the pitch as the result of a Chain Push.
+If a Referee is pushed into the crowd, then they do not risk Injury by the Crowd like a normal player - though you should still make an Armour roll to see if the Referee is affected by the initial Block action, if required. Instead, if the Referee has not been Stunned, KO'd or removed as a Casualty, then they will re-enter the pitch from a Sideline as close to the Line of Scrimmage as possible, in a place chosen by the coach whose team did not push the Referee off the pitch. If the Referee's armour was not broken when they were pushed off the pitch, then the player that pushed them off will be Sent-off as normal. This does not apply if the Referee was pushed off the pitch as the result of a Chain Push.
 
 Whilst a Referee is off the pitch, Stunned, KO'd or removed as a Casualty, players cannot be Sent-off for any reason until the Referee is back on the pitch. This may even mean that players with the Secret Weapon trait are not Sent-off at the end of a drive!
 
@@ -352,11 +352,11 @@ Here we present the rules for two unique Referees (one Elf and one Dwarf) you ca
 
 | MA | ST | AG | PA | AV |
 | -- | -- | -- | -- | -- |
-| 6  | 2  | 3+ | – | 7+ |
+| 6  | 2  | 3+ | - | 7+ |
 
 **Skills & Traits:** [Dodge]
 
-**Special Rules:** **"Err, I think you'll find..."** – Players that are Sent-off by Elnos Lawkeeper cannot Argue the Call under any circumstances.
+**Special Rules:** **"Err, I think you'll find..."** - Players that are Sent-off by Elnos Lawkeeper cannot Argue the Call under any circumstances.
 
 ---
 
@@ -366,11 +366,11 @@ Here we present the rules for two unique Referees (one Elf and one Dwarf) you ca
 
 | MA | ST | AG | PA | AV |
 | -- | -- | -- | -- | -- |
-| 4  | 3  | 3+ | – | 8+ |
+| 4  | 3  | 3+ | - | 8+ |
 
 **Skills & Traits:** [Block]
 
-**Special Rules:** **"By the Book"** – Players that commit a Foul action suffer a -1 penalty to the D6 when rolling to see if they are Sent-off for being near Redkur Forgebeard.
+**Special Rules:** **"By the Book"** - Players that commit a Foul action suffer a -1 penalty to the D6 when rolling to see if they are Sent-off for being near Redkur Forgebeard.
 
 ---
 

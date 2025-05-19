@@ -1,10 +1,10 @@
 ## Amazonian Temple Leagues 'By the Goddesses!'
 
-The Amazonian Temple Leagues allow the various temple-cities from across Lustria to pit their strength and skill against one another. In ages past, Amazonian warriors would test their might and valour in ritual combat or open battle. Nowadays, things are far more civilised (well, kind of… – Ed) as these heroic contests now take place on the Blood Bowl pitch. The dedication and devotion that the Amazons put into their training moulds them into some of the most well-practiced players to grace Nuffle's sacred game, turning their matches into thrilling spectacles for all fans of the sport.
+The Amazonian Temple Leagues allow the various temple-cities from across Lustria to pit their strength and skill against one another. In ages past, Amazonian warriors would test their might and valour in ritual combat or open battle. Nowadays, things are far more civilised (well, kind of… - Ed) as these heroic contests now take place on the Blood Bowl pitch. The dedication and devotion that the Amazons put into their training moulds them into some of the most well-practiced players to grace Nuffle's sacred game, turning their matches into thrilling spectacles for all fans of the sport.
 
 ### The Jungle Bowl
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised – number of teams, how many divisions there are, how many rounds are played, and so forth – should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Jungle Bowl differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played, and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Jungle Bowl differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -12,13 +12,13 @@ The Jungle Bowl is open to all comers. Coaches participating may use any team th
 
 **The Lustrian Locals**
 
-Games of Blood Bowl hosted in the lush jungles of Lustria often attract plenty of attention from the local wildlife. The cacophony of strange noises created by the fans combined with the smell of freshly cooked food, and even fresher blood, is guaranteed to attract any nearby wildlife – especially the predatory kind!
+Games of Blood Bowl hosted in the lush jungles of Lustria often attract plenty of attention from the local wildlife. The cacophony of strange noises created by the fans combined with the smell of freshly cooked food, and even fresher blood, is guaranteed to attract any nearby wildlife - especially the predatory kind!
 
 The following table is used to represent the unique impact that the local inhabitants can have on Blood Bowl games in the Jungle Bowl. For the duration of the Jungle Bowl, roll a D6 at the beginning of each game and consult the table below.
 
 | D6 | Result                                                                                                                         |
 |----|-------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **All is quiet... for now:** There is nothing quite as ominous as a quiet jungle, but all seems to be well – for the moment. There are no additional effects this game; it appears that the local wildlife is keeping its distance. |
+| 1  | **All is quiet... for now:** There is nothing quite as ominous as a quiet jungle, but all seems to be well - for the moment. There are no additional effects this game; it appears that the local wildlife is keeping its distance. |
 | 2  | **Scorching Salamanders:** A family of Salamanders have scorched the field, turning the once lush turf into a maze of smouldering grassland! Until the end of the game, whenever a player attempts to Dodge, apply a -1 modifier to the roll as the player tries to desperately avoid tackles and open flames! |
 | 3  | **Razordon Volley:** The pitch is covered in knife-like Razordon spines and it doesn't take a genius to put them to good use! Each coach may select one player on their team; the selected player gains the Stab trait for the duration of the game. |
 | 4  | **Bastiladon Buffer:** Both teams have made some super lightweight, hyper durable armour from Bastiladon scales. Each coach may select one player on their team; the selected player improves their Armour Value by 1 (to a maximum of 11+) for the duration of the game. |
@@ -37,7 +37,7 @@ All Inducements should be allowed in the Jungle Bowl. Additionally, if the leagu
 |----|-------------------------------------------------------------------------------------------------------------------------------|
 | 1  | The item carries a curse or similarly foul incantation. Randomly select a player on your team from among those on the pitch. The selected player is immediately placed in the Knocked-out box of their team's dugout; this will not cause a turnover, even if that player has the ball. |
 | 2‑5| This item is little more than a trinket, but a seemingly lucky one at that! The team immediately gains a team re-roll until the end of the current half. |
-| 6  | This artefact clearly possesses a powerful healing aura. Choose one player in either your Knocked-out box or Casualty box (with the exception of a player that is Dead or Sent-off). The chosen player immediately wakes up and is placed in the Reserves box. If there are no players in either your Knocked-out box or Casualty box, treat the roll as a 2‑5 instead. (*You'd think a near-death experience would earn anyone a nice panini in the end, but Blood Bowl stars are rarely the brightest sparks! – Ed*) |
+| 6  | This artefact clearly possesses a powerful healing aura. Choose one player in either your Knocked-out box or Casualty box (with the exception of a player that is Dead or Sent-off). The chosen player immediately wakes up and is placed in the Reserves box. If there are no players in either your Knocked-out box or Casualty box, treat the roll as a 2‑5 instead. (*You'd think a near-death experience would earn anyone a nice panini in the end, but Blood Bowl stars are rarely the brightest sparks! - Ed*) |
 
 ### Many Glorious Prizes!
 
@@ -53,7 +53,7 @@ At the start of each game, randomly select a player on your team that is eligibl
 
 | 2D6 | Result                                                                                                                                       |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Tropical Storm:** A typhoon has made its way into the area, bending trees and disrupting the match with a powerful gale. While this weather condition is in effect, ignore Step 2 of the Start of Drive sequence – it is not possible for a kick-off to be resolved and a touchback is automatically caused instead. Additionally, while this weather condition is in effect, no Pass actions or Throw Team-mate actions can be performed. |
+| 2   | **Tropical Storm:** A typhoon has made its way into the area, bending trees and disrupting the match with a powerful gale. While this weather condition is in effect, ignore Step 2 of the Start of Drive sequence - it is not possible for a kick-off to be resolved and a touchback is automatically caused instead. Additionally, while this weather condition is in effect, no Pass actions or Throw Team-mate actions can be performed. |
 | 3   | **Sudden Downpour:** The heavens have opened! The players are soaked to the bone and the ball is very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass. Additionally, the poor visibility means that only Quick and Short passes can be attempted. |
 | 4‑10| **Cool Breeze:** A gentle wind has stifled the humidity for the time being; it's perfect weather for Blood Bowl!                                                                    |
 | 11  | **Sunny Spell:** The sun is shining and it's playing havoc on the passing game! Apply a -1 modifier every time a player tests against their Passing Ability.                         |
@@ -73,7 +73,7 @@ At the start of each game, randomly select a player on your team that is eligibl
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                        |
 | 10  | **Scattered Debris:** The broken, uneven ground makes it particularly punishing for any players thrown to the ground! Until the end of the drive, whenever a player is Knocked Down, apply a +1 modifier to the Armour roll. |
 | 11  | **Rapid Growth:** Vines swiftly sprout across the field with unnatural speed and purpose, tangling up the players! All players have their MA reduced by 1 for the duration of the drive. |
-| 12  | **Divine Intervention:** The combination of a temple-side pitch and a cracking game has clearly attracted the attention of a deity – maybe the goddess Rigg, or perhaps even the mighty Nuffle! Each coach may roll twice on the Prayers to Nuffle table, applying all of the results as described on page 38 of the **Blood Bowl rulebook**. |
+| 12  | **Divine Intervention:** The combination of a temple-side pitch and a cracking game has clearly attracted the attention of a deity - maybe the goddess Rigg, or perhaps even the mighty Nuffle! Each coach may roll twice on the Prayers to Nuffle table, applying all of the results as described on page 38 of the **Blood Bowl rulebook**. |
 
 ---
 

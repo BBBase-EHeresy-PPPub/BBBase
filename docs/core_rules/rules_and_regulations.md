@@ -242,7 +242,7 @@ Players are often 'Knocked Down' as the result of a vicious Block action from an
 
 ### PLAYER PROFILE AND CHARACTERISTICS TESTS
 
-Blood Bowl players are a hardy breed. Powerfully built, athletic and agile individuals of all known races, they take to the pitch seeking glory, wealth and lasting fame for themselves and their team. They play on in spite of all but the most serious of injury – indeed, it must be noted that often even death isn't a career ending event, more an… inconvenience!
+Blood Bowl players are a hardy breed. Powerfully built, athletic and agile individuals of all known races, they take to the pitch seeking glory, wealth and lasting fame for themselves and their team. They play on in spite of all but the most serious of injury - indeed, it must be noted that often even death isn't a career ending event, more an… inconvenience!
 
 ### PLAYER PROFILE
 

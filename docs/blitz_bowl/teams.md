@@ -299,7 +299,7 @@ EMERGENCY RESERVES: 5
 
 **Ethereal:** When this Player makes a Run Action, they can move adjacent to or through Opposition Players and through obstructions and Team-mates, but they must end the Action Open and not on a Player or obstruction.
 
-**Violent:** When this Player makes a Block Action or Foul Action, roll a D6 along with the Block Dice. If the result is a 6, the target is automatically Injured – do not resolve the Block Dice.
+**Violent:** When this Player makes a Block Action or Foul Action, roll a D6 along with the Block Dice. If the result is a 6, the target is automatically Injured - do not resolve the Block Dice.
 
 **Stand Firm:** When this Player is the target of a Block Action, treat results of 'Shove' as 'Miss'.
 

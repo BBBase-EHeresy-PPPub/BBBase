@@ -1,6 +1,6 @@
 ## VAMPIRE NOBLE LEAGUES 'RAISING THE STAKES!'
 
-Spending their nights indulging in the honourable sport of Blood Bowl has become a common pastime for many of the aristocratic Vampire families across Sylvania. Rather than engaging in high society cloak and dagger gossip, a large number of the nocturnal nobles now resolve their petty (*and some more serious – Ed*) grievances on the gridiron instead; either stepping onto the field themselves alongside a team they own or manage, or inviting teams to play on their behalf.
+Spending their nights indulging in the honourable sport of Blood Bowl has become a common pastime for many of the aristocratic Vampire families across Sylvania. Rather than engaging in high society cloak and dagger gossip, a large number of the nocturnal nobles now resolve their petty (*and some more serious - Ed*) grievances on the gridiron instead; either stepping onto the field themselves alongside a team they own or manage, or inviting teams to play on their behalf.
 
 
 ### The Crimson Chalice Challenge
@@ -62,7 +62,7 @@ Teams that manage to secure victory in the Crimson Chalice Challenge receive han
 
 | 2D6 | Result                                                                                                                                      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Voracious Fans!:** I pity anyone who ends up in the crowd tonight – those fans are looking more than a little peckish! Whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
+| 2   | **Voracious Fans!:** I pity anyone who ends up in the crowd tonight - those fans are looking more than a little peckish! Whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
 | 3   | **Blood-slicked Floor:** Well, it looks as if one of the servants has spilled a tray of drinks onto the field. I hope they get a wet floor sign out before anyone slips! Players attempting to Rush suffer a -1 penalty to the roll. |
 | 4‑10| **A Perfect Host:** The game's benevolent benefactor has made sure that both fans and players have everything they need for the game ahead, making for perfect conditions for Blood Bowl! |
 | 11  | **Howling Gale:** A powerful gust of wind has blown open the windows and exterior doors, making passing near-impossible until they can be closed again. Until the end of the current drive, only Quick passes and Short passes may be attempted. Additionally, at the beginning of the next drive, before Step 2 of the Start of Drive Sequence, roll again on the Creepy Castle Weather table as the windows and doors have been secured against the wind… for now. |
@@ -92,7 +92,7 @@ The castle ballrooms and grand halls used as Blood Bowl pitches by the Vampire d
 
 **Using the Vampire Castle Pitch in Your Blood Bowl Games**
 
-The Vampire Castle Pitch has two sides – one depicting a lavish ballroom with a large, extravagant carpet running down the centre. The other side shows the same room after some disturbance has caused a large chandelier to fall from the ceiling and ignite the finely-woven carpet! If both coaches agree, the following rules can be used to represent the unusual conditions:
+The Vampire Castle Pitch has two sides - one depicting a lavish ballroom with a large, extravagant carpet running down the centre. The other side shows the same room after some disturbance has caused a large chandelier to fall from the ceiling and ignite the finely-woven carpet! If both coaches agree, the following rules can be used to represent the unusual conditions:
 
 **A Soft Landing:** At the start of the game, the hard stone floor of the castle has a large, soft carpet running down the centre of the room. Unsurprisingly, landing on a plush carpet is far nicer than being smashed, face-first, into the cold stone! Running down the middle of the field between the two End Zones there is a 5 square wide, 18 square long carpet; any square in this area is considered a carpeted square. Whenever a player is Knocked Down in a carpeted square, apply a -1 modifier to the Armour roll. Whenever a player is Knocked Down in any other square, apply a +1 modifier to the Armour roll.
 
@@ -110,4 +110,4 @@ At the end of each team turn, if the ball is on the ground it will bounce as the
 
 **Restrained Vargling Ball**
 
-Whenever a player in possession of a Restrained Vargling Ball is activated, roll a D6. On a roll of 1, the player immediately drops the ball as the Vargling bites their hand – bounce the ball from the player's square. This does not cause a Turnover and the player may still continue their activation as normal.
+Whenever a player in possession of a Restrained Vargling Ball is activated, roll a D6. On a roll of 1, the player immediately drops the ball as the Vargling bites their hand - bounce the ball from the player's square. This does not cause a Turnover and the player may still continue their activation as normal.

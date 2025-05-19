@@ -8,17 +8,17 @@
 
 ### Chaos Temple Blood Bowl Pitch
 
-Chaos teams of all stripes – from the mighty Chosen, outcast Renegades, Daemons and others – often establish their home ground in one of the many abandoned Chaos temples found deep in the wildernesses of the Old World. When such teams take to the pitch, dark powers gather, the action and bloodshed that takes place within attracting the attention of the Dark Gods themselves.
+Chaos teams of all stripes - from the mighty Chosen, outcast Renegades, Daemons and others - often establish their home ground in one of the many abandoned Chaos temples found deep in the wildernesses of the Old World. When such teams take to the pitch, dark powers gather, the action and bloodshed that takes place within attracting the attention of the Dark Gods themselves.
 
 **Using the Chaos Temple Pitch in Your Blood Bowl Games**
 
 If both players agree, the following rules can be used to represent the Chaos Blood Bowl pitch:
 
-The dark side of the pitch is used during the first half of the game. If, during the first half, a player on either team is removed as a Casualty for any reason, molten lava begins to bubble up around the fell icons and dark sigils. Should this happen, at half-time turn the pitch over so that the brightly lit side is showing. For the duration of the second half, the weather conditions in effect will be 2 – Sweltering Heat, as the temperature rises and the conditions become more hellish.
+The dark side of the pitch is used during the first half of the game. If, during the first half, a player on either team is removed as a Casualty for any reason, molten lava begins to bubble up around the fell icons and dark sigils. Should this happen, at half-time turn the pitch over so that the brightly lit side is showing. For the duration of the second half, the weather conditions in effect will be 2 - Sweltering Heat, as the temperature rises and the conditions become more hellish.
 
 Additionally, if the brightly lit side of the pitch is in use in the second half, the footing becomes more treacherous as daemonic entities grasp at the players' feet. In order to successfully Rush, a player must roll 3+ rather than 2+.
 
-When the brightly lit side of the pitch is in use, there is no need to roll for weather. These effects replace normal weather conditions for the duration of the second half, and if a 8 – Changing Weather result is rolled on the Kick-off Events table at any time during the second half, the ball will simply scatter one extra square in a random direction before landing and bouncing with no further changes or effects.
+When the brightly lit side of the pitch is in use, there is no need to roll for weather. These effects replace normal weather conditions for the duration of the second half, and if a 8 - Changing Weather result is rolled on the Kick-off Events table at any time during the second half, the ball will simply scatter one extra square in a random direction before landing and bouncing with no further changes or effects.
 
 If, however, no blood has been spilled on the pitch at all during the first half in the form of Casualties being caused for any reason, the Chaos gods are displeased! A strange hush falls across the arena as the fans become oddly quiet. Both teams reduce their Fan Factor by 1 for the remainder of the game.
 
@@ -38,7 +38,7 @@ Dark Elves are notorious pirates and corsairs, their vessels prowling the high s
 
 **Using the Dark Elf Corsair Pitch in Your Blood Bowl Games**
 
-The Dark Elf Corsair pitch has two sides – one representing the pitch aboard a Corsair vessel in calm, quiet seas, the other depicting it being attacked by a mighty creature of the deep and dragged beneath the waves! If both players agree, the following rules can be used to represent the unusual conditions:
+The Dark Elf Corsair pitch has two sides - one representing the pitch aboard a Corsair vessel in calm, quiet seas, the other depicting it being attacked by a mighty creature of the deep and dragged beneath the waves! If both players agree, the following rules can be used to represent the unusual conditions:
 
 The calm side of the pitch is used during the first half of the game. If during the first half either team scores one or more touchdowns, the roars of the crew and crowd attract the curious attentions of a mighty sea monster that will drag the vessel below the waves. The players, however, will play on; abandoning a game of Blood Bowl once it is underway is unheard of! For the duration of the second half, the following effects will apply.
 
@@ -70,7 +70,7 @@ If both players agree, they can use this table in place of the Weather table in 
 
 These rules represent a pitch located in a region where the Winds of Magic blow so strongly, they affect the weather itself! As the arcane powers shift, the weather turns from pleasantly warm to freezing cold in the blink of an eye, the pitch crusting over with a thick layer of glistening ice within seconds. If both players agree, they can use the following rules in place of the Weather table that can be found in the Blood Bowl rulebook for the duration of the match.
 
-The Elven Union pitch has two sides – one frozen over with magically summoned ice, the other enjoying perfect Blood Bowl weather. At the start of the match, randomise which side of the pitch is used with a flip of the Blood Bowl coin.
+The Elven Union pitch has two sides - one frozen over with magically summoned ice, the other enjoying perfect Blood Bowl weather. At the start of the match, randomise which side of the pitch is used with a flip of the Blood Bowl coin.
 
 Whenever the rules call for a roll on the Weather table (for example, at the start of the game, each time a Changing Weather Kick-off result is rolled or any other effect, such as a Special Play card), instead of doing so roll a D6 at the end of each drive. On a result of 4, 5 or 6, flip the board to its other side before setting up for the next drive.
 
@@ -92,7 +92,7 @@ When the Frozen side is in play, the following rules are used: if a player moves
 
 These rules represent a pitch with a bit of a drainage problem! If both players agree, they can use the following rules in place of the Weather table in the Blood Bowl rulebook for the duration of the match.
 
-The Goblin pitch has two sides – one flooded, the other relatively dry. At the start of the match, the dry(ish) side of the board is used; there are no additional rules. Whenever the rules call for a roll on the Weather table (at the start of the game, and each time a Changing Weather Kick-off Event table result is rolled), roll on the table below instead.
+The Goblin pitch has two sides - one flooded, the other relatively dry. At the start of the match, the dry(ish) side of the board is used; there are no additional rules. Whenever the rules call for a roll on the Weather table (at the start of the game, and each time a Changing Weather Kick-off Event table result is rolled), roll on the table below instead.
 
 | 2D6 | Result                                                                                                            |
 |------|-------------------------------------------------------------------------------------------------------------------|
@@ -111,11 +111,11 @@ If the board is flipped to its Flooded side, the following rules are in play for
 
 ### Halfling Rural Idyll Pitch
 
-Many Halfling tournaments are held in temporary stadia – although the name 'stadium' is rather grand for a makeshift pitch marked out with whitewash in a farmer's field only recently vacated of sheep and surrounded by rickety bleachers. But to the Halflings of the Moot, these temporary temples to Nuffle rise from the countryside like towering monuments to their beloved sport. For the duration of these glorious tournaments, the picturesque villages and hamlets become bustling metropolises; numerous eateries and bars springing up in marquees, tented towns covering the rolling vales and fairground attractions dotting the countryside.
+Many Halfling tournaments are held in temporary stadia - although the name 'stadium' is rather grand for a makeshift pitch marked out with whitewash in a farmer's field only recently vacated of sheep and surrounded by rickety bleachers. But to the Halflings of the Moot, these temporary temples to Nuffle rise from the countryside like towering monuments to their beloved sport. For the duration of these glorious tournaments, the picturesque villages and hamlets become bustling metropolises; numerous eateries and bars springing up in marquees, tented towns covering the rolling vales and fairground attractions dotting the countryside.
 
 **Using the Rural Idyll Pitch in Your Blood Bowl Games**
 
-The Halfling Rural Idyll pitch has two sides – one representing the picturesque pitch at the start of the game, the other depicting it after much half-time banqueting and celebration! If both players agree, the following rules can be used to represent the unusual conditions.
+The Halfling Rural Idyll pitch has two sides - one representing the picturesque pitch at the start of the game, the other depicting it after much half-time banqueting and celebration! If both players agree, the following rules can be used to represent the unusual conditions.
 
 The green and daisy-speckled side of the pitch is used during the first half of the game. This pitch is little more than a rectangle of grass with bunting roughly dividing it into two halves, and the End Zones marked out by picnic blankets and discarded sweaters. When the kicking team sets up for a drive, they may choose to treat their Line of Scrimmage as being the normal Line of Scrimmage, or one row of squares further back into their own half, or one row of squares into the other team's half. This creates a temporary half-way line for this kick-off which the receiving team must adhere to when setting up their players, and which is used for the purposes of awarding a touchback.
 
@@ -137,13 +137,13 @@ Many Blood Bowl Lizardmen stadia are established within temples to the Old Ones,
 
 **Using the Lustrian Temple Pitch in Your Blood Bowl Games**
 
-The Lustrian Temple pitch has two sides – one representing a pitch built within a long-derelict and forgotten temple, the other depicting that same temple as it comes alive with the power of the Old Ones, as bubbling lava flows from the world's core along mystical channels, illuminating ancient glyphs and pictograms of unknowable significance! If both players agree, the following rules can be used to represent these unusual conditions:
+The Lustrian Temple pitch has two sides - one representing a pitch built within a long-derelict and forgotten temple, the other depicting that same temple as it comes alive with the power of the Old Ones, as bubbling lava flows from the world's core along mystical channels, illuminating ancient glyphs and pictograms of unknowable significance! If both players agree, the following rules can be used to represent these unusual conditions:
 
 The Lustrian Temple Blood Bowl pitch is ancient, built from astrogranite rather than soft turf. Such unforgiving material is rarely used in the Old World due to the injuries it causes but, in Lustria, a bit of bloodshed is considered pleasing to Nuffle! For the duration of the game, whenever a player Falls Over or is Knocked Down apply a +1 modifier to the Armour roll.
 
 Additionally, the dormant side of the pitch is used during the first half of the game. If during the first half either team scores one or more touchdowns, the roar of the crowd causes the ancient power of the temple to awaken. At half-time turn the pitch over. For the duration of the second half, the following effects will apply:
 
-As the stadium gradually fills with lava, the already tropical heat increases to unbearable levels. At the start of the second half, do not roll on the Kick-off Event table. Instead, treat the result as having been 8 – Changing Weather, and, rather than making a new roll on the Weather table, apply the effects of 2 – Sweltering Heat for the remainder of the match.
+As the stadium gradually fills with lava, the already tropical heat increases to unbearable levels. At the start of the second half, do not roll on the Kick-off Event table. Instead, treat the result as having been 8 - Changing Weather, and, rather than making a new roll on the Weather table, apply the effects of 2 - Sweltering Heat for the remainder of the match.
 
 ---
 
@@ -185,7 +185,7 @@ The lands of the Ogres lie far to the east, in a region of desolate desert and m
 
 **Using the Ogre Mega-Maul Pitch in Your Blood Bowl Games**
 
-The Ogre Mega-Maul pitch has two sides – one depicting the pitch in fair weather, as cold winds blow from the mountains, chilling the high altitude deserts and rocky foothills. The other side depicts the pitch in the grip of a sudden, freezing blizzard! If both players agree, the following rules can be used to represent the unusual conditions:
+The Ogre Mega-Maul pitch has two sides - one depicting the pitch in fair weather, as cold winds blow from the mountains, chilling the high altitude deserts and rocky foothills. The other side depicts the pitch in the grip of a sudden, freezing blizzard! If both players agree, the following rules can be used to represent the unusual conditions:
 
 The desert side of the pitch is used during the first half of the game, subjecting the players to the blinding light of the sun and the savage bite of chill winds laden with desert sands. Do not roll on the Weather table at the start of the game. Instead, the following weather conditions will be in effect for the duration of the first drive:
 
@@ -207,7 +207,7 @@ Many Shambling Undead teams set up home in graveyards the length and breadth of 
 
 **Using the Shambling Undead Pitch in Your Blood Bowl Games**
 
-The Shambling Undead graveyard pitch has two sides – one representing the pitch at dusk, the other depicting it once the sun has fully set. As dark magics grow more powerful and softly illuminate the night, the spirits of the home fans begin to manifest! If both players agree, the following rules can be used to represent the unusual conditions.
+The Shambling Undead graveyard pitch has two sides - one representing the pitch at dusk, the other depicting it once the sun has fully set. As dark magics grow more powerful and softly illuminate the night, the spirits of the home fans begin to manifest! If both players agree, the following rules can be used to represent the unusual conditions.
 
 The dusk side of the pitch is used during the first half of the game. At half-time, once the dark of night has set in, the pitch is flipped over. The night-time side exudes an unearthly glow of powerful magic and reveals the ghostly presence of the fans and reserve players. For the duration of the second half, the following effects will apply:
 
@@ -231,7 +231,7 @@ The pitches that Snotling teams use as their home grounds resemble more of a bog
 
 **Using the Snotling Pitch in Your Blood Bowl Games**
 
-The Snotling pitch has two sides – one depicting it in fair weather; though it is fair to say it is more of a bog than a pitch! The other side depicts it when the fungi that litter the ground unleash spores into the air. If both players agree, the following can be used to represent the unusual conditions:
+The Snotling pitch has two sides - one depicting it in fair weather; though it is fair to say it is more of a bog than a pitch! The other side depicts it when the fungi that litter the ground unleash spores into the air. If both players agree, the following can be used to represent the unusual conditions:
 
 **Fungal Bloom:** Do not roll on the Weather table at the start of the game; instead the game starts with Perfect Conditions. Whenever the rules call for a roll on the Weather table (for example, at the start of the game, each time a Changing Weather Kick-off result is rolled or any other effect, such as a Special Play card), do not roll on the Weather table. Instead, flip the pitch over to the Choking Spores side.
 
@@ -242,7 +242,7 @@ Should another Changing Weather result be rolled, roll as normal on the Weather 
 
 Additionally, to represent the boggy state of the pitch and the fact that players' footing will be tested, the following rule is in play during games played on the Snotling pitch:
 
-**Snotling Bog:** Whenever a player suffers the Push Back result from a Block action or Blitz action, roll a D6. On a 1, the player loses their footing and falls – treat the result as POW! instead.
+**Snotling Bog:** Whenever a player suffers the Push Back result from a Block action or Blitz action, roll a D6. On a 1, the player loses their footing and falls - treat the result as POW! instead.
 
 ---
 
@@ -260,7 +260,7 @@ A Wood Elf stadium is a carefully maintained sanctuary, a picturesque reserve fo
 
 **Using the Arboreal Sanctuary Pitch in Your Blood Bowl Games**
 
-The Arboreal Sanctuary pitch has two sides – one representing the bold energy of summer, the other depicting the calm of autumn as woodland spirits emerge from their homes singing soothing melodies. If both players agree then the following rules can be used to represent these unusual conditions:
+The Arboreal Sanctuary pitch has two sides - one representing the bold energy of summer, the other depicting the calm of autumn as woodland spirits emerge from their homes singing soothing melodies. If both players agree then the following rules can be used to represent these unusual conditions:
 
 The green-tree and vibrant side of the pitch is used during the first half of the game. This pitch represents the forest in summer bursting into life, its trees invigorated by the energy of the game. All players may attempt to Rush one more time than normal (three times for most players, and four if a player has the Sprint skill). If during the first half, three or more Casualties have been suffered in total across both teams, the forest's aggression has been sated and the season changes. For the duration of the second half of the game, the following rules apply:
 

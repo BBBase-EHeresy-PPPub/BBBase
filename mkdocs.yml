@@ -75,6 +75,7 @@ nav:
       - 'Skills and Traits': 'dungeon_bowl/skills_and_traits.md'
       - 'Inducements': 'dungeon_bowl/inducements.md'
       - 'League and Exhibition Play': 'dungeon_bowl/league_and_exhibition_play.md'
+      - 'Death Zone': 'dungeon_bowl/death_zone.md'
       - 'The Teams': 'dungeon_bowl/the_teams.md'
   - Blitz Bowl:
       - 'Blitz Bowl': 'blitz_bowl/index.md'
@@ -100,6 +101,8 @@ nav:
       - 'Spike! Almanac 2021': 'spike_journal/almanac_2021.md'
       - 'Spike! Almanac 2024': 'spike_journal/almanac_2024.md'
       - 'Pitch Rules': 'spike_journal/pitch_rules.md'
+      - 'Geheimnisnacht Special': 'spike_journal/geheimnisnacht_special.md'
+      - 'Holiday Special': 'spike_journal/holiday_special.md'
   - Teams:
       - 'Teams': 'teams/index.md'
       - 'Amazon': 'teams/Amazon.md'

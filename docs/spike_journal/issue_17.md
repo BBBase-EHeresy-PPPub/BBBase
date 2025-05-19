@@ -1,6 +1,6 @@
 ## GNOME GARDEN LEAGUES 'NO PLACE LIKE GNOME!'
 
-As it turns out, Gnomes have actually been playing Blood Bowl for a lot longer than most races have given them credit for – albeit their own unique brand of the game that focuses mainly on their more magical talents. Illusions and trickery are actively encouraged in the Gnome Garden Leagues, making the games played within the cloaked Gnomish lands a spectacular sight (*if very unorthodox – Ed*) for any fan that isn't a stickler for the rules – after all, there's no business like Gnome business!
+As it turns out, Gnomes have actually been playing Blood Bowl for a lot longer than most races have given them credit for - albeit their own unique brand of the game that focuses mainly on their more magical talents. Illusions and trickery are actively encouraged in the Gnome Garden Leagues, making the games played within the cloaked Gnomish lands a spectacular sight (*if very unorthodox - Ed*) for any fan that isn't a stickler for the rules - after all, there's no business like Gnome business!
 
 ### The Fey Forest Cup
 
@@ -18,7 +18,7 @@ All games played as part of the Fey Forest Cup use the following special rule:
 
 Whenever a team kicks-off, after placing the kick, the coach of the kicking team will make two Deviation rolls instead of one, placing a ball in each square they deviate to. Note that the balls are still in the air until after the Kick-Off Event as usual, and will bounce when they land as normal. If a ball lands in the same square as the other ball, immediately bounce the ball that just landed. A player may never carry two balls at the same time. If a player carrying one ball enters the same square as the other ball, or has the other ball land on them, the other ball will automatically bounce from them. This will not cause a turnover as the player has not attempted to pick up or catch the second ball.
 
-Whenever a player attempts to pick up, pass, catch or hand-off the ball, or attempts to score, they must first roll a D6. On a 1, the ball is an illusion and disappears in a puff of smoke! The player's activation immediately ends but no turnover is caused. If a ball disappears in this manner, the other ball is still valid (as the real one) and this rule no longer applies – at least until the next drive anyway!
+Whenever a player attempts to pick up, pass, catch or hand-off the ball, or attempts to score, they must first roll a D6. On a 1, the ball is an illusion and disappears in a puff of smoke! The player's activation immediately ends but no turnover is caused. If a ball disappears in this manner, the other ball is still valid (as the real one) and this rule no longer applies - at least until the next drive anyway!
 
 ### Inducements
 
@@ -56,7 +56,7 @@ Whenever your team uses a Team Re-Roll, roll a D6. On a 6, the Team Re-Roll is f
 
 | 2D6 | Result                                                                                                                       |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|
-| 2   | **That's Not the Ball…:** Gnomes are cheeky blighters, and one such individual has made a sleeping badger look like the ball – and it hasn't taken too kindly to being roughly awoken by an unsuspecting player! Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players are immediately Knocked Down. |
+| 2   | **That's Not the Ball…:** Gnomes are cheeky blighters, and one such individual has made a sleeping badger look like the ball - and it hasn't taken too kindly to being roughly awoken by an unsuspecting player! Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players are immediately Knocked Down. |
 | 3   | **Fey Interference:** Some of the more mischievous Spites are getting bored, and have decided to make things more interesting by flittering around some players to distract them! Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players cannot be activated during their team's next team turn. |
 | 4   | **Terrible Kick:** The player has been distracted by something during the kick-off; at least that is what they are claiming after that awful kick! The ball deviates from its current position before landing. |
 | 5   | **Solid Defence:** Apply the Solid Defence result as normal.                                                                 |

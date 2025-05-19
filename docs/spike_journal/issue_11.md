@@ -47,7 +47,7 @@ To represent the unique conditions teams must face in Sylvania, the following We
 
 ### Sylvanian Kick-Off Table
 
-To represent the dangers of playing Blood Bowl in the darkness of Sylvania, where most of the fans (*And many of the players! – Ed*) would like nothing more than to feast upon your flesh, and the restless Undead could pop out of the ground unforced at any moment, the following Kick-off Event table is used for all games played as part of the Spooky Skull Cup.
+To represent the dangers of playing Blood Bowl in the darkness of Sylvania, where most of the fans (*And many of the players! - Ed*) would like nothing more than to feast upon your flesh, and the restless Undead could pop out of the ground unforced at any moment, the following Kick-off Event table is used for all games played as part of the Spooky Skull Cup.
 
 | 2D6 | Result                                                                                                                            |
 |-----|------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,7 +88,7 @@ Stadia and pitches throughout the lands of Sylvania differ greatly from those el
 
 **Using the Necromantic Horror Nightmare Pitch in Your Blood Bowl Games**
 
-The Necromantic Horror Nightmare pitch has two sides – one depicting the pitch in fair weather; though the game is played at dusk. The other side depicts the pitch at night-time, when the pitch becomes more 'restless'. If both players agree, the following rules can be used to represent the unusual conditions:
+The Necromantic Horror Nightmare pitch has two sides - one depicting the pitch in fair weather; though the game is played at dusk. The other side depicts the pitch at night-time, when the pitch becomes more 'restless'. If both players agree, the following rules can be used to represent the unusual conditions:
 
 **Fading Light**
 

@@ -1,8 +1,8 @@
 ## Chaos Leagues 'For the Dark Gods!'
 
-Teams that have devoted their lives to the Dark Gods will ply their trade within the Chaos Leagues, vying for their chosen god's blessings. Such leagues are unlike the more organised competitions that take place across the Old World, and put far more emphasis on causing carnage in the name of their dark patrons – there is no point winning if the way you secure victory would displease your god!
+Teams that have devoted their lives to the Dark Gods will ply their trade within the Chaos Leagues, vying for their chosen god's blessings. Such leagues are unlike the more organised competitions that take place across the Old World, and put far more emphasis on causing carnage in the name of their dark patrons - there is no point winning if the way you secure victory would displease your god!
 
-Sending a few reporters to find out what goes on in the Northern Wastes, we encountered a more ruthless form of Blood Bowl – though clearly Nuffle doesn't have an issue with it! The Dark Gods take far more interest in the Chaos Leagues, almost as if they use these to determine bragging rights between themselves. Not that the teams mind; there are always plenty of blessings for players who go out of their way to pay homage to their chosen patron!
+Sending a few reporters to find out what goes on in the Northern Wastes, we encountered a more ruthless form of Blood Bowl - though clearly Nuffle doesn't have an issue with it! The Dark Gods take far more interest in the Chaos Leagues, almost as if they use these to determine bragging rights between themselves. Not that the teams mind; there are always plenty of blessings for players who go out of their way to pay homage to their chosen patron!
 
 ### The Cursed Skull Goblet
 
@@ -64,8 +64,8 @@ To represent the unique conditions teams must face in Khornate stadia, the follo
 
 | 2D6 | Result                                                                                                                                      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Khorne's Fury:** Khorne has become incensed that there is not enough carnage to stem his bloodlust, and he demands more bloodshed. To fuel his rage, Khorne plants his wrath within his chosen vessels on the pitch – though it comes with a cost to the players. Randomly select two players from each team. Those players gain +1 to their Strength characteristic and the Frenzy skill until a different result is rolled on the Weather table. When a different result is rolled, these players immediately roll on the Injury table. |
-| 3   | **Losing Patience:** The insufficient spilling of blood, at least in his eyes, is beginning to draw the ire of Khorne – which brings its own risks. At the end of each drive, randomly select one player on the pitch. Immediately make an Armour roll, and an Injury roll if necessary, for that player. |
+| 2   | **Khorne's Fury:** Khorne has become incensed that there is not enough carnage to stem his bloodlust, and he demands more bloodshed. To fuel his rage, Khorne plants his wrath within his chosen vessels on the pitch - though it comes with a cost to the players. Randomly select two players from each team. Those players gain +1 to their Strength characteristic and the Frenzy skill until a different result is rolled on the Weather table. When a different result is rolled, these players immediately roll on the Injury table. |
+| 3   | **Losing Patience:** The insufficient spilling of blood, at least in his eyes, is beginning to draw the ire of Khorne - which brings its own risks. At the end of each drive, randomly select one player on the pitch. Immediately make an Armour roll, and an Injury roll if necessary, for that player. |
 | 4‑10| **All Is Calm:** Khorne is content to simply watch the game without intervening, making it perfect Blood Bowl weather.                                                              |
 | 11  | **Red Mist:** A red mist descends upon the pitch, coating the players in a thin veil of blood and making visibility increasingly worse. Players making a Pass action may not perform a Long pass or a Long bomb. |
 | 12  | **Crimson Downpour:** So impressed with the display of violence, Khorne causes the heavens to rain crimson down upon those on the pitch, drenching them in gallons of blood and making it slippery underfoot. Players attempting to Rush will fail on the roll of a 1 or 2. Additionally, if a player suffers a Push result from a Block, roll a D6. On the roll of a 1, the player is KO'd after the push is made. |
@@ -136,13 +136,13 @@ Games played as part of the Cursed Skull Goblet follow all of the usual steps of
 
 ## Altar of Khorne Blood Bowl Pitch
 
-The stadia of Khornate teams are more than simply pitches to play Blood Bowl on; they are also used as altars to the Blood God where his followers will perform violent sacrifices in Khorne's name. Such stadia are adorned with skulls and emblazoned with his symbols in the hope of receiving Khorne's blessing. Should the Blood God be pleased by a team's offerings then he will rain blood down upon the pitch – though this also has the impact of making the playing surface rather slippery!
+The stadia of Khornate teams are more than simply pitches to play Blood Bowl on; they are also used as altars to the Blood God where his followers will perform violent sacrifices in Khorne's name. Such stadia are adorned with skulls and emblazoned with his symbols in the hope of receiving Khorne's blessing. Should the Blood God be pleased by a team's offerings then he will rain blood down upon the pitch - though this also has the impact of making the playing surface rather slippery!
 
 **Using the Altar of Khorne Pitch in Your Blood Bowl Games**
 
 The Altar of Khorne pitch has two sides. One depicts the playing surface in fair weather, with all manner of skulls adorning it, while the other side depicts the playing surface after Khorne has rained blood down upon both pitch and players. If both coaches agree, the following rules can be used to represent the unusual conditions:
 
-**Skull-Strewn Surface**: At the start of the game, all is quiet. Khorne is ready to enjoy his favourite pastime – witnessing the untold carnage of a game of Blood Bowl! The brass Khornate symbols and skulls embedded in the pitch begin to get into the heads of the players, making them feel a fury rising within them. After a player declares a Block action or Blitz action, but before any Block dice are rolled, roll a D6. On the roll of a 5+, increase the blocking player's Strength by 1 for the duration of the action.
+**Skull-Strewn Surface**: At the start of the game, all is quiet. Khorne is ready to enjoy his favourite pastime - witnessing the untold carnage of a game of Blood Bowl! The brass Khornate symbols and skulls embedded in the pitch begin to get into the heads of the players, making them feel a fury rising within them. After a player declares a Block action or Blitz action, but before any Block dice are rolled, roll a D6. On the roll of a 5+, increase the blocking player's Strength by 1 for the duration of the action.
 
 Additionally, at the end of each drive, count up the total number of Casualties that have been caused. If the total between both teams is 3 or more, flip the pitch over to the Bloodslick side.
 

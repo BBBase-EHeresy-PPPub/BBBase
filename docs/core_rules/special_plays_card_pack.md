@@ -233,8 +233,8 @@ Whilst this card is in play, your opponent must roll a D6 when they wish to acti
 
 | D6  | Result                                         |
 | --- | ---------------------------------------------- |
-| 1-3 | The player cannot be activated this team turn. |
-| 4-6 | The player can be activated as normal.         |
+| 1‑3 | The player cannot be activated this team turn. |
+| 4‑6 | The player can be activated as normal.         |
 
 ---
 
@@ -716,8 +716,8 @@ The Stalling player is attacked by an assassin. Roll a D6:
 | D6  | Result                                                                                                                                                                      |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | The player fends off the assassin. This card has no further effect.                                                                                                         |
-| 2-3 | The player is immediately Placed Prone.                                                                                                                                     |
-| 4-5 | The player is immediately Knocked Down.                                                                                                                                     |
+| 2‑3 | The player is immediately Placed Prone.                                                                                                                                     |
+| 4‑5 | The player is immediately Knocked Down.                                                                                                                                     |
 | 6   | The player is immediately Knocked Down and you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made. |
 
 ---

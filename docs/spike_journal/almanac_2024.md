@@ -1,16 +1,16 @@
 ## The Chaos Cup
 
-Second to perhaps only the Blood Bowl itself in prestige and notoriety, the Chaos Cup has hosted some of the fiercest and hard-fought action ever caught on CAMRA (Named after the Campaign for Real Arcanery, a group of wizards who mastered the technique of trapping a soul inside a box and broadcasting everything it sees through the Cabalvision network of crystal balls and magic mirrors – Ed).
+Second to perhaps only the Blood Bowl itself in prestige and notoriety, the Chaos Cup has hosted some of the fiercest and hard-fought action ever caught on CAMRA (Named after the Campaign for Real Arcanery, a group of wizards who mastered the technique of trapping a soul inside a box and broadcasting everything it sees through the Cabalvision network of crystal balls and magic mirrors - Ed).
 
 Previously called the Whiteskull Cup before being renamed in 2439, this premier event is just as, well, chaotic as you might expect; fanatical cultists perch eagerly at the sidelines, strange magic buzzes through the air and previously untainted players pledge themselves to the dark powers in return for great boons!
 
 The location of the event changes each year, with the venue only being revealed roughly two weeks before the start of the event; a strange but necessary custom ever since the Skavenblight Scramblers' victory in 2418, where the Skaven squad spent months before the event digging a vast network of tunnels beneath the stadium in order to smuggle weapons onto the field, sabotage opposing players and sneak into the End Zone without having to risk their whiskers on the gridiron!
 
-As soon as the location is announced, teams across the known world scramble to get their players together and equipment packed (or lunches packed in the case of Halfling squads! – Ed), before setting off in the hopes of achieving greatness on the gridiron at the Chaos Cup.
+As soon as the location is announced, teams across the known world scramble to get their players together and equipment packed (or lunches packed in the case of Halfling squads! - Ed), before setting off in the hopes of achieving greatness on the gridiron at the Chaos Cup.
 
 Here at Spike! Journal, we pride ourselves on bringing our readers the best of the best when it comes to Blood Bowl news. So, we waited with bated breath for this year's Chaos Cup's location to be announced before sending out the best and brightest reporters to dive deep into its rich and storied history, learning about all of the wild and wacky challenges that an extraordinary event like this presents to those trying to win glory and fame.
 
-When it comes to the Chaos Cup, the clue really is in the name – Chaos – in all senses of the word! Everything about the event is warped and twisted by the taint of Chaos; even players who don't worship the dark gods begin to feel the effects as the event wears on! Even the natural world gets no reprieve from the seeping effects of Chaos; blood falls like rain from the sky, thick spores choke the air, warpfire blazes across the gridiron and tentacles lash players as they race towards the End Zone; the weird and wild is on display for all to see at the Chaos Cup! If the direct influence of the dark gods wasn't enough, their fanatical followers flood to the event to join the crowds of fans who have traveled to support their favorite teams; setting up strange idols in worship of their corrupt patrons and sometimes even getting hands-on with the players themselves!
+When it comes to the Chaos Cup, the clue really is in the name - Chaos - in all senses of the word! Everything about the event is warped and twisted by the taint of Chaos; even players who don't worship the dark gods begin to feel the effects as the event wears on! Even the natural world gets no reprieve from the seeping effects of Chaos; blood falls like rain from the sky, thick spores choke the air, warpfire blazes across the gridiron and tentacles lash players as they race towards the End Zone; the weird and wild is on display for all to see at the Chaos Cup! If the direct influence of the dark gods wasn't enough, their fanatical followers flood to the event to join the crowds of fans who have traveled to support their favorite teams; setting up strange idols in worship of their corrupt patrons and sometimes even getting hands-on with the players themselves!
 
 ### Organising the Chaos Cup
 
@@ -28,7 +28,7 @@ The Chaos Cup is open to all comers. Coaches participating may use any team they
 |------|--------------------|
 | 2  | **Crimson Downpour:** Khorne is thrilled at the egregious violence both teams are inflicting upon one another, showering the combatants on the field in a sanguine rain as a mark of his approval. Players suffer a -1 penalty to the dice roll when attempting to Rush. Additionally, if a player suffers a Push Back result from a Block, roll a D6. On the roll of a 1, the Player is Knocked Down after the push is made. |
 | 3  | **Blinding Spores:** Grandfather Nurgle is always keen to show his love to his favourite teams, usually displaying his affection by coating the field in a cloud of vision-reducing spores. Players performing a Pass action may not perform a Long pass or Long bomb. |
-| 4‑10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening – for now... The conditions are perfect for a championship Blood Bowl match! |
+| 4‑10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening - for now... The conditions are perfect for a championship Blood Bowl match! |
 | 11 | **Binding Tentacles:** The Lord of Excess knows how to have fun and one of his favourite tricks is to spawn writhing tentacles on the field to restrain and inhibit players as they advance down the field. While this weather condition is in effect, all players on the pitch subtract 1 from their MA (to a minimum of 1). |
 | 12 | **Warpfire Barrage:** Tzeentch has grown bored of the current gamestate and has decided to add a little excitement by shooting comets of Warpfire from the sky! While this weather condition is in effect, at the end of each team turn, before the next one begins, the active team's coach randomly selects a player on their team from among those on the field and rolls a D6. On a roll of 1, make an Armour roll, and subsequent Injury roll if necessary, against the selected player. |
 
@@ -64,7 +64,7 @@ At the beginning of the game, before step 1 of the Start of Drive sequence, choo
 
 ### The Power of Chaos
 
-As the event wears on, even those who rebut the powers of Chaos begin to feel its warping influence take hold. MVPs and standout players in particular feel these effects more keenly than the rest, clearly the attention of the dark gods is not welcome by all – much like the gifts the Chaos gods have been known to award those who they feel worthy of their attention!
+As the event wears on, even those who rebut the powers of Chaos begin to feel its warping influence take hold. MVPs and standout players in particular feel these effects more keenly than the rest, clearly the attention of the dark gods is not welcome by all - much like the gifts the Chaos gods have been known to award those who they feel worthy of their attention!
 
 Whenever a player gains an advancement, roll a D6. On a roll of 6, the player has earned the attention of the dark gods and is rewarded for their impeccable performance. Roll a D6 and consult the table below:
 
