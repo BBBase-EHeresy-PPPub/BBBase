@@ -215,9 +215,7 @@ When this player performs a Block action as part of a Blitz action (but not on i
 
 ~~The Claws skill cannot be used when making an Armour roll against this player.~~
 
-<span style="color: darkmagenta">Opposing Players cannot modify any armour rolls made againts this player. In addition the Claws skill cannot be used when making an Armour roll against this player.
-
-This Skill may still be used if the player is Prone, Stunned, or has lost their Tackle Zone.</span>
+<span style="color: darkmagenta">Opposing players cannot modify any Armour rolls made against this player. In addition, the Claws skill cannot be used when making an Armour roll against this player. This Skill may still be used if the player is Prone, Stunned or has lost their Tackle Zone.</span>
 
 #### MONSTROUS MOUTH
 
@@ -680,4 +678,4 @@ When this player is about to be hit by a Block action or a Special action that r
 
 #### BREATHE FIRE
 
-Once per activation, instead of performing a Block action (either on its own or as part of a Blitz action), this player may perform a Breathe Fire Special action. When a player makes a Breathe Fire Special action, they may choose one Standing opposition player they are Marking and roll a D6, applying a -1 modifier if the target has a Strength of 5 or higher. On a 1, the player gets overeager, engulfing themself in flame and is immediately Knocked Down. On a 2-3, the opposition player ducks the gout of flame and nothing happens. On a 4+, the opposition player takes a ball of fire straight to the face and is immediately Placed Prone. However, if the roll is a natural 6, the potent pyro has taken its toll and the opposition player is Knocked Down instead. After the Breathe Fire Special action has been resolved, this player's activation immediately ends.
+Once per activation, instead of performing a Block action (either on its own or as part of a Blitz action), this player may perform a Breathe Fire Special action. When a player makes a Breathe Fire Special action, they may choose one Standing opposition player they are Marking and roll a D6, applying a -1 modifier if the target has a Strength of 5 or higher. ~~On a 1, the player gets overeager, engulfing themself in flame and is immediately Knocked Down.~~ <span style="color: darkmagenta">On a 1 or lower, the player gets overeager, engulfing themself in flame and is immediately Knocked Down.</span> On a 2-3, the opposition player ducks the gout of flame and nothing happens. On a 4+, the opposition player takes a ball of fire straight to the face and is immediately Placed Prone. However, if the roll is a natural 6, the potent pyro has taken its toll and the opposition player is Knocked Down instead. After the Breathe Fire Special action has been resolved, this player's activation immediately ends.
