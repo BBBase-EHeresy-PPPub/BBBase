@@ -18,7 +18,6 @@
 
 If your team includes the Black Gobbo, you may commit two Foul actions per team turn, provided one of your Foul actions is committed by the Black Gobbo himself.
 
-
 ### Special Rules
 
 * [Badlands Brawl]

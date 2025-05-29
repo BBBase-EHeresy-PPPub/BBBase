@@ -40,6 +40,6 @@ Coaches will need to create a team of any budget that the players agree upon, us
 
 **50,000 gold pieces, Available to any team**
 
-A bag filled with Halloween candy brings a joy like no other, especially when you’ve stolen it from a group of frightened Halflings!
+A bag filled with Halloween candy brings a joy like no other, especially when you've stolen it from a group of frightened Halflings!
 
 Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.

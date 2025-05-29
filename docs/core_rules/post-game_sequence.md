@@ -133,7 +133,6 @@ Rather than spend SPP on a new Skill, a player may spend SPP to improve a charac
 | 15   | Improve either ST or AG by 1 (or choose a Secondary skill).    |
 | 16   | Improve a characteristic of your choice by 1.                  |
 
-
 Note that no characteristic can ever be improved more than twice, or above the maximum value shown on [page 28](../core_rules/rules_and_regulations.md#characteristic-table). Should you randomly select a characteristic that cannot be improved or that you do not wish to improve, the player may instead choose a Secondary skill.
 
 In the case of Movement Allowance, Strength or Armour Value, this means the characteristic is increased by 1. In the case of Agility or Passing Ability, however, the characteristic is lowered by 1. For example, if a player with AG4+ improves their Agility, the characteristic would become AG3+.

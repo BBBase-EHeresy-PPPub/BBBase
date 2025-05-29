@@ -38,7 +38,6 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 | [Bone Head]\*       | [Plague Ridden]  | [Stab]             | [Unchannelled Fury]\* |
 | [Decay]\*           | [Pogo Stick]     | [Stunty]\*         |                       |
 
-
 ## GENERAL SKILLS
 
 ### PORTAL NAVIGATOR	

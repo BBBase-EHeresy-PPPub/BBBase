@@ -40,7 +40,6 @@ Before step 3 of the post-game sequence (before any player advancement), there i
 
 After each game, roll a D6 for each player on your roster that has gained at least one Skill or characteristic improvement over the course of the league. If the roll is greater than the total number of new Skills and characteristic improvements the player has then they have not been scouted and will remain on your team. If the roll is equal to or less than the number of new Skills and characteristic improvements the player has then they have been scouted by a Blood Bowl team and are whisked off to the big leagues. As compensation, your Gutter Bowl team gains an additional 20,000 gold pieces.
 
-
 **EXPENSIVE MISTAKES**
 
 Unlike their bigger counterparts that play professionally, Gutter Bowl teams do not usually amass great sums of gold; and they certainly don't have the likes of treasurers or administrators to keep an eye on where all that gold is going! It's far more likely that a team's gold is 'looked after' by a well-meaning, but often inept, member of the team who has all the intentions of using the cash to help the team out by purchasing kits, practice balls, and anything else they need, but is far more likely to either lose some of it or be coerced by their team-mates to use it for a lengthy drinking session at the local pub!

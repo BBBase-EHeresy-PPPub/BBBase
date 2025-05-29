@@ -98,7 +98,6 @@ Players that attempt to Throw, Catch or Hand-off the ball within the Bone Pit su
 
 Whilst a player is within the Cursed Room they may not use team re-rolls or a Skill or Trait that allows them to re-roll any number of dice.
 
-
 ### THE FLOODED ROOM
 
 ![](../media/dungeon_bowl/flooded_room.jpg)

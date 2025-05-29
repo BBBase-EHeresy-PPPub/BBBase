@@ -14,7 +14,6 @@ Following these restrictions, move the Dwarf Blitzer so that they are 2 squares 
 
 As you can see, by carefully placing their Players, the Orc Coach has made it more difficult for the Dwarf Blitzer to get to the ball carrier!
 
-
 ---
 
 ### Drill 2: Getting Up Close
@@ -77,7 +76,7 @@ The following two drills show how to make a **Throw Action** with a Player.
 
 Now that the Orc Thrower is no longer Marked, they can make a **Throw Action**. However, the Orc Blitzer and Orc Lineman are difficult to throw to - they are either behind an obstruction (outlined in red) or they are quite far away. To make the throw easier, the Orc Thrower will first make a Run Action, as you learned in drill 1. Do this now, but for the purposes of this drill, do not move the Orc Thrower next to an Orc Player.
 
-After the **Run Action**, the Orc Thrower will make a **Throw Action**. First, place the Throw Ruler so that the curved end is in line with the Orc Thrower's base. If the Throw Ruler reaches the centre of a square containing a Team-mate, the ball can be thrown to that Team-mate. See if you can end the **Run Action** in such a way that both Orc Players can potentially be thrown to, with the Short Throw (![short throw symbol]) section of the Throw Ruler reaching the centre of both Orc Players' squares. Now pick a viable Team-mate for the ball to be thrown to and move on to the next drill.
+After the **Run Action**, the Orc Thrower will make a **Throw Action**. First, place the Throw Ruler so that the curved end is in line with the Orc Thrower's base. If the Throw Ruler reaches the centre of a square containing a Team-mate, the ball can be thrown to that Team-mate. See if you can end the **Run Action** in such a way that both Orc Players can potentially be thrown to, with the Short Throw (![](../media/blitz_bowl/short_throw.jpg)) section of the Throw Ruler reaching the centre of both Orc Players' squares. Now pick a viable Team-mate for the ball to be thrown to and move on to the next drill.
 
 ---
 

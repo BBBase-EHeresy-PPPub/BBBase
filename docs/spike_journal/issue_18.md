@@ -74,7 +74,6 @@ At the beginning of each half, gain one additional team re-roll.
 | 11     | **Hobgoblin Mischief:** Hobgoblins are always up to no good, especially when they are trying to sneak into the team's dugouts! Roll a D6 for each player in both teams' Knocked-out box. On a 3+, nothing happens. On a 1 or 2, the player is immediately placed in the Casualty box and may take no further part in the game.                                                                                                                                                                                       |
 | 12     | **Violent Vibrations:** The residents of the Dark Lands are no strangers to earthquakes, but every now and then there are some so powerful they shake the foundation of Zharr-Naggrund! The kicking team's coach rolls a D3. That many randomly selected players on each team are immediately Placed Prone.                                                                                                                                                                                                     |
 
-
 ---
 ## Volcanic Lair Blood Bowl Pitch
 

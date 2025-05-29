@@ -17,7 +17,6 @@
 
 Once per game, after making a Passing Ability test to perform a Pass action, Skrull may choose to modify the dice roll by adding his Strength characteristic to it.
 
-
 ### Special Rules
 
 * [Sylvanian Spotlight]

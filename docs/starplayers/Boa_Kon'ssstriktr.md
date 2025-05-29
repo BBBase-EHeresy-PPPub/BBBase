@@ -16,7 +16,6 @@
 
 Once per game, if Boa starts his activation marking an opposition player with the ball, he may roll a D6. On a 1, nothing happens. On a 2+ the opposition player loses possession of the ball, Boa immediately gains possession of the ball and Boa's activation immediately ends.
 
-
 ### Special Rules
 
 * [Lustrian Superleague]

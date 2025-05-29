@@ -12,7 +12,6 @@
 | 0‑2  | Bull Centaur Blitzer     | 6  | 4  | 4+ | 6+  | 10+ | • [Sprint] <br /> • [Sure Feet] <br /> • [Thick Skull]                                                   | G S     | A M       | 130K |
 | 0‑1  | Minotaur                 | 5  | 5  | 4+ | —   | 9+  | • [Frenzy] <br /> • [Horns] <br /> • [Loner] (4+) <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull] <br /> • [Unchannelled Fury] | S       | A G M     | 150K |
 
-
 ### Special Rules
 
 * [Badlands Brawl]

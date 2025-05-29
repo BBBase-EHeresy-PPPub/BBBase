@@ -1,23 +1,23 @@
 ![](../media/blitz_bowl/cover.jpg)
 
-GLADIATORIAL SPORTS MAYHEM!
+GREETINGS SPORTS FANS!
 
-* "Welcome back, sports fans - and an even bigger welcome to all the viewers joining us for the new Blood Bowl season! I'm Jim Johnson, bringing you coverage of this year's Crush, in partnership with our sponsors, the Cabalvision Network, Spike! Magazine and Orcidas. For today's match-up, two teams of young hopefuls have shed blood, sweat and tears to be here, and they're now ready to head out into the arena below and show us what they've got."
+"It's that time of year, sports fans, where we welcome you to a new season of Blood Bowl! I'm Jim Johnson, and I'm here to bring you our exclusive, live coverage of this year's Crush - the premier Blitz Bowl event. Alongside me, as always, is my enigmatic broadcast partner and living legend of the game, the illustrious Bob Bifford!"
 
-* "You gotta mention the blood, don't you Jim? Guess it's a vampire thing."
+"Thanks Jim! And I guess that makes you an un-living legend, does it, Jim?"
 
-* "Thanks for that, Bob! That's my stalwart co-commentator Bob Bifford, hungry for action in the way only an ogre can be!"
+"That's very kind of you, Bob. Anyway, for those viewers who don't know about the Crush, Bob, why don't you give them the low-down on what they can expect to witness."
 
-* "You're not wrong, Jim! I'm expecting to see some tasty techniques today, too!"
+"Right you are, Jim. The Crush is where many players begin their career, should they survive of course! Teams put forwards their best rookies who then enter the Blitz Bowl pit to be put through their paces and see if they have what it takes to join their team's main roster. That's easier said than done as players from both teams will be looking to make a name for themselves, and that will likely come at the expense of some poor, hapless rookie on the wrong end of a bone-splintering tackle!"
 
-* "Yes, very good, Bob. You certainly won't be disappointed - the Reavers and the Scramblers have each put forward a selection of their best applicants for today's try-outs, and the coaches will really be putting them through their paces to see if they're worthy of joining the team's roster."
+"Well said, Bob! The Crush is fast becoming just as popular as regular Blood Bowl, with numerous companies sponsoring this year's event - and this year we are kicking things off with the Dwarf Canonneers taking on the Orc Rampagers."
 
-* "They've made it this far, Jim, but the real test begins now."
+"This should be a cracking contest, Jim; I can't wait to see these teams smash into each other!"
 
-* "Oh yes, Bob. And it's not just about brute strength. The aspiring - and in many cases, perspiring - players will have to react quickly and show they've got the sort of talent that could see them play in the big leagues."
+"Sounds like a match very much akin to your style of play, Bob. Plenty of crunching tackles, brutal blocks, and eye-watering collisions."
 
-* "Of course, it's a lot easier to show off if your opponents are all lying in the dirt."
+"That's my kind of match, Jim; reminds me of when I took part in the event many years ago. Back then it wasn't called the Crush; in fact, it got its name from my stellar performance where I destroyed the entire opposition in my rookie game - and the rest is history!"
 
-* "That's true, Bob - after all, an aggressive approach always worked for you!"
+"I never knew that, Bob. You learn something new every day! Anyway, the teams are heading into the pit; LET'S PLAY BLITZ BOWL!"
 
 ![](../media/blitz_bowl/bob_and_jim.jpg)

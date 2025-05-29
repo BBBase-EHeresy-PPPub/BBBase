@@ -79,7 +79,7 @@ nav:
       - 'The Teams': 'dungeon_bowl/the_teams.md'
   - Blitz Bowl:
       - 'Blitz Bowl': 'blitz_bowl/index.md'
-      - 'Components': 'blitz_bowl/components.md'
+      - 'Contents of the Box': 'blitz_bowl/contents_of_the_box.md'
       - 'The Rules of Blitz Bowl': 'blitz_bowl/rules.md'
       - 'Drill Cards': 'blitz_bowl/drill_cards.md'
       - 'Teams': 'blitz_bowl/teams.md'

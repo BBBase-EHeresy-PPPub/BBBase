@@ -54,7 +54,6 @@ At the start of each drive, after the teams have been set up but before the kick
 | 7  | *Thorny Protrusions:* The player gains the Claws and Horns skills. |
 | 8  | *Favour of the Gods:* The player gains two Skills of your choice, chosen from the Mutations category. |
 
-
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
 
 **40,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE [ELVEN KINGDOMS LEAGUE] SPECIAL RULE**
@@ -79,7 +78,6 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 | 2‑3| **Useless Flesh-thing!** Krot's tinkering has no effect and the player remains in the Casualty box. |
 | 4‑5| **Flawed Execution:** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the Really Stupid (4+) trait. If they already have the Really Stupid (4+) trait, it is replaced with the Really Stupid (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
 | 6  | **Witness Perfection!** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
-
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: AYLEEN ANDAR
 

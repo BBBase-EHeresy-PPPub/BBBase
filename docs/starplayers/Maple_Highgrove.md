@@ -21,7 +21,6 @@ Once per half, when Maple declares a Block action, he may do so against an oppos
 * [Halfling Thimble Cup]
 * [Old World Classic]
 
-
 ### Accept to play for...
 
 * [Dark Elf]

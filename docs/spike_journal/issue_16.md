@@ -2,7 +2,6 @@
 
 Spending their nights indulging in the honourable sport of Blood Bowl has become a common pastime for many of the aristocratic Vampire families across Sylvania. Rather than engaging in high society cloak and dagger gossip, a large number of the nocturnal nobles now resolve their petty (*and some more serious - Ed*) grievances on the gridiron instead; either stepping onto the field themselves alongside a team they own or manage, or inviting teams to play on their behalf.
 
-
 ### The Crimson Chalice Challenge
 
 This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised, number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Crimson Chalice Challenge differs from a normal season, however, in a couple of key aspects.

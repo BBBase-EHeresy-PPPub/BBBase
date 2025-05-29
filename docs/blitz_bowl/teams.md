@@ -99,7 +99,6 @@ EMERGENCY RESERVES: 4
 
 **Frenzied:** After this Player makes a Mark Action, they may make a free Block Action against a Player they are now Marking.
 
-
 ---
 
 ## ELVEN UNION TEAM

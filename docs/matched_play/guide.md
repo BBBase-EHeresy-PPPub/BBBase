@@ -281,7 +281,6 @@ With this in mind, if the Cheering Fans result comes up on the Kick-off event ta
 | 7  | **Greasy Cleats:** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive, their MA is reduced by 1. |
 | 8  | **Blessed Statue of Nuffle:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill. |
 
-
 ## POST-MATCH
 
 After you have completed your game of fl Blood Bowl and handed in your results slip, there are a few differences between a Matched Play game and a match in the middle of a league. The Post-Match Sequence on [page 69 of the *Blood Bowl Rulebook*](../core_rules/post-game_sequence.md#the-aftermath) is not used in tournament games and here we will explain all the differences between how the post-game sequence works in a tournament compared to a league.
@@ -462,7 +461,6 @@ An Event Organiser may decide to create their own custom Inducements to be used 
 
 Any custom Inducements should be clearly outlined in the rulespack and should be made available to all teams. The Event Organiser may also decide to allow each coach to add the custom Inducement to their Team Draft Roster for free to add to the unique feel of their event.
 
-
 When creating your own Inducements, it is important to make sure that they don't have too much of an impact on the game itself. They should provide a small bonus to the team that has purchased them that can have a subtle impact on the game, rather than being all-powerful effects that become the central focus of the match.
 
 Here are some examples of custom Inducements, which Event Organisers can use if they wish:
@@ -564,7 +562,6 @@ When rolling to determine Secret Objectives, roll a D16 three times consult the 
 | 14                 | *Nuffle Favors the Bold:* Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated. |
 | 15                 | *All According to Plan:* Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover. |
 | 16                 | *Headtaker:* Inflict a Casualty! result on an opposition player. |
-
 
 It is important to note that while every team is able to accomplish each of these Secret Objectives in theory, some teams will find some easier than others - you'll want to hope Nuffle gives you a favourable roll!
 

@@ -20,7 +20,6 @@ A Dungeon Bowl league plays out over a number of 'seasons', each split into the 
 
 If the league contains enough teams, the league commissioner may wish to divide them into two, three or four divisions. Each division should contain as equal a num ber of teams as possible, but a division should have no fewer than four teams. The larger the divisions are, the longer a season will last. The teams can be split however the league commissioner decides, but drawing team names out of an upturned Dungeon Bowl helmet (or similar receptacle) is most traditional. Once the divisions have been split, the season can begin!
 
-
 ### THE REGULAR SEASON
 (see The Regular Season, [page 97 of the *Blood Bowl Rulebook*](../core_rules/league_and_exhibition_play.md#the-regular-season))
 
@@ -69,7 +68,6 @@ After the finals have been played, any coaches who wish to re-draft their team f
 2. ***R&R:*** Players that would miss the team's next game recover.
 3. ***RAISE FUNDS:*** Coaches calculate the funds available to them to re-draft their team.
 4. ***RE-DRAFT:*** Coaches complete their new Team Draft list for the season ahead.
-
 
 #### 1. SCOUTING
 
