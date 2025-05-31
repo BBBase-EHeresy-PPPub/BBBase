@@ -1,5 +1,7 @@
 # Maple Highgrove
 
+![](../media/starplayers/MapleHighgrove.jpg)
+
 | 210K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
 |      | 3  | 5  | 5+ | 5+ | 11+|
