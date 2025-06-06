@@ -45,14 +45,14 @@ At the start of each drive, after the teams have been set up but before the kick
 
 | D8 | RESULT |
 | ------ | ---------- |
-| 1  | *Unworthy:* The player is struck down. The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
-| 2  | *Overlooked:* The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
-| 3  | *Freakish Proportions:* The player gains the Big Hand and Very Long Legs skills. |
-| 4  | *Grasping Tendrils:* The player gains the Tentacles and Prehensile Tail skills. |
-| 5  | *Horrific Visage:* The player gains the Disturbing Presence and Foul Appearance skills. |
-| 6  | *Grisly Bifurcation:* The player gains the Extra Arms and Two Heads skills. |
-| 7  | *Thorny Protrusions:* The player gains the Claws and Horns skills. |
-| 8  | *Favour of the Gods:* The player gains two Skills of your choice, chosen from the Mutations category. |
+| 1  | ***Unworthy:*** The player is struck down. The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
+| 2  | ***Overlooked:*** The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
+| 3  | ***Freakish Proportions:*** The player gains the [Big Hand] and [Very Long Legs] skills. |
+| 4  | ***Grasping Tendrils:*** The player gains the [Tentacles] and [Prehensile Tail] skills. |
+| 5  | ***Horrific Visage:*** The player gains the [Disturbing Presence] and Foul [Appearance] skills. |
+| 6  | ***Grisly Bifurcation:*** The player gains the [Extra Arms] and [Two Heads] skills. |
+| 7  | ***Thorny Protrusions:*** The player gains the [Claws] and [Horns] skills. |
+| 8  | ***Favour of the Gods:*** The player gains two Skills of your choice, chosen from the Mutations category. |
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
 
@@ -74,10 +74,10 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 
 | D6 | RESULT |
 | ------ | ---------- |
-| 1  | **There Were... Complications:** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
-| 2‑3| **Useless Flesh-thing!** Krot's tinkering has no effect and the player remains in the Casualty box. |
-| 4‑5| **Flawed Execution:** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the Really Stupid (4+) trait. If they already have the Really Stupid (4+) trait, it is replaced with the Really Stupid (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
-| 6  | **Witness Perfection!** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 1  | ***There Were... Complications:*** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
+| 2‑3| ***Useless Flesh-thing!*** Krot's tinkering has no effect and the player remains in the Casualty box. |
+| 4‑5| ***Flawed Execution:*** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the [Really Stupid] (4+) trait. If they already have the [Really Stupid] (4+) trait, it is replaced with the [Really Stupid] (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 6  | ***Witness Perfection!*** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: AYLEEN ANDAR
 
@@ -127,7 +127,7 @@ Whenever a player on your team suffers an Injury result of 8-9, KO'd (or of 7-8,
 
 **"YOU GOT IT, BOSS!"**
 
-Once per game, when your team uses a Bribe, you may re-roll the D6 to see if the Bribe is effective. In addition, when rolling on the Argue the Call table, a coach who has hired Fink treats a roll of 5 or 6 as a "*Well, When You Put It Like That..* result and a roll of 2-4 as an *"I Don't Care!"* result. However, on a "*You're Outta Here!* result, Fink is Sent-off along with the coach and will play no further part in the game.
+Once per game, when your team uses a Bribe, you may re-roll the D6 to see if the Bribe is effective. In addition, when rolling on the Argue the Call table, a coach who has hired Fink treats a roll of 5 or 6 as a *"Well, When You Put It Like That.."* result and a roll of 2-4 as an *"I Don't Care!"* result. However, on a *"You're Outta Here!"* result, Fink is Sent-off along with the coach and will play no further part in the game.
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: SCHIELUND SCHARLITAN
 
@@ -137,11 +137,13 @@ Once per game, when your team uses a Bribe, you may re-roll the D6 to see if the
 
 During the pre-game sequence, after Step 4 but before Step 5, randomly select D3 players on your team that are eligible to play during this game. These players have been approached by Scharlitan, and his interest is having a noticeable effect on their attitude!
 
-Until the end of this game, each selected player gains the Pro skill. However, at the start of Step 3 of the post-game sequence, roll a D6 for each of these players (unless they suffered, and did not recover from, a Casualty table result of 15-16, DEAD during the game):
+Until the end of this game, each selected player gains the [Pro] skill. However, at the start of Step 3 of the post-game sequence, roll a D6 for each of these players (unless they suffered, and did not recover from, a Casualty table result of 15-16, DEAD during the game):
 
 * On a roll of 1, that player has begun to act like they are the next big thing. The agent tires of his client and drops them, but the exposure has gone to their head. The player gains the Loner (2+) trait.
 * On a roll of 2-5, the agent simply drops the player from his books. They might be disappointed, but they'll get over it.
-* On a roll of 6, the agent tires of his client and drops them, but the  exposure has been good for them. The player permanently retains the Pro skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had chosen a Primary skill).
+* On a roll of 6, the agent tires of his client and drops them, but the  exposure has been good for them. The player permanently retains the [Pro] skill without having to spend any SPP (note that you must adjust their Current Value accordingly, as if the player had chosen a Primary skill).
+
+---
 
 ## 0-1 WIZARD
 
@@ -184,7 +186,7 @@ A Standing player hit by a Thunderbolt is Knocked Down. When a player is Knocked
 You may cast this spell at the start of any of the opposition's team turns. Choose a player on your team from among those on the pitch, and roll a D6:
 
 * On a roll of 2+, until the end of this drive that player gains two Mutation skills of your choice.
-* On a roll of 1, the player becomes a writhing mass of flesh as raw chaos energy flows through them momentarily. The player gains the Disturbing Presence skill until the end of this drive.
+* On a roll of 1, the player becomes a writhing mass of flesh as raw chaos energy flows through them momentarily. The player gains the [Disturbing Presence] skill until the end of this drive.
 
 ### 0-1 WIZARD INDUCEMENT: DRUCHII SPORTS SORCERESS
 
@@ -333,7 +335,7 @@ You may cast this spell at the start of any of the opposition's team turns, befo
 * On a roll of 3+, the player is hit and their skin unexpectedly erupts into a mass of warts.
 * On a roll of 1 or 2, the player develops a few unsightly blemishes, but is otherwise unaffected.
 
-Until the end of this drive, the MA, ST, and AG characteristics of a player hit by Plague of Warts are reduced by 1. Additionally, until the end of this drive, a player hit by Plague of Warts gains the Disturbing Presence and Foul Appearance skills.
+Until the end of this drive, the MA, ST, and AG characteristics of a player hit by Plague of Warts are reduced by 1. Additionally, until the end of this drive, a player hit by Plague of Warts gains the [Disturbing Presence] and [Foul Appearance] skills.
 
 ### 0-1 WIZARD INDUCEMENT: WARLOCK ENGINEER
 
@@ -427,6 +429,8 @@ Horatio conjures up a fireball spell and flinngs it with his legendarily poor ai
 
 Any Standing players hit by the Fireball are Knocked Down. When a player is Knocked Down by a Fireball, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made.
 
+---
+
 ## BIASED REFEREE INDUCEMENTS
 
 In general, the members of the RARG that officiate over Blood Bowl games are unsung heroes of the sport. However, many referees have risen to the ranks of superstardom for their dedication to the rules, if not for their dedication to fair play! Whilst bribery is an established part of the culture of Blood Bowl (the RARG even dictates set rates and offers discounts for repeat, there are many referees willing to go the extra yard for a team with gold to share.
@@ -519,6 +523,8 @@ At the start of each drive, after both teams are set-up but before the kick-off,
 
 If a Get the Ref result is rolled on the Kick-off Event table, the triplets make themselves scarce and will play no further part in this game. In addition, each team also gets a Bribe as normal.
 
+---
+
 ## OTHER INDUCEMENTS
 
 As well as powerful Wizards, notorious referees and renowned sideline staff, Blood Bowl teams often employ a wide variety of other methods to gain the upper hand. Be it strong ale to build up the fighting spirits of smaller players, to catapults that launch projectiles across the pitch, there seems to be no limit to the ingenuity shown by teams unwilling to accept the role of underdog in an important fixture!
@@ -557,13 +563,13 @@ During each Start of Drive sequence, after Step 2 but before Step 3, you can sel
 
 **DWARFEN RUNES**
 
-* **Rune of Might** Until the end of this drive, the chosen player gains the Mighty Blow (+1) skill. Rune of Fury Until the end of this drive, the chosen player gains both the Dauntless and Frenzy skills.
+* **Rune of Might** Until the end of this drive, the chosen player gains the [Mighty Blow] (+1) skill. Rune of Fury Until the end of this drive, the chosen player gains both the [Dauntless] and [Frenzy] skills.
 
-* **Rune of Speed** Until the end of this drive, the chosen player gains both the Sprint and Sure Feet skills.
+* **Rune of Speed** Until the end of this drive, the chosen player gains both the [Sprint] and [Sure Feet] skills.
 
-* **Rune of Iron** Until the end of this drive, the chosen player's Armour Value is increased by 1 (to a maximum of 11+) and they gain the Stand Firm skill.
+* **Rune of Iron** Until the end of this drive, the chosen player's Armour Value is increased by 1 (to a maximum of 11+) and they gain the [Stand Firm] skill.
 
-* **Rune of Impact** Until the end of this drive, the chosen player gains both the Juggernaut and Horns skills.
+* **Rune of Impact** Until the end of this drive, the chosen player gains both the [Juggernaut] and [Horns] skills.
 
 ### 0-1 HALFLING HOT POT
 
@@ -602,7 +608,7 @@ During Step 2 of every Start of Drive sequence, the Master of Ballistics can att
 
 **40,000 GOLD PIECES EACH, AVAILABLE TO ANY TEAM BELONGING TO TIER 3**
 
-At the start of a drive, after both teams have been set up but before the kick-off (between Step 1 and Step 2), randomly select D3 players with the Stunty trait that are currently set up on the pitch. For the remainder of this drive, those players gain the Dauntless and Frenzy skills and the Really Stupid (4+) trait.
+At the start of a drive, after both teams have been set up but before the kick-off (between Step 1 and Step 2), randomly select D3 players with the Stunty trait that are currently set up on the pitch. For the remainder of this drive, those players gain the [Dauntless] and [Frenzy] skills and the [Really Stupid] (4+) trait.
 
 ### 0-1 TEAM MASCOT
 
