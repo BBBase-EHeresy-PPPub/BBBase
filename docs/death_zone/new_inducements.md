@@ -49,7 +49,7 @@ At the start of each drive, after the teams have been set up but before the kick
 | 2  | ***Overlooked:*** The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
 | 3  | ***Freakish Proportions:*** The player gains the [Big Hand] and [Very Long Legs] skills. |
 | 4  | ***Grasping Tendrils:*** The player gains the [Tentacles] and [Prehensile Tail] skills. |
-| 5  | ***Horrific Visage:*** The player gains the [Disturbing Presence] and Foul [Appearance] skills. |
+| 5  | ***Horrific Visage:*** The player gains the [Disturbing Presence] and [Foul Appearance] skills. |
 | 6  | ***Grisly Bifurcation:*** The player gains the [Extra Arms] and [Two Heads] skills. |
 | 7  | ***Thorny Protrusions:*** The player gains the [Claws] and [Horns] skills. |
 | 8  | ***Favour of the Gods:*** The player gains two Skills of your choice, chosen from the Mutations category. |
