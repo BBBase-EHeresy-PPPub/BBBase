@@ -128,9 +128,7 @@ A team with this special rule cannot change its alignment.
 
 Teams with this special rule are not very particular about the Linemen they hire. To make up for this, they don't usually bother to pay them:
 
-* In league play (but not in exhibition play), when calculating the Current Value of any permanently hired
-
-Lineman players on a team with this special rule, the Hiring Fee of that player is not included.
+* In league play (but not in exhibition play), when calculating the Current Value of any permanently hired Lineman players on a team with this special rule, the Hiring Fee of that player is not included.
 
 * [Ogre]
 * [Snotling]
