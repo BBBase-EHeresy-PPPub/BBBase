@@ -233,13 +233,13 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 **CASUALTY TABLE**
 
-| D16 RESULT | EFFECT                                                                                                                                                     |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1‑6    | ***Badly Hurt:*** The player misses the rest of this game but suffers no long-term effect (MNG).                                                            |
-| 7‑9    | ***Seriously Hurt:*** Nl and MNG.                                                                                                                           |
-| 10‑12  | ***Serious Injury:*** Characteristic reduction and MNG.                                                                                                     |
-| 13‑14  | ***Lasting Injury:*** Characteristic reduction and MNG.                                                                                                     |
-| 15‑16  | ***DEAD:*** This player is far too dead to play Dungeon Bowl!                                                                                               |
+| D16              | RESULT                       | EFFECT                                                                   |
+| ---------------- | ---------------------------- | ------------------------------------------------------------------------ |
+| 1‑6   | ***Badly Hurt***     | The player misses the rest of this game, but suffers no long term effect |
+| 7‑9   | ***Seriously Hurt*** | MNG                                                                      |
+| 10‑12 | ***Serious Injury*** | NI and MNG                                                               |
+| 13‑14 | ***Lasting Injury*** | Characteristic Reduction and MNG                                         |
+| 15‑16 | ***DEAD***           | This player is far too dead to play Dungeon Bowl!                          |
 
 **MNG (MISS NEXT GAME)**
 
