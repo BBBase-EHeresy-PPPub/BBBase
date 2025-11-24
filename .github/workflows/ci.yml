@@ -19,6 +19,7 @@ jobs:
       - name: Fetch gh-pages
         run: |
           git fetch origin gh-pages:gh-pages || echo "gh-pages does not exist yet"
+          git checkout gh-pages || git checkout -b gh-pages
 
       - name: Configure Git Credentials
         run: |
@@ -49,5 +50,5 @@ jobs:
           mike deploy --config-file mkdocs-2025.yml bb2025
           mike set-default bb2025
 
-      - name: Push changes
-        run: mike push
+      - name: Push gh-pages
+        run: git push origin gh-pages
