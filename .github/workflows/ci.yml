@@ -16,9 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch gh-pages
+      - name: Prepare gh-pages
         run: |
-          git fetch origin gh-pages:gh-pages || echo "gh-pages does not exist yet"
+          git fetch origin gh-pages || true
+          git worktree add gh-pages gh-pages || git worktree add gh-pages origin/gh-pages
 
       - name: Configure Git Credentials
         run: |
@@ -29,23 +30,14 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Cache mkdocs
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-
-      - uses: actions/cache@v4
-        with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-
       - name: Install dependencies
-        run: |
-          pip install mkdocs-material mike
+        run: pip install mkdocs-material mike
 
       - name: Build versions
         run: |
           mike deploy --config-file mkdocs-2020.yml bb2020
           mike deploy --config-file mkdocs-2025.yml bb2025
-          mike set-default bb2025 --push
+          mike set-default bb2025
 
+      - name: Push gh-pages
+        run: git -C gh-pages push origin gh-pages
