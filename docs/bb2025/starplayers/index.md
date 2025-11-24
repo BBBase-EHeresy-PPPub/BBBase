@@ -1,10 +1,10 @@
 # STAR PLAYERS!
 
-Star Players are the legends of the game; players who have created a lasting legacy for themselves on the pitch through their exceptional play, immense talent, outlandish personalities, or even their penchant for extreme violence – and in many cases it is more than one!
+Star Players are the legends of the game; players who have created a lasting legacy for themselves on the pitch through their exceptional play, immense talent, outlandish personalities, or even their penchant for extreme violence - and in many cases it is more than one!
 
 Naturally, such players are heralded by both fans and pundits alike, and whenever they step onto the pitch the crowd goes wild with anticipation. These players use their notoriety and fame to enjoy their life as a free agent, able to play for multiple teams so long as many fork out a tempting hiring fee or lucrative short-term contract. Such investment by a team is seldom wasted though; not only will the cash benefit from the sales of team shirts with the hired star player's name on them, and charging fans for photos with the player at a pre-game meet and greet.
 
-Star players come in all manner of shapes and sizes, and each have their own area of expertise. In other words there is a star player to fit your needs in almost every situation – so long as you can pay the gold, of course!
+Star players come in all manner of shapes and sizes, and each have their own area of expertise. In other words there is a star player to fit your needs in almost every situation - so long as you can pay the gold, of course!
 
 # STAR PLAYERS LIST!
 

@@ -10,9 +10,11 @@ theme:
     text: Roboto Slab
   palette:
     - scheme: default
+      primary: teal
       toggle:
         icon: material/toggle-switch
     - scheme: slate
+      primary: teal
       toggle:
         icon: material/toggle-switch-off-outline
   features:
@@ -37,15 +39,15 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tilde
   - pymdownx.snippets:
-      base_path: docs/2020
+      base_path: includes/bb2020
       auto_append:
-        - includes/tooltip_skills.md
-        - includes/tooltip_teams.md
-        - includes/tooltip_staff.md
-        - includes/tooltip_starplayers.md
-        - includes/tooltip_team_special_rules.md
-        - includes/tooltip_inducements.md
-        - includes/tooltip_new_inducements.md
+        - tooltip_skills.md
+        - tooltip_teams.md
+        - tooltip_staff.md
+        - tooltip_starplayers.md
+        - tooltip_team_special_rules.md
+        - tooltip_inducements.md
+        - tooltip_new_inducements.md
 
 nav:
   - Core Rules:

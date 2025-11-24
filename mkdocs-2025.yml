@@ -33,13 +33,14 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.tilde
   - pymdownx.snippets:
+      base_path: includes/bb2025
       auto_append:
-        - includes/tooltip_skills.md
-        - includes/tooltip_teams.md
-        - includes/tooltip_staff.md
-        - includes/tooltip_starplayers.md
-        - includes/tooltip_team_special_rules.md
-        - includes/tooltip_inducements.md
+        - tooltip_skills.md
+        - tooltip_teams.md
+        - tooltip_staff.md
+        - tooltip_starplayers.md
+        - tooltip_team_special_rules.md
+        - tooltip_inducements.md
 nav:
   - Cheat Sheet: 'core_rules/cheat_sheet.md'
   - Core Rules:
@@ -158,3 +159,4 @@ nav:
       - 'Withergrasp Doubledrool': 'starplayers/Withergrasp_Doubledrool.md'
       - 'Zolcath the Zoat': 'starplayers/Zolcath_the_Zoat.md'
       - 'Zzharg Madeye': 'starplayers/Zzharg_Madeye.md'
+  - "[ BB2020 ]": /bb2020/

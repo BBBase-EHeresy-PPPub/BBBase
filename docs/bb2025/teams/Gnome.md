@@ -1,15 +1,15 @@
 ﻿**TIER 4**
-![](../media/teams/BBGnomeTeam01.jpg)
+![](../media/teams/BBGnomeTeam02.jpg)
 
 ### Positionals
 
 | Qty  | Position                                  | MA | ST | AG | PA | AR  | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | ------------------------------------------ | -- | -- | -- | -- | --- | -------------------------------------------------------------------------------------------------------- | ------- | --------- | ----- |
-| 0-12 | Gnome Lineman *(Lineman, Gnome)*           | 5  | 2  | 3+ | 4+ | 7+  | • [Jump Up]<br>• [Right Stuff]<br>• [Stunty]<br>• [Wrestle]                                             | A       | G S D     | 40K  |
-| 0-2  | Gnome Illusionist *(Thrower, Gnome)*       | 5  | 2  | 3+ | 3+ | 7+  | • [Jump Up]<br>• [Stunty]<br>• [Trickster]<br>• [Wrestle]                                              | A P     | G         | 50K  |
-| 0-2  | Woodland Fox *(Runner, Beast)*             | 7  | 2  | 2+ | —  | 6+  | • [Dodge]<br>• [My Ball]<br>• [Sidestep]<br>• [Stunty]                                                  | A       | —         | 50K  |
-| 0-2  | Gnome Beastmaster *(Blitzer, Gnome)*       | 5  | 2  | 3+ | 4+ | 8+  | • [Guard]<br>• [Jump Up]<br>• [Stunty]<br>• [Wrestle]                                                   | A       | G S D     | 55K  |
-| 0-2  | Athel Forest Treeman *(Big Guy, Treeman)*  | 2  | 6  | 5+ | 5+ | 11+ | • [Mighty Blow] (+2)<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S       | A G P D   | 120K |
+| 0-12 | Gnome Lineman *(Lineman, Gnome)*           | 5  | 2  | 3+ | 4+ | 7+  | • [Jump Up]<br>• [Right Stuff]<br>• [Stunty]<br>• [Wrestle]                                             | A       | G S D     | 40K  |
+| 0-2  | Gnome Illusionist *(Thrower, Gnome)*       | 5  | 2  | 3+ | 3+ | 7+  | • [Jump Up]<br>• [Stunty]<br>• [Trickster]<br>• [Wrestle]                                              | A P     | G         | 50K  |
+| 0-2  | Woodland Fox *(Runner, Beast)*             | 7  | 2  | 2+ | —  | 6+  | • [Dodge]<br>• [My Ball]<br>• [Sidestep]<br>• [Stunty]                                                  | A       | —         | 50K  |
+| 0-2  | Gnome Beastmaster *(Blitzer, Gnome)*       | 5  | 2  | 3+ | 4+ | 8+  | • [Guard]<br>• [Jump Up]<br>• [Stunty]<br>• [Wrestle]                                                   | A       | G S D     | 55K  |
+| 0-2  | Athel Forest Treeman *(Big Guy, Treeman)*  | 2  | 6  | 5+ | 5+ | 11+ | • [Mighty Blow] (+2)<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S       | A G P D   | 120K |
 
 ### Special Rules
 

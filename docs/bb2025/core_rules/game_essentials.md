@@ -4,7 +4,7 @@ There are a number of items that you will need to play a game of Blood Bowl. Fro
 
 In this section, we will take you through everything you will need to play a game of Blood Bowl, explain what they are all used for and tell you anything else you need to know about them.
 
-# NUFFLE’S SACRED TURF!
+# NUFFLE'S SACRED TURF!
 
 Blood Bowl pitches can be found all across the Old World; from the sweltering jungle forests of Lustria where ancient stadia are built into the great temple-cities hidden in the trees, to the frozen wastes of Norsca where pitches are carved into great ice floes and lined with huge wooden structures, and everywhere and everything in-between. Some pitches are more subtle affairs, featuring crudely drawn gridirons marked out with chalk or jumpers and surrounded with meagre bleachers, whilst others are grand stadia that can hold tens of thousands of supporters at a time to witness sporting glory.
 
@@ -34,19 +34,19 @@ At the side of the pitch, each team will have their own Dugout. This is where th
 
 # SPORTING PARAPHERNALIA!
 
-Blood Bowl teams rarely travel light; there are all manner of things required when a team travels to play. The team itself will require the likes of kit, boots, helmets and half-time snacks, whilst the Coach will need all their playbooks – and that’s before you take into account the pom-poms and ribbons of the cheerleading squad, the bandages, saws and tools of the apothecaries, and so on. To put it bluntly, there is a lot of stuff that needs to be hauled from stadium to stadium!
+Blood Bowl teams rarely travel light; there are all manner of things required when a team travels to play. The team itself will require the likes of kit, boots, helmets and half-time snacks, whilst the Coach will need all their playbooks - and that's before you take into account the pom-poms and ribbons of the cheerleading squad, the bandages, saws and tools of the apothecaries, and so on. To put it bluntly, there is a lot of stuff that needs to be hauled from stadium to stadium!
 
-On the tabletop, games of Blood Bowl also have a number of key items required to play – though thankfully not to the same ridiculous extent as a professional Blood Bowl team! In this section we will run through all the various bits that Coaches will need when they play a game of Blood Bowl.
+On the tabletop, games of Blood Bowl also have a number of key items required to play - though thankfully not to the same ridiculous extent as a professional Blood Bowl team! In this section we will run through all the various bits that Coaches will need when they play a game of Blood Bowl.
 
 ## THE FOOTBALL
 
-The football is arguably the most important thing on the pitch; after all, it’s what both teams need in order to score! When not in possession of a player, the ball is placed on the ground wholly within one square. Whilst a player is in possession of the ball, it will be placed on their base to show that they have hold of it.
+The football is arguably the most important thing on the pitch; after all, it's what both teams need in order to score! When not in possession of a player, the ball is placed on the ground wholly within one square. Whilst a player is in possession of the ball, it will be placed on their base to show that they have hold of it.
 
 The ball is an essential part of any game, and is most commonly represented by a model just like your players. Every Blood Bowl team will come with at least one Blood Bowl ball that can be used in your games.
 
 ## MARKERS
 
-Blood Bowl uses a number of Markers that help Coaches track important information during the course of the game. These will be placed on the relevant tracker on your team’s Dugout so that the information is clear to all Coaches.
+Blood Bowl uses a number of Markers that help Coaches track important information during the course of the game. These will be placed on the relevant tracker on your team's Dugout so that the information is clear to all Coaches.
 
 ## TURN MARKER
 
@@ -58,7 +58,7 @@ You will also need a Team Re-roll Marker to keep track of how many Team Re-rolls
 
 ## SCORE MARKER
 
-A Score Marker is used to track the number of Touchdowns your team has scored – a rather important thing to keep note of! Each time you score a Touchdown, move your Score Marker up one space.
+A Score Marker is used to track the number of Touchdowns your team has scored - a rather important thing to keep note of! Each time you score a Touchdown, move your Score Marker up one space.
 
 ## TEMPLATES
 
@@ -80,7 +80,7 @@ The Range Ruler is used primarily during a Pass Action or a Throw Team-mate Acti
 
 ## BLOOD BOWL DICE
 
-Blood Bowl uses a variety of different dice to determine the outcome of various actions. The likes of blocking, passing, dodging and so forth are all worked out using various different types of dice. Being the patron of Blood Bowl, Nuffle takes a keen interest in dice and it is often said that if a Coach or player has particularly poor dice rolls then they have likely angered Nuffle in some way – or more likely Nuffle has decided to mess with them!
+Blood Bowl uses a variety of different dice to determine the outcome of various actions. The likes of blocking, passing, dodging and so forth are all worked out using various different types of dice. Being the patron of Blood Bowl, Nuffle takes a keen interest in dice and it is often said that if a Coach or player has particularly poor dice rolls then they have likely angered Nuffle in some way - or more likely Nuffle has decided to mess with them!
 
 Below are the different types of dice you will come across in a game of Blood Bowl.
 
@@ -106,49 +106,49 @@ Finally, this is a sixteen-sided dice, marked 1 to 16. This is probably the leas
 
 Below are the different types of tokens you will come across in a game of Blood Bowl, all of which are included in the Blood Bowl Third Season boxed game. Whilst these are provided unpainted, we recommend painting them in the colours listed below. Not only will this help differentiate them from each other, but it will also make it really clear to everyone exactly what effect that token represents by looking at the colour of the token.
 
-## PRONE TOKEN – YELLOW
+## PRONE TOKEN - YELLOW
 
 This denotes that the player is Prone (see page 39), and is used instead of laying models down on their back (as they used to be in previous editions). The other side of this token is a Stunned token.
 
-## STUNNED TOKEN – RED
+## STUNNED TOKEN - RED
 
 This denotes that the player is Stunned (see page 39), and is used instead of laying models down on their front (as they used to be in previous editions). This is found on the reverse of the Prone token, meaning that when a player reverts from being Stunned to Prone, you can simply flip the token over as well.
 
-## DISTRACTED TOKEN – BLUE
+## DISTRACTED TOKEN - BLUE
 
-Many effects in Blood Bowl will confer the Distracted condition onto a player (see page 39). Using this token is a great way of making sure coaches are aware of which players are Distracted and therefore don’t have a Tackle Zone, and cannot use Active Skills or Traits.
+Many effects in Blood Bowl will confer the Distracted condition onto a player (see page 39). Using this token is a great way of making sure coaches are aware of which players are Distracted and therefore don't have a Tackle Zone, and cannot use Active Skills or Traits.
 
-## BLITZ TOKEN – GOLD
+## BLITZ TOKEN - GOLD
 
-Only a single player can declare a Blitz Action each turn (see page 64), and so placing this token next to a player who has performed a Blitz Action is a good way of making sure coaches don’t forget and try to declare a second one in the same turn by accident.
+Only a single player can declare a Blitz Action each turn (see page 64), and so placing this token next to a player who has performed a Blitz Action is a good way of making sure coaches don't forget and try to declare a second one in the same turn by accident.
 
-## DODGY SNACK TOKEN – GREEN
+## DODGY SNACK TOKEN - GREEN
 
-When the Dodgy Snack result is rolled on the Kick-off Event Table (see page 48), it’s a good idea to mark the affected players with these tokens so both coaches remember who is suffering the effects!
+When the Dodgy Snack result is rolled on the Kick-off Event Table (see page 48), it's a good idea to mark the affected players with these tokens so both coaches remember who is suffering the effects!
 
-## EYE GOUGE TOKEN – PURPLE
+## EYE GOUGE TOKEN - PURPLE
 
-The Eye Gouge Skill (see page 128) means that affected players cannot provide Offensive or Defensive Assists when other players are performing a Block Action. To ensure this isn’t overlooked, these tokens will help coaches remember who is affected.
+The Eye Gouge Skill (see page 128) means that affected players cannot provide Offensive or Defensive Assists when other players are performing a Block Action. To ensure this isn't overlooked, these tokens will help coaches remember who is affected.
 
-## ROOTED TOKEN – BROWN
+## ROOTED TOKEN - BROWN
 
-In the unfortunate event that a Treeman becomes Rooted (see page 137) – or fortunate if you are on the opposing team – place a Rooted token next to them to make sure that they remain in place until the condition ends.
+In the unfortunate event that a Treeman becomes Rooted (see page 137) - or fortunate if you are on the opposing team - place a Rooted token next to them to make sure that they remain in place until the condition ends.
 
-## CHOMPED TOKEN – WHITE
+## CHOMPED TOKEN - WHITE
 
-Players affected by the Chomped condition (see page 131) cannot move until the player chomping them relinquishes them – either willingly or by force! Placing a Chomped token next to affected players serves as an important reminder.
+Players affected by the Chomped condition (see page 131) cannot move until the player chomping them relinquishes them - either willingly or by force! Placing a Chomped token next to affected players serves as an important reminder.
 
 ## BALL TOKEN
 
-The ball token has two sides, one showing that the ball is loose and the other showing that a player has possession of the ball. The ‘in possession’ side is also indented allowing a player on a 32mm base to fit inside making it really easy to see where the ball is at a moment’s glance!
+The ball token has two sides, one showing that the ball is loose and the other showing that a player has possession of the ball. The ‘in possession' side is also indented allowing a player on a 32mm base to fit inside making it really easy to see where the ball is at a moment's glance!
 
 There is even a hole for a Blood Bowl ball with a peg to be slotted in for that extra level of detail.
 
 ## THROWN PLAYER TOKEN
 
-When a player is being thrown by a team-mate (see page 76) it is a good idea to have a marker showing where the player will currently land. This also helps when Scattering the player so that you don’t have to move the thrown player until the final destination is determined. The reverse of this token is the Bomb token.
+When a player is being thrown by a team-mate (see page 76) it is a good idea to have a marker showing where the player will currently land. This also helps when Scattering the player so that you don't have to move the thrown player until the final destination is determined. The reverse of this token is the Bomb token.
 
 ## BOMB TOKEN
 
-When a player uses the Bombardier Trait (see page 125) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait’s description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.
+When a player uses the Bombardier Trait (see page 125) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait's description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.
 

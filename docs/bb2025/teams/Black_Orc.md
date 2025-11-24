@@ -1,13 +1,13 @@
 ﻿**TIER 2**
-![](../media/teams/BlackOrcTeamLead.jpg)
+![](../media/teams/BBBlackOrcTeamLead.jpg)
 
 ### Positionals
 
 | Qty  | Position                               | MA | ST | AG | PA | AR  | Skills                                                                                                       | Primary | Secondary | Cost |
 | ---- | --------------------------------------- | -- | -- | -- | -- | --- | ------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Goblin Bruiser *(Lineman, Orc)*         | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Thick Skull]                                                | A       | G P S     | 45K  |
-| 0-6  | Black Orc *(Orc)*                       | 4  | 4  | 4+ | 5+ | 10+ | • [Brawler]<br>• [Grab]                                                                                      | G S     | A P       | 90K  |
-| 0-1  | Trained Troll *(Big Guy, Troll)*        | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (3+)<br>• [Mighty Blow] (+1)<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
+| 0-12 | Goblin Bruiser *(Lineman, Orc)*         | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Thick Skull]                                                | A       | G P S     | 45K  |
+| 0-6  | Black Orc *(Orc)*                       | 4  | 4  | 4+ | 5+ | 10+ | • [Brawler]<br>• [Grab]                                                                                      | G S     | A P       | 90K  |
+| 0-1  | Trained Troll *(Big Guy, Troll)*        | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (3+)<br>• [Mighty Blow] (+1)<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

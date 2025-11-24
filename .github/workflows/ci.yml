@@ -43,13 +43,11 @@ jobs:
         run: |
           pip install mkdocs-material mike
 
-      - name: Deploy bb2020
+      - name: Build versions
         run: |
-          mike deploy --config-file mkdocs-2020.yml bb2020 --push
+          mike deploy --config-file mkdocs-2020.yml bb2020
+          mike deploy --config-file mkdocs-2025.yml bb2025
+          mike set-default bb2025
 
-      - name: Deploy bb2025
-        run: |
-          mike deploy --config-file mkdocs-2025.yml bb2025 --push
-
-      - name: Set default version
-        run: mike set-default bb2025 --push
+      - name: Push changes
+        run: mike push
