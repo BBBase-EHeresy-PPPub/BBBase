@@ -1,0 +1,160 @@
+site_name: Blood Bowl Base
+docs_dir: docs/bb2025
+
+theme:
+  name: material
+  palette:
+  - scheme: default
+    toggle:
+      icon: material/toggle-switch
+  - scheme: slate
+    toggle:
+      icon: material/toggle-switch-off-outline
+  custom_dir: docs/bb2025/overrides
+  logo: assets/BB2020_Badge.png
+  favicon: assets/BB2020_Favicon.ico
+  font:
+    text: Roboto Slab
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - versioning
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/tooltip_skills.md
+        - includes/tooltip_teams.md
+        - includes/tooltip_staff.md
+        - includes/tooltip_starplayers.md
+        - includes/tooltip_team_special_rules.md
+        - includes/tooltip_inducements.md
+nav:
+  - Cheat Sheet: 'core_rules/cheat_sheet.md'
+  - Core Rules:
+    - Core Rules: 'core_rules/index.md'
+    - Game Essentials: 'core_rules/game_essentials.md'
+    - Rules and Regulations: 'core_rules/rules_and_regulations.md'
+    - The Game of Blood Bowl: 'core_rules/the_game_of_blood_bowl.md'
+    - Drafting a Blood Bowl Team: 'core_rules/drafting_a_blood_bowl_team.md'
+    - League Play: 'core_rules/league_play.md'
+    - Matched Play: 'core_rules/matched_play.md'
+    - Exhibition Play: 'core_rules/exhibition_play.md'
+    - Skills & Traits: 'core_rules/skills_and_traits.md'
+    - Inducements: 'core_rules/inducements.md'
+    - The Teams: 'core_rules/the_teams.md'
+    - Lastest FAQ: 'core_rules/latest_faq.md'
+
+  - Spike! Journal:
+      - 'Spike! Journal': 'spike_journal/index.md'
+      - 'Spike! Journal 19': 'spike_journal/issue_19.md'
+      - 'Spike! Journal 20': 'spike_journal/issue_20.md'
+  - Teams:
+      - 'Teams': 'teams/index.md'
+      - 'Amazon': 'teams/Amazon.md'
+      - 'Black Orc': 'teams/Black_Orc.md'
+      - 'Bretonnian': 'teams/Bretonnian.md'
+      - 'Chaos Chosen': 'teams/Chaos_Chosen.md'
+      - 'Chaos Dwarf': 'teams/Chaos_Dwarf.md'
+      - 'Chaos Renegades': 'teams/Chaos_Renegades.md'
+      - 'Dark Elf': 'teams/Dark_Elf.md'
+      - 'Dwarf': 'teams/Dwarf.md'
+      - 'Elven Union': 'teams/Elven_Union.md'
+      - 'Gnome': 'teams/Gnome.md'
+      - 'Goblin': 'teams/Goblin.md'
+      - 'Halfling': 'teams/Halfling.md'
+      - 'High Elf': 'teams/High_Elf.md'
+      - 'Human': 'teams/Human.md'
+      - 'Imperial Nobility': 'teams/Imperial_Nobility.md'
+      - 'Khorne': 'teams/Khorne.md'
+      - 'Lizardmen': 'teams/Lizardmen.md'
+      - 'Necromantic Horror': 'teams/Necromantic_Horror.md'
+      - 'Norse': 'teams/Norse.md'
+      - 'Nurgle': 'teams/Nurgle.md'
+      - 'Ogre': 'teams/Ogre.md'
+      - 'Old World Alliance': 'teams/Old_World_Alliance.md'
+      - 'Orc': 'teams/Orc.md'
+      - 'Shambling Undead': 'teams/Shambling_Undead.md'
+      - 'Skaven': 'teams/Skaven.md'
+      - 'Snotling': 'teams/Snotling.md'
+      - 'Tomb Kings': 'teams/Tomb_Kings.md'
+      - 'Underworld Denizens': 'teams/Underworld_Denizens.md'
+      - 'Vampire': 'teams/Vampire.md'
+      - 'Wood Elf': 'teams/Wood_Elf.md'
+  - Star Players:
+      - 'Star Players': 'starplayers/index.md'
+      - 'Akhorne The Squirrel': 'starplayers/Akhorne_The_Squirrel.md'
+      - 'Anqi Panqi': 'starplayers/Anqi_Panqi.md'
+      - 'Barik Farblast': 'starplayers/Barik_Farblast.md'
+      - 'Bilerot Vomitflesh': 'starplayers/Bilerot_Vomitflesh.md'
+      - "Boa Kon'ssstriktr": "starplayers/Boa_Kon'ssstriktr.md"
+      - 'Bomber Dribblesnot': 'starplayers/Bomber_Dribblesnot.md'
+      - "Bryce 'The Slice' Cambuel": "starplayers/Bryce_'The_Slice'_Cambuel.md"
+      - "'Captain' Karina Von Riesz": "starplayers/'Captain'_Karina_Von_Riesz.md"
+      - 'Cindy Piewhistle': 'starplayers/Cindy_Piewhistle.md'
+      - 'Count Luthor von Drakenborg': 'starplayers/Count_Luthor_von_Drakenborg.md'
+      - 'Deeproot Strongbranch': 'starplayers/Deeproot_Strongbranch.md'
+      - 'Dribl and Drull': 'starplayers/Dribl_and_Drull.md'
+      - 'Eldril Sidewinder': 'starplayers/Eldril_Sidewinder.md'
+      - 'Estelle la Veneaux': 'starplayers/Estelle_la_Veneaux.md'
+      - "Frank 'n' Stein": "starplayers/Frank_'n'_Stein.md"
+      - 'Fungus the Loon': 'starplayers/Fungus_the_Loon.md'
+      - 'Glart Smashrip': 'starplayers/Glart_Smashrip.md'
+      - 'Gloriel Summerbloom': 'starplayers/Gloriel_Summerbloom.md'
+      - 'Glotl Stop': 'starplayers/Glotl_Stop.md'
+      - 'Grak and Crumbleberry': 'starplayers/Grak_and_Crumbleberry.md'
+      - 'Grashnak Blackhoof': 'starplayers/Grashnak_Blackhoof.md'
+      - "Gretchen Wächter 'The Blood Bowl Widow'": "starplayers/Gretchen_Wächter_'The_Blood_Bowl_Widow'.md"
+      - 'Griff Oberwald': 'starplayers/Griff_Oberwald.md'
+      - 'Grim Ironjaw': 'starplayers/Grim_Ironjaw.md'
+      - 'Grombrindal, The White Dwarf': 'starplayers/Grombrindal,_The_White_Dwarf.md'
+      - 'Guffle Pussmaw': 'starplayers/Guffle_Pussmaw.md'
+      - 'Hakflem Skuttlespike': 'starplayers/Hakflem_Skuttlespike.md'
+      - 'Helmut Wulf': 'starplayers/Helmut_Wulf.md'
+      - "H'thark the Unstoppable": "starplayers/H'thark_the_Unstoppable.md"
+      - "Ivan 'the Animal' Deathshroud": "starplayers/Ivan_'the_Animal'_Deathshroud.md"
+      - 'Ivar Eriksson': 'starplayers/Ivar_Eriksson.md'
+      - 'Jeremiah Kool': 'starplayers/Jeremiah_Kool.md'
+      - 'Jordell Freshbreeze': 'starplayers/Jordell_Freshbreeze.md'
+      - 'Karla Von Kill': 'starplayers/Karla_Von_Kill.md'
+      - 'Kiroth Krakeneye': 'starplayers/Kiroth_Krakeneye.md'
+      - "Kreek 'the Verminator' Rustgouger": "starplayers/Kreek_'the_Verminator'_Rustgouger.md"
+      - 'Lord Borak the Despoiler': 'starplayers/Lord_Borak_the_Despoiler.md'
+      - 'Maple Highgrove': 'starplayers/Maple_Highgrove.md'
+      - 'Max Spleenripper': 'starplayers/Max_Spleenripper.md'
+      - 'Mighty Zug': 'starplayers/Mighty_Zug.md'
+      - "Morg 'n' Thorg": "starplayers/Morg_'n'_Thorg.md"
+      - 'Nobbla Blackwart': 'starplayers/Nobbla_Blackwart.md'
+      - 'Puggy Baconbreath': 'starplayers/Puggy_Baconbreath.md'
+      - 'Rashnak Backstabber': 'starplayers/Rashnak_Backstabber.md'
+      - 'Ripper Bolgrot': 'starplayers/Ripper_Bolgrot.md'
+      - 'Rodney Roachbait': 'starplayers/Rodney_Roachbait.md'
+      - 'Rowana Forestfoot': 'starplayers/Rowana_Forestfoot.md'
+      - 'Roxanna Darknail': 'starplayers/Roxanna_Darknail.md'
+      - 'Rumbelow Sheepskin': 'starplayers/Rumbelow_Sheepskin.md'
+      - 'Scrappa Sorehead': 'starplayers/Scrappa_Sorehead.md'
+      - 'Scyla Anfingrimm': 'starplayers/Scyla_Anfingrimm.md'
+      - 'Skitter Stab-stab': 'starplayers/Skitter_Stab-stab.md'
+      - 'Skrorg Snowpelt': 'starplayers/Skrorg_Snowpelt.md'
+      - 'Skrull Halfheight': 'starplayers/Skrull_Halfheight.md'
+      - 'Swiftvine Glimmershard': 'starplayers/Swiftvine_Glimmershard.md'
+      - 'The Black Gobbo': 'starplayers/The_Black_Gobbo.md'
+      - 'The Swift Twins': 'starplayers/The_Swift_Twins.md'
+      - 'Thorsson Stoutmead': 'starplayers/Thorsson_Stoutmead.md'
+      - 'Varag Ghoul-Chewer': 'starplayers/Varag_Ghoul-Chewer.md'
+      - 'Wilhelm Chaney': 'starplayers/Wilhelm_Chaney.md'
+      - 'Willow Rosebark': 'starplayers/Willow_Rosebark.md'
+      - 'Withergrasp Doubledrool': 'starplayers/Withergrasp_Doubledrool.md'
+      - 'Zolcath the Zoat': 'starplayers/Zolcath_the_Zoat.md'
+      - 'Zzharg Madeye': 'starplayers/Zzharg_Madeye.md'
