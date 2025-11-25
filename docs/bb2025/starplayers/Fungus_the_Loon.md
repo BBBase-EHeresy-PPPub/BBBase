@@ -9,7 +9,7 @@
 * [Ball and Chain]
 * [Loner] (4+)
 * [Mighty Blow] (+1)
-* [No Hands]
+* [No Ball]
 * [Secret Weapon]
 * [Stunty]
 * **Whirling Dervish**

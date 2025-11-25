@@ -4,7 +4,7 @@
 
 Blood Bowl is, without a doubt, the greatest game ever played in the Old World - just ask any of its legions of fans who will animatedly tell anyone who will listen just how good it is! Tactical, challenging and outrageously funny, Blood Bowl is a fantasy football game like no other, that will keep coaches coming back for more.
 
-To play a game of Blood Bowl there are a few key items you will need. Before diving into the world of Blood Bowl and exploring the rules of the game further, let’s take a look at a game in action and list the vital components that are required:
+To play a game of Blood Bowl there are a few key items you will need. Before diving into the world of Blood Bowl and exploring the rules of the game further, let's take a look at a game in action and list the vital components that are required:
 
 1. **BLOOD BOWL PITCH:** This is a foldout cardboard playing surface, marked out to emulate a pitch that might be found in the Blood Bowl world.
 2. **TWO DUGOUTS:** These are used to keep track of game information, as well as providing somewhere to place reserves and injured players.

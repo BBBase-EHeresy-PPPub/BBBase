@@ -1,12 +1,12 @@
-**B**lood Bowl teams come in all shapes and sizes. From elegant Elves to stoic Dwarfs; diminutive Halflings to hulking Ogres; well-drilled Humans to sneaky Skaven - there is a team for everyone and all styles of pick-up!
+Blood Bowl teams come in all shapes and sizes. From elegant Elves to stoic Dwarfs; diminutive Halflings to hulking Ogres; well-drilled Humans to sneaky Skaven - there is a team for everyone and all styles of pick-up!
 
 These races come from all across the known world, and there are countless teams of each type that have competed on the gridiron over the years. Some of these teams will have been made up of fresh-faced rookies hoping to make it big, whilst others will have been established teams brimming with history and grizzled veterans of the game, and everywhere in between. Whilst some teams may reach the lofty heights and go down in the annals of Blood Bowl history, most will simply be no more than a footnote - doomed to be nothing more than an obscure pub quiz answer in taverns across the Old World!
 
-# BLOOD BOWL TEAMS!
+## BLOOD BOWL TEAMS!
 
 In this section, we will present all of the different Team Rosters from which you can build your teams. Within each Team Roster, you will find the various player types the team can field along with the player profiles, as well as how many of each they are allowed to hire. A Team Roster will state how many gold pieces a Team Re-roll will cost and whether the team can hire an Apothecary. It will also state which League a team plays for and which special rules the team has. These are both explained here.
 
-# TEAM LEAGUES!
+## TEAM LEAGUES!
 
 Some Inducements are only available to teams from a certain League. This is particularly true for Star Players, whose cards will list the Leagues they can play for. What this means is that a team will need to have selected that particular League in order to purchase those Inducements or hire those Star Players.
 
@@ -42,7 +42,7 @@ The Woodland League is played within the various forests and hidden groves throu
 ### WORLDS EDGE SUPERLEAGUE
 Played on the high peaks and mountain holds of the Worlds Edge Mountains, the Superleague is a hard-hitting affair. Though it used to be solely a league for Dwarfen teams to showcase their skills, in recent years other mountain-dwelling realms have made their way into its ranks - mostly through sheer brute force and pig-headedness!
 
-# SPECIAL RULES!
+## SPECIAL RULES!
 
 Blood Bowl teams are all different, and most teams will have at least one special rule. Generally speaking, these represent the various different play styles or unique aspects that make a particular team feel how they should.
 
@@ -101,7 +101,7 @@ When drafting a Team Draft Roster for a team with this special rule, you may nom
 
 If setting up at the start of a Drive, a Team Captain can be fielded your Team Captain has suffered an injury that has reduced one of their characteristics. However, should your Team Captain ever be killed during a game, then you may appoint a new Team Captain at the end of the game.
 
-# TEAM TIERS!
+## TEAM TIERS!
 
 Not every team was created equal. Some teams are more challenging to Coach than others, either because of the player type and Skills available to the team, or simply because their background dictates they should be - after all, how much chance would a team of pint-sized, lazy Halflings have against a team of hulking, barbaric Chaos Chosen driven by a murderous rage?
 
@@ -111,8 +111,7 @@ The Tiers each team is in is constantly being assessed by the Blood Bowl Rules t
 
 Below is a rough indication of what each Tier means:
 
-- **Tier 1** is for the best performing teams in the game, those that have all the tools they need to take on any team and recover from mistakes easily.
-- **Tier 2** is for those teams that can compete on their own merit, though don't quite have the same flexibility as those in Tier 1.
-- **Tier 3** is for those teams that will require a bit more trickery and experience to perform well.
-- **Tier 4** is reserved for the weakest (often most fun!) teams in Blood Bowl. Often these will be the 'Stunty' teams, ones where their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!
-
+- Tier 1 is for the best performing teams in the game, those that have all the tools they need to take on any team and recover from mistakes easily.
+- Tier 2 is for those teams that can compete on their own merit, though don't quite have the same flexibility as those in Tier 1.
+- Tier 3 is for those teams that will require a bit more trickery and experience to perform well.
+- Tier 4 is reserved for the weakest (often most fun!) teams in Blood Bowl. Often these will be the 'Stunty' teams, ones where their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!

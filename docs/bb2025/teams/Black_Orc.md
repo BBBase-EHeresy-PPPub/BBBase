@@ -11,44 +11,44 @@
 
 ### Special Rules
 
-* [Badlands Brawl]  
-* [Bribery & Corruption]
+* [Badlands Brawl]
+* [Bribery and Corruption]
 
 ### Staff
 
-* [Cheerleader] - 10K  
-* [Assistant Coach] - 10K  
-* [Apothecary] - 50K  
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Apothecary] - 50K
 * [Re-roll] - 60K
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K  
-* [Fungus The Loon] - 80K  
-* [Bomber Dribblesnot] - 50K  
-* [Nobbla Blackwart] - 120K  
-* [Scrappa Sorehead] - 130K  
-* [Rashnak Backstabber] - 130K  
-* [Zzharg Madeye] - 130K  
-* [The Black Gobbo] - 225K  
-* [Grak and Crumbleberry] - 250K  
-* [Ripper Bolgrot] - 250K  
-* [Varag Ghoul-Chewer] - 280K  
-* [H’thark The Unstoppable] - 300K  
-* [Glotl Stop] - 260K  
-* [Morg ‘n’ Thorg] - 380K  
+* [Akhorne The Squirrel] - 80K
+* [Fungus The Loon] - 80K
+* [Bomber Dribblesnot] - 50K
+* [Nobbla Blackwart] - 120K
+* [Scrappa Sorehead] - 130K
+* [Rashnak Backstabber] - 130K
+* [Zzharg Madeye] - 130K
+* [The Black Gobbo] - 225K
+* [Grak and Crumbleberry] - 250K
+* [Ripper Bolgrot] - 250K
+* [Varag Ghoul-Chewer] - 280K
+* [H'thark The Unstoppable] - 300K
+* [Glotl Stop] - 260K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 
-* [Temp Agency Cheerleader] - 5K  
-* [Prayers to Nuffle] - 10K  
-* [Part-time Assistant Coach] - 20K  
-* [Team Mascot] - 25K  
-* [Weather Mage] - 25K  
-* [Blitzer’s Best Keg] - 50K  
-* [Bribe] - 100K  
-* [Extra Team Training] - 100K  
-* [Wandering Apothecary] - 100K  
-* [Hireling Sports-Wizard] (Wizard) - 150K  
-* [Biased Referee] - 120K  
+* [Temp Agency Cheerleader] - 5K
+* [Prayers to Nuffle] - 10K
+* [Part-time Assistant Coach] - 20K
+* [Team Mascot] - 25K
+* [Weather Mage] - 25K
+* [Blitzer's Best Keg] - 50K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Wandering Apothecary] - 100K
+* [Wizard] - 150K
+* [Biased Referee] - 120K
 * [Halfling Master Chef] - 300K

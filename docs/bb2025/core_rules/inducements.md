@@ -50,7 +50,7 @@ For each Prayer to Nuffle a team purchases, roll a D16 (re-rolling any results a
 | D16 | RESULT |
 |-----|---------|
 | 1 | **Treacherous Trapdoor:** Each time a player from either team enters a square containing a Trapdoor for any reason, roll a D6. On a 1, the Trapdoor falls open and the player falls through it. Make an Injury Roll for the player exactly as if they had been Pushed into the Crowd. If the player was holding the ball, it will Bounce from the Trapdoor square. |
-| 2 | **Friends with the Ref:** Whenever you Argue the Call, treat any roll of a 5 or 6 as "Well, when you put it like that…" |
+| 2 | **Friends with the Ref:** Whenever you Argue the Call, treat any roll of a 5 or 6 as "Well, when you put it like that..." |
 | 3 | **Stiletto:** Randomly select one player on your team that is playing this game. The selected player gains the Stab Trait for the duration of the game. |
 | 4 | **Iron Man:** Select one player on your team that is playing this game. The selected player improves their AV by 1 (to a maximum of 11+) for the duration of the game. |
 | 5 | **Knuckle Dusters:** Select one player on your team that is playing this game. The selected player gains the Mighty Blow Skill for the duration of the game. |
@@ -249,6 +249,6 @@ A Frog has the following profile:
 
 | FROG (FROG, SPECIAL) | MA | ST | AG | PA | AV      | Skills & Traits                  |
 |----------------------|----|----|----|----|---------|----------------------------------|
-|                      | 5  | 1  | 2+ | 5+ | 9+ | [Dodge], [Leap], [No Hands], [Stunty], [Titchy], [Very Long Legs] |
+|                      | 5  | 1  | 2+ | 5+ | 9+ | [Dodge], [Leap], [No Ball], [Stunty], [Titchy], [Very Long Legs] |
 
 If a Frog suffers a Casualty, do not make a Casualty Roll for them. Instead, they will automatically suffer the Badly Hurt result. An Apothecary cannot be used on a Frog. At the end of the current Drive, the player turned into a Frog will return to normal with no ill effects and be put in the Reserves Box ready for the next Drive.

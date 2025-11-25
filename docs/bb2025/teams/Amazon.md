@@ -16,9 +16,9 @@
 
 ### Staff
 
-* [Cheerleader] - 10K  
-* [Assistant Coach] - 10K  
-* [Apothecary] - 50K  
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Apothecary] - 50K
 * [Re-roll] - 60K
 
 ### Starplayers
@@ -42,11 +42,11 @@
 * [Part-time Assistant Coach] - 20K
 * [Team Mascot] - 25K
 * [Weather Mage] - 30K
-* [Blitzer's Best Kegs] - 50K
+* [Blitzer's Best Keg] - 50K
 * [Bribe] - 100K
 * [Extra Team Training] - 100K
 * [Wandering Apothecary] - 100K
-* [Hireling Sports-Wizard] (Wizard) - 150K
+* [Wizard] - 150K
 * [Biased Referee] - 120K
 * [Halfling Master Chef] - 300K
 

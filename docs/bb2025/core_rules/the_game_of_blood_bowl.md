@@ -65,9 +65,6 @@ The final thing to do before starting a game is to determine which team is kicki
 
 On the tabletop, this is represented through a simple roll-off (see page 33). The Coach who rolls highest decides which team is kicking and which team is receiving. Once this has been decided, you are ready to play a game of Blood Bowl!
 
-DID YOU KNOW…
-Contrary to popular belief, and despite frequent and very persistent rumours, the revolutionary astrogranite playing surface is definitely not made from the bones of defeated Blood Bowl finalists. Well, that's what they told us, at least!
-
 START OF A DRIVE!
 
 Once it has been decided who is kicking and who is receiving, it is time to start the first Drive of the game. Whenever a Drive starts, either at the start of a half or after one team has scored, Coaches will need to follow the Start of Drive Sequence below:
@@ -212,7 +209,7 @@ A player may attempt to hand-off the ball to another Standing player on their te
 ---
 
 ## THROW TEAM-MATE ACTION
-Some larger players have the ability to throw certain team-mates through the air, either to get the ball carrier up the field or to launch a ‘willing' ally at the opposition. A player that declares a Throw Team-mate Action may also make a free Move Action before throwing their team-mate, but may not continue moving after the pass has been made. A player may only declare a Throw Team-mate Action if they have the Throw Team-mate Trait, and may only throw a team-mate that has the Right Stuff Trait. Only a single Throw Team-mate Action can be declared each Turn. Throw Team-mate Actions are covered on page 76.
+Some larger players have the ability to throw certain team-mates through the air, either to get the ball carrier up the field or to launch a 'willing' ally at the opposition. A player that declares a Throw Team-mate Action may also make a free Move Action before throwing their team-mate, but may not continue moving after the pass has been made. A player may only declare a Throw Team-mate Action if they have the Throw Team-mate Trait, and may only throw a team-mate that has the Right Stuff Trait. Only a single Throw Team-mate Action can be declared each Turn. Throw Team-mate Actions are covered on page 76.
 
 ## FOUL ACTION
 It's not all good, clean fun in Blood Bowl; some players are prone to sticking the boot in when the ref isn't looking! A player that declares a Foul Action may also make a free Move Action before making the foul, but may not continue moving after the foul has been made. Only a single Foul Action can be declared each Turn. Foul Actions are covered on page 69.
@@ -232,7 +229,7 @@ Sometimes you may not wish to activate a player on your team, in which case they
 ---
 
 ## DECLARE VS PERFORM
-Some rules will come into play when a player ‘declares' a specific action, whilst others will come into play when a player ‘performs' a specific action. There is an important distinction between declare and perform:
+Some rules will come into play when a player 'declares' a specific action, whilst others will come into play when a player 'performs' a specific action. There is an important distinction between declare and perform:
 
 An action is declared at the start of a player's activation, and so rules that come into play when an action is declared will take effect at this time - so long as the declared action matches the action in the relevant rule.
 
@@ -650,7 +647,7 @@ One tactic that is always a hit with the fans is the sight of one larger player 
 
 There are two main reasons that the bigger guys in Blood Bowl will throw a team-mate during the course of a game. The first, and far more sensible reason, is to launch a friendly player in possession of the ball downfield and over the heads of the defence in order for them to - hopefully - land and run in a touchdown.
 
-The second reason is one fuelled more by aggression when a player has had enough of an opponent running rings around them and decides to launch a ‘willing' ally at them to teach them a lesson. This has proved to be a particularly effective tactic for dealing with troublesome opponents, but can end up leaving a trail of injured team-mates in its wake!
+The second reason is one fuelled more by aggression when a player has had enough of an opponent running rings around them and decides to launch a 'willing' ally at them to teach them a lesson. This has proved to be a particularly effective tactic for dealing with troublesome opponents, but can end up leaving a trail of injured team-mates in its wake!
 
 ## PERFORMING A THROW TEAM-MATE ACTION
 

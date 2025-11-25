@@ -10,6 +10,7 @@
 [Sidestep]: ../core_rules/skills_and_traits.md#sidestep-active
 [Sprint]: ../core_rules/skills_and_traits.md#sprint-active
 [Sure Feet]: ../core_rules/skills_and_traits.md#sure-feet-active
+
 [Dirty Player]: ../core_rules/skills_and_traits.md#dirty-player-active
 [Eye Gouge]: ../core_rules/skills_and_traits.md#eye-gouge-active
 [Fumblerooski]: ../core_rules/skills_and_traits.md#fumblerooski-active
@@ -22,6 +23,7 @@
 [Shadowing]: ../core_rules/skills_and_traits.md#shadowing-active
 [Sneaky Git]: ../core_rules/skills_and_traits.md#sneaky-git-active
 [Violent Innovator]: ../core_rules/skills_and_traits.md#violent-innovator-active
+
 [Block]: ../core_rules/skills_and_traits.md#block-active
 [Dauntless]: ../core_rules/skills_and_traits.md#dauntless-active
 [Fend]: ../core_rules/skills_and_traits.md#fend-active
@@ -34,6 +36,7 @@
 [Tackle]: ../core_rules/skills_and_traits.md#tackle-active
 [Taunt]: ../core_rules/skills_and_traits.md#taunt-active
 [Wrestle]: ../core_rules/skills_and_traits.md#wrestle-active
+
 [Big Hand]: ../core_rules/skills_and_traits.md#big-hand-active
 [Claws]: ../core_rules/skills_and_traits.md#claws-passive
 [Disturbing Presence]: ../core_rules/skills_and_traits.md#disturbing-presence-passive
@@ -46,6 +49,7 @@
 [Tentacles]: ../core_rules/skills_and_traits.md#tentacles-active
 [Two Heads]: ../core_rules/skills_and_traits.md#two-heads-active
 [Very Long Legs]: ../core_rules/skills_and_traits.md#very-long-legs-active
+
 [Accurate]: ../core_rules/skills_and_traits.md#accurate-active
 [Cannoneer]: ../core_rules/skills_and_traits.md#cannoneer-active
 [Cloud Burster]: ../core_rules/skills_and_traits.md#cloud-burster-active
@@ -58,6 +62,7 @@
 [Pass]: ../core_rules/skills_and_traits.md#pass-active
 [Punt]: ../core_rules/skills_and_traits.md#punt-active
 [Safe Pass]: ../core_rules/skills_and_traits.md#safe-pass-active
+
 [Arm Bar]: ../core_rules/skills_and_traits.md#arm-bar-active
 [Brawler]: ../core_rules/skills_and_traits.md#brawler-active
 [Break Tackle]: ../core_rules/skills_and_traits.md#break-tackle-active
@@ -70,6 +75,7 @@
 [Stand Firm]: ../core_rules/skills_and_traits.md#stand-firm-active
 [Strong Arm]: ../core_rules/skills_and_traits.md#strong-arm-active
 [Thick Skull]: ../core_rules/skills_and_traits.md#thick-skull-passive
+
 [Always Hungry]: ../core_rules/skills_and_traits.md#always-hungry-active
 [Animal Savagery]: ../core_rules/skills_and_traits.md#animal-savagery-passive
 [Animosity]: ../core_rules/skills_and_traits.md#animosity-x-active

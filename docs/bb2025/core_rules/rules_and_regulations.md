@@ -44,11 +44,11 @@ As the old adage goes: *"It's not the winning or losing that counts, but the way
 Before we go any further, it is worth going through some commonly seen principles and phrases that you will see throughout this rulebook. Many of these will govern certain aspects of a game of Blood Bowl and so will need explaining before you get started.
 
 ## COACH AND PLAYERS
-Whilst in other games the models on the tabletop represent the likes of warriors and are played by ‘players', Blood Bowl represents a sporting fixture rather than a battle between two opposing forces. To keep within the theme of such a sporting event, and to avoid any confusion when playing, it is important to clarify what is meant when you see terms such as ‘player' or ‘Coach'.
+Whilst in other games the models on the tabletop represent the likes of warriors and are played by 'players', Blood Bowl represents a sporting fixture rather than a battle between two opposing forces. To keep within the theme of such a sporting event, and to avoid any confusion when playing, it is important to clarify what is meant when you see terms such as 'player' or 'Coach'.
 
-The ‘Coach' is you: the person physically rolling the dice, moving the models and making the decisions.
+The 'Coach' is you: the person physically rolling the dice, moving the models and making the decisions.
 
-The models on the pitch are referred to as ‘players' as they are the ones playing the game. Additionally, players that are playing on the same team are referred to as ‘team-mates' and any opposing players are referred to as ‘opposition players'.
+The models on the pitch are referred to as 'players' as they are the ones playing the game. Additionally, players that are playing on the same team are referred to as 'team-mates' and any opposing players are referred to as 'opposition players'.
 
 ## RANDOMLY SELECTING A PLAYER
 Sometimes the rules will call for you to randomly select a player on either yours or your opponent's team. When this is the case, simply roll a D16 and compare the number to the players on the relevant team draft list. The corresponding player will be the one that is selected. If there is no corresponding player, simply roll again until a player has been selected.
@@ -56,17 +56,17 @@ Sometimes the rules will call for you to randomly select a player on either your
 ## ROLLING DICE
 The dice you roll will determine the outcome of your player's actions; whether they successfully pass the ball, tackle an opposition player, dodge past an opposition line, or all manner of other situations during the course of a game. The majority of actions will use ordinary six-sided dice (D6) or Block dice, though sometimes you will need to roll the likes of an eight-sided dice (D8) or sixteen-sided dice (D16).
 
-## ‘COCKED' DICE
-Sometimes you will roll a dice and it won't land completely flat or, worse yet, it will roll off the table. In these situations, the dice should simply be rolled again to give a result that is completely flat. The likes of a dice tray are ideal for ensuring that dice roll flat. Coaches should also discuss what counts as a ‘cocked' dice before the game starts.
+## 'COCKED' DICE
+Sometimes you will roll a dice and it won't land completely flat or, worse yet, it will roll off the table. In these situations, the dice should simply be rolled again to give a result that is completely flat. The likes of a dice tray are ideal for ensuring that dice roll flat. Coaches should also discuss what counts as a 'cocked' dice before the game starts.
 
 ## SINGLE DICE ROLLS
-Often, the rules will require you to roll a single dice, in which case it will say ‘roll a D6', ‘roll a D8' or ‘roll a D16'. Sometimes you will be asked to ‘roll a D3'; to do this, roll a D6 and half the value shown on the dice, rounding any fractions up.
+Often, the rules will require you to roll a single dice, in which case it will say 'roll a D6', 'roll a D8' or 'roll a D16'. Sometimes you will be asked to 'roll a D3'; to do this, roll a D6 and half the value shown on the dice, rounding any fractions up.
 
 ## MULTIPLE DICE ROLLS
-Sometimes the rules will ask a Coach to roll ‘2D6'. This is a multiple dice roll and requires two D6s to be rolled and added together, to give a result between 2 and 12.
+Sometimes the rules will ask a Coach to roll '2D6'. This is a multiple dice roll and requires two D6s to be rolled and added together, to give a result between 2 and 12.
 
 ## DICE POOLS
-You may be required to roll multiple dice at once and select a single result from those rolled. For example, a Coach may need to roll two or three Block dice and pick a result. This is called a ‘pool' of dice.
+You may be required to roll multiple dice at once and select a single result from those rolled. For example, a Coach may need to roll two or three Block dice and pick a result. This is called a 'pool' of dice.
 
 ## TARGET NUMBER ROLLS
 Often when making a dice roll, the rules will require you to roll a certain number followed by a +. This is a target number roll and shows the minimum score on the dice needed to succeed in that particular situation. For example, if a rule required you to roll a 3+, then any roll of a 3, 4, 5 or 6 would be successful.
@@ -118,7 +118,7 @@ There are a number of terms that denote an amount of time over the course of a g
 - **TURN** - A turn is when a Coach gets the chance to activate each of their players on the pitch. A Coach has eight turns per half, one per round.
 
 ## DEVIATE AND SCATTER
-Sometimes the rules will call for something to ‘Deviate' or ‘Scatter' due to an effect. This will usually be the ball, but not always - Blood Bowl is a strange game after all!
+Sometimes the rules will call for something to 'Deviate' or 'Scatter' due to an effect. This will usually be the ball, but not always - Blood Bowl is a strange game after all!
 
 ### DEVIATE
 When something Deviates, roll a D6 and a D8. The object will move a number of squares equal to the roll on the D6 in the direction determined by the D8 and the Random Direction Template. When something Deviates, the rules will explain what happens after the object is moved to its new square.
@@ -222,7 +222,7 @@ This is how good the player is at throwing the ball and is represented by a targ
 9. AV - ARMOUR VALUE
 Armour Value represents how tough the player is, and is represented by a target number (e.g., 9+). This may be down to the protective gear the player wears, or their natural resilience to taking a hit - or a little bit of both!
 
-Sometimes the rules will call for an Armour Roll to be made against a player. In these instances, the opposing Coach will roll 2D6 and compare the value to the player's Armour Value. If the Armour Roll is failed, then nothing further happens: the player's armour has saved them this time. If the Armour Roll is successful, then the player's armour is ‘broken' and they will risk injury. Injuries are explained on page 66.
+Sometimes the rules will call for an Armour Roll to be made against a player. In these instances, the opposing Coach will roll 2D6 and compare the value to the player's Armour Value. If the Armour Roll is failed, then nothing further happens: the player's armour has saved them this time. If the Armour Roll is successful, then the player's armour is 'broken' and they will risk injury. Injuries are explained on page 66.
 
 Characteristics have a maximum and minimum value, and they can never be improved or reduced past the values shown below. Additionally, no Characteristic can ever be improved more than twice.
 

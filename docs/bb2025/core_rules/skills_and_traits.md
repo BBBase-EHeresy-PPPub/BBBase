@@ -410,7 +410,7 @@ A player without the Throw Team-mate Trait cannot have this Skill.
 
 #### GRAB (ACTIVE)
 
-When this player declares a Block Action, if the opposition player is Pushed Back, then this player’s Coach may choose any unoccupied square adjacent to the target for them to be Pushed Back into. If there are no adjacent unoccupied squares, then this Skill cannot be used.
+When this player declares a Block Action, if the opposition player is Pushed Back, then this player's Coach may choose any unoccupied square adjacent to the target for them to be Pushed Back into. If there are no adjacent unoccupied squares, then this Skill cannot be used.
 
 Additionally, when this player performs a Block Action, opposition players cannot use the Sidestep Skill.
 

@@ -27,7 +27,7 @@ At the side of the pitch, each team will have their own Dugout. This is where th
 
 1. **RESERVES BOX:** This is where any fit and healthy players are placed, ready for the next Drive.
 2. **KNOCKED-OUT BOX:** This is where any Knocked-out players are placed in order to try to recover later in the game.
-3. **CASUALTY BOX:** Where those players that can take no further part in the game are placed, either because of a crippling injury, or sometimes even worse…
+3. **CASUALTY BOX:** Where those players that can take no further part in the game are placed, either because of a crippling injury, or sometimes even worse...
 4. **TURN TRACKER:** This is where a team places their Turn Marker. These are important for keeping track of what Turn it is, and how many Turns a team has left until the end of the half.
 5. **TEAM RE-ROLL TRACKER:** This is where a team places their Team Re-roll Marker, which is used for tracking how many Team Re-rolls a team currently has remaining for the half.
 6. **SCORE TRACKER:** A rather important feature! Whenever a team scores a Touchdown, they will record it here.
@@ -140,7 +140,7 @@ Players affected by the Chomped condition (see page 131) cannot move until the p
 
 ## BALL TOKEN
 
-The ball token has two sides, one showing that the ball is loose and the other showing that a player has possession of the ball. The ‘in possession' side is also indented allowing a player on a 32mm base to fit inside making it really easy to see where the ball is at a moment's glance!
+The ball token has two sides, one showing that the ball is loose and the other showing that a player has possession of the ball. The 'in possession' side is also indented allowing a player on a 32mm base to fit inside making it really easy to see where the ball is at a moment's glance!
 
 There is even a hole for a Blood Bowl ball with a peg to be slotted in for that extra level of detail.
 

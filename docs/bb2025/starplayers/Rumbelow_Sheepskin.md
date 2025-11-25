@@ -10,7 +10,7 @@
 * [Horns]
 * [Juggernaut]
 * [Loner] (4+)
-* [No Hands]
+* [No Ball]
 * [Tackle]
 * [Thick Skull]
 * **Ram**

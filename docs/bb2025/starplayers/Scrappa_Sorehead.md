@@ -9,7 +9,7 @@
 * [Dirty Player] (+1)
 * [Dodge]
 * [Loner] (4+)
-* [Pogo Stick]
+* [Pogo]
 * [Right Stuff]
 * [Sprint]
 * [Stunty]

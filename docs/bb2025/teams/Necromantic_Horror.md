@@ -13,43 +13,38 @@
 
 ### Special Rules
 
-* [Sylvanian Spotlight]  
+* [Sylvanian Spotlight]
 * [Masters of Undeath]
 
 ### Staff
 
-* [Re-roll] - 70K  
-* [Apothecary] - No
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Re-roll] - 70K
 
 ### Star Players
 
 * [Akhorne The Squirrel] - 80K  
-* [Skull Halfheight] - 150K  
-* [Bryce 'The Slice' Cambuel] - 150K  
-* [Helmut Wulf] - 140K  
-* [Gretchen Wächter "The Blood Bowl Widow"] - 200K  
-* [Ivan 'The Animal' Deathshroud] - 210K  
+* [Skrull Halfheight] - 150K  
+* [Gretchen Wächter 'The Blood Bowl Widow'] - 180K  
+* [Ivan 'the Animal' Deathshroud] - 210K  
 * [Wilhelm Chaney] - 220K  
-* [Captain Karina Von Riesz] - 230K  
-* [Frank ’n’ Stein] - 250K  
-* [Grak] - 250K  
-* [Crumbleberry] - 250K  
-* [Count Luthor Von Drakenborg] - 340K  
-* [Gullfaxi the White Skull] - 260K  
-* [Morg ’n’ Thorg] - 340K
+* ['Captain' Karina Von Riesz] - 230K  
+* [Grak and Crumbleberry] - 250K  
+* [Count Luthor Von Drakenborg] - 300K  
 
 ### Inducements
 
-* [Temp Agency Cheerleader] - 5K  
-* [Prayers to Nuffle] - 10K  
-* [Part-time Assistant Coach] - 20K  
-* [Team Mascot] - 25K  
-* [Weather Mage] - 30K  
-* [Blitzer’s Best Keg] - 50K  
-* [Bribe] - 100K  
-* [Extra Team Training] - 100K  
-* [Mortuary Assistant] - 100K  
-* [Wandering Apothecary] - 100K  
-* [Hireling Sports-Wizard] (Wizard) - 150K  
-* [Biased Referee] - 120K  
+* [Temp Agency Cheerleader] - 5K
+* [Prayers to Nuffle] - 10K
+* [Part-time Assistant Coach] - 20K
+* [Team Mascot] - 25K
+* [Weather Mage] - 30K
+* [Blitzer's Best Keg] - 50K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Mortuary Assistant] - 100K
+* [Wandering Apothecary] - 100K
+* [Wizard] - 150K
+* [Biased Referee] - 120K
 * [Halfling Master Chef] - 300K

@@ -13,46 +13,46 @@
 
 ### Special Rules
 
-* [Favoured of …]  
-  — Choose: Chaos Undivided, Hashut, Khorne, Nurgle, Slaanesh, or Tzeentch.
+* [Favoured of...]
+* [Chaos Clash]
 
 ### Staff
 
-* [Cheerleader] - 10K  
-* [Assistant Coach] - 10K  
-* [Apothecary] - 50K  
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Apothecary] - 50K
 * [Re-roll] - 60K
 
 ### Starplayers
 
-* [Akhorne The Squirrel] - 80K  
-* [Max Spleenripper] - 130K  
-* [Zzharg Madeye] - 130K  
-* [Skitter Stab-Stab] - 150K  
-* [Kreek "The Verminator" Rustgouger] - 170K  
-* [Withergrasp Doubledrool] - 170K  
-* [Bilerot Vomitflesh] - 180K  
-* [Guffle Pussmaw] - 180K  
-* [Glart Smashrip] - 195K  
-* [Scyla Anfingrimm] - 200K  
-* [Hakflem Skuttlespike] - 210K  
-* [Grashnak Blackhoof] - 240K  
-* [Grak and Crumbleberry] - 250K  
-* [Lord Borak the Despoiler] - 260K  
-* [H’tark The Unstoppable] - 300K  
-* [Morg ’n’ Thorg] - 380K
+* [Akhorne The Squirrel] - 80K
+* [Max Spleenripper] - 130K
+* [Zzharg Madeye] - 130K
+* [Skitter Stab-Stab] - 150K
+* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Withergrasp Doubledrool] - 170K
+* [Bilerot Vomitflesh] - 180K
+* [Guffle Pussmaw] - 180K
+* [Glart Smashrip] - 195K
+* [Scyla Anfingrimm] - 200K
+* [Hakflem Skuttlespike] - 210K
+* [Grashnak Blackhoof] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Lord Borak the Despoiler] - 260K
+* [H'thark the Unstoppable] - 300K
+* [Morg 'n' Thorg] - 380K
 
 ### Inducements
 
-* [Temp Agency Cheerleader] - 5K  
-* [Prayers to Nuffle] - 10K  
-* [Part-time Assistant Coach] - 20K  
-* [Team Mascot] - 25K  
-* [Weather Mage] - 25K  
-* [Blitzer’s Best Keg] - 50K  
-* [Bribe] - 100K  
-* [Extra Team Training] - 100K  
-* [Wandering Apothecary] - 100K  
-* [Hireling Sports-Wizard] (Wizard) - 150K  
-* [Biased Referee] - 120K  
+* [Temp Agency Cheerleader] - 5K
+* [Prayers to Nuffle] - 10K
+* [Part-time Assistant Coach] - 20K
+* [Team Mascot] - 25K
+* [Weather Mage] - 25K
+* [Blitzer's Best Keg] - 50K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Wandering Apothecary] - 100K
+* [Wizard] - 150K
+* [Biased Referee] - 120K
 * [Halfling Master Chef] - 300K

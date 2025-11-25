@@ -16,39 +16,37 @@
 
 ### Staff
 
-* [Re-roll] - 50K  
-* [Apothecary] - Yes
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Apothecary] - 50K
+* [Re-roll] - 50K
 
 ### Star Players
 
 * [Akhorne The Squirrel] - 80K  
 * [Gloriel Summerbloom] - 150K  
-* [Swiftvine Glimmershard] - 110K  
 * [Kiroth Krakeneye] - 160K  
 * [Eldril Sidewinder] - 220K  
-* [Zolcath The Zoat] - 230K  
-* [Rowan Darkwill] - 250K  
-* [Grak] - 250K  
-* [Rumbelow Sheepskin] - 170K  
-* [Maple Highgrove] - 210K  
-* [Jordell Freshbreeze] - 260K  
+* [Zolcath The Zoat] - 220K  
+* [Grak and Crumbleberry] - 250K  
 * [Roxanna Darknail] - 270K  
-* [Valen Swift] - 300K  
-* [Jeremiah Kool] - 340K  
-* [Mighty Zug] - 300K  
-* [Morg ’n’ Thorg] - 340K
+* [Jordell Freshbreeze] - 280K  
+* [The Swift Twins] - 300K  
+* [Jeremiah Kool] - 300K  
+* [Morg 'N' Thorg] - 340K  
+
 
 ### Inducements
 
-* [Temp Agency Cheerleader] - 5K  
-* [Prayers to Nuffle] - 10K  
-* [Part-time Assistant Coach] - 20K  
-* [Team Mascot] - 25K  
-* [Weather Mage] - 30K  
-* [Blitzer’s Best Keg] - 50K  
-* [Bribe] - 100K  
-* [Extra Team Training] - 100K  
-* [Wandering Apothecary] - 100K  
-* [Hireling Sports-Wizard] (Wizard) - 150K  
-* [Biased Referee] - 120K  
+* [Temp Agency Cheerleader] - 5K
+* [Prayers to Nuffle] - 10K
+* [Part-time Assistant Coach] - 20K
+* [Team Mascot] - 25K
+* [Weather Mage] - 30K
+* [Blitzer's Best Keg] - 50K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Wandering Apothecary] - 100K
+* [Wizard] - 150K
+* [Biased Referee] - 120K
 * [Halfling Master Chef] - 300K

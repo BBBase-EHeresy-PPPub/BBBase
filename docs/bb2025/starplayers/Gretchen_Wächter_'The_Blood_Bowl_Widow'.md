@@ -11,7 +11,7 @@
 * [Foul Appearance]
 * [Jump up]
 * [Loner] (4+)
-* [No Hands]
+* [No Ball]
 * [Regeneration]
 * [Shadowing]
 * [Sidestep]

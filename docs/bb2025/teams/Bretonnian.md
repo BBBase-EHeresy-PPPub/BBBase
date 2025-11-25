@@ -12,41 +12,39 @@
 
 ### Staff
 
-* [Cheerleader] - 10K  
-* [Assistant Coach] - 10K  
-* [Re-roll] - 60K  
+* [Cheerleader] - 10K
+* [Assistant Coach] - 10K
+* [Re-roll] - 60K
 * [Apothecary] - 50K
 
 ### Star Players
-
-* [Akhorne The Squirrel] - 80K  
-* [Barik Farblast] - 80K  
-* [Cindy Piewhistle] - 50K  
-* [Puggy Baconbreath] - 120K  
-* [Helmut Wulf] - 140K  
-* [Skora Whitehorn] - 160K  
-* [Thorsson Stoutmead] - 170K  
-* [Josef Bugman] - 200K  
-* [Karla Von Kill] - 210K  
-* [Ivar Eriksson] - 245K  
-* [The Mighty Zug] - 220K  
-* [Grak and Crumbleberry] - 250K  
-* [Skrorg Snowpelt] - 250K  
-* [Griff Oberwald] - 280K  
-* [Morg ’n’ Thorg] - 380K
+* [Akhorne the Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 100K
+* [Puggy Baconbreath] - 130K
+* [Helmut Wulf] - 140K
+* [Grombrindal] - 170K
+* [Thorsson Stoutmead] - 170K
+* [Karla Von Kill] - 210K
+* [Ivar Eriksson] - 215K
+* [Mighty Zug] - 220K
+* [Skrorg Snowpelt] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Griff Oberwald] - 300K
+* [Morg 'N' Thorg] - 340K
 
 ### Inducements
 
-* [Temp Agency Cheerleader] - 5K  
-* [Prayers to Nuffle] - 10K  
-* [Part-time Assistant Coach] - 20K  
-* [Team Mascot] - 25K  
-* [Weather Mage] - 25K  
-* [Blitzer’s Best Keg] - 50K  
-* [Bribe] - 100K  
-* [Extra Team Training] - 100K  
-* [Plague Doctor] - 100K  
-* [Wandering Apothecary] - 100K  
-* [Hireling Sports-Wizard] (Wizard) - 150K  
-* [Halfling Master Chef] - 300K  
+* [Temp Agency Cheerleader] - 5K
+* [Prayers to Nuffle] - 10K
+* [Part-time Assistant Coach] - 20K
+* [Team Mascot] - 25K
+* [Weather Mage] - 25K
+* [Blitzer's Best Keg] - 50K
+* [Bribe] - 100K
+* [Extra Team Training] - 100K
+* [Plague Doctor] - 100K
+* [Wandering Apothecary] - 100K
+* [Wizard] - 150K
+* [Halfling Master Chef] - 300K
 * [Biased Referee] - 120K

@@ -12,7 +12,7 @@
 * [Frenzy]
 * [Jump up]
 * [Loner] (4+)
-* [No Hands]
+* [No Ball]
 * [Sidestep]
 * [Stunty]
 * [Titchy]
