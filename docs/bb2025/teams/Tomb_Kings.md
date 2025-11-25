@@ -8,7 +8,7 @@
 | 0-16 | Skeleton Lineman *(Lineman, Skeleton)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                                   | G       | A S D     | 40K |
 | 0-2  | Tomb Kings Thrower *(Thrower, Skeleton)* | 6  | 3  | 4+ | 3+ | 8+ | • [Pass]<br>• [Regeneration]<br>• [Sure Hands]<br>• [Thick Skull]     | G P     | A S D     | 65K |
 | 0-2  | Tomb Kings Blitzer *(Blitzer, Skeleton)* | 6  | 3  | 4+ | 5+ | 9+ | • [Block]<br>• [Regeneration]<br>• [Thick Skull]                      | G S     | A D       | 85K |
-| 0-4  | Tomb Guardian *(Blocker, Human)*        | 4  | 5  | 5+ | 5+ | 10+| • [Brawler]<br>• [Decay]<br>• [Regeneration]                          | S A G   | —         | 115K |
+| 0-4  | Tomb Guardian *(Blocker, Human)*        | 4  | 5  | 5+ | 5+ | 10+| • [Brawler]<br>• [Decay]<br>• [Regeneration]                          | S A G   | -         | 115K |
 
 ### Special Rules
 
@@ -27,10 +27,10 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Skrull Halfheight] - 150K
-* [Gretchen Wächter 'The Blood Bowl Widow'] - 260K
-* [Ivan 'The Animal' Deathshroud] - 210K
+* [Gretchen Wächter] - 260K
+* [Ivan 'the Animal' Deathshroud] - 210K
 * [Wilhelm Chaney] - 220K
-* ['Captain' Karina Von Riesz] - 230K
+* [Captain Karina Von Riesz] - 230K
 * [Frank 'n' Stein] - 250K
 * [Grak and Crumbleberry] - 250K
 * [Count Luthor Von Drakenborg] - 340K

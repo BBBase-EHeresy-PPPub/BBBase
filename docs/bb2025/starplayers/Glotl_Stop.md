@@ -2,22 +2,24 @@
 
 ![](../media/starplayers/BBGlotlStopLead.jpg)
 
-| 270K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 6 | 5+ | - | 10+ |
+|  260K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 6  | 5+ | 4+ | 10+ |
+
+*(Big Guy, Lizardman)*
 
 * [Animal Savagery]
 * [Frenzy]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Prehensile Tail]
 * [Stand Firm]
 * [Thick Skull]
 * **Primal Savagery**
 
-Once per game, when Glotl fails an Animal Savagery roll, it may lash out at an opposition player rather than a team mate.
+Once per game, when Glotl fails an Animal Savagery roll, it may lash out at an opposition player rather than a team-mate.
 
-### Special Rules
+### Plays For
 
 * [Lustrian Superleague]
 

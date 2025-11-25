@@ -2,24 +2,26 @@
 
 ![](../media/starplayers/BBScylaAnfinngrimmLead.jpg)
 
-| 200K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 5 | 5 | 4+ | - | 10+ |
+| 200K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 5  | 5  | 5+ | 4+ | 10+ |
+
+*(Big Guy, Spawn)*
 
 * [Claws]
 * [Frenzy]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Prehensile Tail]
 * [Thick Skull]
 * [Unchannelled Fury]
 * **Fury of the Blood God**
 
-Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring a Block action, instead of applying the usual effects of Unchannelled Fury, Scyla may perform two Block actions instead.
+Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring a Block Action then, instead of applying the usual effects of Unchannelled Fury, Scyla may perform two Block Actions instead. The first Block Action must be performed, including the use of the Frenzy skill, before the second one is performed.
 
-### Special Rules
+### Plays For
 
-* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Khorne]
 
 ### Accept to play for...
 

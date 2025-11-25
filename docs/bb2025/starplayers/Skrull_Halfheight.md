@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBSkrullHalfheightLead.jpg)
 
-| 150K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 3 | 4+ | 4+ | 9+ |
+| 150K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 3  | 4+ | 3+ | 9+ |
+
+*(Dwarf, Skeleton, Thrower, Undead)*
 
 * [Accurate]
 * [Loner] (4+)
@@ -15,11 +17,11 @@
 * [Thick Skull]
 * **Strong Passing Game**
 
-Once per game, after making a Passing Ability test to perform a Pass action, Skrull may choose to modify the dice roll by adding his Strength characteristic to it.
+Once per game, when Skrull performs a Pass Action he may modify the result of the Passing Ability Test by the target's S characteristic, to a maximum of 6.
 
-### Special Rules
+### Plays For
 
-* [Sylvanian Spotlight]
+* [Sylvania Spotlight]
 * [Worlds Edge Superleague]
 
 ### Accept to play for...

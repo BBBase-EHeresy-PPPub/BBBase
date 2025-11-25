@@ -2,20 +2,23 @@
 
 ![](../media/starplayers/RoxannaDarknail01.jpg)
 
-| 270K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 8 | 3 | 1+ | 4+ | 8+ |
+| 270K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 8  | 3  | 1+ | 3+ | 8+ |
+
+*(Elf, Special)*
 
 * [Dodge]
 * [Frenzy]
-* [Jump up]
+* [Jump Up]
+* [Juggernaut]
 * [Leap]
 * [Loner] (4+)
-* **Burst of Speed**
+* **Slashing Nails**
 
-Once per game, Roxanna may attempt to Rush three times, rather than the usual two. You may declare you are using this special rule after Roxanna has Rushed twice.
+Once per half, when Roxanna declares a Blitz Action, she gains the Claws skill until the end of her activation.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
 

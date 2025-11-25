@@ -2,28 +2,25 @@
 
 ![](../media/starplayers/GrashnakBlackhoof.jpg)
 
-| 240K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 6 | 4+ | - | 9+ |
+|  240K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 6  | 4+ | 6+ | 9+ |
+
+*(Big Guy, Minotaur)*
 
 * [Frenzy]
 * [Horns]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Thick Skull]
 * [Unchannelled Fury]
 * **Gored by the Bull**
 
-Once per game, when Grashnak performs a Blitz action, Grashnak may roll one additional Block dice against the opposition player, regardless of the opposition player's Strength, to a maximum of three Block dice. If Grashnak performs a second Block action due to the Frenzy skill, this second Block action will also benefit from this rule.
+Once per game, when Grashnak performs a Block Action as part of a Blitz Action, he may make one additional Block Action against the opposition player regardless of their ST, to a maximum of three Block Actions total. If Grashnak performs a second Block Action due to the Frenzy Skill, the second Block Action will also benefit from this rule.
 
-### Special Rules
+### Plays For
 
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Hashut][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
+* [Chaos Clash]
 
 ### Accept to play for...
 

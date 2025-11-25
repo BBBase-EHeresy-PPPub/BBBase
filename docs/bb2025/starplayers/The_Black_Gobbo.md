@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BlackGobbo01.jpg)
 
-| 225 K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 2 | 3+ | 3+ | 9+ |
+|  210K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 3  | 3+ | 4+ | 8+ |
+
+*(Goblin, Special)*
 
 * [Bombardier]
 * [Disturbing Presence]
@@ -13,12 +15,11 @@
 * [Sidestep]
 * [Sneaky Git]
 * [Stab]
-* [Stunty]
 * **Sneakiest of the Lot**
 
-If your team includes the Black Gobbo, you may commit two Foul actions per team turn, provided one of your Foul actions is committed by the Black Gobbo himself.
+If your team includes the Black Gobbo, then you may declare two Foul Actions per team turn rather than only one. However, the second Foul Action must be declared by the Black Gobbo himself.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 * [Underworld Challenge]

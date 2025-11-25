@@ -2,11 +2,13 @@
 
 ![](../media/starplayers/ScrappaSorehead01.jpg)
 
-| 130K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 7 | 2 | 3+ | 5+ | 8+ |
+| 120K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 7  | 2  | 3+ | 4+ | 8+ |
 
-* [Dirty Player] (+1)
+*(Goblin, Special)*
+
+* [Dirty Player]
 * [Dodge]
 * [Loner] (4+)
 * [Pogo]
@@ -16,9 +18,9 @@
 * [Sure Feet]
 * **Yoink!**
 
-Once per game, when Scrappa attempts to interfere with a Pass action, he may roll a D6. On a 2+, Scrappa does not need to roll to interfere with the Pass action, instead he automatically makes an Interception and gains control of the ball.
+Once per game, when Scrappa attempts to Intercept a Pass Action he may roll a D6. On a 2+, Scrappa doesn't need to Intercept; instead, he will automatically Intercept the Pass Action and gains control of the ball.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 * [Underworld Challenge]

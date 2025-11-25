@@ -9,7 +9,7 @@
 | 0-2  | Skaven Thrower *(Thrower, Skaven)* | 7  | 3  | 3+ | 2+ | 8+ | • [Pass]<br>• [Sure Hands]                                                                             | G P     | A M S     | 85K |
 | 0-4  | Gutter Runner *(Runner, Skaven)*   | 9  | 2  | 2+ | 4+ | 8+ | • [Dodge]<br>• [Stab]                                                                                  | A G D   | M S       | 85K |
 | 0-2  | Skaven Blitzer *(Blitzer, Skaven)* | 7  | 3  | 3+ | 4+ | 9+ | • [Block]<br>• [Strip Ball]                                                                            | G S     | A D       | 90K |
-| 0-1  | Rat Ogre *(Big Guy, Skaven)*       | 6  | 5  | 4+ | —  | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Prehensile Tail]     | S A G M | —         | 150K |
+| 0-1  | Rat Ogre *(Big Guy, Skaven)*       | 6  | 5  | 4+ | -  | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Prehensile Tail]     | S A G M | -         | 150K |
 
 ### Special Rules
 
@@ -30,7 +30,7 @@
 * [Nobbla Blackwart] - 120K
 * [Scrappa Sorehead] - 130K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Glart Smashrip] - 195K
 * [Hakflem Skuttlespike] - 210K
 * [The Black Gobbo] - 165K

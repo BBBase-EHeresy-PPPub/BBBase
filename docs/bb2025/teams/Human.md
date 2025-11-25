@@ -26,20 +26,20 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K  
-* [Barik Farblast] - 80K  
-* [Cindy Piewhistle] - 120K  
-* [Puggy Baconbreath] - 130K  
-* [Helmut Wulf] - 140K  
-* [Grombrindal] - 170K  
+* [Akhorne The Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 120K
+* [Puggy Baconbreath] - 130K
+* [Helmut Wulf] - 140K
+* [Grombrindal] - 170K
 * [Thorsson Stoutmead] - 170K
-* [Karla Von Kill] - 210K  
-* [Ivar Eriksson] - 215K  
-* [Mighty Zug] - 220K  
-* [Skrorg Snowpelt] - 240K  
-* [Grak and Crumbleberry] - 250K  
-* [Griff Oberwald] - 300K  
-* [Morg 'N' Thorg] - 340K  
+* [Karla von Kill] - 210K
+* [Ivar Eriksson] - 215K
+* [The Mighty Zug] - 220K
+* [Skrorg Snowpelt] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Griff Oberwald] - 300K
+* [Morg 'N' Thorg] - 340K
 
 ### Inducements
 

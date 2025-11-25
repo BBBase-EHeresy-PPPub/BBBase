@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBEstellelaVeneauxLead.jpg)
 
-| 190K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 3 | 3+ | 4+ | 8+ |
+|  190K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 3  | 4+ | 4+ | 8+ |
+
+*(Human, Lineman)*
 
 * [Disturbing Presence]
 * [Dodge]
@@ -13,9 +15,9 @@
 * [Sidestep]
 * **Baleful Hex**
 
-One per game, at the beginning of Estelle's activation, choose an opposition player within five squares and roll a D6. On a 2+ the chosen player loses their Tackle Zone and cannot be activated until the end of the opposition's next team turn.
+Once per game, at the beginning of Estelle's activation, she may select an opposition player within 5 squares and roll a D6. On a 2+, the selected player becomes Distracted and cannot be activated during their team's next Turn.
 
-### Special Rules
+### Plays For
 
 * [Lustrian Superleague]
 

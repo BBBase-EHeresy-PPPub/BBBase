@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBHtharkTheUnstoppable01.jpg)
 
-| 300K  | MA | ST | AG | PA | AV |
-| ---   | --- | --- | --- | --- | --- |
-|       | 6   | 6   | 4+  | 6+  | 10+ |
+|  300K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 4  | 4+ | 6+ | 10+ |
+
+*(Blitzer, Dwarf)*
 
 * [Block]
 * [Break Tackle]
@@ -14,14 +16,15 @@
 * [Sprint]
 * [Sure Feet]
 * [Thick Skull]
+* [Unsteady]
 * **Unstoppable Momentum**
 
-Whenever H'thark performs a Blitz action, he may re-roll a single block dice.
+Whenever H'thark performs a Block Action as part of a Blitz Action, he may re-roll a single Block Dice.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
-* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Hashut]
 
 ### Accept to play for...
 

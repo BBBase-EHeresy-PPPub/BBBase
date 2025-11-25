@@ -6,7 +6,7 @@
 | Qty | Position                                  | MA | ST | AG | PA | AV | Skills & Traits                                                                                                   | Primary | Secondary | Cost |
 |-----|--------------------------------------------|----|----|----|----|----|-------------------------------------------------------------------------------------------------------------------|---------|-----------|-------|
 | 0-3 | Halfling Hopeful *(Lineman, Halfling)*     | 5  | 2  | 3+ | 4+ | 7+ | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                         | A       | G S       | 30K  |
-| 0-16| Human Lineman *(Lineman, Human)*           | 6  | 3  | 3+ | 4+ | 9+ | —                                                                                                                 | G       | A S       | 50K  |
+| 0-16| Human Lineman *(Lineman, Human)*           | 6  | 3  | 3+ | 4+ | 9+ | -                                                                                                                 | G       | A S       | 50K  |
 | 0-3 | Dwarf Lineman *(Lineman, Dwarf)*           | 4  | 3  | 4+ | 5+ | 10+| • [Block]<br>• [Defensive]<br>• [Thick Skull]                                                                      | G D     | S         | 70K  |
 | 0-1 | Human Catcher *(Catcher, Human)*           | 8  | 3  | 3+ | 4+ | 8+ | • [Catch]<br>• [Dodge]                                                                                             | A G     | P S       | 75K  |
 | 0-1 | Human Thrower *(Thrower, Human)*           | 6  | 3  | 3+ | 3+ | 9+ | • [Pass]<br>• [Sure Hands]                                                                                         | G P     | A S       | 75K  |
@@ -30,19 +30,19 @@
 
 ### Star Players
 
-* [Akhorne the Squirrel] - 80K  
-* [Barik Farblast] - 80K  
-* [Cindy Piewhistle] - 100K  
-* [Puggy Baconbreath] - 130K  
-* [Helmut Wulf] - 140K  
-* [Grombrindal] - 170K  
-* [Thorsson Stoutmead] - 170K  
-* [Karla Von Kill] - 210K  
-* [Ivar Eriksson] - 215K  
-* [Mighty Zug] - 220K  
-* [Skrorg Snowpelt] - 240K  
-* [Grak and Crumbleberry] - 250K  
-* [Griff Oberwald] - 300K  
+* [Akhorne the Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 100K
+* [Puggy Baconbreath] - 130K
+* [Helmut Wulf] - 140K
+* [Grombrindal] - 170K
+* [Thorsson Stoutmead] - 170K
+* [Karla von Kill] - 210K
+* [Ivar Eriksson] - 215K
+* [The Mighty Zug] - 220K
+* [Skrorg Snowpelt] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Griff Oberwald] - 300K
 * [Morg 'N' Thorg] - 340K
 
 

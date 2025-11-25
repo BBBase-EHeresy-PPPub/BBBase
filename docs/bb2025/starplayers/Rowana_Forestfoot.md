@@ -3,8 +3,10 @@
 ![](../media/starplayers/RowanaForestfoot.jpg)
 
 | 160K | MA | ST | AG | PA | AV |
-| ----- | -- | - | -- | -- | -- |
-|       | 6  | 3 | 3+ | 4+ | 8+ |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 3  | 3+ | 4+ | 8+ |
+
+*(Blocker, Gnome)*
 
 * [Dodge]
 * [Dump-off]
@@ -15,11 +17,11 @@
 * [Loner] (4+)
 * **Bounding Leap**
 
-Once per game, after declaring that she will Leap but before rolling any dice. Rowana may choose to use this special rule. If she does, Rowana suffers no negative modifiers for the Agility test to Leap and may choose to re-roll the result.
+Once per game, after declaring that she will Leap but before rolling any dice, Rowana may choose to use this special rule. If she does, Rowana suffers no negative modifiers for the Agility test to Leap and may choose to re-roll the result.
 
-### Special Rules
+### Plays For
 
-* [Halfling Thimble Cup]
+* [Woodland League]
 
 ### Accept to play for...
 

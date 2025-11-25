@@ -25,9 +25,9 @@
 * [Helmut Wulf] - 140K
 * [Grombrindal] - 170K
 * [Thorsson Stoutmead] - 170K
-* [Karla Von Kill] - 210K
+* [Karla von Kill] - 210K
 * [Ivar Eriksson] - 215K
-* [Mighty Zug] - 220K
+* [The Mighty Zug] - 220K
 * [Skrorg Snowpelt] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Griff Oberwald] - 300K

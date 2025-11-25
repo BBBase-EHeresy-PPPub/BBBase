@@ -25,7 +25,7 @@
 * [Akhorne The Squirrel] - 80K
 * [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Withergrasp Doubledrool] - 170K
 * [Bilerot Vomitflesh] - 180K
 * [Guffle Pussmaw] - 180K

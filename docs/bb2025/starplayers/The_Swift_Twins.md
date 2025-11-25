@@ -2,28 +2,31 @@
 
 ![](../media/starplayers/TheSwiftTwins01.jpg)
 
-**340K**
+**300K**
 
-#### Lucien Swift
+### Lucien Swift
 
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | -- |
-| 7  | 3 | 2+ | 5+ | 9+ |
+| -- | -- | -- | -- | -- |
+| 7  | 3  | 2+ | 3+ | 9+ |
+
+*(Blitzer, Elf)*
 
 * [Block]
-* [Juggernaut]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Tackle]
-* **Two for One**
+* **Working In Tandem**
 
-The Swift Twins must be hired as a pair and count as two Star Players. However if either Lucien or Valen is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
+The Swift Twins must be hired as a pair. Additionally, if Lucien performs a Block Action against an opposition player who is also Marked by Valen, Lucien may re-roll a single Block Dice.
 
-#### Valen Swift
+### Valen Swift
 
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | -- |
-| 7  | 3 | 2+ | 2+ | 8+ |
+| -- | -- | -- | -- | -- |
+| 7  | 3  | 2+ | 2+ | 9+ |
+
+*(Elf, Thrower)*
 
 * [Accurate]
 * [Loner] (4+)
@@ -31,11 +34,11 @@ The Swift Twins must be hired as a pair and count as two Star Players. However i
 * [Pass]
 * [Safe Pass]
 * [Sure Hands]
-* **Two for One**
+* **Working In Tandem**
 
-The Swift Twins must be hired as a pair and count as two Star Players. However if either Lucien or Valen is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
+The Swift Twins must be hired as a pair. Additionally, if Valen performs a Pass Action that targets a square containing Lucien, then Valen suffers no modifiers to the PA test for the range of the Pass Action.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
 

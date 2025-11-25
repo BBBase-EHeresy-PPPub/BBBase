@@ -2,21 +2,23 @@
 
 ![](../media/starplayers/FungusTheLoon.jpg)
 
-| 80K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 4 | 7 | 3+ | - | 8+ |
+|   80K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 4  | 7  | 3+ | 4+ | 8+ |
 
-* [Ball and Chain]
+*(Goblin, Special)*
+
+* [Ball & Chain]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [No Ball]
 * [Secret Weapon]
 * [Stunty]
 * **Whirling Dervish**
 
-Once per activation, Fungus may re-roll the D6 when determining which direction he moves in.
+Once per Activation, Fungus may re-roll the D6 when determining which direction he moves in.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 * [Underworld Challenge]

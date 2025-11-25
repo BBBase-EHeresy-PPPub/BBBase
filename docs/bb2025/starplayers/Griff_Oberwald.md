@@ -2,11 +2,11 @@
 
 ![](../media/starplayers/BBGriffOberwaldLead.jpg)
 
-**MEGA-STAR**
+|  300K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 7  | 4  | 2+ | 3+ | 9+ |
 
-| 280K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 7 | 4 | 2+ | 3+ | 9+ |
+*(Blitzer, Human)*
 
 * [Block]
 * [Dodge]
@@ -16,11 +16,10 @@
 * [Sure Feet]
 * **Consummate Professional**
 
-Once per game, Griff may re-roll one dice that was rolled either as a single roll, as part of a multiple dice roll or as part of a dice pool (this cannot be a dice that was rolled as part of an Armour, Injury or Casualty roll).
+Once per game, Griff may apply a +1 modifier to an Agility Test he has made. This modifier may be applied after the roll has been made.
 
-### Special Rules
+### Plays For
 
-* [Halfling Thimble Cup]
 * [Old World Classic]
 
 ### Accept to play for...

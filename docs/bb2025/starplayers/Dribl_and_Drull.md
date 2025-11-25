@@ -2,27 +2,34 @@
 
 ![](../media/starplayers/DrullDrible2.jpg)
 
-**190K**
+**230K**
 
-#### Dribl
+### Dribl
+
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | -- |
-| 8  | 2 | 3+ | 4+ | 8+ |
+| -- | -- | -- | -- | --- |
+| 8  | 2  | 3+ | 4+ | 8+ |
 
-* [Dirty Player] (+1)
+*(Skink, Special)*
+
+* [Dirty Player]
 * [Dodge]
 * [Loner] (4+)
+* [Quick Flail]
 * [Sidestep]
 * [Sneaky Git]
 * [Stunty]
 * **A Sneaky Pair**
 
-Dribl & Drull must be hired as a pair and count as two Star Players. Additionally, whenever Dribl or Drull perform either a Stab or Foul action against an opposition player marked by both Dribl & Drull, they may apply a +1 modifier to the injury roll.
+Dribl & Drull must be hired as a pair. Additionally, whenever Dribl or Drull perform either a Foul Action or a Stab Special Action against an opposition player Marked by both Dribl & Drull, they may apply a +1 modifier to the roll.
 
 #### Drull
+
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | -- |
-| 8  | 2 | 3+ | 4+ | 8+ |
+| -- | -- | -- | -- | --- |
+| 8  | 2  | 3+ | 4+ | 8+ |
+
+*(Skink, Special)*
 
 * [Dodge]
 * [Loner] (4+)
@@ -31,9 +38,9 @@ Dribl & Drull must be hired as a pair and count as two Star Players. Additionall
 * [Stunty]
 * **A Sneaky Pair**
 
-Dribl & Drull must be hired as a pair and count as two Star Players. Additionally, whenever Dribl or Drull perform either a Stab or Foul action against an opposition player marked by both Dribl & Drull, they may apply a +1 modifier to the injury roll.
+Dribl & Drull must be hired as a pair. Additionally, whenever Dribl or Drull perform either a Foul Action or a Stab Special Action against an opposition player Marked by both Dribl & Drull, they may apply a +1 modifier to the roll.
 
-### Special Rules
+### Plays For
 
 * [Lustrian Superleague]
 

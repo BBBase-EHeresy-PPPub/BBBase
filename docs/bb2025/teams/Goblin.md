@@ -6,11 +6,11 @@
 | Qty  | Position                          | MA | ST | AG | PA | AR  | Skills                                                                                                   | Primary | Secondary | Cost |
 | ---- | ---------------------------------- | -- | -- | -- | -- | --- | --------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Goblin *(Lineman, Goblin)*         | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                | A       | G S D P   | 40K  |
-| 0-1  | Looney *(Chainsaw, Goblin)*        | 6  | 2  | 3+ | —  | 8+  | • [Chainsaw]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                          | A       | G S D     | 40K  |
+| 0-1  | Looney *(Chainsaw, Goblin)*        | 6  | 2  | 3+ | -  | 8+  | • [Chainsaw]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                          | A       | G S D     | 40K  |
 | 0-1  | Bomma *(Bomber, Goblin)*           | 6  | 2  | 3+ | 4+ | 8+  | • [Bombardier]<br>• [Dodge]<br>• [Secret Weapon]<br>• [Stunty]                                           | A P     | G S D     | 45K  |
 | 0-1  | 'Ooligan *(Support, Goblin)*       | 6  | 2  | 3+ | 6+ | 8+  | • [Dirty Player] (+1)<br>• [Disturbing Presence]<br>• [Dodge]<br>• [Right Stuff]<br>• [Stunty]           | A       | G P S D   | 60K  |
 | 0-1  | Doom Diver *(Runner, Goblin)*      | 6  | 2  | 3+ | 6+ | 8+  | • [Right Stuff]<br>• [Stunty]<br>• [Swoop]                                                                | A       | G S D     | 60K  |
-| 0-1  | Fanatic *(Ball & Chain, Goblin)*   | 3  | 7  | 3+ | —  | 8+  | • [Ball & Chain]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                      | S       | A G D     | 70K  |
+| 0-1  | Fanatic *(Ball & Chain, Goblin)*   | 3  | 7  | 3+ | -  | 8+  | • [Ball & Chain]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                      | S       | A G D     | 70K  |
 | 0-1  | Pogoer *(Pogo, Goblin)*            | 7  | 2  | 3+ | 5+ | 8+  | • [Dodge]<br>• [Pogo]<br>• [Stunty]                                                                 | A       | G S D P   | 75K  |
 | 0-2  | Trained Troll *(Big Guy, Troll)*   | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (3+)<br>• [Mighty Blow] (+1)<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P D   | 115K |
 

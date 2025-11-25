@@ -2,21 +2,24 @@
 
 ![](../media/starplayers/ThorssonStoutmeadLead.jpg)
 
-| 170K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 3 | 4+ | 3+ | 8+ |
+| 170K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 4  | 3+ | 4+ | 8+ |
+
+*(Human, Lineman)*
 
 * [Block]
 * [Drunkard]
 * [Loner] (4+)
 * [Thick Skull]
-* **Beer Barrel Bash!**
+* **Beer Barrel Bash**
 
-Once per drive, at the start of his activation, Thorsson may perform a Throw Keg Special action. When he does, select an opposition player within three squares of Thorsson and roll a D6. On a 3+, the player is immediately Knocked Down. However, on a 1, Thorsson is Knocked Down instead.
+Once per Drive, at the start of his activation, Thorsson may select an opposition player within three squares and roll a D6. On a 3+, the target is immediately Knocked Down. On a 2, nothing happens. On a 1, Thorsson Falls Over. After using this special rule, Thorsson's activation immediately ends.
 
-### Special Rules
+### Plays For
 
 * [Old World Classic]
+* [Worlds Edge Superleague]
 
 ### Accept to play for...
 

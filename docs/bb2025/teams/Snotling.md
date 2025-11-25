@@ -9,8 +9,8 @@
 | 0-2  | Fun-Hoppa *(Runner, Snotling)*         | 6  | 1  | 3+ | 5+ | 6+ | • [Dodge]<br>• [Pogo]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]                               | A D     | G         | 20K |
 | 0-2  | Stilty Runna *(Runner, Snotling)*      | 6  | 1  | 3+ | 5+ | 6+ | • [Dodge]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Sprint]<br>• [Stunty]                                   | A D     | G         | 20K |
 | 0-2  | Fungus Flinga *(Bomber, Snotling)*     | 5  | 1  | 3+ | 4+ | 6+ | • [Bombardier]<br>• [Dodge]<br>• [Right Stuff]<br>• [Secret Weapon]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy] | A P D   | G         | 30K |
-| 0-2  | Pump Wagon *(Big Guy, Snotling)*       | 4  | 5  | 5+ | —  | 9+ | • [Dirty Player]<br>• [Juggernaut]<br>• [Mighty Blow]<br>• [Really Stupid]<br>• [Stand Firm]               | S D     | A G       | 100K |
-| 0-2  | Trained Troll *(Big Guy, Troll)*       | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S A G P | —         | 115K |
+| 0-2  | Pump Wagon *(Big Guy, Snotling)*       | 4  | 5  | 5+ | -  | 9+ | • [Dirty Player]<br>• [Juggernaut]<br>• [Mighty Blow]<br>• [Really Stupid]<br>• [Stand Firm]               | S D     | A G       | 100K |
+| 0-2  | Trained Troll *(Big Guy, Troll)*       | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S A G P | -         | 115K |
 
 ### Special Rules
 
@@ -34,7 +34,7 @@
 * [Scrappa Sorehead] - 130K
 * [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Glart Smashrip] - 195K
 * [Hakflem Skuttlespike] - 210K
 * [The Black Gobbo] - 165K

@@ -2,21 +2,25 @@
 
 ![](../media/starplayers/NobblaBlackwart.jpg)
 
-| 120K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 2 | 3+ | - | 8+ |
+| 120K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 2  | 3+ | 4+ | 8+ |
+
+*(Goblin, Special)*
 
 * [Block]
 * [Chainsaw]
 * [Dodge]
 * [Loner] (4+)
+* [No Ball]
+* [Saboteur]
 * [Secret Weapon]
 * [Stunty]
 * **Kick 'em While They're Down!**
 
-Once per game, Nobbla may use the Chainsaw Attack Special action against a Prone or Stunned opposition player. This does not count as a Foul action and so Nobbla cannot be Sent-off when using this ability.
+Once per game, Nobbla may use the Chainsaw Attack Special Action against a Prone or Stunned opposition player. If he does not use a Block Action and so Nobbla cannot be Sent-off when using this Special Action.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 * [Underworld Challenge]

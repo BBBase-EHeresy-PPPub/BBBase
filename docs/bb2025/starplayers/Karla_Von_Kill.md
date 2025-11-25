@@ -1,23 +1,24 @@
-# Karla Von Kill
+# Karla von Kill
 
 ![](../media/starplayers/KarlaVonKill01.jpg)
 
-| 210K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 4 | 3+ | 4+ | 9+ |
+|  210K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 4  | 3+ | 3+ | 9+ |
+
+*(Blitzer, Human)*
 
 * [Block]
 * [Dauntless]
 * [Dodge]
-* [Jump up]
+* [Jump Up]
 * [Loner] (4+)
 * **Indomitable**
 
-Once per game, when Karla successfully rolls to use her Dauntless skill, she may increase her Strength characteristic to double that of the nominated target of her Block action.
+Once per game, when Karla successfully rolls to use her Dauntless Skill, she may increase her ST characteristic to double that of the target of the Block Action.
 
-### Special Rules
+### Plays For
 
-* [Halfling Thimble Cup]
 * [Lustrian Superleague]
 * [Old World Classic]
 

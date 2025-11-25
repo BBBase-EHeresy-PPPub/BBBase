@@ -28,8 +28,8 @@
 * [Estelle la Veneaux] - 190K
 * [Anqi Panqi] - 190K
 * [Dribl and Drull] - 190K
-* [Karla Von Kill] - 210K
-* [Mighty Zug] - 220K
+* [Karla von Kill] - 210K
+* [The Mighty Zug] - 220K
 * [Zolcath the Zoat] - 230K
 * [Grak and Crumbleberry] - 250K
 * [Glotl Stop] - 260K

@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBWilhelmChaneyLead.jpg)
 
-| 220K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 8 | 4 | 3+ | 4+ | 9+ |
+| 220K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 8  | 4  | 3+ | 4+ | 9+ |
+
+*(Blitzer, Undead, Werewolf)*
 
 * [Catch]
 * [Claws]
@@ -14,9 +16,9 @@
 * [Wrestle]
 * **Savage Mauling**
 
-Once per game, when Wilhelm makes an Injury roll against an opposing player, he may choose to re-roll the result.
+Once per game, when Wilhelm makes an Injury Roll against an opposition player he has Knocked Down, he may choose to re-roll the result.
 
-### Special Rules
+### Plays For
 
 * [Sylvanian Spotlight]
 

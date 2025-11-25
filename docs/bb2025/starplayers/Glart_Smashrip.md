@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/GlartSmashrip01.jpg)
 
-| 195 K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 5 | 4 | 4+ | - | 9+ |
+|  175K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 5  | 4  | 4+ | 6+ | 9+ |
+
+*(Blocker, Skaven)*
 
 * [Block]
 * [Claws]
@@ -14,16 +16,10 @@
 * [Stand Firm]
 * **Frenzied Rush**
 
-Once per game, when Glart performs a Blitz action, he may gain the Frenzy skill. You must declare this special rule is being used when Glart is activated. Glart may not use the Grab skill during a turn in which he uses this special rule.
+Once per half, when Glart declares a Blitz Action he may gain the Frenzy Skill until the end of his activation. Glart may not use the Grab Skill during a Turn in which he uses this special rule.
 
-### Special Rules
+### Plays For
 
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Hashut][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
 * [Underworld Challenge]
 
 ### Accept to play for...

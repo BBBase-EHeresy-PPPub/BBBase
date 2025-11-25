@@ -2,15 +2,17 @@
 
 ![](../media/starplayers/AkhorneTheSquirrel.jpg)
 
-| 80K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 7 | 1 | 2+ | -- | 6+ |
+|   80K   | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 7  | 1  | 2+ | -  | 6+ |
+
+*(Blitzer, Squirrel)*
 
 * [Claws]
 * [Dauntless]
 * [Dodge]
 * [Frenzy]
-* [Jump up]
+* [Jump Up]
 * [Loner] (4+)
 * [No Ball]
 * [Sidestep]
@@ -18,27 +20,11 @@
 * [Titchy]
 * **Blind Rage**
 
-Akhorne may choose to re-roll the D6 when rolling for the Dauntless skill.
+Akhorne may choose to re-roll the D6 when rolling for the Dauntless Skill.
 
-### Special Rules
+### Plays For
 
-* [Badlands Brawl]
-* [Bribery and Corruption]
-* [Elven Kingdoms League]
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Hashut][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
-* [Halfling Thimble Cup]
-* [Low Cost Linemen]
-* [Lustrian Superleague]
-* [Masters of Undeath]
-* [Old World Classic]
-* [Sylvanian Spotlight]
-* [Underworld Challenge]
-* [Worlds Edge Superleague]
+* [Any team]
 
 ### Accept to play for...
 

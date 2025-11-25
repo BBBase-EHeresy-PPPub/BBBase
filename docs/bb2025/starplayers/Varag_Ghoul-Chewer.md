@@ -2,23 +2,26 @@
 
 ![](../media/starplayers/VaragGhoulchewerUpdateLead.jpg)
 
-| 280K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 5 | 3+ | 5+ | 10+ |
+|  260K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 5  | 3+ | 5+ | 10+ |
+
+*(Blocker, Orc)*
 
 * [Block]
-* [Jump up]
+* [Hatred] (Undead)
+* [Jump Up]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Thick Skull]
-* **Crushing Blow**
+* [Unsteady]
+* **Krump and Smash**
 
-Once per game, when an opposition player is Knocked Down as the result of a Block action performed by Varag, you may apply an additional +1 modifier to the Armour roll. This modifier may be applied after the roll has been made.
+Once per game, when an opposition player is Knocked Down as a result of a Block Action performed by Varag, he may re-roll the Armour Roll.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
-* [Underworld Challenge]
 
 ### Accept to play for...
 

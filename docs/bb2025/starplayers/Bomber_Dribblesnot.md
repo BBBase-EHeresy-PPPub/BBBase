@@ -2,24 +2,23 @@
 
 ![](../media/starplayers/BomberDribblesnotLead.jpg)
 
-**MEGA-STAR**
+|   80K   | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 3  | 3+ | 4+ | 8+ |
 
-| 50K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 2 | 3+ | 3+ | 8+ |
+*(Goblin, Special)*
 
 * [Accurate]
 * [Bombardier]
 * [Dodge]
 * [Loner] (4+)
 * [Right Stuff]
-* [Secret Weapon]
+* [Sneaky Git]
 * [Stunty]
 * **Kaboom!**
+Once per game, if an attempt to throw a bomb fails because it explodes in Dribblesnot's hands, you can choose for him to hold onto the bomb instead of attempting to throw it again.
 
-Once per game, if an opposition player catches a Bomb thrown by Bomber, you can choose to have it explode immediately rather than rolling to see if the player can throw it again.
-
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 * [Underworld Challenge]

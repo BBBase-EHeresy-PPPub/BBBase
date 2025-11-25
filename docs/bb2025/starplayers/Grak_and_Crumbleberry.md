@@ -4,53 +4,44 @@
 
 **250K**
 
-#### Grak
+### Grak
+
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | --- |
-| 5  | 5 | 4+ | 4+ | 10+ |
+| -- | -- | -- | -- | --- |
+| 5  | 5  | 4+ | 4+ | 10+ |
+
+*(Big Guy, Ogre)*
 
 * [Bone Head]
-* [Kick Team-Mate]
+* [Kick Team-mate]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Thick Skull]
-* **Two for One**
+* **I'll Carry You**
 
-Grak and Crumbleberry must be hired as a pair and count as two Star Players. However if either Grak or Crumbleberry is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
+Grak & Crumbleberry must be hired as a pair. Additionally, once per half, if Grak begins his activation adjacent to Crumbleberry he may pick up Crumbleberry; temporarily remove Crumbleberry from the pitch. At the end of Grak's activation, place Crumbleberry in an unoccupied square adjacent to Grak.
 
-#### Crumbleberry
+### Crumbleberry
+
 | MA | ST | AG | PA | AV |
-| -- | - | -- | -- | -- |
-| 5  | 2 | 3+ | 6+ | 7+ |
+| -- | -- | -- | -- | --- |
+| 5  | 2  | 3+ | 5+ | 7+ |
+
+*(Halfling, Lineman)*
 
 * [Dodge]
+* [Lethal Flight]
 * [Loner] (4+)
 * [Right Stuff]
 * [Stunty]
 * [Sure Hands]
-* **Two for One**
+* **I'll Carry You**
 
-Grak and Crumbleberry must be hired as a pair and count as two Star Players. However if either Grak or Crumbleberry is removed from play due to suffering a KO'ed or Casualty! result on the injury table, the other replaces the Loner (4+) trait with the Loner (2+) trait.
+Grak & Crumbleberry must be hired as a pair. Additionally, while Crumbleberry is being carried by Grak, Grak gains the Break Tackle and Dodge Skills.
 
-### Special Rules
+### Plays For
 
-* [Badlands Brawl]
-* [Bribery and Corruption]
-* [Elven Kingdoms League]
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Hashut][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
-* [Halfling Thimble Cup]
-* [Low Cost Linemen]
-* [Lustrian Superleague]
-* [Masters of Undeath]
-* [Old World Classic]
-* [Sylvanian Spotlight]
-* [Underworld Challenge]
-* [Worlds Edge Superleague]
+* [Any Team]
 
 ### Accept to play for...
 

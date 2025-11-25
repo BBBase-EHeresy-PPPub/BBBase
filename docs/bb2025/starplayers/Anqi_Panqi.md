@@ -2,19 +2,22 @@
 
 ![](../media/starplayers/BBAnqiPanqi.jpg)
 
-| 190K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-|     | 7   | 4   | 5+  | 6+  | 10+ |
+|  190K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 7  | 4  | 5+ | 6+ | 10+ |
+
+*(Blocker, Lizardman)*
 
 * [Block]
 * [Grab]
 * [Loner] (4+)
 * [Stand Firm]
+* [Unsteady]
 * **Savage Blow**
 
-Once per game, when Anqi performs a Block action against an opposition player, he may choose to re-roll any number of the Block dice.
+Once per game, when Anqi performs a Block Action against an opposition player he may choose to re-roll any number of the Block Dice.
 
-### Special Rules
+### Plays For
 
 * [Lustrian Superleague]
 

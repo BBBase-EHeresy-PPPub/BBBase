@@ -5,7 +5,7 @@
 
 | Qty  | Position                         | MA | ST | AG | PA | AR | Skills                                                                                              | Primary | Secondary | Cost |
 | ---- | --------------------------------- | -- | -- | -- | -- | -- | ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-2  | Beer Boar *(Runner, Animal)*       | 5  | 1  | 3+ | -  | 6+ | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                               | —       | A G P S D | 20K  |
+| 0-2  | Beer Boar *(Runner, Animal)*       | 5  | 1  | 3+ | -  | 6+ | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                               | -       | A G P S D | 20K  |
 | 0-12 | Norse Raider *(Lineman, Human)*    | 6  | 3  | 3+ | 4+ | 8+ | • [Block]<br>• [Drunkard]<br>• [Thick Skull]                                                         | G       | A P S D   | 50K  |
 | 0-2  | Norse Berserker *(Blitzer, Human)* | 6  | 3  | 3+ | 5+ | 8+ | • [Block]<br>• [Frenzy]<br>• [Jump Up]                                                               | G S     | A P D     | 90K  |
 | 0-2  | Valkyrie *(Catcher, Human)*        | 7  | 3  | 3+ | 3+ | 8+ | • [Catch]<br>• [Dauntless]<br>• [Pass]<br>• [Strip Ball]                                             | A G P   | S D       | 95K  |
@@ -35,7 +35,7 @@ Choose one:
 * [Max Spleenripper] - 130K
 * [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Rumbelow Sheepskin] - 170K
 * [Thorsson Stoutmead] - 170K
 * [Withergrasp Doubledrool] - 170K
@@ -44,9 +44,9 @@ Choose one:
 * [Scyla Anfingrimm] - 200K
 * [Grombrindal] - 210K
 * [Hakflem Skuttlespike] - 210K
-* [Karla Von Kill] - 210K
+* [Karla von Kill] - 210K
 * [Maple Highgrove] - 210K
-* [Mighty Zug] - 220K
+* [The Mighty Zug] - 220K
 * [Grashnak Blackhoof] - 240K
 * [Ivar Eriksson] - 245K
 * [Frank 'n' Stein] - 250K

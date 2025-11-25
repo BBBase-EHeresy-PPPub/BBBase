@@ -2,38 +2,25 @@
 
 ![](../media/starplayers/HelmutWulf01.jpg)
 
-| 140K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 3 | 3+ | - | 9+ |
+|  140K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 3  | 3+ | 4+ | 9+ |
+
+*(Human, Special)*
 
 * [Chainsaw]
 * [Loner] (4+)
+* [No Ball]
 * [Pro]
 * [Secret Weapon]
 * [Stand Firm]
 * **Old Pro**
 
-One per game, Helmut may use his Pro skill to re-roll a single dice rolled as part of an Armour roll.
+Once per game, Helmut may use his Pro Skill to re-roll a single dice roll made as part of an Armour Roll.
 
-### Special Rules
+### Plays For
 
-* [Badlands Brawl]
-* [Bribery and Corruption]
-* [Elven Kingdoms League]
-* [Favoured of Chaos Undivided][Favoured Of..]
-* [Favoured of Hashut][Favoured Of..]
-* [Favoured of Khorne][Favoured Of..]
-* [Favoured of Nurgle][Favoured Of..]
-* [Favoured of Slaanesh][Favoured Of..]
-* [Favoured of Tzeentch][Favoured Of..]
-* [Halfling Thimble Cup]
-* [Low Cost Linemen]
-* [Lustrian Superleague]
-* [Masters of Undeath]
 * [Old World Classic]
-* [Sylvanian Spotlight]
-* [Underworld Challenge]
-* [Worlds Edge Superleague]
 
 ### Accept to play for...
 

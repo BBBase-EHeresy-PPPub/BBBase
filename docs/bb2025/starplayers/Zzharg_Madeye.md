@@ -2,25 +2,25 @@
 
 ![](../media/starplayers/BBZzhargMadeye01.jpg)
 
-| 130K  | MA | ST | AG | PA | AV |
-| ---   | --- | --- | --- | --- | --- |
-|       | 4   | 4   | 4+  | 3+  | 10+ |
+| 130K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 4  | 4  | 4+ | 3+ | 10+ |
+
+*(Dwarf, Special)*
 
 * [Cannoneer]
 * [Hail Mary Pass]
 * [Loner] (4+)
-* [Nerves Of Steel]
+* [Nerves of Steel]
 * [Secret Weapon]
-* [Sure Hands]
 * [Thick Skull]
-* **Then I Started Blastin'!**
+* **"Blastin' Solves Everything"**
 
-Once per half, at the start of his activation, Zzharg may perform a Blunderbuss Blast Special action. When he does, select a Standing opposition player within 3 squares of Zzharg and roll a D6. On a 3+, the selected player is hit; immediately make an unmodified Armour roll, and subsequent Injury roll if necessary, against the selected player. On a 2, the opposing Coach selects a player (from either team, but not Zzharg) within 3 squares of the originally selected player to be hit instead. On a 1, Zzharg is hit instead. If the armour of the player hit is not broken, nothing happens.
+Once per half, at the start of his activation, Zzharg may select a Standing opposition player within 3 squares and roll a D6. On a 3+, the selected player is hit. On a 2, the opposing coach selects a player (from either team, but not Zzharg) within 3 squares of the originally selected player to be hit instead. On a 1, Zzharg hits himself instead. Make an Armour Roll for whichever player is hit. Zzharg's activation then immediately ends.
 
-### Special Rules
+### Plays For
 
-* [Badlands Brawl]
-* [Favoured of Hashut][Favoured Of..]
+* [Favoured of Hashut]
 
 ### Accept to play for...
 

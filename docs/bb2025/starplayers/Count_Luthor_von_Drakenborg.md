@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/LuthorVonDrakenborg1.jpg)
 
-| 340K | MA | ST | AG | PA | AV |
-| ----- | -- | - | -- | -- | --- |
-|       | 6  | 5 | 2+ | 3+ | 10+ |
+|  300K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 5  | 2+ | 3+ | 10+ |
+
+*(Blocker, Vampire)*
 
 * [Block]
 * [Hypnotic Gaze]
@@ -13,9 +15,9 @@
 * [Sidestep]
 * **Star of the Show**
 
-Once per game, when Count Luthor scores a touchdown, his controlling coach may gain one team re-roll. If this re-roll has not been used by the end of the next drive, it is lost.
+Once per game, when Count Luthor scores a Touchdown, his controlling coach gains one Team Re-roll until the end of the following Drive. If this Team Re-roll has not been used by the end of the next Drive, it is lost.
 
-### Special Rules
+### Plays For
 
 * [Sylvanian Spotlight]
 

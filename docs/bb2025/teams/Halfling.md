@@ -42,7 +42,7 @@
 * [Skrorg Snowpelt] - 260K
 * [Jordell Freshbreeze] - 260K
 * [Deeproot Strongbranch] - 280K
-* [Mighty Zug] - 300K
+* [The Mighty Zug] - 300K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements

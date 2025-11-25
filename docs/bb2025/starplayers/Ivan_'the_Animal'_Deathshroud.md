@@ -2,12 +2,15 @@
 
 ![](../media/starplayers/IvanAnimal1.jpg)
 
-| 190K | MA | ST | AG | PA | AV |
-| ----- | -- | - | -- | -- | -- |
-|       | 6|	4	|4+	|5+	|9+|
+|  210K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 4  | 4+ | 5+ | 9+ |
+
+*(Blitzer, Human, Skeleton, Undead)*
 
 * [Block]
 * [Disturbing Presence]
+* [Hatred (Dwarf)]
 * [Juggernaut]
 * [Loner] (4+)
 * [Regeneration]
@@ -15,11 +18,11 @@
 * [Tackle]
 * **Dwarven Scourge**
 
-Once per game, when an opposition player is Knocked Down as a result of a Block action performed by Ivan, you may apply an additional +1 modifier to the Armour roll or Injury roll. If this is against a Dwarfen player from any team, this may instead be a +2 modifier.
+Once per game, when an opposition player is Knocked Down as a result of a Block Action performed by Ivan, you may apply an additional +1 modifier to the Armour Roll or Injury Roll. If this is against a Dwarf player this instead becomes a +2 modifier.
 
-### Special Rules
+### Plays For
 
-* [Sylvanian Spotlight]
+* [Sylvania Spotlight]
 
 ### Accept to play for...
 

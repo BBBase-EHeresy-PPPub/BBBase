@@ -29,7 +29,7 @@
 * [Max Spleenripper] - 130K
 * [Zzharg Madeye] - 130K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Withergrasp Doubledrool] - 170K
 * [Bilerot Vomitflesh] - 180K
 * [Guffle Pussmaw] - 180K

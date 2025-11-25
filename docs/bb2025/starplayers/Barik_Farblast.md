@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBBarikFarblastLead.jpg)
 
-| 80K | MA | ST | AG | PA | AV |    |
-| ---- | -- | - | -- | -- | -- | -- |
-|    | 6 | 3  | 4+ | 3+ | 9+ |
+|   80K   | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 3  | 4+ | 3+ | 9+ |
+
+*(Dwarf, Thrower)*
 
 * [Cannoneer]
 * [Hail Mary Pass]
@@ -15,11 +17,10 @@
 * [Thick Skull]
 * **Blast It!**
 
-Once per game, when Barik makes a Hail Mary Pass, he may re-roll any scatter results for determining where the ball lanes, and any friendly player attempting to catch the ball gains an additional +1 modifier to the roll.
+Whenever Barik makes a Hail Mary Pass, he may re-roll any Scatter results for determining where the ball lands, and any team-mate attempting to catch the ball applies a +1 modifier to the roll.
 
-### Special Rules
+### Plays For
 
-* [Halfling Thimble Cup]
 * [Old World Classic]
 * [Worlds Edge Superleague]
 

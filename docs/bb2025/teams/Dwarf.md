@@ -7,9 +7,9 @@
 | ---- | ---------------------------------------- | -- | -- | -- | -- | --- | ------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-12 | Dwarf Lineman *(Lineman, Dwarf)*         | 4  | 3  | 4+ | 5+ | 10+ | • [Block]<br>• [Defensive]<br>• [Thick Skull]                                                                | G D     | S         | 70K  |
 | 0-2  | Dwarf Runner *(Runner, Dwarf)*           | 6  | 3  | 3+ | 4+ | 9+  | • [Sprint]<br>• [Sure Hands]<br>• [Thick Skull]                                                              | G P     | S         | 80K  |
-| 0-2  | Troll Slayer *(Blitzer, Dwarf)*          | 5  | 3  | 4+ | —  | 9+  | • [Block]<br>• [Dauntless]<br>• [Frenzy]<br>• [Hatred] (Troll)<br>• [Thick Skull]                            | G S     | D         | 90K  |
+| 0-2  | Troll Slayer *(Blitzer, Dwarf)*          | 5  | 3  | 4+ | -  | 9+  | • [Block]<br>• [Dauntless]<br>• [Frenzy]<br>• [Hatred] (Troll)<br>• [Thick Skull]                            | G S     | D         | 90K  |
 | 0-2  | Dwarf Blitzer *(Blitzer, Dwarf)*         | 5  | 3  | 3+ | 4+ | 10+ | • [Block]<br>• [Diving Tackle]<br>• [Tackle]<br>• [Thick Skull]                                             | G S     | D P       | 100K |
-| 0-1  | Deathroller *(Big Guy, Dwarf)*           | 4  | 7  | 5+ | —  | 11+ | • [Break Tackle]<br>• [Dirty Player] (+2)<br>• [Juggernaut]<br>• [Loner] (5+)<br>• [Mighty Blow] (+1)<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stand Firm] | S D     | G         | 170K |
+| 0-1  | Deathroller *(Big Guy, Dwarf)*           | 4  | 7  | 5+ | -  | 11+ | • [Break Tackle]<br>• [Dirty Player] (+2)<br>• [Juggernaut]<br>• [Loner] (5+)<br>• [Mighty Blow] (+1)<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stand Firm] | S D     | G         | 170K |
 
 ### Special Rules
 
@@ -35,9 +35,9 @@
 * [Rumbelow Sheepskin] - 170K
 * [Skrull Halfheight] - 150K
 * [Grombrindal] - 210K
-* [Karla Von Kill] - 210K
+* [Karla von Kill] - 210K
 * [Maple Highgrove] - 210K
-* [Mighty Zug] - 220K
+* [The Mighty Zug] - 220K
 * [Ivar Eriksson] - 245K
 * [Grak and Crumbleberry] - 250K
 * [Skrorg Snowpelt] - 250K

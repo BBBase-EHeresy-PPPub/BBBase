@@ -2,20 +2,22 @@
 
 ![](../media/starplayers/BBRashnakBackstabber.jpg)
 
-| 130K  | MA | ST | AG | PA | AV |
-| ---   | --- | --- | --- | --- | --- |
-|       | 7   | 3   | 3+  | 5+  | 8+  |
+| 130K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 7  | 3  | 3+ | 5+ | 8+ |
 
+*(Goblin, Special)*
+
+* [Loner] (4+)
+* [Shadowing]
 * [Sidestep]
 * [Sneaky Git]
-* [Shadowing]
 * [Stab]
-* [Loner] (4+)
 * **Toxin Connoisseur**
 
-Once per game, when Rashnak successfully breaks an opposition player's armour as a result of a Stab Special action, you may apply an additional +1 modifier to the Injury roll. This modifier may be applied after the roll has been made.
+Once per game, when Rashnak successfully breaks an opposition player's armour as a result of a Stab Special Action, you may apply an additional +1 modifier to the Injury roll. This modifier may be applied after the roll has been made.
 
-### Special Rules
+### Plays For
 
 * [Badlands Brawl]
 

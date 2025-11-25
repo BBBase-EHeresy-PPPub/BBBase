@@ -326,7 +326,7 @@ This player may apply a +1 modifier to the Agility Test whenever they attempt to
 
 Additionally, this player ignores the Cloud Burster Skill.
 
-### PASSING 
+### PASSING
 
 #### ACCURATE (ACTIVE)
 
@@ -386,7 +386,7 @@ When performing a Punt Special Action, no Turnover is caused if the ball comes t
 
 If this player rolls a natural 1 when making a Passing Ability Test, then it will not result in a Fumbled Pass. Instead, the player retains possession of the ball and their activation immediately ends. No Turnover is caused.
 
-### STRENGTH 
+### STRENGTH
 
 #### ARM BAR (ACTIVE)
 

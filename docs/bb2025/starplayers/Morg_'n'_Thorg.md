@@ -2,20 +2,26 @@
 
 ![](../media/starplayers/MorgnThorg01.jpg)
 
-| <span style="color: darkmagenta">380K</span>  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 6 | 3+ | 4+ | 11+ |
+|  340K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 6  | 3+ | 4+ | 11+ |
 
-**MEGA-STAR**
+*(Big Guy, Ogre)*
 
 * [Block]
+* [Bullseye]
+* [Hatred] (Undead)
 * [Loner] (4+)
-* [Mighty Blow] (+2)
+* [Mighty Blow]
 * [Thick Skull]
-* [Throw Team-Mate]
+* [Throw Team-mate]
 * **The Ballista**
 
-Once per game, if Morg fails the Passing Ability test when making a Pass action or a Throw Team-mate action, you may re-roll the D6.
+Once per game, when Morg performs a Throw Team-mate Action, he may re-roll the Passing Ability Test.
+
+### Plays For
+
+* [Any team except those from Sylvanian Spotlight]
 
 ### Accept to play for...
 

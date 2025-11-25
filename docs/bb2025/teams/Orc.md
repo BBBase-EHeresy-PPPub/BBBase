@@ -9,7 +9,7 @@
 | 0-2 | Orc Thrower *(Thrower, Orc)*       | 5  | 3  | 3+ | 3+ | 9+ | • [Pass]<br>• [Sure Hands]                                                                                  | G P     | A S       | 75K |
 | 0-4 | Orc Blitzer *(Blitzer, Orc)*       | 6  | 3  | 3+ | 4+ | 9+ | • [Block]<br>• [Break Tackle]                                                                                | G S     | A D       | 85K |
 | 0-2 | Big Un Blocker *(Blocker, Orc)*    | 5  | 4  | 4+ | 5+ | 10+| • [Mighty Blow]<br>• [Taunt]<br>• [Thick Skull]<br>• [Unsteady]                                             | G S     | A D       | 95K |
-| 0-1 | Troll *(Big Guy, Troll)*           | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | A S G P | —         | 115K |
+| 0-1 | Troll *(Big Guy, Troll)*           | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | A S G P | -         | 115K |
 
 ### Special Rules
 

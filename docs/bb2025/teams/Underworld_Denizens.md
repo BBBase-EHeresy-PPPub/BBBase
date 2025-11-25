@@ -11,7 +11,7 @@
 | 0-1  | Gutter Runner *(Runner, Skaven)*       | 9  | 2  | 2+ | 4+ | 8+ | • [Animosity] (Goblin)<br>• [Dodge]<br>• [Stab]                         | A G M D | P S       | 85K |
 | 0-1  | Skaven Blitzer *(Blitzer, Skaven)*     | 7  | 3  | 3+ | 4+ | 9+ | • [Animosity] (Goblin)<br>• [Block]<br>• [Strip Ball]                   | G M S   | A D       | 90K |
 | 0-1  | Troll *(Big Guy, Troll)*               | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | M S     | A G P     | 115K |
-| 0-1  | Rat Ogre *(Big Guy, Skaven)*           | 6  | 5  | 4+ | —  | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail] | M S     | A G       | 150K |
+| 0-1  | Rat Ogre *(Big Guy, Skaven)*           | 6  | 5  | 4+ | -  | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail] | M S     | A G       | 150K |
 
 ### Special Rules
 
@@ -34,7 +34,7 @@
 * [Scrappa Sorehead] - 130K
 * [Skitter Stab-Stab] - 150K
 * [Helmut Wulf] - 140K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Glart Smashrip] - 195K
 * [Hakflem Skuttlespike] - 210K
 * [The Black Gobbo] - 165K

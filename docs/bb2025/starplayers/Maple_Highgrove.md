@@ -4,24 +4,24 @@
 
 | 210K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 3  | 5  | 5+ | 5+ | 11+|
+|      | 2  | 6  | 5+ | -  | 11+ |
+
+*(Big Guy, Treeman)*
 
 * [Brawler]
 * [Grab]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Stand Firm]
 * [Tentacles]
 * [Thick Skull]
 * **Vicious Vines**
 
-Once per half, when Maple declares a Block action, he may do so against an opposition player who is 2 squares away, following all the normal rules for making a Block, though he may not follow up. This Block action cannot be part of a Blitz action.
+Once per half, when Maple declares a Block Action he may do so against an opposition player that is no more than 2 squares away following all the normal rules for performing a Block Action, though he may not follow-up.
 
-### Special Rules
+### Plays For
 
-* [Elven Kingdoms League]
-* [Halfling Thimble Cup]
-* [Old World Classic]
+* [Woodland League]
 
 ### Accept to play for...
 

@@ -9,7 +9,7 @@
 | 0-16 | Zombie Lineman *(Lineman, Human)*   | 4  | 3  | 4+ | 6+ | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]                   | G D     | A S       | 40K |
 | 0-4  | Ghoul Runner *(Runner, Human)*      | 7  | 3  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Regeneration]                                       | A G     | P S       | 75K |
 | 0-2  | Wight Blitzer *(Blitzer, Undead)*   | 6  | 3  | 3+ | 4+ | 9+ | • [Block]<br>• [Regeneration]<br>• [Tackle]<br>• [Thick Skull]      | G S     | A G       | 95K |
-| 0-2  | Mummy *(Big Guy, Undead)*           | 3  | 5  | 5+ | —  | 10+| • [Mighty Blow]<br>• [Regeneration]                                 | S       | A G       | 125K |
+| 0-2  | Mummy *(Big Guy, Undead)*           | 3  | 5  | 5+ | -  | 10+| • [Mighty Blow]<br>• [Regeneration]                                 | S       | A G       | 125K |
 
 ### Special Rules
 
@@ -27,10 +27,10 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Skrull Halfheight] - 150K
-* [Gretchen Wächter 'The Blood Bowl Widow'] - 260K
-* [Ivan 'The Animal' Deathshroud] - 210K
+* [Gretchen Wächter] - 260K
+* [Ivan 'the Animal' Deathshroud] - 210K
 * [Wilhelm Chaney] - 220K
-* ['Captain' Karina Von Riesz] - 230K
+* [Captain Karina Von Riesz] - 230K
 * [Frank 'n' Stein] - 250K
 * [Grak and Crumbleberry] - 250K
 * [Count Luthor Von Drakenborg] - 340K

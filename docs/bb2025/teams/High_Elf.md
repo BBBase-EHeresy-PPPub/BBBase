@@ -23,17 +23,17 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K  
-* [Gloriel Summerbloom] - 150K  
-* [Kiroth Krakeneye] - 160K  
-* [Eldril Sidewinder] - 220K  
-* [Zolcath The Zoat] - 220K  
-* [Grak and Crumbleberry] - 250K  
-* [Roxanna Darknail] - 270K  
-* [Jordell Freshbreeze] - 280K  
-* [The Swift Twins] - 300K  
-* [Jeremiah Kool] - 300K  
-* [Morg 'N' Thorg] - 340K  
+* [Akhorne The Squirrel] - 80K
+* [Gloriel Summerbloom] - 150K
+* [Kiroth Krakeneye] - 160K
+* [Eldril Sidewinder] - 220K
+* [Zolcath The Zoat] - 220K
+* [Grak and Crumbleberry] - 250K
+* [Roxanna Darknail] - 270K
+* [Jordell Freshbreeze] - 280K
+* [The Swift Twins] - 300K
+* [Jeremiah Kool] - 300K
+* [Morg 'N' Thorg] - 340K
 
 
 ### Inducements

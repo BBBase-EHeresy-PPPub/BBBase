@@ -6,8 +6,8 @@
 | Qty  | Position                                  | MA | ST | AG | PA  | AR | Skills & Traits                                                          | Primary | Secondary | Cost |
 | ---- | ----------------------------------------- | -- | -- | -- | --- | -- | ------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Gnoblar Lineman *(Lineman, Ogre)*         | 5  | 1  | 3+ | 5+  | 6+ | • [Dodge] • [Right Stuff] • [Sidestep] • [Stunty] • [Titchy]             | A       | G         | 15K  |
-| 0-5  | Ogre Blocker *(Blocker, Ogre)*            | 5  | 5  | 4+ | 5+  | 10+ | • [Bone Head] • [Mighty Blow] (+1) • [Thick Skull] • [Throw Team-mate]   | A G P S | —         | 140K |
-| 0-1  | Ogre Runt Punter *(Punter, Ogre)*         | 5  | 5  | 4+ | 4+  | 10+ | • [Bone Head] • [Mighty Blow] (+1) • [Thick Skull] • [Throw Team-mate]   | A G P S | —         | 145K |
+| 0-5  | Ogre Blocker *(Blocker, Ogre)*            | 5  | 5  | 4+ | 5+  | 10+ | • [Bone Head] • [Mighty Blow] (+1) • [Thick Skull] • [Throw Team-mate]   | A G P S | -         | 140K |
+| 0-1  | Ogre Runt Punter *(Punter, Ogre)*         | 5  | 5  | 4+ | 4+  | 10+ | • [Bone Head] • [Mighty Blow] (+1) • [Thick Skull] • [Throw Team-mate]   | A G P S | -         | 145K |
 
 ### Special Rules
 
@@ -39,8 +39,8 @@
 * [Ripper Bolgrot] - 250K
 * [The Black Gobbo] - 165K
 * [Skrorg Snowpelt] - 250K
-* [Karla Von Kill] - 210K
-* [Mighty Zug] - 220K
+* [Karla von Kill] - 210K
+* [The Mighty Zug] - 220K
 * [Grak and Crumbleberry] - 250K
 * [Varag Ghoul-Chewer] - 260K
 * [H'thark the Unstoppable] - 260K

@@ -6,6 +6,8 @@
 | ---- | -- | -- | -- | -- | -- |
 |      | 7  | 2  | 3+ | 5+ | 7+ |
 
+*(Special, Spite)*
+
 * [Disturbing Presence]
 * [Fend]
 * [Loner] (4+)
@@ -14,12 +16,11 @@
 * [Stunty]
 * **Furious Outburst**
 
-Once per half, so long as she is standing at the start of her activation, Swiftvine can place herself adjacent to a standing opposition player within 3 squares of her and immediately make a Stab Special action against them. She may then place herself in an unoccupied square within 3 squares of her new position. Her activation then immediately ends. This counts as the team's Blitz action for the turn.
+Once per half, so long as she is Standing at the start of her activation, Swiftvine can place herself adjacent to a Standing opposition player within 3 squares of her and immediately make a Stab Special Action against them. She may then place herself in an unoccupied square within 3 squares of where she started. Her activation then immediately ends. This counts as the team's Blitz Action for the turn.
 
-### Plays for...
+### Plays For
 
-* [Elven Kingdoms League]
-* [Halfling Thimble Cup]
+* [Woodland League]
 
 ### Accept to play for...
 

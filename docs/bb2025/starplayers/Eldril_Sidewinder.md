@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBEldrilSidewinder01.jpg)
 
-| 230K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 8 | 3 | 2+ | 5+ | 8+ |
+|  220K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 8  | 3  | 2+ | 3+ | 8+ |
+
+*(Catcher, Elf)*
 
 * [Catch]
 * [Dodge]
@@ -12,13 +14,14 @@
 * [Loner] (4+)
 * [Nerves of Steel]
 * [On the Ball]
-* **Mesmerizing Gaze**
+* **Mesmerising Dance**
 
-Once per game, Eldril may re-roll a failed Agility test when attempting to use the Hypnotic Gaze trait.
+Once per half, Eldril may re-roll the dice when performing a Hypnotic Gaze Special Action.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
+
 
 ### Accept to play for...
 

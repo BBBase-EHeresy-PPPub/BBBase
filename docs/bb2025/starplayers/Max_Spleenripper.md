@@ -2,20 +2,23 @@
 
 ![](../media/starplayers/BBMaxSpleenripperLead.jpg)
 
-| 130K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 5 | 4 | 4+ | - | 9+ |
+| 130K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 5  | 4  | 4+ | -  | 9+ |
+
+*(Human, Special)*
 
 * [Chainsaw]
 * [Loner] (4+)
+* [No Ball]
 * [Secret Weapon]
 * **Maximum Carnage**
 
-Once per game, after Max performs a Chainsaw Attack Special action he may immediately perform another Chainsaw Attack Special action that targets a different player.
+Once per game, after Max performs a Chainsaw Attack Special Action he may immediately perform another Chainsaw Attack Special Action that targets a different opposition player.
 
-### Special Rules
+### Plays For
 
-* [Favoured of Khorne][Favoured Of..]
+* [Favoured of Khorne]
 
 ### Accept to play for...
 

@@ -2,21 +2,23 @@
 
 ![](../media/starplayers/PuggyBaconbreath.jpg)
 
-| 120K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 5 | 3 | 3+ | 4+ | 7+ |
+|  130K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 5  | 3  | 3+ | 2+ | 8+ |
+
+*(Blitzer, Halfling)*
 
 * [Block]
 * [Dodge]
-* [Loner] (4+)
+* [Loner] (3+)
 * [Nerves of Steel]
 * [Right Stuff]
 * [Stunty]
 * **Halfling Luck**
 
-Once per game, Puggy may re-roll one dice that was rolled either as a single dice, or as part of a dice pool (this cannot be a dice that was rolled part of an Armour, Injury, or Casualty roll).
+Once per game, Puggy may re-roll a single dice that was rolled either as a single dice roll, a multiple dice roll, or a dice pool, though this cannot be a dice that was rolled as part of an Armour Roll, Injury Roll or Casualty Roll.
 
-### Special Rules
+### Plays For
 
 * [Halfling Thimble Cup]
 * [Old World Classic]

@@ -24,14 +24,14 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K  
-* [Skrull Halfheight] - 150K  
-* [Gretchen Wächter 'The Blood Bowl Widow'] - 180K  
-* [Ivan 'the Animal' Deathshroud] - 210K  
-* [Wilhelm Chaney] - 220K  
-* ['Captain' Karina Von Riesz] - 230K  
-* [Grak and Crumbleberry] - 250K  
-* [Count Luthor Von Drakenborg] - 300K  
+* [Akhorne The Squirrel] - 80K
+* [Skrull Halfheight] - 150K
+* [Gretchen Wächter] - 180K
+* [Ivan 'the Animal' Deathshroud] - 210K
+* [Wilhelm Chaney] - 220K
+* [Captain Karina Von Riesz] - 230K
+* [Grak and Crumbleberry] - 250K
+* [Count Luthor Von Drakenborg] - 300K
 
 ### Inducements
 

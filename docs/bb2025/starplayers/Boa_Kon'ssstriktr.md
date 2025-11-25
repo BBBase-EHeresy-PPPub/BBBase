@@ -2,21 +2,24 @@
 
 ![](../media/starplayers/BBBoaKonssstriktrLead.jpg)
 
-| 200K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 3 | 3+ | 4+ | 9+ |
+|  180K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 6  | 4  | 3+ | 4+ | 9+ |
+
+*(Runner, Snakeman)*
 
 * [Dodge]
+* [Fend]
 * [Hypnotic Gaze]
 * [Loner] (4+)
 * [Prehensile Tail]
 * [Safe Pair of Hands]
 * [Sidestep]
-* **Look into my Eyes**
+* **Lurking Superleague Rule**
 
-Once per game, if Boa starts his activation marking an opposition player with the ball, he may roll a D6. On a 1, nothing happens. On a 2+ the opposition player loses possession of the ball, Boa immediately gains possession of the ball and Boa's activation immediately ends.
+Coiled Marking: Once per game, after Boa begins his activation Marking an opposition player, you may declare he coils around them. On a 2+, the opposition player must immediately attempt to Dodge away from Boa, applying a -1 modifier. If they fail, Boa chooses the direction of the ball and ends its activation.
 
-### Special Rules
+### Plays For
 
 * [Lustrian Superleague]
 

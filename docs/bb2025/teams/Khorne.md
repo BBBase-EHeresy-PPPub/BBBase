@@ -28,7 +28,7 @@
 * [Max Spleenripper] - 130K
 * [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Withergrasp Doubledrool] - 170K
 * [Glart Smashrip] - 195K
 * [Scyla Anfingrimm] - 200K

@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBJordellFreshbreeze01.jpg)
 
-| 250K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 8 | 3 | 1+ | 3+ | 8+ |
+|  280K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 8  | 3  | 1+ | 3+ | 8+ |
+
+*(Blitzer, Elf)*
 
 * [Block]
 * [Diving Catch]
@@ -12,13 +14,15 @@
 * [Leap]
 * [Loner] (4+)
 * [Sidestep]
+* [Steady Footing]
 * **Swift as the Breeze**
 
-Once per game, Jordell can choose to pass a single Dodge, Leap or Rush test on a 2+, regardless on any modifiers.
+Once per game, Jordell can choose to pass a single Dodge, Leap or Rush Test on a 2+, regardless of any modifiers.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
+* [Woodland League]
 
 ### Accept to play for...
 

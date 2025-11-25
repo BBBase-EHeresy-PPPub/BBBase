@@ -2,15 +2,16 @@
 
 ![](../media/starplayers/DeeprootStrongbranch01.jpg)
 
-| 280K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 2 | 7 | 5+ | 4+ | 11+ |
+|  280K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 2  | 7  | 5+ | 4+ | 11+ |
 
-**MEGA-STAR**
+*(Big Guy, Treeman)*
 
 * [Block]
+* [Bullseye]
 * [Loner] (4+)
-* [Mighty Blow] (+2)
+* [Mighty Blow]
 * [Stand Firm]
 * [Strong Arm]
 * [Thick Skull]
@@ -18,12 +19,11 @@
 * [Timmm-ber!]
 * **Reliable**
 
-If Deeproot fumbles a Throw Team-mate action, the player that was to be thrown will bounce as normal but will automatically land safely.
+If Deeproot makes a Fumbled Throw when performing a Throw Team-mate Action, the player that was being thrown will Bounce as normal but will automatically land safely.
 
-### Special Rules
+### Plays For
 
-* [Halfling Thimble Cup]
-* [Old World Classic]
+* [Woodland League]
 
 ### Accept to play for...
 

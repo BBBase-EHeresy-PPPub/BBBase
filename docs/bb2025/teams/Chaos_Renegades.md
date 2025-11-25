@@ -13,8 +13,8 @@
 | 0-1  | Renegade Human Thrower *(Thrower)*      | 6  | 3  | 3+ | 3+ | 9+  | • [Animosity] (All)<br>• [Pass]<br>• [Safe Pair of Hands]                                                   | G M P D | A S       | 65K  |
 | 0-1  | Troll *(Big Guy, Troll)*                | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G M D   | 115K |
 | 0-1  | Ogre *(Big Guy, Ogre)*                  | 5  | 5  | 4+ | 5+ | 10+ | • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Thick Skull]<br>• [Throw Team-mate]           | S       | A G M D   | 140K |
-| 0-1  | Minotaur *(Big Guy, Minotaur)*          | 5  | 5  | 4+ | —  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Thick Skull]<br>• [Unchannelled Fury] | S       | A G M D   | 150K |
-| 0-1  | Rat Ogre *(Big Guy, Skaven)*            | 6  | 5  | 4+ | —  | 9+  | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Prehensile Tail]           | S       | A G M D   | 150K |
+| 0-1  | Minotaur *(Big Guy, Minotaur)*          | 5  | 5  | 4+ | -  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Thick Skull]<br>• [Unchannelled Fury] | S       | A G M D   | 150K |
+| 0-1  | Rat Ogre *(Big Guy, Skaven)*            | 6  | 5  | 4+ | -  | 9+  | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Prehensile Tail]           | S       | A G M D   | 150K |
 
 ### Special Rules
 

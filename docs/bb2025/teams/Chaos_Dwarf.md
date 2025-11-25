@@ -5,12 +5,12 @@
 
 | Qty  | Position                                  | MA | ST | AG | PA | AR  | Skills                                                                                          | Primary | Secondary | Cost |
 | ---- | ------------------------------------------ | -- | -- | -- | -- | --- | ------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
-| 0-16 | Hobgoblin Lineman *(Lineman, Goblin)*      | 6  | 3  | 3+ | 4+ | 8+  | —                                                                                                | G       | A S       | 40K  |
+| 0-16 | Hobgoblin Lineman *(Lineman, Goblin)*      | 6  | 3  | 3+ | 4+ | 8+  | -                                                                                                | G       | A S       | 40K  |
 | 0-2  | Hobgoblin Sneaky Stabba *(Goblin)*         | 6  | 3  | 3+ | 5+ | 8+  | • [Shadowing]<br>• [Stab]                                                                       | G       | A S       | 70K  |
 | 0-4  | Chaos Dwarf Blocker *(Blocker, Dwarf)*     | 4  | 3  | 4+ | 6+ | 10+ | • [Block]<br>• [Iron Hard Skin]<br>• [Thick Skull]                                              | G S     | A M       | 70K  |
 | 0-2  | Flamesmith *(Blocker, Dwarf)*              | 5  | 3  | 4+ | 6+ | 10+ | • [Brawler]<br>• [Breathe Fire]<br>• [Disturbing Presence]<br>• [Thick Skull]                   | G S     | A M       | 80K  |
 | 0-2  | Bull Centaur Blitzer *(Blitzer, Dwarf)*    | 6  | 4  | 4+ | 6+ | 10+ | • [Sprint]<br>• [Sure Feet]<br>• [Thick Skull]                                                  | G S     | A M       | 130K |
-| 0-1  | Minotaur *(Big Guy, Minotaur)*             | 5  | 5  | 4+ | —  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Thick Skull]<br>• [Unchannelled Fury] | S       | A G M     | 150K |
+| 0-1  | Minotaur *(Big Guy, Minotaur)*             | 5  | 5  | 4+ | -  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow] (+1)<br>• [Thick Skull]<br>• [Unchannelled Fury] | S       | A G M     | 150K |
 
 ### Special Rules
 
@@ -34,7 +34,7 @@
 * [Rashnak Backstabber] - 130K
 * [Zzharg Madeye] - 130K
 * [Helmut Wulf] - 140K
-* [Kreek 'the Verminator' Rustgouger] - 170K
+* [Kreek Rustgouger] - 170K
 * [Withergrasp Doubledrool] - 170K
 * [Glart Smashrip] - 195K
 * [Hakflem Skuttlespike] - 210K

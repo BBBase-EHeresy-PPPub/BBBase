@@ -2,14 +2,16 @@
 
 ![](../media/starplayers/BBJeremiahKool.jpg)
 
-| 320K   | MA | ST | AG  | PA  | AV  |
-|--------|----|----|-----|-----|-----|
-|    | 8  | 3  | 1+  | 2+  | 9+  |
+|  300K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 8  | 3  | 1+ | 2+ | 9+ |
+
+*(Elf, Runner)*
 
 * [Block]
-* [Diving Catch]
 * [Dodge]
-* [Dump-Off]
+* [Diving Catch]
+* [Dump-off]
 * [Loner] (4+)
 * [Nerves of Steel]
 * [On the Ball]
@@ -17,9 +19,9 @@
 * [Sidestep]
 * **The Flashing Blade**
 
-Once per game, at the start of his activation, Jeremiah may declare a Stab Special Action against an opposition player he is marking. After performing the Stab Special action, Jeremiah may then perform a Move Action before his turn ends.
+Once per game, at the start of his activation, Jeremiah may declare a Stab Special Action against an opposition player he is Marking. After performing the Stab Special Action, Jeremiah may then perform a Move Action before his activation ends.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
 

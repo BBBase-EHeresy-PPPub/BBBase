@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBIvarErikssonLead.jpg)
 
-| 245 K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 6 | 4 | 3+ | 4+ | 9+ |
+|  215K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 6  | 4  | 3+ | 4+ | 9+ |
+
+*(Blitzer, Human)*
 
 * [Block]
 * [Guard]
@@ -12,9 +14,9 @@
 * [Tackle]
 * **Raiding Party**
 
-Once per drive, whenever Ivar begins his activation, he may choose one Open player on his team within five squares. The chosen player may immediately move one square, ignoring Tackle Zones, though they must end this move Marking an opposition player.
+Once per Drive, when Ivar begins his activation he may select one Open team-mate within 5 squares. The selected player may immediately move 1 square, though they must end this move Marking an opposition player.
 
-### Special Rules
+### Plays For
 
 * [Old World Classic]
 

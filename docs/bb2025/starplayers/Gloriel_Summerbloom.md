@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/GSummerbloom01.jpg)
 
-| 150K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 7 | 2 | 2+ | 2+ | 8+ |
+|  150K  | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | --- |
+|      | 7  | 2  | 2+ | 2+ | 8+ |
+
+*(Elf, Thrower)*
 
 * [Accurate]
 * [Dodge]
@@ -14,9 +16,9 @@
 * [Sure Hands]
 * **Shot to Nothing**
 
-Once per game, when Gloriel performs a Pass action, she may gain the Hail Mary Pass skill. You must declare this special rules is being used when Gloriel is activated.
+Once per game, when Gloriel is activated she may use this special rule. If she does, Gloriel gains the Hail Mary Pass Skill until the end of her activation.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
 

@@ -2,22 +2,24 @@
 
 ![](../media/starplayers/ZolcathZoatLead.jpg)
 
-| 230K  | MA | ST | AG | PA | AV |
-| --- | --- | --- | --- | --- | --- |
-| | 5 | 5 | 4+ | 5+ | 10+ |
+| 220K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
+|      | 5  | 5  | 4+ | 5+ | 10+ |
+
+*(Big Guy, Zoat)*
 
 * [Disturbing Presence]
 * [Juggernaut]
 * [Loner] (4+)
-* [Mighty Blow] (+1)
+* [Mighty Blow]
 * [Prehensile Tail]
 * [Regeneration]
 * [Sure Feet]
-* **Excuse Me, Are You a Zoat?**
+* **"Excuse me, are you a Zoat?"**
 
-Once per game, when Zolcath is activated, he may gain the Hypnotic Gaze trait. You must declare this special rule is being used when Zolcath is activated.
+Once per game, when Zolcath is activated he may select an opposition player within 3 squares. The selected player immediately becomes Distracted.
 
-### Special Rules
+### Plays For
 
 * [Elven Kingdoms League]
 * [Lustrian Superleague]
