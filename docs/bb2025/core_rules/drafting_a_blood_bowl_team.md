@@ -16,6 +16,8 @@ Finally, there are spaces for other important information such as any Sideline S
 
 On the other side of the Team Draft List is a Game Record Sheet. This is ideal for keeping track of the games your team has played and the outcomes of those matches. You can record the likes of the score, number of Casualties caused, what Inducements you hired (if any), your Team Value (TV) following the game, your winnings and whether the game was part of a League or was a Friendly, amongst other things.
 
+## TEAM DRAFT LIST
+
 ### TEAM DRAFT BUDGET
 
 The Team Draft Budget is the amount of gold pieces your team has to spend when building your team. When starting a team during League Play, you will usually have a Team Draft Budget of 1,000,000 gold pieces - this is the most common value for a rookie team. During Exhibition Play or Matched Play (and even in League Play there are some odd situations) you may have a higher Team Draft Budget to spend on your team.

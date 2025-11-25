@@ -2,7 +2,7 @@ Blood Bowl teams come in all shapes and sizes. From elegant Elves to stoic Dwarf
 
 These races come from all across the known world, and there are countless teams of each type that have competed on the gridiron over the years. Some of these teams will have been made up of fresh-faced rookies hoping to make it big, whilst others will have been established teams brimming with history and grizzled veterans of the game, and everywhere in between. Whilst some teams may reach the lofty heights and go down in the annals of Blood Bowl history, most will simply be no more than a footnote - doomed to be nothing more than an obscure pub quiz answer in taverns across the Old World!
 
-## BLOOD BOWL TEAMS!
+### BLOOD BOWL TEAMS!
 
 In this section, we will present all of the different Team Rosters from which you can build your teams. Within each Team Roster, you will find the various player types the team can field along with the player profiles, as well as how many of each they are allowed to hire. A Team Roster will state how many gold pieces a Team Re-roll will cost and whether the team can hire an Apothecary. It will also state which League a team plays for and which special rules the team has. These are both explained here.
 

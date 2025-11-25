@@ -2,7 +2,7 @@ Not everyone has the time to commit to a full blown league, and may also not fin
 
 The flexible nature of Exhibition Play is perfect for Coaches who want to try something a little different from the norm. Perhaps they want to increase the number of Star Players allowed on each team, or perhaps play a game using only one type of player from a team's roster! What about using alternative Weather and Kick-off Event Tables, or even creating your own to fit a particular narrative. You could even explore the idea of creating your own mixed teams by combining multiple Team Rosters to form your own, unique teams - Exhibition Play allows you to let your imagination loose and create your own game play experience.
 
-# DRAFTING AN EXHIBITION PLAY TEAM!
+## DRAFTING AN EXHIBITION PLAY TEAM!
 
 Drafting an Exhibition Play team works in the same way as drafting a team for Matched Play as described on page 110, ensuring that both Coaches have an equally balanced Team Draft List to the same amount of gold pieces. Of course, in Exhibition Play you are free to tweak certain elements of this however you wish in order to fit your desired narrative.
 

@@ -18,7 +18,7 @@ Each Inducement will have a cost, which is the amount of gold pieces required to
 
 Some Inducements may also be cheaper for certain teams, or teams with specific special rules.
 
-## COMMON INDUCEMENTS
+### COMMON INDUCEMENTS
 Below is a list of the common Inducements and their associated costs for easy reference. They will each be explained over the next few pages.
 
 - 0-3 Prayers to Nuffle - 10,000 gold pieces

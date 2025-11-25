@@ -1,3 +1,5 @@
+## SKILLS!
+
 Generally speaking, Skills are those abilities a player is able to learn through practice, hard work and sometimes even natural talent. They are the result of hours of the player's dedication on the pitch and the player listening to their coach's tutelage and wisdom - which, given that this is Blood Bowl, doesn't happen as often as it should!
 
 All players will have access to a number of Skill categories as outlined in their profile. Some of these will be listed under Primary, which are the Skills that come more naturally to the player in question, whilst others are listed under Secondary and are those that will take a greater investment of SPP for that player. Not every player will have access to every Skill category.
