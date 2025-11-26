@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                        | MA | ST | AG | PA | AR | Skills                                           | Primary | Secondary | Cost |
+| Qty  | Position                        | MA | ST | AG | PA | AV | Skills                                           | Primary | Secondary | Cost |
 | ---- | -------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | High Elf Lineman *(Lineman, Elf)* | 6  | 3  | 2+ | 4+ | 9+ |                                                  | A G     | P S       | 65K  |
 | 0-4  | High Elf Catcher *(Catcher, Elf)* | 8  | 3  | 2+ | 5+ | 8+ | • [Catch]                                        | A G     | S         | 90K  |

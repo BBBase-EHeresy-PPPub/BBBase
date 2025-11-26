@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position                          | MA | ST | AG | PA | AR | Skills                                                                                      | Primary | Secondary | Cost |
-| ---- | ---------------------------------- | -- | -- | -- | -- | -- | -------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Bloodborn Marauder *(Lineman, Human)* | 6 | 3 | 3+ | 4+ | 8+ | • [Frenzy]                                                                                  | G M     | A S D     | 50K  |
-| 0-4  | Khorngor *(Runner, Beastman)*      | 6  | 3  | 3+ | 4+ | 9+ | • [Horns]<br>• [Juggernaut]<br>• [Jump Up]<br>• [Thick Skull]                               | G M S   | A P D     | 70K  |
-| 0-4  | Bloodseeker *(Blocker, Daemon)*    | 5  | 4  | 4+ | 6+ | 10+| • [Frenzy]                                                                                   | G M S   | A D       | 105K |
-| 0-1  | Bloodspawn *(Big Guy, Ogre)*       | 5  | 5  | 4+ | -  | 9+  | • [Claws]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Unchannelled Fury]  | M S     | A G P D   | 160K |
+| Qty  | Position                               | MA | ST | AG | PA | AV | Skills                                                                                               | Primary | Secondary | Cost   |
+| ---- | --------------------------------------- | -- | -- | -- | -- | -- | ----------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
+| 0-16 | Bloodborn Marauder *(Lineman, Human)*   | 6  | 3  | 3+ | 4+ | 8+ | • [Frenzy]                                                                                           | G M     | A S D     | 50K |
+| 0-2  | Khorngor *(Runner, Beastman)*           | 6  | 3  | 3+ | 4+ | 9+ | • [Horns]<br>• [Juggernaut]<br>• [Jump Up]<br>• [Thick Skull]                                        | G M S   | A P D     | 70K |
+| 0-4  | Bloodseeker *(Blocker, Human)*          | 5  | 4  | 4+ | 6+ | 10+| • [Frenzy]                                                                                           | G M S   | A D       | 105K|
+| 0-1  | Bloodspawn *(Big Guy, Spawn)*           | 5  | 5  | 4+ | –  | 9+  | • [Claws]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Unchannelled Fury]                | M S     | A G       | 160K |
 
 ### Special Rules
 

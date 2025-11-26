@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                           | MA | ST | AG | PA | AR | Skills                                                                                           | Primary | Secondary | Cost |
+| Qty  | Position                           | MA | ST | AG | PA | AV | Skills                                                                                           | Primary | Secondary | Cost |
 | ---- | ----------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Halfling Hopeful *(Lineman, Halfling)* | 5  | 2  | 3+ | 4+ | 7+ | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                       | A       | G S D     | 30K  |
 | 0-2  | Halfling Hefty *(Runner, Halfling)*    | 5  | 2  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Fend]<br>• [Stunty]                                                              | A P     | G S D     | 50K  |

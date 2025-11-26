@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                                  | MA | ST | AG | PA | AR | Skills                                                                                           | Primary | Secondary | Cost |
+| Qty  | Position                                  | MA | ST | AG | PA | AV | Skills                                                                                           | Primary | Secondary | Cost |
 | ---- | ------------------------------------------ | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Zombie Lineman *(Lineman, Zombie)*          | 4  | 3  | 4+ | -  | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]                                                | G       | A S D     | 40K  |
 | 0-2  | Ghoul *(Runner, Undead)*                    | 7  | 3  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Regeneration]                                                                     | A G     | P S D     | 75K  |

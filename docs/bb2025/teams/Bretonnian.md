@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                            | MA | ST | AG | PA | AR | Skills                                                   | Primary | Secondary | Cost |
+| Qty  | Position                            | MA | ST | AG | PA | AV | Skills                                                   | Primary | Secondary | Cost |
 | ---- | ------------------------------------ | -- | -- | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Bretonnian Squire *(Lineman, Human)* | 6  | 3  | 3+ | 4+ | 9+ | • [Wrestle]                                              | G       | A S       | 50K  |
 | 0-2  | Bretonnian Knight Thrower *(Thrower)*| 6  | 3  | 3+ | 3+ | 9+ | • [Dauntless]<br>• [Nerves of Steel]<br>• [Pass]         | G A     | S         | 80K  |

@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                         | MA | ST | AG | PA | AR | Skills & Traits                                                                                           | Primary | Secondary | Cost |
+| Qty | Position                         | MA | ST | AG | PA | AV | Skills                                                                                           | Primary | Secondary | Cost |
 | --- | -------------------------------- | -- | -- | -- | -- | -- | ----------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-6 | Goblin Lineman *(Lineman, Goblin)* | 6  | 2  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                  | A       | G S       | 40K |
 | 0-2 | Orc Thrower *(Thrower, Orc)*       | 5  | 3  | 3+ | 3+ | 9+ | • [Pass]<br>• [Sure Hands]                                                                                  | G P     | A S       | 75K |

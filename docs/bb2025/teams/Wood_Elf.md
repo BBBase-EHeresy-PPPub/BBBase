@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                           | MA | ST | AG | PA | AR | Skills & Traits                                                                                              | Primary | Secondary | Cost |
+| Qty | Position                           | MA | ST | AG | PA | AV | Skills                                                                                              | Primary | Secondary | Cost |
 | --- | ---------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0-16 | Wood Elf Lineman *(Lineman, Elf)*    | 7  | 3  | 2+ | 4+ | 8+ |                                                                                                              | A G     | S         | 65K |
 | 0-2  | Wood Elf Thrower *(Thrower, Elf)*    | 7  | 3  | 2+ | 2+ | 8+ | • [Pass]<br>• [Safe Pair of Hands]                                                                           | A G P   | S         | 85K |

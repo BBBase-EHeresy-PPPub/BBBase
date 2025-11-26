@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                          | MA | ST | AG | PA | AR | Skills & Traits                                                        | Primary | Secondary | Cost |
+| Qty | Position                          | MA | ST | AG | PA | AV | Skills                                                        | Primary | Secondary | Cost |
 | --- | --------------------------------- | -- | -- | -- | -- | -- | ---------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Skeleton Lineman *(Lineman, Skeleton)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                                   | G       | A S D     | 40K |
 | 0-2  | Tomb Kings Thrower *(Thrower, Skeleton)* | 6  | 3  | 4+ | 3+ | 8+ | • [Pass]<br>• [Regeneration]<br>• [Sure Hands]<br>• [Thick Skull]     | G P     | A S D     | 65K |

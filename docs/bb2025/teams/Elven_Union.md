@@ -3,12 +3,14 @@
 
 ### Positionals
 
-| Qty  | Position                          | MA | ST | AG | PA | AR | Skills                                              | Primary | Secondary | Cost |
-| ---- | ---------------------------------- | -- | -- | -- | -- | -- | --------------------------------------------------- | ------- | --------- | ---- |
-| 0-12 | Elf Lineman *(Lineman, Elf)*       | 6  | 3  | 2+ | 4+ | 8+ | • [Fumble-rooski]                                   | A G     | S         | 65K  |
-| 0-2  | Elf Thrower *(Thrower, Elf)*       | 6  | 3  | 2+ | 2+ | 8+ | • [Hail Mary Pass]<br>• [Pass]                     | A G P   | S         | 75K  |
-| 0-4  | Elf Catcher *(Catcher, Elf)*       | 8  | 3  | 2+ | 4+ | 8+ | • [Catch]<br>• [Diving Catch]<br>• [Nerves of Steel] | A G     | S         | 100K |
-| 0-2  | Elf Blitzer *(Blitzer, Elf)*       | 7  | 3  | 2+ | 3+ | 9+ | • [Block]<br>• [Sidestep]                          | A G     | P S       | 115K |
+### Positionals
+
+| Qty  | Position                        | MA | ST | AG | PA | AV | Skills                                                    | Primary | Secondary | Cost   |
+| ---- | -------------------------------- | -- | -- | -- | -- | -- | --------------------------------------------------------- | ------- | --------- | ------ |
+| 0-16 | Elf Lineman *(Lineman, Elf)*     | 6  | 3  | 2+ | 3+ | 8+ | • [Fumblerooski]                                          | A G     | S         | 65K |
+| 0-2  | Elf Thrower *(Thrower, Elf)*     | 6  | 3  | 2+ | 2+ | 8+ | • [Hail Mary Pass]<br>• [Pass]                            | A G P   | S         | 75K |
+| 0-2  | Elf Catcher *(Catcher, Elf)*     | 8  | 3  | 2+ | 4+ | 8+ | • [Catch]<br>• [Diving Catch]<br>• [Nerves of Steel]      | A G     | S         | 100K |
+| 0-2  | Elf Blitzer *(Blitzer, Elf)*     | 7  | 3  | 2+ | 3+ | 9+ | • [Block]<br>• [Sidestep]                                 | A G     | P S       | 115K |
 
 ### Special Rules
 

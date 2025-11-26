@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                          | MA | ST | AG | PA | AR | Skills & Traits                                                     | Primary | Secondary | Cost |
+| Qty | Position                          | MA | ST | AG | PA | AV | Skills                                                     | Primary | Secondary | Cost |
 | --- | --------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Skeleton Lineman *(Lineman, Human)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                                 | G       | A S D     | 40K |
 | 0-16 | Zombie Lineman *(Lineman, Human)*   | 4  | 3  | 4+ | 6+ | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]                   | G D     | A S       | 40K |

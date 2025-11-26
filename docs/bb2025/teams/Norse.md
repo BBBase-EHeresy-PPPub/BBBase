@@ -3,14 +3,14 @@
 
 ### Positionals
 
-| Qty  | Position                         | MA | ST | AG | PA | AR | Skills                                                                                              | Primary | Secondary | Cost |
-| ---- | --------------------------------- | -- | -- | -- | -- | -- | ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-2  | Beer Boar *(Runner, Animal)*       | 5  | 1  | 3+ | -  | 6+ | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                               | -       | A G P S D | 20K  |
-| 0-12 | Norse Raider *(Lineman, Human)*    | 6  | 3  | 3+ | 4+ | 8+ | • [Block]<br>• [Drunkard]<br>• [Thick Skull]                                                         | G       | A P S D   | 50K  |
-| 0-2  | Norse Berserker *(Blitzer, Human)* | 6  | 3  | 3+ | 5+ | 8+ | • [Block]<br>• [Frenzy]<br>• [Jump Up]                                                               | G S     | A P D     | 90K  |
-| 0-2  | Valkyrie *(Catcher, Human)*        | 7  | 3  | 3+ | 3+ | 8+ | • [Catch]<br>• [Dauntless]<br>• [Pass]<br>• [Strip Ball]                                             | A G P   | S D       | 95K  |
-| 0-2  | Ulfwerener *(Blocker, Werebeast)*  | 6  | 4  | 4+ | -  | 9+ | • [Frenzy]                                                                                           | G S     | A D       | 105K |
-| 0-1  | Yhetee *(Big Guy, Yhetee)*         | 5  | 5  | 4+ | -  | 9+ | • [Claws]<br>• [Disturbing Presence]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Unchannelled Fury]        | S       | A G P D   | 140K |
+| Qty  | Position                           | MA | ST | AG | PA | AV | Skills                                                                                                          | Primary | Secondary | Cost   |
+| ---- | ----------------------------------- | -- | -- | -- | -- | -- | ---------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
+| 0-2  | Beer Boar *(Special, Animal)*       | 5  | 1  | 3+ | –  | 6+ | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                                           | —       | A         | 20K |
+| 0-16 | Norse Raider *(Lineman, Human)*     | 6  | 3  | 3+ | 4+ | 8+ | • [Block]<br>• [Drunkard]<br>• [Thick Skull]                                                                     | G       | A P S      | 50K |
+| 0-2  | Norse Berserker *(Blitzer, Human)*  | 6  | 3  | 3+ | 5+ | 8+ | • [Block]<br>• [Frenzy]<br>• [Jump Up]                                                                           | G S     | A P        | 90K |
+| 0-2  | Valkyrie *(Catcher, Human)*         | 7  | 3  | 3+ | 3+ | 8+ | • [Catch]<br>• [Dauntless]<br>• [Pass]<br>• [Strip Ball]                                                         | A G P   | S          | 95K |
+| 0-2  | Ulfwerener *(Blocker, Human)*       | 6  | 4  | 4+ | –  | 9+ | • [Frenzy]<br>• [Unsteady]                                                                                       | G S     | A          | 105K|
+| 0-1  | Yhetee *(Big Guy, Yhetee)*          | 5  | 5  | 4+ | –  | 9+ | • [Claws]<br>• [Disturbing Presence]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Unchannelled Fury]                   | S       | A G        | 140K |
 
 ### Special Rules
 

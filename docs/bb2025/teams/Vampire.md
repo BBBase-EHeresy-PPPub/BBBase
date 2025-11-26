@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                          | MA | ST | AG | PA | AR | Skills & Traits                                                                   | Primary | Secondary | Cost |
+| Qty | Position                          | MA | ST | AG | PA | AV | Skills                                                                   | Primary | Secondary | Cost |
 | --- | --------------------------------- | -- | -- | -- | -- | -- | --------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Thrall Lineman *(Lineman, Human)*   | 6  | 3  | 3+ | 4+ | 8+ |                                                                                   | G       | A S       | 40K |
 | 0-2  | Vampire Runner *(Runner, Vampire)*  | 8  | 3  | 2+ | 4+ | 8+ | • [Bloodlust] (2+)<br>• [Hypnotic Gaze]<br>• [Regeneration]                       | A G     | S P       | 100K |

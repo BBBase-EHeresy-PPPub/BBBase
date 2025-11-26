@@ -44,7 +44,7 @@ When a Touchdown is scored, or the final Turn of a half is played, the current d
 A Turnover is caused if:
 
 * A player on the active team Falls Over during their own activation.
-* A player on the active team is Knocked Down during their own team’s turn.
+* A player on the active team is Knocked Down during their own team's turn.
 * A player on the active team that is carrying the ball is Placed Prone or forced to move off the pitch for any reason.
 * A player on the active team attempts to pick up the ball from the ground and fails.
 * A player on the active team attempts a Pass Action and Fumbles the ball.
@@ -73,12 +73,12 @@ If playing in a league, Coaches should run through the following sequence after 
 | **3** | **TIME-OUT:** If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space. |
 | **4** | **SOLID DEFENCE:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team. |
 | **5** | **HIGH KICK:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
-| **6** | **CHEERING FANS:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll’s next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
+| **6** | **CHEERING FANS:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
 | **7** | **BRILLIANT COACHING:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
 | **8** | **CHANGING WEATHER:** Immediately make a new roll on the Weather Table. If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
 | **9** | **QUICK SNAP!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition half. |
-| **10** | **CHARGE!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team’s Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
-| **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player’s pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
+| **10** | **CHARGE!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
+| **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
 | **12** | **PITCH INVASION:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
 
 ### PLAYER ACTIVATIONS
@@ -110,12 +110,12 @@ Resolve a Block Action by rolling Block Dice and choosing one result. The number
 
 * If both players have equal modified Strength, roll one Block Die.
 * If one player has higher modified Strength, two Block Dice are rolled.\*
-* If one player has over double the other’s modified Strength, three Block Dice are rolled.\*
+* If one player has over double the other's modified Strength, three Block Dice are rolled.\*
 
 \**The Coach of the player with the higher Strength Characteristic chooses the result used.*
 
 #### ASSISTING A BLOCK ACTION
-A common way of modifying a player’s Strength during Block Actions is through Assists.
+A common way of modifying a player's Strength during Block Actions is through Assists.
 
 * Blocking players gain a +1 Strength modifier for each player of the same team who is Marking the target of the Block Action and is not Marked by another opposing player.
 * The target of a Block gains a +1 Strength modifier for each player of the same team who is Marking the player performing the Block Action and is not Marked by another opposing player.
@@ -144,10 +144,10 @@ If the target player has the [Dodge] skill, this becomes Push Back. Otherwise, t
 Apply the Push Back result to the target player. The target player is then Knocked Down in the square they are now in by the player performing the Block Action.
 
 ### RISKING INJURY
-When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team’s Coach makes an Armour roll against that player — see page 37 for Armour Rolls.
+When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player — see page 37 for Armour Rolls.
 
 #### INJURY ROLLS
-If the Armour Roll results in a player's armour being broken, the opposing team’s Coach rolls 2D6 and consults the table below:
+If the Armour Roll results in a player's armour being broken, the opposing team's Coach rolls 2D6 and consults the table below:
 
 #### INJURY TABLE
 
@@ -176,7 +176,7 @@ If the Armour Roll results in a player's armour being broken, the opposing team�
 | **6** | BROKEN SHOULDER | –1 ST |
 
 ### INJURY BY THE CROWD
-Make an Injury Roll for a player Pushed into the Crowd (page 68). If the player would be Stunned, place them in their team’s Reserve Box. Otherwise, follow the result on the relevant Injury Table.
+Make an Injury Roll for a player Pushed into the Crowd (page 68). If the player would be Stunned, place them in their team's Reserve Box. Otherwise, follow the result on the relevant Injury Table.
 
 ### STALLING
 If a player in possession of the ball when activated can score a Touchdown without having to roll dice but finishes their activation without having scored a Touchdown, then they are Stalling. Roll a D6 if a player is Stalling — if the result is equal to or greater than the team's current Turn number, the player is Knocked Down and a Turnover is caused.

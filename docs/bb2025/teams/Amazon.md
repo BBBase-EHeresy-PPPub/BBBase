@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                | MA | ST | AG | PA  | AR | Skills                                 | Primary | Secondary | Cost |
+| Qty  | Position                | MA | ST | AG | PA  | AV | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | -- | -- | -- | --- | -- | -------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Eagle Warrior *(Linewoman, Human)* | 6  | 3  | 3+ | 4+  | 8+ | • [Dodge]                               | G       | A S       | 50K  |
 | 0-2  | Python Warrior *(Thrower, Human)*  | 6  | 3  | 3+ | 3+  | 8+ | • [Dodge]<br>• [On the Ball]<br>• [Pass]<br>• [Safe Pass] | G P    | A S      | 80K  |

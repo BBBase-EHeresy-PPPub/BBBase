@@ -35,7 +35,6 @@
 [Lord Borak the Despoiler]: ../starplayers/Lord_Borak_the_Despoiler.md
 [Maple Highgrove]: ../starplayers/Maple_Highgrove.md
 [Max Spleenripper]: ../starplayers/Max_Spleenripper.md
-[Mighty Zug]: ../starplayers/Mighty_Zug.md
 [Morg 'n' Thorg]: ../starplayers/Morg_'n'_Thorg.md
 [Nobbla Blackwart]: ../starplayers/Nobbla_Blackwart.md
 [Puggy Baconbreath]: ../starplayers/Puggy_Baconbreath.md
@@ -52,6 +51,7 @@
 [Skrull Halfheight]: ../starplayers/Skrull_Halfheight.md
 [Swiftvine Glimmershard]: ../starplayers/Swiftvine_Glimmershard.md
 [The Black Gobbo]: ../starplayers/The_Black_Gobbo.md
+[The Mighty Zug]: ../starplayers/The_Mighty_Zug.md
 [The Swift Twins]: ../starplayers/The_Swift_Twins.md
 [Thorsson Stoutmead]: ../starplayers/Thorsson_Stoutmead.md
 [Varag Ghoul-Chewer]: ../starplayers/Varag_Ghoul-Chewer.md

@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty  | Position                          | MA | ST | AG | PA | AR | Skills                                           | Primary | Secondary | Cost  |
+| Qty  | Position                          | MA | ST | AG | PA | AV | Skills                                           | Primary | Secondary | Cost  |
 | ---- | ---------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------ | ------- | --------- | ------ |
 | 0-16 | Dark Elf Lineman *(Lineman, Elf)*   | 6  | 3  | 2+ | 4+ | 9+ |                                                  | A G     | S D       | 65K   |
 | 0-2  | Dark Elf Runner *(Runner, Elf)*     | 7  | 3  | 2+ | 3+ | 8+ | • [Dump-off]<br>• [Punt]                         | A G P   | S D       | 80K   |

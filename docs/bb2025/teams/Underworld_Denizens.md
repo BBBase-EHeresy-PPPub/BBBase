@@ -3,7 +3,7 @@
 
 ### Positionals
 
-| Qty | Position                              | MA | ST | AG | PA | AR | Skills & Traits                                                                                               | Primary | Secondary | Cost |
+| Qty | Position                              | MA | ST | AG | PA | AV | Skills                                                                                               | Primary | Secondary | Cost |
 | --- | ------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Snotling Lineman *(Lineman, Snotling)* | 5  | 1  | 3+ | 5+ | 6+ | • [Dodge]<br>• [Insignificant]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]                 | A M D   | G         | 15K |
 | 0-6  | Skaven Clanrat *(Lineman, Skaven)*     | 7  | 3  | 3+ | 4+ | 8+ | • [Animosity] (Goblin)                                                  | G M D   | A S       | 50K |

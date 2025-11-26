@@ -534,8 +534,8 @@ When a player is Sent-off for any reason, their Coach may attempt to Argue the C
 
 | D6 | RESULT |
 |----|--------|
-| 1 | “YOU’RE OUTTA HERE!”: The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
-| 2–5 | “I DON’T CARE!”: The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
+| 1 | “YOU'RE OUTTA HERE!”: The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
+| 2–5 | “I DON'T CARE!”: The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
 | 6 | “WELL, WHEN YOU PUT IT LIKE THAT...”: You make some good points and the referee is swayed. The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
 
 Continuing with our example, the Tomb Kings Blitzer makes an Armour Roll for the Bretonnian Squire they are fouling, rolling a 6 and a 3, which breaks their armour. They then make an Injury Roll and roll a double 2, causing the Tomb Kings Blitzer to be Sent-off and the Bretonnian Squire to be Stunned. The Tomb Kings Coach attempts to Argue the Call and rolls a 1, meaning that the Tomb Kings Blitzer is still Sent-off and the Coach cannot Argue the Call for the remainder of the game!
