@@ -16,8 +16,8 @@
 ### Special Rules
 
 * [Worlds Edge Superleague]
-* [Bribery and Corruption]
 * [Brawlin' Brutes]
+* [Bribery and Corruption]
 
 ### Staff
 
@@ -30,22 +30,14 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Barik Farblast] - 80K
-* [Grim Ironjaw] - 200K
-* [Frank 'n' Stein] - 250K
-* [Cindy Piewhistle] - 50K
-* [Puggy Baconbreath] - 120K
-* [Rumbelow Sheepskin] - 170K
 * [Skrull Halfheight] - 150K
-* [Grombrindal] - 210K
-* [Karla von Kill] - 210K
-* [Maple Highgrove] - 210K
+* [Grombrindal] - 170K
+* [Thorsson Stoutmead] - 170K
+* [Grim Ironjaw] - 190K
 * [The Mighty Zug] - 220K
-* [Ivar Eriksson] - 245K
+* [Skrorg Snowpelt] - 240K
 * [Grak and Crumbleberry] - 250K
-* [Skrorg Snowpelt] - 250K
-* [Deeproot Strongbranch] - 280K
-* [Griff Oberwald] - 280K
-* [Morg 'n' Thorg] - 380K
+* [Morg 'n' Thorg]  - 340K
 
 ### Inducements
 

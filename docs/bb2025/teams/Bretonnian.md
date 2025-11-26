@@ -10,6 +10,10 @@
 | 0-4  | Bretonnian Knight Catcher *(Catcher)*| 7  | 3  | 2+ | 5+ | 8+ | • [Catch]<br>• [Dauntless]<br>• [Nerves of Steel]        | A G     | S         | 85K  |
 | 0-2  | Grail Knight *(Blitzer, Human)*      | 7  | 3  | 3+ | 5+ | 9+ | • [Block]<br>• [Dauntless]<br>• [Steady Footing]         | G S     | A         | 95K  |
 
+### Special Rules
+
+* [Old World Classic]
+
 ### Staff
 
 * [Cheerleader] - 10K
@@ -31,7 +35,7 @@
 * [Skrorg Snowpelt] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Griff Oberwald] - 300K
-* [Morg 'N' Thorg] - 340K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

@@ -41,7 +41,7 @@
 * [Skrorg Snowpelt] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Griff Oberwald] - 300K
-* [Morg 'N' Thorg] - 340K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

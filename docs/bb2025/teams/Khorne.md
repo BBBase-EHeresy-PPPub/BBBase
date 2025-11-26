@@ -12,6 +12,7 @@
 
 ### Special Rules
 
+* [Chaos Clash]
 * [Favoured of Khorne][Favoured of...]
 * [Brawlin' Brutes]
 

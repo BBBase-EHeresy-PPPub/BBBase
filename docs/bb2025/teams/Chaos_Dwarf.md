@@ -15,6 +15,10 @@
 ### Special Rules
 
 * [Badlands Brawl]
+
+or
+
+* [Chaos Clash]
 * [Favoured of Hashut][Favoured of...]
 
 ### Staff
@@ -28,24 +32,19 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Fungus The Loon] - 80K
-* [Bomber Dribblesnot] - 50K
+* [Bomber Dribblesnot] - 80K
 * [Nobbla Blackwart] - 120K
-* [Scrappa Sorehead] - 130K
+* [Scrappa Sorehead] - 120K
 * [Rashnak Backstabber] - 130K
 * [Zzharg Madeye] - 130K
-* [Helmut Wulf] - 140K
-* [Kreek Rustgouger] - 170K
-* [Withergrasp Doubledrool] - 170K
-* [Glart Smashrip] - 195K
-* [Hakflem Skuttlespike] - 210K
-* [The Black Gobbo] - 225K
+* [The Black Gobbo] - 210K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K
-* [Lord Borak The Despoiler] - 260K
-* [Varag Ghoul-Chewer] - 280K
+* [Varag Ghoul-Chewer] - 260K
+* [Lord Borak The Despoiler] - 270K
 * [H'thark The Unstoppable] - 300K
-* [Morg 'n' Thorg] - 380K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

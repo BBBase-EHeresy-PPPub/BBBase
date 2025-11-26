@@ -14,6 +14,7 @@
 
 ### Special Rules
 
+* [Underworld Challenge]
 * [Bribery and Corruption]
 * [Low Cost Linemen]
 * [Swarming]

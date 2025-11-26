@@ -17,6 +17,9 @@
 Choose one:
 
 * [Old World Classic]
+
+or
+
 * [Favoured of Khorne][Favoured of...]
 * [Chaos Clash]
 
@@ -29,33 +32,23 @@ Choose one:
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
-* [Barik Farblast] - 80K
-* [Puggy Baconbreath] - 120K
-* [Max Spleenripper] - 130K
-* [Helmut Wulf] - 140K
-* [Skitter Stab-Stab] - 150K
-* [Kreek Rustgouger] - 170K
-* [Rumbelow Sheepskin] - 170K
-* [Thorsson Stoutmead] - 170K
-* [Withergrasp Doubledrool] - 170K
-* [Glart Smashrip] - 195K
-* [Grim Ironjaw] - 200K
-* [Scyla Anfingrimm] - 200K
-* [Grombrindal] - 210K
-* [Hakflem Skuttlespike] - 210K
-* [Karla von Kill] - 210K
-* [Maple Highgrove] - 210K
-* [The Mighty Zug] - 220K
-* [Grashnak Blackhoof] - 240K
-* [Ivar Eriksson] - 245K
-* [Frank 'n' Stein] - 250K
-* [Grak and Crumbleberry] - 250K
-* [Skrorg Snowpelt] - 250K
-* [Lord Borak the Despoiler] - 260K
-* [Deeproot Strongbranch] - 280K
-* [Griff Oberwald] - 300K
-* [Morg 'n' Thorg] - 340K
+* [Akhorne The Squirrel] – 80K
+* [Barik Farblast] – 80K
+* [Cindy Piewhistle] – 50K
+* [Puggy Baconbreath] – 130K
+* [Helmut Wulf] – 140K
+* [Grombrindal] – 210K
+* [Thorsson Stoutmead] – 170K
+* [Josef Bugman] – 180K
+* [Karla Von Kill] – 210K
+* [Ivar Eriksson] – 215K
+* [The Mighty Zug] – 220K
+* [Grashnak Blackhoof] – 240K
+* [Skrorg Snowpelt] – 240K
+* [Grak and Crumbleberry] – 250K
+* [Lord Borak The Despoiler] – 260K
+* [Griff Oberwald] – 300K
+* [Morg 'n' Thorg] – 340K
 
 ### Inducements
 

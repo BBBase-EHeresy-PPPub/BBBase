@@ -28,19 +28,15 @@
 * [Akhorne The Squirrel] - 80K
 * [Max Spleenripper] - 130K
 * [Zzharg Madeye] - 130K
-* [Skitter Stab-Stab] - 150K
-* [Kreek Rustgouger] - 170K
+* [Guffle Pusmaw] - 150K
 * [Withergrasp Doubledrool] - 170K
 * [Bilerot Vomitflesh] - 180K
-* [Guffle Pussmaw] - 180K
-* [Glart Smashrip] - 195K
 * [Scyla Anfingrimm] - 200K
-* [Hakflem Skuttlespike] - 210K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
-* [Lord Borak the Despoiler] - 260K
-* [H'thark the Unstoppable] - 300K
-* [Morg 'n' Thorg] - 380K
+* [Lord Borak The Despoiler] - 270K
+* [H'Tarkh The Unstoppable] - 300K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

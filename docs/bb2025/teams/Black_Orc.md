@@ -1,4 +1,4 @@
-﻿**TIER 2**
+﻿**TIER 3**
 ![](../media/teams/BBBlackOrcTeamLead.jpg)
 
 ### Positionals
@@ -34,7 +34,7 @@
 * [Ripper Bolgrot] – 250K
 * [Varag Ghoul-Chewer] – 260K
 * [H'thark The Unstoppable] – 300K
-* [Morg 'N' Thorg] – 340K
+* [Morg 'n' Thorg] – 340K
 
 
 ### Inducements

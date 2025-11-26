@@ -29,6 +29,7 @@
 [Ivar Eriksson]: ../starplayers/Ivar_Eriksson.md
 [Jeremiah Kool]: ../starplayers/Jeremiah_Kool.md
 [Jordell Freshbreeze]: ../starplayers/Jordell_Freshbreeze.md
+[Josef Bugman]: ../starplayers/Josef_Bugman.md
 [Karla von Kill]: ../starplayers/Karla_von_Kill.md
 [Kiroth Krakeneye]: ../starplayers/Kiroth_Krakeneye.md
 [Kreek Rustgouger]: ../starplayers/Kreek_Rustgouger.md

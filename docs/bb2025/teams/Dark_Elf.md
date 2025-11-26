@@ -34,7 +34,7 @@
 * [Roxanna Darknail] - 270K
 * [The Swift Twins] - 300K
 * [Jeremiah Kool] - 300K
-* [Morg 'N' Thorg] - 340K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

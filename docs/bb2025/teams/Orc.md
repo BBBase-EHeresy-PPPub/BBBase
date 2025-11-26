@@ -14,6 +14,8 @@
 ### Special Rules
 
 * [Badlands Brawl]
+* [Brawlin' Brutes]
+* [Team Captain]
 
 ### Staff
 

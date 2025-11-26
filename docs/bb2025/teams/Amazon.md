@@ -27,13 +27,12 @@
 * [Boa Kon'ssstriktr] - 180K
 * [Estelle la Veneaux] - 190K
 * [Anqi Panqi] - 190K
-* [Dribl and Drull] - 190K
 * [Karla von Kill] - 210K
-* [The Mighty Zug] - 220K
-* [Zolcath the Zoat] - 230K
+* [Zolcath the Zoat] - 220K
+* [Dribl and Drull] - 230K
 * [Grak and Crumbleberry] - 250K
 * [Glotl Stop] - 260K
-* [Morg 'n' Thorg] - 380K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

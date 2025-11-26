@@ -13,6 +13,7 @@
 
 ### Special Rules
 
+* [Chaos Clash]
 * [Favoured of Nurgle][Favoured of...]
 
 ### Staff
@@ -30,7 +31,7 @@
 * [Grashnak Blackhoof] – 240K
 * [Grak and Crumbleberry] – 250K
 * [Lord Borak The Despoiler] – 270K
-* [Morg 'N' Thorg] – 340K
+* [Morg 'n' Thorg] – 340K
 
 
 ### Inducements

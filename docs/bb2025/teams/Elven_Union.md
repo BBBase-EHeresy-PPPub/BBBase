@@ -3,8 +3,6 @@
 
 ### Positionals
 
-### Positionals
-
 | Qty  | Position                        | MA | ST | AG | PA | AV | Skills                                                    | Primary | Secondary | Cost   |
 | ---- | -------------------------------- | -- | -- | -- | -- | -- | --------------------------------------------------------- | ------- | --------- | ------ |
 | 0-16 | Elf Lineman *(Lineman, Elf)*     | 6  | 3  | 2+ | 3+ | 8+ | • [Fumblerooski]                                          | A G     | S         | 65K |
@@ -27,18 +25,15 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Gloriel Summerbloom] - 150K
-* [Swiftvine Glimmershard] - 110K
-* [Willow Rosebark] - 150K
 * [Kiroth Krakeneye] - 160K
-* [Maple Highgrove] - 210K
-* [Eldril Sidewinder] - 230K
-* [Zolcath The Zoat] - 230K
+* [Eldril Sidewinder] - 220K
+* [Zolcath The Zoat] - 220K
 * [Grak and Crumbleberry] - 250K
-* [Jordell Freshbreeze] - 250K
 * [Roxanna Darknail] - 270K
-* [Jeremiah Kool] - 320K
-* [The Swift Twins] - 340K
-* [Morg 'n' Thorg] - 380K
+* [Jordell Freshbreeze] - 280K
+* [The Swift Twins] - 300K
+* [Jeremiah Kool] - 300K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

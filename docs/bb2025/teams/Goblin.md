@@ -3,14 +3,12 @@
 
 ### Positionals
 
-### Positionals
-
 | Qty  | Position                          | MA | ST | AG | PA | AV  | Skills                                                                                                                                     | Primary | Secondary | Cost   |
 | ---- | ---------------------------------- | -- | -- | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
 | 0-16 | Goblin Lineman *(Goblin, Lineman)* | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                                                  | A D    | G P S   | 40K |
 | 0-1  | Looney *(Goblin, Special)*         | 6  | 2  | 3+ | –  | 8+  | • [Chainsaw]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                                                              | D       | A G S   | 40K |
 | 0-1  | Bomma *(Goblin, Special)*          | 6  | 2  | 3+ | 4+ | 8+  | • [Bombardier]<br>• [Dodge]<br>• [Secret Weapon]<br>• [Stunty]                                                                              | D P    | A G S   | 45K |
-| 0-1  | ’Ooligan *(Goblin, Special)*       | 6  | 2  | 3+ | 5+ | 8+  | • [Dirty Player] (+1)<br>• [Disturbing Presence]<br>• [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Taunt]                                | A D    | G S      | 60K |
+| 0-1  | 'Ooligan *(Goblin, Special)*       | 6  | 2  | 3+ | 5+ | 8+  | • [Dirty Player] (+1)<br>• [Disturbing Presence]<br>• [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Taunt]                                | A D    | G S      | 60K |
 | 0-1  | Doom Diver *(Goblin, Special)*     | 6  | 2  | 3+ | 6+ | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Swoop]                                                                                     | A       | D G S   | 65K |
 | 0-1  | Fanatic *(Goblin, Special)*        | 3  | 7  | 3+ | –  | 8+  | • [Ball & Chain]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stunty]                                                                          | D S    | A G      | 70K |
 | 0-1  | Pogoer *(Goblin, Special)*         | 7  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br>• [Pogo]<br>• [Stunty]                                                                                                         | A       | D G S   | 75K |

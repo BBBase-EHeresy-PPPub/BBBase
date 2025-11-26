@@ -19,7 +19,12 @@
 
 ### Special Rules
 
-* [Favoured of...]
+* [Chaos Clash]
+* [Favoured of Khorne][Favoured of...]
+* [Favoured of Nurgle][Favoured of...]
+* [Favoured of Slaanesh][Favoured of...]
+* [Favoured of Tzeentch][Favoured of...]
+* [Favoured of Undivided][Favoured of...]
 
 ### Staff
 
@@ -32,19 +37,14 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Max Spleenripper] - 130K
-* [Zzharg Madeye] - 130K
-* [Guffle Pussmaw] - 150K
+* [Guffle Pusmaw] - 150K
 * [Withergrasp Doubledrool] - 170K
 * [Bilerot Vomitflesh] - 180K
-* [Glart Smashrip] - 195K
 * [Scyla Anfingrimm] - 200K
-* [Hakflem Skuttlespike] - 210K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
-* [Lord Borak The Despoiler] - 260K
-* [Varag Ghoul-Chewer] - 280K
-* [H'thark The Unstoppable] - 300K
-* [Morg 'n' Thorg] - 380K
+* [Lord Borak The Despoiler] - 270K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 
