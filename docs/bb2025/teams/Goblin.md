@@ -18,6 +18,7 @@
 
 * [Badlands Brawl]
 * [Underworld Challenge]
+* [Bribery and Corruption]
 
 ### Staff
 

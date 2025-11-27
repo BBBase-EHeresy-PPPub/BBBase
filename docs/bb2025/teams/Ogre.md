@@ -13,6 +13,7 @@
 
 * [Badlands Brawl]
 * [Worlds Edge Superleague]
+* [Brawlin' Brutes]
 
 ### Staff
 

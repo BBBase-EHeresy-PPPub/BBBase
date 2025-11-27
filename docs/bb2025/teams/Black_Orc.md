@@ -13,6 +13,7 @@
 
 * [Badlands Brawl]
 * [Bribery and Corruption]
+* [Brawlin' Brutes]
 
 ### Staff
 

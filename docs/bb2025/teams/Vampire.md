@@ -35,8 +35,6 @@
 * [Grak and Crumbleberry] - 250K
 * [Count Luthor Von Drakenborg] - 340K
 
----
-
 ### Inducements
 
 * [Temp Agency Cheerleader] - 5K

@@ -103,9 +103,12 @@ Violence is the name of the game to these teams, and they will not hesitate to g
 
 During League Play, a team with this special rule will earn SPP slightly differently. Players on this team will earn 3 SPP for causing a Casualty rather than the usual 2. Additionally, players on this team will earn 1 SPP for Scoring a Touchdown rather than the usual 3.
 
+* [Black Orc]
 * [Dwarf]
 * [Khorne]
+* [Nurgle]
 * [Orc]
+* [Ogre]
 
 ### BRIBERY AND CORRUPTION
 These teams are legendarily unscrupulous, and are known for their expert way of bending the rules to breaking point. They are also no strangers to the pressure put on the match officials in order to ply the to see things their way, either by blackmail, extortion, bribery, or any other innovative way they can think of to get the referee to turn a blind eye!
@@ -114,6 +117,7 @@ Once per game, when they argue the call, they may re-roll the D6.
 
 * [Black Orc]
 * [Dwarf]
+* [Goblin]
 * [Snotling]
 * [Underworld Denizens]
 

@@ -15,6 +15,7 @@
 
 * [Chaos Clash]
 * [Favoured of Nurgle][Favoured of...]
+* [Brawlin' Brutes]
 
 ### Staff
 
