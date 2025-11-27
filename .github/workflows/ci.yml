@@ -16,11 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Reset gh-pages worktree
+      - name: Prepare gh-pages
         run: |
           rm -rf gh-pages
-          git fetch origin gh-pages || true
-          git worktree add gh-pages origin/gh-pages || git worktree add gh-pages gh-pages
+          git fetch origin gh-pages
+          git switch --detach
+          git worktree add gh-pages origin/gh-pages
 
       - name: Configure Git Credentials
         run: |
@@ -34,14 +35,14 @@ jobs:
       - name: Install
         run: pip install mkdocs-material mike
 
-      - name: Clean branch completely
+      - name: Clean
         run: rm -rf gh-pages/*
 
-      - name: Build versions
+      - name: Build
         run: |
           mike deploy --config-file mkdocs-2020.yml bb2020
           mike deploy --config-file mkdocs-2025.yml bb2025
           mike set-default bb2025
 
-      - name: Push gh-pages
+      - name: Push
         run: git -C gh-pages push origin gh-pages --force
