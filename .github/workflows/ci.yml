@@ -16,11 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Prepare gh-pages
-        run: |
-          git fetch origin gh-pages || true
-          git worktree add gh-pages gh-pages || git worktree add gh-pages origin/gh-pages
-
       - name: Configure Git Credentials
         run: |
           git config user.name "github-actions[bot]"
@@ -37,7 +32,4 @@ jobs:
         run: |
           mike deploy --config-file mkdocs-2020.yml bb2020
           mike deploy --config-file mkdocs-2025.yml bb2025
-          mike set-default bb2025
-
-      - name: Push gh-pages
-        run: git -C gh-pages push origin gh-pages
+          mike set-default --push bb2025
