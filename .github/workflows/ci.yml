@@ -33,6 +33,10 @@ jobs:
       - name: Install dependencies
         run: pip install mkdocs-material mike
 
+      - name: Clean everything
+        run: |
+          rm -rf gh-pages/*
+
       - name: Build versions
         run: |
           mike deploy --config-file mkdocs-2020.yml bb2020
@@ -40,4 +44,4 @@ jobs:
           mike set-default bb2025
 
       - name: Push gh-pages
-        run: git -C gh-pages push origin gh-pages
+        run: git -C gh-pages push origin gh-pages --force
