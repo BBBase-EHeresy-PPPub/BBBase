@@ -16,10 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Prepare gh-pages
+      - name: Reset gh-pages worktree
         run: |
+          rm -rf gh-pages
           git fetch origin gh-pages || true
-          git worktree add gh-pages gh-pages || git worktree add gh-pages origin/gh-pages
+          git worktree add gh-pages origin/gh-pages || git worktree add gh-pages gh-pages
 
       - name: Configure Git Credentials
         run: |
@@ -30,12 +31,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install dependencies
+      - name: Install
         run: pip install mkdocs-material mike
 
-      - name: Clean everything
-        run: |
-          rm -rf gh-pages/*
+      - name: Clean branch completely
+        run: rm -rf gh-pages/*
 
       - name: Build versions
         run: |
