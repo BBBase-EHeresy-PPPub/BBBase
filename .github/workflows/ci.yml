@@ -24,12 +24,12 @@ jobs:
             git push origin HEAD:gh-pages
             git checkout "${GITHUB_REF_NAME}"
           fi
+          git fetch origin gh-pages:gh-pages
 
       - name: Prepare fresh gh-pages worktree
         run: |
           rm -rf gh-pages
-          git fetch origin gh-pages
-          git worktree add gh-pages origin/gh-pages
+          git worktree add gh-pages gh-pages
           rm -rf gh-pages/*
 
       - name: Configure Git
