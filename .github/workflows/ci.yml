@@ -2,9 +2,7 @@ name: ci
 
 on:
   push:
-    branches:
-      - master
-      - main
+    branches: [main, master]
 
 permissions:
   contents: write
@@ -16,33 +14,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Prepare gh-pages
+      - name: Ensure gh-pages exists
+        run: |
+          if ! git ls-remote --exit-code origin gh-pages; then
+            git checkout --orphan gh-pages
+            touch .nojekyll
+            git add .nojekyll
+            git commit -m "init"
+            git push origin HEAD:gh-pages
+            git checkout "${GITHUB_REF_NAME}"
+          fi
+
+      - name: Prepare fresh gh-pages worktree
         run: |
           rm -rf gh-pages
           git fetch origin gh-pages
-          git switch --detach
           git worktree add gh-pages origin/gh-pages
+          rm -rf gh-pages/*
 
-      - name: Configure Git Credentials
+      - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: "3.x"
 
       - name: Install
         run: pip install mkdocs-material mike
 
-      - name: Clean
-        run: rm -rf gh-pages/*
-
-      - name: Build
+      - name: Build with mike
         run: |
           mike deploy --config-file mkdocs-2020.yml bb2020
           mike deploy --config-file mkdocs-2025.yml bb2025
           mike set-default bb2025
 
-      - name: Push
-        run: git -C gh-pages push origin gh-pages --force
+      - name: Push gh-pages
+        run: git -C gh-pages push origin HEAD:gh-pages --force
