@@ -1,0 +1,6913 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../almanac_2024/">
+      
+      
+        <link rel="next" href="../geheimnisnacht_special/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/BB2020_Favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Pitch Rules - Blood Bowl Base</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto Slab";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#amazon" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+  <div>
+    This page contains documentation for a previous edition of Blood Bowl.  
+    The current official release is BB2025.  
+    <a href="/bb2025/">Access the updated BB2025 docs</a>.
+  </div>
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Blood Bowl Base" class="md-header__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Blood Bowl Base
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Pitch Rules
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../core_rules/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Core Rules
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../matched_play/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Matched Play
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../death_zone/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Death Zone
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../dungeon_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Dungeon Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../blitz_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Blitz Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../gutter_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Gutter Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Spike! Journal
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../teams/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Teams
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../starplayers/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Star Players
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Blood Bowl Base" class="md-nav__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    Blood Bowl Base
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../core_rules/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Rules
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Rules
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/cheat_sheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/blood_bowl_stadia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Stadia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/rules_and_regulations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules and Regulations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/the_rules_of_blood_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Blood Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/post-game_sequence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Post-game Sequence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/skills_and_traits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills and Traits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/inducements_in_detail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inducements in Detail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/league_and_exhibition_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    League and Exhibition Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/the_teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/special_plays_card_pack/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Special Plays Card Pack
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/faq_290525/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lastest FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../matched_play/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Matched Play
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../matched_play/guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../death_zone/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Death Zone
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Death Zone
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/new_inducements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    New Inducements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/fabulous_freebooters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fabulous Freebooters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/titanic_effort/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Titanic Effort.. The Biggest of the Big Guys
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/sponsorship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sponsorship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/blood_bowl_stadia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Stadia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/a_load_of_balls/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    A Load of Balls
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/new_weather_tables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    New Weather Tables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/match_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Match Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/blood_bowl_sevens/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Sevens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../dungeon_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dungeon Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/cheat_sheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_game_of_dungeon_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Game of Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/rules_and_regulations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules and Regulations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/set-up/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Set-Up
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_rules_of_dungeon_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/post-game_sequence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Post-game Sequence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/skills_and_traits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills and Traits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/inducements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inducements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/league_and_exhibition_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    League and Exhibition Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/death_zone/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Death Zone
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../blitz_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blitz Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blitz Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/contents_of_the_box/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contents of the Box
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Blitz Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/drill_cards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Drill Cards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/cards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../gutter_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gutter Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Gutter Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gutter_bowl/rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gutter_bowl/leagues/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gutter Bowl Leagues
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Spike! Journal
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 13
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 14
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 16
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_17/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 17
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../issue_18/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 18
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../almanac_2021/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Almanac 2021
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../almanac_2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Almanac 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pitch Rules
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pitch Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#amazon" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Amazon
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Amazon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overgrown-jungle-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overgrown Jungle Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chaos-chosen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Chosen
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chaos Chosen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chaos-temple-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Temple Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chaos-dwarf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Dwarf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chaos Dwarf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#volcanic-lair-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Volcanic Lair Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dark-elf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dark Elf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dark Elf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dark-elf-corsair-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dark Elf Corsair Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dwarf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dwarf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dwarf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subterranean-weather-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Subterranean Weather Table
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elven-union" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elven Union
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Elven Union">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frozen-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Frozen Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gnome" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gnome
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gnome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mystical-forest-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mystical Forest Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goblin" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Goblin
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Goblin">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#waterlogged-stadium-conditions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Waterlogged Stadium Conditions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#halfling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Halfling
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Halfling">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#halfling-rural-idyll-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Halfling Rural Idyll Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#khorne" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Khorne
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Khorne">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#altar-of-khorne-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Altar of Khorne Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lizardmen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lizardmen
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lizardmen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lustrian-temple-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lustrian Temple Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#necromantic-horror" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Necromantic Horror
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Necromantic Horror">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#necromantic-horror-nightmare-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Necromantic Horror Nightmare Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#norse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Norse
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Norse">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frozen-lake-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Frozen Lake Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nurgle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nurgle
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nurgle">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nurgles-garden-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nurgle's Garden Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ogre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ogre
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ogre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ogre-mega-maul-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ogre Mega-Maul Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shambling-undead" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Shambling Undead
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Shambling Undead">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#shambling-undead-graveyard-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Shambling Undead Graveyard Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skaven" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Skaven
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Skaven">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subterranean-weather-table_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Subterranean Weather Table
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#snotling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Snotling
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Snotling">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#snotling-fungal-bog-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Snotling Fungal Bog Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vampire" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vampire
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Vampire">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vampire-castle-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vampire Castle Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wood-elf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wood Elf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Wood Elf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wood-elf-arboreal-sanctuary-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wood Elf Arboreal Sanctuary Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../geheimnisnacht_special/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Geheimnisnacht Special
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../holiday_special/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Holiday Special
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../teams/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Teams
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Amazon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Amazon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Black_Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Black Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Chosen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Chosen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Renegades/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Renegades
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dark_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dark Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Elven_Union/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elven Union
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Gnome/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gnome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Goblin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Goblin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Halfling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Halfling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/High_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    High Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Human/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Human
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Imperial_Nobility/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Imperial Nobility
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Khorne/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Khorne
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Lizardmen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lizardmen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Necromantic_Horror/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Necromantic Horror
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Norse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Norse
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Nurgle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nurgle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Ogre/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ogre
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Old_World_Alliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Old World Alliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Shambling_Undead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shambling Undead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Skaven/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skaven
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Snotling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Snotling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Tomb_Kings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tomb Kings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Underworld_Denizens/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Underworld Denizens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Vampire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vampire
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Wood_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wood Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../starplayers/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Star Players
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9" id="__nav_9_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Star Players
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Akhorne_The_Squirrel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Akhorne The Squirrel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Anqi_Panqi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Anqi Panqi
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Barik_Farblast/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Barik Farblast
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bilerot_Vomitflesh/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bilerot Vomitflesh
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Boa_Kon%27ssstriktr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boa Kon'ssstriktr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bomber_Dribblesnot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bomber Dribblesnot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bryce_%27The_Slice%27_Cambuel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bryce 'The Slice' Cambuel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/%27Captain%27_Karina_Von_Riesz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    'Captain' Karina Von Riesz
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Cindy_Piewhistle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cindy Piewhistle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Count_Luthor_von_Drakenborg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Count Luthor von Drakenborg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Deeproot_Strongbranch/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Deeproot Strongbranch
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Dribl_and_Drull/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dribl and Drull
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Eldril_Sidewinder/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Eldril Sidewinder
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Estelle_la_Veneaux/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estelle la Veneaux
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Frank_%27n%27_Stein/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Frank 'n' Stein
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Fungus_the_Loon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fungus the Loon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glart_Smashrip/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glart Smashrip
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gloriel_Summerbloom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gloriel Summerbloom
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glotl_Stop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glotl Stop
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grak_and_Crumbleberry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grak and Crumbleberry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grashnak_Blackhoof/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grashnak Blackhoof
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gretchen_W%C3%A4chter_%27The_Blood_Bowl_Widow%27/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gretchen Wächter 'The Blood Bowl Widow'
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Griff_Oberwald/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Griff Oberwald
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grim_Ironjaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grim Ironjaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grombrindal%2C_The_White_Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grombrindal, The White Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Guffle_Pussmaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guffle Pussmaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Hakflem_Skuttlespike/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hakflem Skuttlespike
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Helmut_Wulf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Helmut Wulf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/H%27thark_the_Unstoppable/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    H'thark the Unstoppable
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivan_%27the_Animal%27_Deathshroud/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivan 'the Animal' Deathshroud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivar_Eriksson/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivar Eriksson
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jeremiah_Kool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremiah Kool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jordell_Freshbreeze/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jordell Freshbreeze
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Karla_Von_Kill/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Karla Von Kill
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kiroth_Krakeneye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kiroth Krakeneye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kreek_%27the_Verminator%27_Rustgouger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kreek 'the Verminator' Rustgouger
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Lord_Borak_the_Despoiler/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lord Borak the Despoiler
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Maple_Highgrove/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maple Highgrove
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Max_Spleenripper/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Max Spleenripper
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Mighty_Zug/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mighty Zug
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Morg_%27n%27_Thorg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morg 'n' Thorg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Nobbla_Blackwart/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nobbla Blackwart
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Puggy_Baconbreath/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Puggy Baconbreath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rashnak_Backstabber/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rashnak Backstabber
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ripper_Bolgrot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ripper Bolgrot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rodney_Roachbait/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rodney Roachbait
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rowana_Forestfoot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rowana Forestfoot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Roxanna_Darknail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roxanna Darknail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rumbelow_Sheepskin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rumbelow Sheepskin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scrappa_Sorehead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scrappa Sorehead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scyla_Anfingrimm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scyla Anfingrimm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skitter_Stab-stab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skitter Stab-stab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrorg_Snowpelt/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrorg Snowpelt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrull_Halfheight/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrull Halfheight
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Swiftvine_Glimmershard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Swiftvine Glimmershard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Black_Gobbo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Black Gobbo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Swift_Twins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Swift Twins
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Thorsson_Stoutmead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thorsson Stoutmead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Varag_Ghoul-Chewer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Varag Ghoul-Chewer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Wilhelm_Chaney/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wilhelm Chaney
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Willow_Rosebark/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Willow Rosebark
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Withergrasp_Doubledrool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Withergrasp Doubledrool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zolcath_the_Zoat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zolcath the Zoat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zzharg_Madeye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zzharg Madeye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#amazon" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Amazon
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Amazon">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#overgrown-jungle-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Overgrown Jungle Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chaos-chosen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Chosen
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chaos Chosen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#chaos-temple-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Temple Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chaos-dwarf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chaos Dwarf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chaos Dwarf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#volcanic-lair-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Volcanic Lair Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dark-elf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dark Elf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dark Elf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#dark-elf-corsair-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dark Elf Corsair Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dwarf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dwarf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Dwarf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subterranean-weather-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Subterranean Weather Table
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elven-union" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elven Union
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Elven Union">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frozen-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Frozen Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gnome" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gnome
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Gnome">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#mystical-forest-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mystical Forest Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goblin" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Goblin
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Goblin">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#waterlogged-stadium-conditions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Waterlogged Stadium Conditions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#halfling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Halfling
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Halfling">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#halfling-rural-idyll-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Halfling Rural Idyll Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#khorne" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Khorne
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Khorne">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#altar-of-khorne-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Altar of Khorne Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lizardmen" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lizardmen
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Lizardmen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#lustrian-temple-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lustrian Temple Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#necromantic-horror" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Necromantic Horror
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Necromantic Horror">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#necromantic-horror-nightmare-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Necromantic Horror Nightmare Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#norse" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Norse
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Norse">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#frozen-lake-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Frozen Lake Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nurgle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nurgle
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Nurgle">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nurgles-garden-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Nurgle's Garden Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ogre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ogre
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ogre">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ogre-mega-maul-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ogre Mega-Maul Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shambling-undead" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Shambling Undead
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Shambling Undead">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#shambling-undead-graveyard-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Shambling Undead Graveyard Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skaven" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Skaven
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Skaven">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subterranean-weather-table_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Subterranean Weather Table
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#snotling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Snotling
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Snotling">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#snotling-fungal-bog-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Snotling Fungal Bog Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vampire" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vampire
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Vampire">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#vampire-castle-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Vampire Castle Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wood-elf" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wood Elf
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Wood Elf">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#wood-elf-arboreal-sanctuary-blood-bowl-pitch" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wood Elf Arboreal Sanctuary Blood Bowl Pitch
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Pitch Rules</h1>
+
+<h2 id="amazon">Amazon</h2>
+<h3 id="overgrown-jungle-blood-bowl-pitch"><a href="../issue_15/#overgrown-jungle-blood-bowl-pitch">Overgrown Jungle Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="chaos-chosen">Chaos Chosen</h2>
+<h3 id="chaos-temple-blood-bowl-pitch">Chaos Temple Blood Bowl Pitch</h3>
+<p>Chaos teams of all stripes - from the mighty Chosen, outcast Renegades, Daemons and others - often establish their home ground in one of the many abandoned Chaos temples found deep in the wildernesses of the Old World. When such teams take to the pitch, dark powers gather, the action and bloodshed that takes place within attracting the attention of the Dark Gods themselves.</p>
+<p><strong>Using the Chaos Temple Pitch in Your Blood Bowl Games</strong></p>
+<p>If both players agree, the following rules can be used to represent the Chaos Blood Bowl pitch:</p>
+<p>The dark side of the pitch is used during the first half of the game. If, during the first half, a player on either team is removed as a Casualty for any reason, molten lava begins to bubble up around the fell icons and dark sigils. Should this happen, at half-time turn the pitch over so that the brightly lit side is showing. For the duration of the second half, the weather conditions in effect will be 2 - Sweltering Heat, as the temperature rises and the conditions become more hellish.</p>
+<p>Additionally, if the brightly lit side of the pitch is in use in the second half, the footing becomes more treacherous as daemonic entities grasp at the players' feet. In order to successfully Rush, a player must roll 3+ rather than 2+.</p>
+<p>When the brightly lit side of the pitch is in use, there is no need to roll for weather. These effects replace normal weather conditions for the duration of the second half, and if a 8 - Changing Weather result is rolled on the Kick-off Events table at any time during the second half, the ball will simply scatter one extra square in a random direction before landing and bouncing with no further changes or effects.</p>
+<p>If, however, no blood has been spilled on the pitch at all during the first half in the form of Casualties being caused for any reason, the Chaos gods are displeased! A strange hush falls across the arena as the fans become oddly quiet. Both teams reduce their Fan Factor by 1 for the remainder of the game.</p>
+<hr />
+<h2 id="chaos-dwarf">Chaos Dwarf</h2>
+<h3 id="volcanic-lair-blood-bowl-pitch"><a href="../issue_18/#volcanic-lair-blood-bowl-pitch">Volcanic Lair Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="dark-elf">Dark Elf</h2>
+<h3 id="dark-elf-corsair-blood-bowl-pitch">Dark Elf Corsair Blood Bowl Pitch</h3>
+<p>Dark Elves are notorious pirates and corsairs, their vessels prowling the high seas, hunting for ships to board and pillage. Many Dark Elf Blood Bowl teams travel the world in this fashion as well, sailing the oceans of the world to reach far flung tournaments and league fixtures, and partaking in some traditional Druchii piracy at the same time. Consequently, it is not uncommon for games to be played aboard the fine and fast vessels of the Naggaroth fleet...</p>
+<p><strong>Using the Dark Elf Corsair Pitch in Your Blood Bowl Games</strong></p>
+<p>The Dark Elf Corsair pitch has two sides - one representing the pitch aboard a Corsair vessel in calm, quiet seas, the other depicting it being attacked by a mighty creature of the deep and dragged beneath the waves! If both players agree, the following rules can be used to represent the unusual conditions:</p>
+<p>The calm side of the pitch is used during the first half of the game. If during the first half either team scores one or more touchdowns, the roars of the crew and crowd attract the curious attentions of a mighty sea monster that will drag the vessel below the waves. The players, however, will play on; abandoning a game of Blood Bowl once it is underway is unheard of! For the duration of the second half, the following effects will apply.</p>
+<p>As the doomed corsair vessel is gradually dragged beneath the waves, the playing surface becomes slick with water. Whenever a player recovers from being Stunned, roll a D6. On a roll of a 1, lying face down in the salty brine has done the player no good, and they remain Stunned for another turn.</p>
+<p>Additionally, the tentacles of the curious sea monster will hamper footing considerably, as they explore the deck looking for prey. All players on both teams suffer a -1 penalty to their MA for the duration of the second half, to a minimum of 3, as they must pay extra attention to where they stand.</p>
+<hr />
+<h2 id="dwarf">Dwarf</h2>
+<h3 id="subterranean-weather-table">Subterranean Weather Table</h3>
+<p>If both players agree, they can use this table in place of the Weather table in the Blood Bowl rulebook for the duration of the match. It is ideal for representing matches played underground, whether in a well-maintained Dwarf stadium or the haphazard deathtrap that is a Skaven pitch. Any rules that refer to the Weather table (for example, the Changing Weather result on the Kick-off Event table) refer to this table if you're using it.</p>
+<table>
+<thead>
+<tr>
+<th>2D6</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2</td>
+<td><strong>Bubbling up from Below:</strong> The players are aghast as viscous liquid begins to seep up from below. Whether this is a natural phenomenon, the result of sabotage or a dire warning that stadia have no place being built above sewage pipes, it's definitely not pleasant! All players on the pitch subtract 1 from their MA.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Gloomy:</strong>    The torches are in need of replacing, and the shadows are growing long. All Long pass and Long bomb Pass actions suffer an additional -1 modifier. Additionally, when a player attempts to Rush for a second or subsequent time during their activation, apply an additional -1 modifier.</td>
+</tr>
+<tr>
+<td>4‑10</td>
+<td><strong>Perfect Conditions (well, almost):</strong> The light of the sun might be missing, but the conditions are almost perfect for Blood Bowl.</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>Thermal Geysers:</strong> Vapour begins to whistle up from cracks in the ground, followed by forceful gouts of roiling steam. If a player on your team Falls Over or is Knocked Down, roll a D6. On a roll of 1, they crack open a thermal geyser. That player is immediately catapulted through the air. Immediately treat that player as being thrown (as if they had the Right Stuff trait) by another player (with the Throw Team-mate trait), and treat the quality of the throw as terrible.</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>Seismic Activity:</strong> "Uh oh… was that a tremor?" Roll a D6 at the end of each team turn, adding 1 to the result for each player on the pitch with a Strength of 5 or more. On a roll of 6+, rocks tumble down from up above. Both coaches roll-off. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. That player is struck by a falling rock and Knocked Down. If the roll-off results in a tie, do not roll again. Instead, both coaches must randomly select a player to be struck by a falling rock.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="elven-union">Elven Union</h2>
+<h3 id="frozen-pitch">Frozen Pitch</h3>
+<p>These rules represent a pitch located in a region where the Winds of Magic blow so strongly, they affect the weather itself! As the arcane powers shift, the weather turns from pleasantly warm to freezing cold in the blink of an eye, the pitch crusting over with a thick layer of glistening ice within seconds. If both players agree, they can use the following rules in place of the Weather table that can be found in the Blood Bowl rulebook for the duration of the match.</p>
+<p>The Elven Union pitch has two sides - one frozen over with magically summoned ice, the other enjoying perfect Blood Bowl weather. At the start of the match, randomise which side of the pitch is used with a flip of the Blood Bowl coin.</p>
+<p>Whenever the rules call for a roll on the Weather table (for example, at the start of the game, each time a Changing Weather Kick-off result is rolled or any other effect, such as a Special Play card), instead of doing so roll a D6 at the end of each drive. On a result of 4, 5 or 6, flip the board to its other side before setting up for the next drive.</p>
+<p>When the non-Frozen side of the pitch is in play, the magical poles are in alignment and the weather is counted as Perfect Conditions, as per the normal Blood Bowl Weather rules.</p>
+<p>When the Frozen side is in play, the following rules are used: if a player moves more than six squares in a single action (including Rushing), they automatically move one additional square after their move has ended (this extra square still counts as part of their action). This must be in the same direction they were travelling when they moved into their final square. If this would move them into an occupied square, they are instead Knocked Down in the square they are currently in. Otherwise, after they have moved this extra square, make an Agility test with a +1 modifier, ignoring Tackle Zones. If the roll is failed, they are Placed Prone (no Armour roll is made); this is not a Turnover unless they are carrying the ball.</p>
+<hr />
+<h2 id="gnome">Gnome</h2>
+<h3 id="mystical-forest-blood-bowl-pitch"><a href="../issue_17/#mystical-forest-blood-bowl-pitch">Mystical Forest Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="goblin">Goblin</h2>
+<h3 id="waterlogged-stadium-conditions">Waterlogged Stadium Conditions</h3>
+<p>These rules represent a pitch with a bit of a drainage problem! If both players agree, they can use the following rules in place of the Weather table in the Blood Bowl rulebook for the duration of the match.</p>
+<p>The Goblin pitch has two sides - one flooded, the other relatively dry. At the start of the match, the dry(ish) side of the board is used; there are no additional rules. Whenever the rules call for a roll on the Weather table (at the start of the game, and each time a Changing Weather Kick-off Event table result is rolled), roll on the table below instead.</p>
+<table>
+<thead>
+<tr>
+<th>2D6</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2‑5</td>
+<td><strong>Dazzling Sun:</strong> The sun has come out but it is dazzling the players, who had grown accustomed to the gloom. A -1 modifier applies to all Passing Ability tests.</td>
+</tr>
+<tr>
+<td>6‑8</td>
+<td><strong>Light Drizzle:</strong> It's raining, but not enough to affect the game. If the board is on its Dry side, roll a D6 at the end of each drive. On a result of 5 or 6, flip the board to the Flooded side before setting up for the next drive.</td>
+</tr>
+<tr>
+<td>9‑12</td>
+<td><strong>Brisk Downpour:</strong> The heavens have opened! A -1 modifier applies to all attempts to Catch, Intercept or Pick-up the ball. In addition, if the board is currently on its Dry side, roll a D6 at the end of each drive. On a result of 3 or more, flip the board to the Flooded side before setting up for the next drive.</td>
+</tr>
+</tbody>
+</table>
+<p>If the board is flipped to its Flooded side, the following rules are in play for the remainder of the game:</p>
+<ul>
+<li>If a player is Knocked Down while Rushing or Dodging, subtract 1 from the result of the Armour roll.</li>
+<li>In addition, whenever a player recovers from being Stunned, roll a D6. On a roll of 1, lying face-down in the water has done them no favours, and they remain Stunned for another turn.</li>
+</ul>
+<hr />
+<h2 id="halfling">Halfling</h2>
+<h3 id="halfling-rural-idyll-pitch">Halfling Rural Idyll Pitch</h3>
+<p>Many Halfling tournaments are held in temporary stadia - although the name 'stadium' is rather grand for a makeshift pitch marked out with whitewash in a farmer's field only recently vacated of sheep and surrounded by rickety bleachers. But to the Halflings of the Moot, these temporary temples to Nuffle rise from the countryside like towering monuments to their beloved sport. For the duration of these glorious tournaments, the picturesque villages and hamlets become bustling metropolises; numerous eateries and bars springing up in marquees, tented towns covering the rolling vales and fairground attractions dotting the countryside.</p>
+<p><strong>Using the Rural Idyll Pitch in Your Blood Bowl Games</strong></p>
+<p>The Halfling Rural Idyll pitch has two sides - one representing the picturesque pitch at the start of the game, the other depicting it after much half-time banqueting and celebration! If both players agree, the following rules can be used to represent the unusual conditions.</p>
+<p>The green and daisy-speckled side of the pitch is used during the first half of the game. This pitch is little more than a rectangle of grass with bunting roughly dividing it into two halves, and the End Zones marked out by picnic blankets and discarded sweaters. When the kicking team sets up for a drive, they may choose to treat their Line of Scrimmage as being the normal Line of Scrimmage, or one row of squares further back into their own half, or one row of squares into the other team's half. This creates a temporary half-way line for this kick-off which the receiving team must adhere to when setting up their players, and which is used for the purposes of awarding a touchback.</p>
+<p>During half-time, fans stream onto the pitch, raiding the concession stands and temporary bars. In their enthusiasm, the pitch is trampled and becomes a muddy mess, making the pitch markings even worse! During the second half of the game, the limit of two players per Wide Zone during set-up does not apply for either team. Additionally, all players suffer a -1 penalty to their MA for the remainder of the game, to a minimum of 4. However, players can attempt to Rush one more time than normal (three times for most players, or four if a player has the Sprint skill).</p>
+<hr />
+<h2 id="khorne">Khorne</h2>
+<h3 id="altar-of-khorne-blood-bowl-pitch"><a href="../issue_13/#altar-of-khorne-blood-bowl-pitch">Altar of Khorne Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="lizardmen">Lizardmen</h2>
+<h3 id="lustrian-temple-blood-bowl-pitch">Lustrian Temple Blood Bowl Pitch</h3>
+<p>Many Blood Bowl Lizardmen stadia are established within temples to the Old Ones, while others are sited in ancient and long-abandoned jungle ruins. Such locations make ideal Blood Bowl venues, though there is always the danger that the roar of the crowd and the violence of the action will awaken ancient powers and forgotten magics!</p>
+<p><strong>Using the Lustrian Temple Pitch in Your Blood Bowl Games</strong></p>
+<p>The Lustrian Temple pitch has two sides - one representing a pitch built within a long-derelict and forgotten temple, the other depicting that same temple as it comes alive with the power of the Old Ones, as bubbling lava flows from the world's core along mystical channels, illuminating ancient glyphs and pictograms of unknowable significance! If both players agree, the following rules can be used to represent these unusual conditions:</p>
+<p>The Lustrian Temple Blood Bowl pitch is ancient, built from astrogranite rather than soft turf. Such unforgiving material is rarely used in the Old World due to the injuries it causes but, in Lustria, a bit of bloodshed is considered pleasing to Nuffle! For the duration of the game, whenever a player Falls Over or is Knocked Down apply a +1 modifier to the Armour roll.</p>
+<p>Additionally, the dormant side of the pitch is used during the first half of the game. If during the first half either team scores one or more touchdowns, the roar of the crowd causes the ancient power of the temple to awaken. At half-time turn the pitch over. For the duration of the second half, the following effects will apply:</p>
+<p>As the stadium gradually fills with lava, the already tropical heat increases to unbearable levels. At the start of the second half, do not roll on the Kick-off Event table. Instead, treat the result as having been 8 - Changing Weather, and, rather than making a new roll on the Weather table, apply the effects of 2 - Sweltering Heat for the remainder of the match.</p>
+<hr />
+<h2 id="necromantic-horror">Necromantic Horror</h2>
+<h3 id="necromantic-horror-nightmare-blood-bowl-pitch"><a href="../issue_11/#necromantic-horror-nightmare-blood-bowl-pitch">Necromantic Horror Nightmare Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="norse">Norse</h2>
+<h3 id="frozen-lake-blood-bowl-pitch"><a href="../issue_14/#frozen-lake-blood-bowl-pitch">Frozen Lake Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="nurgle">Nurgle</h2>
+<h3 id="nurgles-garden-blood-bowl-pitch">Nurgle's Garden Blood Bowl Pitch</h3>
+<p>Grandfather Nurgle is a god of fecundity. Wherever his followers travel, a gruesome flourishing of fresh life follows; be it squirming maggoty worms and buzzing clouds of flies, or the vigorous growth of strange flora from the swelling earth. Stadia dedicated to Nurgle are particularly worrisome, for even as the walls and stands rot and decay, the sacred pitch writhes with life, the soil churning and bubbling as peculiar vegetation bursts forth before rotting away in a moment, consumed by tiny creatures that themselves live for mere moments before expiring to feed fresh plant growth.</p>
+<p><strong>Using the Nurgle's Garden Pitch in Your Blood Bowl Games</strong></p>
+<p>The Nurgle's Garden pitch has two sides—one representing the pitch in a hibernating and sedate state, the other far more vigorous as strange flora and fauna bursts forth! If both players agree, the following rules can be used to represent the unusual conditions.</p>
+<p>The Hibernating Garden side of the pitch is used during the first half of the game. If, during the first half, a player on either team is removed as a Casualty for any reason, maggoty worms and daemonic plants awaken and burst from the loamy earth. Should this happen, at half time, turn the pitch over so that the Blooming Garden side is showing. For the duration of the second half, there is no need to roll for Weather; the weather conditions in effect will be 11 (Pouring Rain), due to the trillions of maggots that erupt from the earth, covering the ball and making it harder to handle.</p>
+<p>Additionally, if the Blooming Garden side of the pitch is in use in the second half, the footing becomes more treacherous as daemonic plants appear around the players' feet, tripping them up. If any player attempts to move seven squares or more, they must roll a D6 for each square after the sixth. On a roll of a 1, the player Falls Over in the square they were moving into, exactly as if they had failed to Rush.</p>
+<p>If an 8 (Changing Weather) result is rolled on the Kick-off Event Table at any time during the second half, the ball will simply scatter one extra square in a random direction before landing and bouncing with no further changes or effects.</p>
+<hr />
+<h2 id="ogre">Ogre</h2>
+<h3 id="ogre-mega-maul-blood-bowl-pitch">Ogre Mega-Maul Blood Bowl Pitch</h3>
+<p>The lands of the Ogres lie far to the east, in a region of desolate desert and magnificent mountains. The stadia of this inhospitable realm are rough and ready places carved from the very rock of the foothills. It is here that the Mega-Maul League takes place all year round and for the hardy Ogres, the harsh climate is itself a feature of their fixtures. In the blink of an eye, the weather can change; thick blizzards descend from the mountain peaks, burying the pitch markings and freezing hot springs in a heartbeat.</p>
+<p><strong>Using the Ogre Mega-Maul Pitch in Your Blood Bowl Games</strong></p>
+<p>The Ogre Mega-Maul pitch has two sides - one depicting the pitch in fair weather, as cold winds blow from the mountains, chilling the high altitude deserts and rocky foothills. The other side depicts the pitch in the grip of a sudden, freezing blizzard! If both players agree, the following rules can be used to represent the unusual conditions:</p>
+<p>The desert side of the pitch is used during the first half of the game, subjecting the players to the blinding light of the sun and the savage bite of chill winds laden with desert sands. Do not roll on the Weather table at the start of the game. Instead, the following weather conditions will be in effect for the duration of the first drive:</p>
+<p><strong>STRONG WINDS</strong>: Immediately roll on the Random Direction template to determine the direction of the wind and make a note of the result. During kick-offs and inaccurate passes, the ball scatters D3 squares in this direction before normal scatter rolls are made.</p>
+<p>If a Changing Weather result is rolled during any kick-off, do not roll on the Weather table, instead, a sudden blizzard descends with the following effects - turn the board over to the Sudden Blizzard side:</p>
+<p><strong>SUDDEN BLIZZARD</strong>: Visibility is low, it's slippery underfoot and it's impossible to spot tripping hazards, making it very difficult indeed to block effectively. Whenever a player makes a Blitz action, their ST is reduced by 1 for the duration of that action. Additionally, whenever a player is Knocked Down, add 1 to the result of the Armour roll.</p>
+<p>Should another Changing Weather result be rolled, roll as normal on the Weather table.</p>
+<hr />
+<h2 id="shambling-undead">Shambling Undead</h2>
+<h3 id="shambling-undead-graveyard-blood-bowl-pitch">Shambling Undead Graveyard Blood Bowl Pitch</h3>
+<p>Many Shambling Undead teams set up home in graveyards the length and breadth of the Old World. Necromancers like the company of the dead, so it is only natural that they are attracted to such places, not to mention the ready source of reserve players that can be found with the simple turn of a shovel. For this reason, many an Undead team prefers to play its fixtures under moonlight, refusing to come onto the pitch for the kick-off until after the sun has begun to set, making for a truly spooky experience for visiting teams!</p>
+<p><strong>Using the Shambling Undead Pitch in Your Blood Bowl Games</strong></p>
+<p>The Shambling Undead graveyard pitch has two sides - one representing the pitch at dusk, the other depicting it once the sun has fully set. As dark magics grow more powerful and softly illuminate the night, the spirits of the home fans begin to manifest! If both players agree, the following rules can be used to represent the unusual conditions.</p>
+<p>The dusk side of the pitch is used during the first half of the game. At half-time, once the dark of night has set in, the pitch is flipped over. The night-time side exudes an unearthly glow of powerful magic and reveals the ghostly presence of the fans and reserve players. For the duration of the second half, the following effects will apply:</p>
+<ul>
+<li>
+<p>The presence of ghostly spirits manifesting from the graves and flooding into the derelict stands invigorates any Shambling Undead team playing on this pitch. A Shambling Undead team playing on this pitch gains +1 Fan Factor for the duration of the second half.</p>
+</li>
+<li>
+<p>Additionally, as darkness falls and an eerie mist rises about the players' feet, visibility becomes an issue for everyone. For the duration of this half, only Quick pass and Short pass actions can be attempted.</p>
+</li>
+</ul>
+<hr />
+<h2 id="skaven">Skaven</h2>
+<h3 id="subterranean-weather-table_1"><a href="#subterranean-weather-table">Subterranean Weather Table</a></h3>
+<hr />
+<h2 id="snotling">Snotling</h2>
+<h3 id="snotling-fungal-bog-blood-bowl-pitch">Snotling Fungal Bog Blood Bowl Pitch</h3>
+<p>The pitches that Snotling teams use as their home grounds resemble more of a bog than a usable Blood Bowl pitch; something that can normally be attributed to the fact that Snotling teams win very few games and earn little gold to improve their facilities. This makes games played on these festering quagmires particularly treacherous, for the thick marsh that makes up the pitch can cause even the most sure-footed runner to become bogged down, while the fungi that litter the playing surface are prone to expelling clouds of choking spores at seemingly random moments...</p>
+<p><strong>Using the Snotling Pitch in Your Blood Bowl Games</strong></p>
+<p>The Snotling pitch has two sides - one depicting it in fair weather; though it is fair to say it is more of a bog than a pitch! The other side depicts it when the fungi that litter the ground unleash spores into the air. If both players agree, the following can be used to represent the unusual conditions:</p>
+<p><strong>Fungal Bloom:</strong> Do not roll on the Weather table at the start of the game; instead the game starts with Perfect Conditions. Whenever the rules call for a roll on the Weather table (for example, at the start of the game, each time a Changing Weather Kick-off result is rolled or any other effect, such as a Special Play card), do not roll on the Weather table. Instead, flip the pitch over to the Choking Spores side.</p>
+<p><strong>Choking Spores:</strong> A cloud of choking spores has erupted from the fungi on the pitch, making it hard to breathe and potentially forcing some players to leave the pitch to catch their breath.</p>
+<p>At the start of each team's drive when this rule is in effect, roll a D6. On the roll of a 1, randomly select a player from the active team without the ball. That player is forced to leave the pitch and is placed in the Reserves box. This does not cause a Turnover.
+Should another Changing Weather result be rolled, roll as normal on the Weather table.</p>
+<p>Additionally, to represent the boggy state of the pitch and the fact that players' footing will be tested, the following rule is in play during games played on the Snotling pitch:</p>
+<p><strong>Snotling Bog:</strong> Whenever a player suffers the Push Back result from a Block action or Blitz action, roll a D6. On a 1, the player loses their footing and falls - treat the result as POW! instead.</p>
+<hr />
+<h2 id="vampire">Vampire</h2>
+<h3 id="vampire-castle-blood-bowl-pitch"><a href="../issue_16/#vampire-castle-blood-bowl-pitch">Vampire Castle Blood Bowl Pitch</a></h3>
+<hr />
+<h2 id="wood-elf">Wood Elf</h2>
+<h3 id="wood-elf-arboreal-sanctuary-blood-bowl-pitch">Wood Elf Arboreal Sanctuary Blood Bowl Pitch</h3>
+<p>A Wood Elf stadium is a carefully maintained sanctuary, a picturesque reserve for trees, woodland spirits and the noble art of Blood Bowl. Time works strangely in the forest of the Wood Elves, and the surrounding trees change season rapidly in response to the unfolding game. At times the pitch is verdant and green, roots furiously burrowing their way across the pitch, eager to absorb the blood spilt upon it, while players find themselves re-energised by the abundance of life. When its aggression is sated, the forest calms and falls into the peaceful lull of autumn, woodland spirits emerging to soothe wounds and assuage choleric fans.</p>
+<p><strong>Using the Arboreal Sanctuary Pitch in Your Blood Bowl Games</strong></p>
+<p>The Arboreal Sanctuary pitch has two sides - one representing the bold energy of summer, the other depicting the calm of autumn as woodland spirits emerge from their homes singing soothing melodies. If both players agree then the following rules can be used to represent these unusual conditions:</p>
+<p>The green-tree and vibrant side of the pitch is used during the first half of the game. This pitch represents the forest in summer bursting into life, its trees invigorated by the energy of the game. All players may attempt to Rush one more time than normal (three times for most players, and four if a player has the Sprint skill). If during the first half, three or more Casualties have been suffered in total across both teams, the forest's aggression has been sated and the season changes. For the duration of the second half of the game, the following rules apply:</p>
+<p>As the forest shifts its mood to one of peace and goodwill, players find themselves less willing to injure their opponents. Subtract 1 from all Armour rolls as part of a Block or Foul action. In addition, add 1 to the result of all dice rolls made to see whether a player recovers from being KO'd, as woodland spirits emerge from their tree hollows to care for the injured.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <!-- Footer -->
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <!-- Copyright and theme information -->
+        <div class="md-copyright">
+          <a href="/sitemap.xml" title="Site Map"> Site Map </a>
+          |
+          <a href="https://discord.gg/XkFPPEUDGy" title="Feedback Discord Channel">Feedback Discord </a>
+          |
+          <a href="https://wahapedia.ru/" title="Wahapedia">Wahapedia </a>
+          |
+          <a href="https://epicheresy.ru/" title="Epic Heresy">Epic Heresy </a>          
+          |
+          <a href="https://prancingponypub.ru/" title="Prancing Pony Pub">Prancing Pony Pub </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["header.autohide", "navigation.indexes", "navigation.tabs", "navigation.top", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>

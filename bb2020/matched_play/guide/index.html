@@ -1,0 +1,7105 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../">
+      
+      
+        <link rel="next" href="../../death_zone/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/BB2020_Favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Guide - Blood Bowl Base</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto Slab";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introduction" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+  <div>
+    This page contains documentation for a previous edition of Blood Bowl.  
+    The current official release is BB2025.  
+    <a href="/bb2025/">Access the updated BB2025 docs</a>.
+  </div>
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Blood Bowl Base" class="md-header__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Blood Bowl Base
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Guide
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="teal" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../core_rules/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Core Rules
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Matched Play
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../death_zone/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Death Zone
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../dungeon_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Dungeon Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../blitz_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Blitz Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../gutter_bowl/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Gutter Bowl
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../spike_journal/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Spike! Journal
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../teams/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Teams
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../starplayers/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Star Players
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Blood Bowl Base" class="md-nav__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    Blood Bowl Base
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../core_rules/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Rules
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Rules
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/cheat_sheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/blood_bowl_stadia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Stadia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/rules_and_regulations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules and Regulations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/the_rules_of_blood_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Blood Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/post-game_sequence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Post-game Sequence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/skills_and_traits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills and Traits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/inducements_in_detail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inducements in Detail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/league_and_exhibition_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    League and Exhibition Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/the_teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/special_plays_card_pack/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Special Plays Card Pack
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../core_rules/faq_290525/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lastest FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Matched Play
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INTRODUCTION
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#code-of-conduct" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CODE OF CONDUCT
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recommended-tournament-style" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RECOMMENDED TOURNAMENT STYLE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tournament-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TOURNAMENT RULES
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scoring-tiebreakers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SCORING &amp; TIEBREAKERS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pairings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PAIRINGS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PAIRINGS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#round-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ROUND 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spare-player" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SPARE PLAYER
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bye" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BYE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conceding" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONCEDING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subsequent-rounds" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SUBSEQUENT ROUNDS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#team-draft-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM DRAFT LIST
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#writing-your-roster" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WRITING YOUR ROSTER
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WRITING YOUR ROSTER">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#drafting-your-team" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DRAFTING YOUR TEAM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inducements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INDUCEMENTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skill-points" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SKILL POINTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SKILL POINTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#purchasing-skills" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PURCHASING SKILLS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#star-players" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STAR PLAYERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prayers-to-nuffle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRAYERS TO NUFFLE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#post-match" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        POST-MATCH
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#awards" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWARDS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#alternative-formats" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ALTERNATIVE FORMATS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ALTERNATIVE FORMATS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stunty-tournament" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STUNTY TOURNAMENT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TEAM EVENTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#forming-a-team" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FORMING A TEAM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-rankings-scoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT RANKINGS SCORING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-tiebreakers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT TIEBREAKERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-pairings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT PAIRINGS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#group-knockout-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GROUP &amp; KNOCKOUT EVENTS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ADDITIONAL RULES
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ADDITIONAL RULES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#injuries" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURIES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#player-advancement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLAYER ADVANCEMENT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-inducements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CUSTOM INDUCEMENTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CUSTOM INDUCEMENTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#0-1-dwarven-smith" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        0-1 DWARVEN SMITH
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#0-1-festive-gifts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        0-1 FESTIVE GIFTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#famous-moot-buffet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FAMOUS MOOT BUFFET
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gold-piece-escalation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GOLD PIECE ESCALATION
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-star-players" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MANDATORY STAR PLAYERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secret-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECRET OBJECTIVES
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#blood-bowl-events-at-warhammer-world" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOOD BOWL EVENTS AT WARHAMMER WORLD
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../death_zone/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Death Zone
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Death Zone
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/new_inducements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    New Inducements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/fabulous_freebooters/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fabulous Freebooters
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/titanic_effort/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Titanic Effort.. The Biggest of the Big Guys
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/sponsorship/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sponsorship
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/blood_bowl_stadia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Stadia
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/a_load_of_balls/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    A Load of Balls
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/new_weather_tables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    New Weather Tables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/match_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Match Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../death_zone/blood_bowl_sevens/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Bowl Sevens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../dungeon_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dungeon Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/cheat_sheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_game_of_dungeon_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Game of Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/rules_and_regulations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules and Regulations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/set-up/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Set-Up
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_rules_of_dungeon_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Dungeon Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/post-game_sequence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Post-game Sequence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/skills_and_traits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills and Traits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/inducements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inducements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/league_and_exhibition_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    League and Exhibition Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/death_zone/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Death Zone
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dungeon_bowl/the_teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../blitz_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blitz Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blitz Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/contents_of_the_box/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contents of the Box
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules of Blitz Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/drill_cards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Drill Cards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blitz_bowl/cards/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../gutter_bowl/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gutter Bowl
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_6" id="__nav_6_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Gutter Bowl
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gutter_bowl/rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../gutter_bowl/leagues/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gutter Bowl Leagues
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../spike_journal/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_7" id="__nav_7_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Spike! Journal
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 11
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 13
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 14
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_16/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 16
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_17/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 17
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_18/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 18
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/almanac_2021/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Almanac 2021
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/almanac_2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Almanac 2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/pitch_rules/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pitch Rules
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/geheimnisnacht_special/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Geheimnisnacht Special
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/holiday_special/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Holiday Special
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../teams/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_8" id="__nav_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Teams
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Amazon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Amazon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Black_Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Black Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Chosen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Chosen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Renegades/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Renegades
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dark_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dark Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Elven_Union/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elven Union
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Gnome/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gnome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Goblin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Goblin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Halfling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Halfling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/High_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    High Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Human/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Human
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Imperial_Nobility/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Imperial Nobility
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Khorne/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Khorne
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Lizardmen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lizardmen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Necromantic_Horror/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Necromantic Horror
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Norse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Norse
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Nurgle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nurgle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Ogre/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ogre
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Old_World_Alliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Old World Alliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Shambling_Undead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shambling Undead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Skaven/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skaven
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Snotling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Snotling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Tomb_Kings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tomb Kings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Underworld_Denizens/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Underworld Denizens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Vampire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vampire
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Wood_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wood Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../starplayers/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Star Players
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_9" id="__nav_9_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Star Players
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Akhorne_The_Squirrel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Akhorne The Squirrel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Anqi_Panqi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Anqi Panqi
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Barik_Farblast/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Barik Farblast
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bilerot_Vomitflesh/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bilerot Vomitflesh
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Boa_Kon%27ssstriktr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boa Kon'ssstriktr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bomber_Dribblesnot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bomber Dribblesnot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bryce_%27The_Slice%27_Cambuel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bryce 'The Slice' Cambuel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/%27Captain%27_Karina_Von_Riesz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    'Captain' Karina Von Riesz
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Cindy_Piewhistle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cindy Piewhistle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Count_Luthor_von_Drakenborg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Count Luthor von Drakenborg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Deeproot_Strongbranch/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Deeproot Strongbranch
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Dribl_and_Drull/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dribl and Drull
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Eldril_Sidewinder/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Eldril Sidewinder
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Estelle_la_Veneaux/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estelle la Veneaux
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Frank_%27n%27_Stein/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Frank 'n' Stein
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Fungus_the_Loon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fungus the Loon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glart_Smashrip/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glart Smashrip
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gloriel_Summerbloom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gloriel Summerbloom
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glotl_Stop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glotl Stop
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grak_and_Crumbleberry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grak and Crumbleberry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grashnak_Blackhoof/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grashnak Blackhoof
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gretchen_W%C3%A4chter_%27The_Blood_Bowl_Widow%27/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gretchen Wächter 'The Blood Bowl Widow'
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Griff_Oberwald/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Griff Oberwald
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grim_Ironjaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grim Ironjaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grombrindal%2C_The_White_Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grombrindal, The White Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Guffle_Pussmaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guffle Pussmaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Hakflem_Skuttlespike/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hakflem Skuttlespike
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Helmut_Wulf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Helmut Wulf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/H%27thark_the_Unstoppable/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    H'thark the Unstoppable
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivan_%27the_Animal%27_Deathshroud/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivan 'the Animal' Deathshroud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivar_Eriksson/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivar Eriksson
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jeremiah_Kool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremiah Kool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jordell_Freshbreeze/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jordell Freshbreeze
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Karla_Von_Kill/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Karla Von Kill
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kiroth_Krakeneye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kiroth Krakeneye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kreek_%27the_Verminator%27_Rustgouger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kreek 'the Verminator' Rustgouger
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Lord_Borak_the_Despoiler/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lord Borak the Despoiler
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Maple_Highgrove/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maple Highgrove
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Max_Spleenripper/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Max Spleenripper
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Mighty_Zug/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mighty Zug
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Morg_%27n%27_Thorg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morg 'n' Thorg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Nobbla_Blackwart/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nobbla Blackwart
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Puggy_Baconbreath/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Puggy Baconbreath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rashnak_Backstabber/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rashnak Backstabber
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ripper_Bolgrot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ripper Bolgrot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rodney_Roachbait/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rodney Roachbait
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rowana_Forestfoot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rowana Forestfoot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Roxanna_Darknail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roxanna Darknail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rumbelow_Sheepskin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rumbelow Sheepskin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scrappa_Sorehead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scrappa Sorehead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scyla_Anfingrimm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scyla Anfingrimm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skitter_Stab-stab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skitter Stab-stab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrorg_Snowpelt/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrorg Snowpelt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrull_Halfheight/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrull Halfheight
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Swiftvine_Glimmershard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Swiftvine Glimmershard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Black_Gobbo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Black Gobbo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Swift_Twins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Swift Twins
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Thorsson_Stoutmead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thorsson Stoutmead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Varag_Ghoul-Chewer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Varag Ghoul-Chewer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Wilhelm_Chaney/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wilhelm Chaney
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Willow_Rosebark/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Willow Rosebark
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Withergrasp_Doubledrool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Withergrasp Doubledrool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zolcath_the_Zoat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zolcath the Zoat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zzharg_Madeye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zzharg Madeye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INTRODUCTION
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#code-of-conduct" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CODE OF CONDUCT
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#recommended-tournament-style" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RECOMMENDED TOURNAMENT STYLE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tournament-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TOURNAMENT RULES
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#scoring-tiebreakers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SCORING &amp; TIEBREAKERS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pairings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PAIRINGS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PAIRINGS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#round-1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ROUND 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#spare-player" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SPARE PLAYER
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bye" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BYE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#conceding" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CONCEDING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#subsequent-rounds" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SUBSEQUENT ROUNDS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#team-draft-list" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM DRAFT LIST
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#writing-your-roster" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WRITING YOUR ROSTER
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WRITING YOUR ROSTER">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#drafting-your-team" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DRAFTING YOUR TEAM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inducements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INDUCEMENTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#skill-points" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SKILL POINTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SKILL POINTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#purchasing-skills" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PURCHASING SKILLS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#star-players" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STAR PLAYERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#prayers-to-nuffle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRAYERS TO NUFFLE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#post-match" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        POST-MATCH
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#awards" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWARDS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#alternative-formats" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ALTERNATIVE FORMATS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ALTERNATIVE FORMATS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#stunty-tournament" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STUNTY TOURNAMENT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="TEAM EVENTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#forming-a-team" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FORMING A TEAM
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-rankings-scoring" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT RANKINGS SCORING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-tiebreakers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT TIEBREAKERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-event-pairings" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM EVENT PAIRINGS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#group-knockout-events" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GROUP &amp; KNOCKOUT EVENTS
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#additional-rules" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ADDITIONAL RULES
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="ADDITIONAL RULES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#injuries" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURIES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#player-advancement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLAYER ADVANCEMENT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#custom-inducements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CUSTOM INDUCEMENTS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="CUSTOM INDUCEMENTS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#0-1-dwarven-smith" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        0-1 DWARVEN SMITH
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#0-1-festive-gifts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        0-1 FESTIVE GIFTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#famous-moot-buffet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FAMOUS MOOT BUFFET
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#gold-piece-escalation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GOLD PIECE ESCALATION
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mandatory-star-players" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MANDATORY STAR PLAYERS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secret-objectives" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SECRET OBJECTIVES
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#blood-bowl-events-at-warhammer-world" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOOD BOWL EVENTS AT WARHAMMER WORLD
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Guide</h1>
+
+<h2 id="introduction">INTRODUCTION</h2>
+<p>Welcome, sports fans, to the <em>Blood Bowl Matched Play Guide!</em> In the world of Blood Bowl, tournaments are a common occurrence; numerous teams jockeying for position and giving blood, sweat and tears (but mainly blood!) in order to lift the glittering trophy at the end and earn the right to be called champions. Of course, this is much the same for us too (without the violence!) as there are countless tournaments and gaming weekends held worldwide where coaches come together in a duel of wits on the gridiron!</p>
+<p>Blood Bowl has always thrived in a Matched Play setting, as the sports-like feel of the game lends itself to being played in this way. As a result, coaches and league commissioners have been running their own tournaments and gaming weekends around the globe for many years, and they have proved to be incredibly popular. This guide is designed to help coaches organise their own Matched Play events by providing a framework for them to run their tournaments with, including: what roles and responsibilities an event will require; a code of conduct; how coaches will need to build their rosters; plus alternative event formats and optional special rules that Event Organisers can use in order to add that extra bit of flair to their event - after all, Blood Bowl is a chaotic game at the best of times!</p>
+<p>Within this Matched Play Guide you will find the following:</p>
+<p><strong>CODE OF CONDUCT</strong></p>
+<p>Tournaments and gaming weekends should be first and- foremost, fun. The Code of Conduct presented in this guide is something we expect all coaches to follow at all times to ensure that they and their opponents always have the best time possible.</p>
+<p><strong>RECOMMENDED TOURNAMENT STYLE</strong></p>
+<p>Here, we present our recommended way for running tournaments, including: what roles and responsibilities are required; how coaches score Tournament Points; Tiebreakers; pairing opponents; and more.</p>
+<p><strong>ROSTER AND RESULTS SHEETS</strong></p>
+<p>We have also provided a roster sheet and results sheet that Event Organisers have permission to photocopy and hand out for each coach to fill in. This will make it easy for the Event Organiser to review each coach's roster and keep track of the results of each game.</p>
+<p><strong>ROSTER BUILDING</strong></p>
+<p>This section runs through the steps of building a team roster specifically for a tournament, including: how many gold pieces a team has to spend; how many skills a team can take and how to select them; Star Players; Inducements; and anything else that will impact roster building</p>
+<p><strong>ALTERNATIVE FORMATS</strong></p>
+<p>Here, we present a selection of formats that Event Organisers may wish to use instead of the standard tournament format, including team events and the ever- popular Stunty Tournament!</p>
+<p><strong>ADDITIONAL RULES</strong></p>
+<p>Some Event Organisers like to add their own spin to the standard format and we have presented here a number of different additional rules that they can use to add that extra bit of panache to their event; from injuries and player progression, to Gold Piece Escalation (see <a href="#gold-piece-escalation">page 28</a>) and more.</p>
+<h2 id="code-of-conduct">CODE OF CONDUCT</h2>
+<p>As the old adage goes: "It's not the winning or losing that counts, but the way you play the game!". Blood Bowl is designed with this in mind and is intended to be played in a fun, generous manner; one where fair play, good humour and showing respect for one another are paramount. As such, we have provided a series of important principles that we expect all Blood Bowl coaches to uphold at all times. After all, the most important thing is that everyone involved has a thoroughly enjoyable time during the course of the game - that way, every bone-crunching tackle, spectacular weaving run and pinpoint pass means that little bit more!</p>
+<p><strong>CARDINAL RULES</strong></p>
+<ul>
+<li>Always be polite and respectful to your opponent at all times.</li>
+<li>Always tell the truth and never cheat.</li>
+</ul>
+<p><strong>IMPORTANT PRINCIPLES</strong></p>
+<ul>
+<li>Make a respectful gesture to your opponent before the game begins, such as wishing them good luck, i offering a handshake, etc.</li>
+<li>Avoid using language that your opponent or those around you may find  offensive.</li>
+<li>Arrive on time for your game with all of the things you need to play.</li>
+<li>Offer your opponent the chance to examine your team roster before the game begins.</li>
+<li>If your opponent has any questions or queries about your roster, you should answer them truthfully and ensure your opponent understands the answer.</li>
+<li>Ensure that your opponent is aware of any Inducements, or other special rules your team has, and that they know what they do.</li>
+<li>When counting out the number of squares a player is moving, do so carefully and accurately. You should also allow your opponent the opportunity to check any moves before you move any models if they wish.</li>
+<li>When rolling dice, make sure they are clearly visible to all players and allow your opponent to examine the rolls before picking up the dice.</li>
+<li>Always ask your opponent's permission before touching their models.</li>
+<li>Remind your opponent about any rules they may have forgotten to use, or they have used incorrectly, especially when doing so is to your opponent's benefit rather than your own.</li>
+<li>Never deliberately manipulate the amount of time a game takes in order to gain an advantage, either by playing overly quickly or by wasting time.</li>
+<li>Try not to distract an opponent when they are trying to concentrate and always ensure you respect their personal space.</li>
+<li>Never complain about your own bad luck or your opponent's good luck.</li>
+<li>Always be humble in victory and graceful in defeat.</li>
+<li>Never fix the outcome of a game for any reason.</li>
+</ul>
+<h2 id="recommended-tournament-style">RECOMMENDED TOURNAMENT STYLE</h2>
+<p>Here we present you with our recommended tournament Style: one that we believe will give all players the best experience and that has been extensively playtested.
+It covers all manner of things such as tournament rules (as you might expect!), roles and responsibilities, scoring, Tiebreakers and more.</p>
+<p><strong>ROLES AND RESPONSIBILITIES</strong></p>
+<p>Depending on how formal you wish your event to be, it is often a good idea to make sure everyone involved in the event is aware of what their role is and the responsibilities that go alongside it. This is important to ensure that everyone knows who to go to if there is an issue; to make sure everything runs smoothly; and, above all, that everyone has a good time playing some Blood Bowl!</p>
+<p><strong>EVENT ORGANISER</strong></p>
+<p>Every event will need an Event Organiser, who will be responsible for running all aspects of the tournament. It will be their job to think about such things as gaming space and equipment for the coaches; appointing any Referees and Spare Players that will be required; and generally being accessible on the day to ensure that everything goes according to plan - Nuffle permitting, of course!</p>
+<p>The Event Organiser is essentially in charge for the course of the event, and all participants must accept that the Event Organiser has the authority to expel or disqualify anyone found breaking the rules of the event or the Cardinal Rules of the Code of Conduct - although this should, hopefully, never have to happen. It's also the Event Organiser's job to check everyone's team rosters and to ensure that all miniatures adhere to the rules for the event. The Event Organiser can also be the Referee and/or Scorekeeper if they wish; though in larger events, it may be best to share these responsibilities around. We recommend that the Event Organiser does not participate in the actual tournament so that they are always on hand to sort out any issues that may arise throughout the day.</p>
+<p><strong>REFEREE</strong></p>
+<p>Much like an actual game of Blood Bowl, every event needs a Referee - though unlike in Blood Bowl, they should be listened to and never bribed! In smaller events, the Event Organiser may also take on the role of a Referee. At the start of any event, it is important to point out any Referees to the coaches so they know who to contact if they have a query. It is the Referee's job to observe the games as they are played; enforce the rules; answer any queries the coaches may have; and settle any disputes between coaches in a calm and collected manner. The Referee should have a good knowledge of the rules and easy access to the <em>Blood Bowl Rulebook</em>, any supplements or <em>Spike! Journals</em> that are in use at the event, and the latest version of the FAQ and Errata in case of any rules queries.</p>
+<p>A Referee's ruling is final as far as the event is concerned and all players must agree to honour the rulings of the Referee in these situations. At particularly large events, it is often sensible to have a number of Referees. In this situation, it is also a good; idea to have a Head Referee who will be in charge of the other Referees on the day. We recommend that a Referee does not participate in the event so that they are always available.</p>
+<p><strong>SCOREKEEPER</strong></p>
+<p>Every event will need a Scorekeeper which again, is often the Event Organiser at smaller events. It is the job of the Scorekeeper to collect the results after each round, from each game, and to rank the players. They will also be responsible for organising the pairings fdr each round, including randomly pairing opponents in the first round of the tournament. Again, we recommend that the Scorekeeper does not participate so that they can collect every result as quickly as possible.</p>
+<h2 id="tournament-rules">TOURNAMENT RULES</h2>
+<p>All games at a Blood Bowl tournament will use the <em>Blood Bowl Rulebook</em>, any current supplements or <em>Spike! Journals,</em> and the most recent versions of the FAQ, Errata and Tier List which can be found at warhammer-community.com. All coaches are expected to abide by the following rules:</p>
+<p><strong>RULESPACK</strong></p>
+<p>The Event Organiser should provide a rulespack for the event, which will have all the essential information for the event in it such as the venue, what time the event starts, round timings, details about lunch (something that is very important to Halfling coaches!) and any other important information about the day.</p>
+<p>It should also include the full details of what coaches can expect from the tournament itself, such as: the budget of gold pieces coaches have to spend on their team roster; which publications are in use for the event; what Tiebreakers are being used; and if there are any additional rules being used throughout the tournament.</p>
+<p><strong>MINIATURES</strong></p>
+<p>Coaches are expected to only use official Citadel and Forge World miniatures at the event and all models must be fully built, based and painted. Coaches must use appropriate miniatures for their team. Conversions are permitted at the discretion of the Event Organiser, so long as they only include parts from official Citadel and Forge World miniatures and clearly represent what they are meant to be. You may wish to ask for any coaches wishing to use conversions to submit them to the Event Organiser before the event so they can check if they are happy with them</p>
+<p><strong>CONDUCT</strong></p>
+<p>As mentioned earlier, Blood Bowl is first and foremost a game and one that should be played in a friendly spirit; Nuffle wants to see good sportsmanship from the coaches, even if the players on the pitch are stomping the snot out of each other! This is especially true for tournament games, where all coaches are expected to follow the Code of Conduct at all times and treat other players, and those running the event, with respect, including during any rules disputes or times when the dice don't go their way.</p>
+<p><strong>SPARE PLAYER</strong></p>
+<p>It's a common occurrence that a tournament will have an odd number of coaches, which would mean that one coach would be without an opponent in each round. While this person could be given a Bye (covered on <a href="#bye">page 9</a>), it is much more satisfying for everyone involved if they have a game to play - after all, that is why they are at the event in the first place! Because of this, we always recommend having a Spare Player at every event. This should be someone who knows how to play the game to a good standard and will provide their opponent with a fun, enthusiastic game so they are not sitting around waiting for the round to finish.</p>
+<p>The Spare Player should not be trying to win the event, cannot win any awards and should play each h game in an appropriate manner. We recommend that the Spare player is someone different from the Event Organiser, Referee and Scorekeeper so they can focus on mply having an awesome game of Blood Bowl with the coach they are paired against!</p>
+<p><strong>COACH</strong></p>
+<p>Each coach is responsible for bringing their own miniatures, dice, rulebooks, tokens, pitch and dugouts (unless the event states they will provide them), and for accepting all of the tournament's rules as depicted in the specific rulespack. Depending on how serious you want your event to be, you may wish to let the coaches know in advance that they are expected to have a decent working knowledge of the game.</p>
+<h2 id="scoring-tiebreakers">SCORING &amp; TIEBREAKERS</h2>
+<p><strong>GAMES</strong></p>
+<p>For tournament games, we recommend setting a time limit of 2 hours and 30 minutes. This should provide plenty of time to finish the game and coaches are expected to play at a decent pace to ensure the game reaches its natural conclusion. At the end of each game, coaches will need to record the result. This includes.- who won, lost or drew; the number of Bonus Points earned; the number of touchdowns each team scored; and the number of casualties inflicted by each team. If the coaches do not finish the game before the time runs out, then play continues until the end of the current turn at which point the score at that point will become the final result.</p>
+<p>For tournaments, coaches will earn a number of Tournament Points depending on how they did in their games. Coaches will earn 2 Tournament Points for a win, 1 Tournament Point for a draw, and 0 Tournament Points for a loss.</p>
+<p>It is important that both coaches provide all of the information, including the final score and number of casualties inflicted by each team, as it is all used for the Tiebreakers to determine where each coach stands in the rankings.</p>
+<p><strong>RANKING</strong></p>
+<p>Coaches are ranked according to the number of Tournament Points they have: the more Tournament Points a coach has, the higher they are in the rankings.</p>
+<p>Where coaches are tied on the number of Tournament Points, there are a number of Tiebreakers to be used to determine who is placed higher in the rankings.</p>
+<p>The first Tiebreaker is the number of Bonus Points a coach has earned. Bonus Points are earned in each game for meeting the following criteria:</p>
+<ul>
+<li>Scoring 3 or more touchdowns - 1 Bonus Point</li>
+<li>Conceding 0 touchdowns - 1 Bonus Point</li>
+<li>Inflicting 3 or more Casualties (counting only those that would normally award Star Player Points) - 1 Bonus Point</li>
+</ul>
+<p>It is important that a coach records the number of Bonus Points they earn in each game, on their result sheet, so that the correct Tiebreakers can be input.</p>
+<p><em>For example: Jay beats Rob 3-1 and inflicts 2 casualties while Rob inflicts 4. Jay would score 2 Tournament Points for winning the game, while Rob would score 0. Jay would earn 1 Bonus Point as he scored 3 or more touchdowns, while Rob would also earn 1 Bonus Point for inflicting 3 or more casualties onto Jay's team.</em></p>
+<p>If coaches are still tied, the second Tiebreaker is a coaches Touchdown Difference, which is equal to the number of touchdowns they have scored across all of their games minus the number of touchdowns they have conceded across all of their games.</p>
+<p><em>For example, Jay has won three games with the scores being 2-0, 3-1 and 3-0, meaning he has a Touchdown Difference of +7. Dan has also won three games with the scores being 1-0, 2-1 and 3-2, meaning he has a Touchdown Difference of +3.</em></p>
+<p>If coaches are still tied, the third Tiebreaker is the total number of touchdowns a coach has scored across all their games, with the coach who has scored the most being higher in the rankings.</p>
+<p>If coaches are still tied, the fourth breaker is the total number of casualties a coach has inflicted across all their games, with the coach inflicted the most being higher in the rankings.</p>
+<p>Further Tiebreakers are used at the Event Organiser's discretion. These could be anything from Favourite Opponent scores, most players Sent-off (not counting those Sent-off for the Secret Weapon trait), or anything else the Event Organiser wishes; however, they should make it clear to all coaches which Tiebreakers will be used for the event in the rulespack and in what order, so that coaches know what information they will need to record on their results sheet.</p>
+<h2 id="pairings">PAIRINGS</h2>
+<p>Event Organisers are free to use any pairing system they wish, though we would recommend using the system detailed in this guide when running your own tournaments.</p>
+<h3 id="round-1">ROUND 1</h3>
+<p>For the first round, coaches are paired together randomly, using player numbers generated upon registration. This could be done using a random number generator, drawing names out of a hat, or any other method so long as it is random. If there is an odd number of coaches then one coach will be randomly paired with the Spare Player or given a Bye.</p>
+<h3 id="spare-player">SPARE PLAYER</h3>
+<p>If a coach is paired against the Spare Player, then they will play the game as normal and record the result in the same way as they would for any other game in the event. When working out the rankings for pairings later on the Spare Player is not counted and instead will always play the coach who is at the bottom of the rankings for each round. If a coach who has already played the Spare Player is drawn against them again, then the next lowest coach who has not already played against the Spare Player will play them instead. We would always commend that a tournament has a Spare Player, as it is far more fun for your attendees than having a Bye.</p>
+<h3 id="bye">BYE</h3>
+<p>Sometimes you may be unable to find a suitable Spare Player for your event. In this case, the coach that would normally be paired with the Spare Player (as described above) will instead receive a Bye. A Bye counts as winning the game 2-0, with neither side inflicting any casualties upon the other. This will award 2 Tournament Points and 1 Bonus Point for the purpose of Tiebreakers.</p>
+<h3 id="conceding">CONCEDING</h3>
+<p>Sometimes games just don't go your way. Your players are beaten up, your apothecary is working overtime trying to patch everyone up and the crowd is beginning to turn against you; yet still you carry on, determined to scrape something out of the match! Even if your team is losing, it is good sportsmanship to continue to play to the very end of the game. Real-world sports teams don't quit the pitch when the going gets tough, and neither should Blood Bowl teams!</p>
+<p>Should a player concede a game, their opponent will automatically receive a 3-0 win (unless the score at the time of conceding was better) and will receive the maximum number of Bonus Points available. Additionally, the player who conceded will receive no Bonus Points whatsoever and will also suffer a penalty of -1 Tournament Point.</p>
+<h3 id="subsequent-rounds">SUBSEQUENT ROUNDS</h3>
+<p>For subsequent rounds, coaches are paired as follows.</p>
+<p>The coach who is highest in the rankings will play the coach who is second in the rankings, the coach in third will play the coach in fourth, the coach In fifth will play the coach in sixth and so on until all coaches are paired up. If a coach is supposed to play an opponent they have already played, then the lowest ranked of the two will swap places with the highest ranked player of the pairing below them.</p>
+<ol>
+<li>Jay</li>
+<li>Gavin</li>
+<li>Keith</li>
+<li>Xavier</li>
+<li>Nicolas</li>
+<li>Dan</li>
+<li>Louise</li>
+<li>Rob</li>
+</ol>
+<p><em>For example: Here, we can see the draw for the next round of an event. Nicolas and Dan have already played each other in a previous round and so cannot play again as this is not the final round. As Dan is currently the lower ranked of the two players, he will swap with the highest ranked player from the pairing below - in this case, Louise.</em></p>
+<p>This system is used for all rounds after the first, including the final round with one small adjustment. In the final round, if explicitly stated in the rulespack, then the coaches in first and second will not swap opponents if they draw each other again; the two are clearly equally matched and will face off one last time!</p>
+<h2 id="team-draft-list">TEAM DRAFT LIST</h2>
+<p>https://www.warhammer-community.com/wp-content/uploads/2020/11/F47kheSEAvZB8Rhh.pdf</p>
+<h2 id="writing-your-roster">WRITING YOUR ROSTER</h2>
+<p>Perhaps the most important thing you will need for a Blood Bowl tournament (apart from your actual team!) is your team roster. Here we present our recommendations for drafting your team for a Blood Bowl event. Event Organisers may decide to alter these slightly for their own tournaments and if they do so, it should be clearly listed in the rulespack for that event.</p>
+<h3 id="drafting-your-team">DRAFTING YOUR TEAM</h3>
+<p>The first thing you will need to know is the Team Draft Budget in gold pieces that you have to build your team. This should be clearly listed in the rulespack for the event so that everyone knows exactly how much they have to spend! For example, a rulespack may state 'Team Draft Budget: 1,200,000 gold pieces', in which case coaches can spend up to 1,200,000 gold pieces when drafting their team.</p>
+<p>When drafting your team, follow the rules listed on <a href="../../core_rules/rules_and_regulations/#drafting-a-blood-bowl-team">pages 30-35 of the <em>Blood Bowl Rulebook</em></a> with the following exceptions:</p>
+<ul>
+<li>Coaches will have whatever Team Draft Budget is outlined to them in the rulespack rather than 1,000,000 gold pieces.</li>
+<li>Coaches may spend their gold pieces on any Inducements allowed at the event (see <a href="#inducements">opposite</a>).</li>
+<li>Coaches may spend their gold pieces on additional Dedicated Fans, up to a maximum of 6, at the cost of 10,000 gold pieces per Dedicated Fan purchased.</li>
+<li>Any gold pieces not spent will be lost, and you will not be able to choose any additional Inducements to make up any difference between your Team Value and that of your opponent. With that in mind, it is always beneficial to spend that last little bit of gold on the likes of Dedicated Fans, Assistant Coaches or Cheerleaders!</li>
+</ul>
+<p>Coaches are expected to record all the details of their team on their Team Draft list for the event and have multiple copies readily available for their opponents, and the Referees, during the course of the event.</p>
+<h3 id="inducements">INDUCEMENTS</h3>
+<p>In the rulespack for the event, it should list which publications are in use for the event. All Inducements from the listed publications are allowed for the event, and unless specifically stated otherwise must be purchased from their Team Draft Budget and are permanently added to your Team Draft list for the duration of the event.</p>
+<p>Star Players may be induced, but a team must include a minimum of 11 players before adding: any Star Players. Star Players will also cost a number of skill Points, which are outlined fully on <a href="#star-players">page 14</a>.</p>
+<p>If both coaches have induced the same Star Player or member of (In)Famous Coaching stuff coaches will still get to use them during the course of the game and duplicates do not cancel each each other out. Assume that the one appearing on the losing team was an imposter or a long-lost cousin!</p>
+<p>Additionally, some Event Organisers may wish to add their own unique Inducements to the event. If this is the case, this should be listed clearly in the rulespack and include what the Inducement does and how many gold pieces it costs to induce.</p>
+<h2 id="skill-points">SKILL POINTS</h2>
+<p>After you have drafted your team you are able to give them some additional Skills for the duration of the event. Coaches will receive a number of Skill Points they can spend depending on the Tier of the team they are playing, as listed below.</p>
+<table>
+<thead>
+<tr>
+<th>TIER OF TEAM</th>
+<th>NUMBER OF SKILL POINTS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tier 1</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Tier 2</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Tier 3</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>The tiers of the teams are constantly being assessed to provide the most up-to-date and accurate distribution of teams in each tier. You can find the most recent Tier List to use for an event in the Blood Bowl FAQ and Errata on warhammer-community.com.</p>
+<p>Skill Points can be spent to purchase Primary Skills, Secondary Skills and Star Players.</p>
+<h3 id="purchasing-skills">PURCHASING SKILLS</h3>
+<p>Purchasing a Primary Skill for a player will cost 1 Skill Point. There is no limit to the number of Primary Skills a team can purchase, so long as they have Skill Points remaining.</p>
+<p>Purchasing a Secondary Skill for a player will cost 2 Skill Points. Teams are limited to the number of Secondary Skills they can purchase depending on their Tier. A Tier 1 team can have a maximum of 1 Secondary skill on the team, a Tier 2 team can have a maximum of 2 Secondary skills on the team, and a Tier 3 team can have a maximum of 3 Secondary skills on the team.</p>
+<p>Each player can only be given a single additional Skill, though there is no limit to the number of times a particular Skill can be chosen - so long as no player is given more than one Skill and you have Skill Points remaining, of course. Additionally, Star Players cannot be given additional Skills under any circumstances.</p>
+<p>It's important to note that, unlike in a league, Skills purchased for Matched Play do not add to a player's value and as a result their Team Value will not increase.</p>
+<h3 id="star-players">STAR PLAYERS</h3>
+<p>Skill Points must also be spent if a team wishes to induce a Star Player onto their team. If a team wishes to take a Star Player they must pay the cost in gold pieces as described earlier, and also spend 2 of their Skill Points to have them on their team. Tier 1 teams may have a maximum of 1 Star Player on their team, while Tier 2 or Tier 3 teams can have a maximum of 2 Star Players on their team. <span style="color: darkmagenta">Star players that must be hired as a pair (such as Dribl &amp; Drull or the Swift Twins) only count as a single Star player choice, and therefore only cost 2 Skill Points for the pair. However, they will still take up two spaces on a team's Team Roster.</span></p>
+<p>Some Star Players have such an impact on the game that they are classed as Mega-stars. Mega-stars cost 4 Skill Points rather than the usual 2 Skill Points. Mega­stars like to be the star of the show, and don't like to have to share the limelight with anyone else who is considered to be their equal. A team may only ever have a single Mega-star on their Team Draft roster.</p>
+<p>Which Star Players are classed as Mega-stars is something that is constantly being assessed to provide the most up-to-date and accurate representation of their impact on the game. You can find the most recent list of Mega-stars in the Blood Bowl FAQ and Errata on warhammer-community.com.</p>
+<p>Below is a table summarising the breakdown of what Skills Points can be spent on, and some examples of how different teams may spend them.</p>
+<p><em>Note: Teams may still only ever have a maximum of 2 Star Players, including Mega-stars.</em></p>
+<p><em>Skill Points Example: Jay is taking a Wood Elf team to a tournament. As this is a Tier 1 team, Jay has 6 Skill Points to spend. He decides to give one of his Wardancers Strip Ball as a Primary Skill for 1 Skill Point, and another Wardancer Sidestep as a Primary Skill for 1 Skill Point. He then gives his Loren Forest Treeman Grab for 1 Skill Point, and one of his Wood Elf Linemen Wrestle for 1 Skill Point. Jay then spends his last two Skill Points to have Akhorne the Squirrel as a Star Player.</em></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>SECONDARY SKILL (1 SKILL POINT)</th>
+<th>STAR PLAYER (2 SKILL POINTS)</th>
+<th>MEGA-STAR (2 SKILL POINTS)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tier 1 (6 Skills Points)</td>
+<td>No limit</td>
+<td>Maximum 1</td>
+<td>Maximum 1</td>
+</tr>
+<tr>
+<td>Tier 2 (8 Skill Points)</td>
+<td>No Limit</td>
+<td>Maximum 2</td>
+<td>Maximum 2</td>
+</tr>
+<tr>
+<td>Tier 3 (10 Skill Points)</td>
+<td>No limit</td>
+<td>Maximum 3</td>
+<td>Maximum 2 1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="prayers-to-nuffle">PRAYERS TO NUFFLE</h2>
+<p>In a league game, the Prayers to Nuffle table is used during the pre-game sequence to help balance out the value of each team. Naturally, this is not the case in a Matched Play setting as teams are drafted using the same Team Draft Budget, and so there won't be a need to balance them afterwards. Many of the results on the standard Prayers to Nuffle table focus around gaining Star Player Points, which are not used during the course of a tournament.</p>
+<p>With this in mind, if the Cheering Fans result comes up on the Kick-off event table, then coaches should use this alternate Prayers to Nuffle table for their Matched Play games. This can also be found on <a href="../../core_rules/league_and_exhibition_play/#the-prayers-to-nuffle-table-in-exhibition-play">page 103 of the <em>Blood Bowl Rulebook</em></a>.</p>
+<p><strong>PRAYERS TO NUFFLE TABLE</strong></p>
+<table>
+<thead>
+<tr>
+<th>D8</th>
+<th>RESULT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Treacherous Trapdoor:</strong> Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Friends with the Ref:</strong> Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Stiletto:</strong> Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Iron Man:</strong> Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Knuckle Dusters:</strong> Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Bad Habits:</strong> Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait.</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Greasy Cleats:</strong> Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive, their MA is reduced by 1.</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>Blessed Statue of Nuffle:</strong> Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="post-match">POST-MATCH</h2>
+<p>After you have completed your game of fl Blood Bowl and handed in your results slip, there are a few differences between a Matched Play game and a match in the middle of a league. The Post-Match Sequence on <a href="../../core_rules/post-game_sequence/#the-aftermath">page 69 of the <em>Blood Bowl Rulebook</em></a> is not used in tournament games and here we will explain all the differences between how the post-game sequence works in a tournament compared to a league.</p>
+<p><strong>DEDICATED FANS</strong></p>
+<p>After a Matched Play game, the winning team increases their Dedicated Fans by 1.</p>
+<p><strong>STAR PLAYER POINTS</strong></p>
+<p>In a tournament, players do not earn Star Player Points during the course of the event and as a result, there is no need to record the number of Star Player Points each player has accumulated.</p>
+<p>However, we would still recommend recording the number of touchdowns and casualties each of your players makes as many tournaments will have awards for things such as 'Most Touchdowns by a Single Player' or 'Most Violent Player'. It's also nice to be able to keep</p>
+<p><strong>INJURIES</strong></p>
+<p>The players on your team are utterly psyched up for the tournament and will let nothing short of death stop them - and even then, that is often not enough! At the end of a game, all players are pulled back from the brink of demise by all manner of strange ways; be that a liberal helping of under-the-counter Goblin mushrooms, daemonic pacts, necromancy, pure pig-headedness, a healthy dose of Bugman's XXXXXX - you name it, at least one team has tried it!</p>
+<p>This means that, at the end of each round, your team will make a full recovery in time for the next game. This ensures that if a team gets horribly mangled in their first game, they are not left unable to compete for the rest of the event and it allows coaches to get some good games in without panicking about having to replace players, or worrying that their favourite player is going to get their head smashed in - beyond the normal boundaries of a Blood Bowl match, of course!</p>
+<p><strong>ACQUIRING ADDITIONAL PLAYERS</strong></p>
+<p>If a team acquires additional players during the course of a game, such as those earned by the Plague Ridden trait or the Masters of Undeath special rule, those additional players will only be available until the end of the game in which they were earned, and will not be added to your Team Draft list at the end of the game.</p>
+<h2 id="awards">AWARDS</h2>
+<p>Of course, besides meeting up with friends, the main reason most coaches attend tournaments is to test their mettle against all manner of other coaches and to try to secure victory - though what counts as 'victory' is often different for different coaches!</p>
+<p>It is a good idea to have a selection of awards for coaches to compete for over the course of the event, though not all of them need to be simply for just winning games.</p>
+<p>We would always recommend having the following awards at an event:</p>
+<ul>
+<li><em>FIRST PLACE:</em> For the coach who finishes first in the rankings.</li>
+<li><em>SECOND PLACE: For</em> the coach who finishes second in the rankings.</li>
+<li><em>THIRD PLACE:</em> For the coach who finishes third in the rankings.</li>
+<li>MOST SPORTING COACH: For the coach who receives the highest number of Favourite Opponent votes. We consider this to be the most important award of all</li>
+<li>BEST PAINTED TEAM: For the coach who is determined to have the best painted team. This could be voted on by the other coaches, or chosen by the Event Organiser.</li>
+<li>WOODEN SPOON: For the coach who finishes bottom of the ranking and has the honour of propping up the table!</li>
+</ul>
+<p>Blood Bowl is an unpredictable game at the best of times and all manner of wonderfully weird situations regularly arise. As a result, it is often good to have a number of 'less serious' awards on offer for coaches to compete for - though, in our experience, these are the ones that most coaches really care about! Below are some examples of these awards you could use if you wish:</p>
+<ul>
+<li>GRIFF OBERWALD'S GOLDEN GLOVES: For the team that scores the most touchdowns across the entire event.</li>
+<li>MIGHTY ZUG'S WALL O'STEEL: For the team that conceded the fewest number of touchdowns across the entire event.</li>
+<li>MAX SPLEENRIPPER'S CARNAGE CUP: For the team that inflicts the most casualties as a result of Blitzing Blocking, or pushing opposition players into the crowd across the entire event.</li>
+<li>MATRON MCGEARY'S MOST PATCHED-UP: For the team that has had the most casualties inflicted upon them as a result of Blitzing, Blocking, or having their players pushed into the crowd across the entire event.</li>
+<li>DIRTY DAN'S FILTHIEST CIT: For the team that has the most players Sent-off as the result of committing a Foul action (do not count those Sent-off by the Secret Weapon trait).</li>
+<li>THE STUNTY CUP: For the Coach who places highest in the rankings with a Tier 3 team.</li>
+</ul>
+<h2 id="alternative-formats">ALTERNATIVE FORMATS</h2>
+<p>Not all Blood Bowl events have to be the 'standard' style of event; in fact, some of the most popular tournaments are I run very differently and have their own unique twists. Here, we present a small selection of different formats that Event Organisers can use | if they wish, or use as inspiration to create their own formats.</p>
+<h3 id="stunty-tournament">STUNTY TOURNAMENT</h3>
+<p>Perhaps the most popular teams in Blood Bowl are those known as 'Stunty Teams'; those teams made up primarily of the little guys in Blood Bowl that have the Stunty trait. As a result, some events enjoy nothing more than pitting these teams against each other to see who will come out on top - after all, Stunty Teams very rarely win a standard event!</p>
+<p>A Stunty Tournament follows all of the same rules for a standard event as described earlier in this guide, with one exception - Coaches may only take one of the Stunty Teams.</p>
+<p>A Stunty Team is any team that can be made up entirely of players with the Stunty trait or Big Guys, which is the colloquial term for the larger players of the game!</p>
+<p>This may result in teams that you wouldn't expect being allowed to participate in a Stunty Tournament, providing they follow these rules. The following teams are eligible for a Stunty Tournament:</p>
+<ul>
+<li>Black Orcs (providing they include only Goblin Bruiser Linemen and Trained Trolls)</li>
+<li>Goblins</li>
+<li>Halflings</li>
+<li>Lizardmen (providing they include no Saurus Blockers)</li>
+<li>Ogres</li>
+<li>Snotling</li>
+<li>Underworld Denizens (providing they only include Underworld Goblin Linemen, Underworld Snotlings, Underworld Trolls and Mutant Rat Ogres)</li>
+</ul>
+<p>While these are currently the only eligible teams for a Stunty Tournament, there may be others that fall into this category in the future.</p>
+<p>Stunty Tournaments are typically a more relaxed style of event, as each coach is taking a team primarily for fun and to be as wacky as possible! As a result, it is often worthwhile to have more of the 'sillier' awards on hand for coaches to compete for. Additionally, there is no need to award the Stunty Cup, as every team is a Stunty Team anyway!</p>
+<h3 id="team-events">TEAM EVENTS</h3>
+<p>Some events allow coaches to band together in a team and compete together for collective glory; these events are called Team Events, which are ideal for getting a few coaches together from your local club or gaming group to test your mettle against other clubs for glory and bragging rights!</p>
+<h4 id="forming-a-team">FORMING A TEAM</h4>
+<p>In the rulespack for a Team Event, it will specify the number of coaches that must be on each team and this can range from as few as three, to as many as eight in some cases! When forming a team for the event, no coach may take the same team as another coach on their team - only one coach could take a Skaven team for example. Additionally, each Star Player can only be taken once across the entire team. So, if one player has Morg 'n' Thorg on their roster, no one else in their team can take Morg 'n' Thorg.</p>
+<p>One coach in the team must also be nominated as Team Captain. It is the responsibility of the Team Captain to organise the rest of their team, ensure coaches are paired correctly, and be a point of contact between the Event Organiser and the rest of their team.</p>
+<h4 id="team-event-rankings-scoring">TEAM EVENT RANKINGS SCORING</h4>
+<p>In a Team Event, earning Tournament Points and Bonus Points, or determining tiebreakers, works exactly the same as described on <a href="#scoring-tiebreakers">page 8</a>. However, there are two sets of rankings used in a Team Event: individual ranking and team rankings. The individual rankings take into account the Tournament Points, Bonus Points and Tiebreakers scored by each individual coach, just like in a standard event. The individual rankings are used to pair coaches up when two teams are paired against each other (see <a href="#team-event-pairings">opposite</a>), but otherwise don't have any other impact on the event - aside from bragging rights between coaches on the same team, of course!</p>
+<p>The team rankings take into account the result of the team as a whole; whether they won, lost or drew. If a team won more games than the opposing team, then that team will win the round and receive 2 Tournament Points. If a team won the same number of games as the opposing team, then the teams will draw and each team will receive 1 Tournament Point. If a team loses more games than the opposing team, then that team will lose the round and receive 0 Tournament Points.</p>
+<p>The team rankings are used to determine which teams are where in the rankings and a team's overall success with the team that finishes top of the rankings winning' the event. It's important to remember that winning games doesn't just benefit you, but also all the members of your team as well!</p>
+<p><em>Example: Jay, Dan, Rob and Xavier are on the same team. In round 1, Jay and Dan both win their games, Xavier draws his game, and Rob loses his. As a result, their team will receive 2 Tournament Points as they won two games compared to the opposing team's one.</em></p>
+<h4 id="team-event-tiebreakers">TEAM EVENT TIEBREAKERS</h4>
+<p>In a team event, the Tiebreakers work slightly differently. The first Tiebreaker will be the number of individual games that a team has won across the event, and the second tiebreaker will be the number of individual games a team drew across the event.</p>
+<p><em>Example: Teams A, B and C all won their first round of an event so are all tied on 2 Tournament Points each. Team A won three games and lost one; Team B won two games, drew one game, and lost one game; and Team C won two games and drew two games. As a result, Team A would be highest in the rankings as they won three games, while Team C would be ranked higher than Team B as although they have the same number of games won, Team C has more draws than Team B.</em></p>
+<p>The remaining Tiebreakers will work exactly as outlined on <a href="#scoring-tiebreakers">page 8</a>, with the exception that they are cumulative for all members of the same team; so the second Tiebreaker would be the total number of Bonus Points scored by all members of the team, for example.</p>
+<p><em>Example: Jay, Dan, Rob and Xavier are on the same team. In round 1, Jay wins his game 3-0 causing 1 casualty and scores 2 Bonus Points; Dan wins his game 2-1 causing 3 casualties and scores 1 Bonus Point; Xavier draws his game 1-1 causing 4 casualties and scores 1 Bonus Point; and Rob loses his game 1-0 causing 0 casualties and scores 0 Bonus Points. The team scores 2 Tournament Points for winning more games than their opponents. The team will also have a total of 4 Bonus Points, a Touchdown Difference of +3, a total of 6 touchdowns, and a total of 8 casualties for the purposes of further Tiebreakers.</em></p>
+<h4 id="team-event-pairings">TEAM EVENT PAIRINGS</h4>
+<p>When two teams are paired against each other, it means that each coach will play a coach from the opposing team. In round 1, teams will be randomly paired against each other as normal and coaches will be randomly paired against a coach from the opposing team.</p>
+<p>In subsequent rounds, teams will be paired against each other by the rankings in the same way as described for a standard event on <a href="#pairings">page 9</a>. Additionally, in subsequent rounds, deciding which coach will play which opposing coach works slightly differently. Coaches will be paired against each other depending on the individual ranking of the players in each team, with the highest ranked player on each team playing each other, the second highest ranked player on each team playing each other, and so on.</p>
+<p><em>Example: Team A, consisting of Dan, Jay, Rob and Xavier are drawn against Team B, consisting of Gavin, Keith, Louise and Nicolas. In Team A, the individual rankings are as follows:</em></p>
+<p><em>Jay - 6 Tournament Points, 3 Bonus Points</em></p>
+<p><em>Dan - 4 Tournament Points, 2 Bonus Points</em></p>
+<p><em>Xavier - 3 Tournament Points, 2 Bonus Points</em></p>
+<p><em>Rob - 0 Tournament Points, 0 Bonus Points</em></p>
+<p><em>While in Team B, the individual rankings are as follows:</em></p>
+<p><em>Nicolas - 6 Tournament Points, 3 Bonus Points</em></p>
+<p><em>Keith - 6 Tournament Points, 1 Bonus Point</em></p>
+<p><em>Gavin - 2 Tournament Points, 2 Bonus Points</em></p>
+<p><em>Louise - 1 Tournament Point, 2 Bonus Points</em>*</p>
+<p><em>As a result, Jay would play Nicolas as they are the highest ranked coach in each team. Dan would then play Keith, Xavier would play Gavin, and Rob would then play Louise.</em></p>
+<h2 id="group-knockout-events">GROUP &amp; KNOCKOUT EVENTS</h2>
+<p>Another alternative format Event Organisers may wish to look at is one that combines a group stage with a knockout stage, much like many real world sports competitions! These events work best over two days, often with the group stage on day one and the knockout stage on day two. This style of event can also be used together with the likes of Team Events or even Stunty Tournaments if you wish.</p>
+<p><strong>GROUP STAGE</strong></p>
+<p>In these events, teams should be divided into groups of four then the first three games of the event are played as a round robin format with each team playing each other team in their group once. Following these games, a selection of teams will qualify for the knockout round; the exact number of teams that qualify for the knockout round should be decided by the Event Organiser and rlearlv outlined in the rulespack for the event. We would recommend having 8 or 16 teams qualify (depending the size of your event) so that after a set number of games there is only a single team left undefeated!</p>
+<p><strong>KNOCKOUT STAGE</strong></p>
+<p>The teams that qualify for the second round will then play a knockout style tournament, where the winning team will advance through the event and the losing team will be eliminated - though these teams should still continue to play the other teams eliminated during this round to determine their final overall standing! For example, if eight teams qualify for the knockout round, then after the first game in this stage there will be the four winning teams playing for places 1 to 4 and the four losing teams playing for places 5 to 8.</p>
+<p>In this knockout format, if two teams draw with each other, then they should play extra time as explained on <a href="../../core_rules/the_rules_of_blood_bowl/#extra-time">page 67 of the <em>Blood Bowl Rulebook</em></a>.</p>
+<p>It can also be a good idea to have a knockout stage wallchart showing the path victory for each team. We have provided a blank version of this in this guide that you can photocopy for your own events.</p>
+<p><strong>BEST OF THE RES</strong></p>
+<p>Those teams that do not qualify for the knockout stage will form a separate event played alongside the knockout stage to determine the Best of the Rest. This takes the same format as a normal event, and should run for the same number of games as the knockout stage so that everyone at the event has the same number of games to play. It is also a good way to give those coaches that didn't qualify a chance to compete for their own prizes and keep them engaged in the event.</p>
+<h2 id="additional-rules">ADDITIONAL RULES</h2>
+<p>While the rules we have presented in this guide are all coaches need to run their own tournaments and gaming weekends, this doesn't mean that they are the only rules that can be used in events. In tact, many Event Organisers like to incorporate their own additional rules into their events to add that extra flavour or flair to the event to make it unique.</p>
+<p>These additional rules can take many forms and, over the next few pages, we have provided I a selection of optional rules that Event Organisers can use if they wish, or use as inspiration for creating their own. These can be I used at the discretion of the Event Organiser, I who may decide to use one, or more, of these I at their event. When an event does make use of additional rules, it should be clearly listed in the I rulespack so that all coaches know what rules they will be using.</p>
+<h3 id="injuries">INJURIES</h3>
+<p>While most events state that each coach's team will make a full recovery after each game, and that there is no need to make a Casualty roll when a player suffers a Casualty! result, this is not always the case. Some events may decide not to have teams make a full recovery and instead suffer injuries in the same way as if the games were part of a league.</p>
+<p>If this is the case, then whenever a player suffers a Casualty! result on the Injury table they will need to roll on the Casualty table and apply the result. This may result in players missing the next game of the event, picking up a lasting injury, or even being killed outright!</p>
+<p>If an event decides to use injuries then it is important to note that some teams are likely to get quite beaten up over the course of the event. With this in mind, it is also recommended that if an event uses injuries, then teams should also calculate their Current Team Value (CTV) before each game, with the team with the lowest CTV gaining a number of gold pieces equal to the difference between their CTV and that of the opposing team. These additional gold pieces can be spent on additional Inducements that will last for the duration of the game. Any gold pieces not spent in this wa are lost.</p>
+<h3 id="player-advancement">PLAYER ADVANCEMENT</h3>
+<p>Most Blood Bowl tournaments will allow coaches to use Skill Points to provide additional Skills to their players as players will not gain Star Player Points (SPP) during the course of their games. However, if the Event Organiser wishes, they may decide to allow players to progress throughout the course of the tournament.</p>
+<p>If this is the case, players will gain SPP as described on <a href="../../core_rules/post-game_sequence/#3-player-advancement">page 70 of the <em>Blood Bowl Rulebook</em></a>, and may spend them to gain new Skills as described on <a href="../../core_rules/post-game_sequence/#spending-star-player-points">page 71 of the <em>Blood Bow! Rulebook</em></a>. Event Organisers may also decide to award additional SPP for other in-game instances if they wish; if this is the case then this will need to be clearly outlined in the rulespack.</p>
+<p>If an event uses player advancement, it is important to note that when players gain new Skills, their Current Value (CV) will increase, as will the team's overall CTV. With this in mind, it is also recommended that if an event uses injuries, then teams should also calculate their CTV before each game, with the team with the lowest CTV gaining a number of gold pieces equal to the difference between H r 1 CTV and that of the opposing team. These addn gold pieces can be spent on additional Induces it will last for the duration of the game. Any gold not spent in this way are lost.</p>
+<h3 id="custom-inducements">CUSTOM INDUCEMENTS</h3>
+<p>An Event Organiser may decide to create their own custom Inducements to be used at their event. These will often be themed to the background of the event in question to provide an added level of flavour for the event that is being played; an event called 'Forge Bowl' may be themed around a Dwarfen forge, and therefore could have an Inducement for a Dwarfen Smith, for example.</p>
+<p>Any custom Inducements should be clearly outlined in the rulespack and should be made available to all teams. The Event Organiser may also decide to allow each coach to add the custom Inducement to their Team Draft Roster for free to add to the unique feel of their event.</p>
+<p>When creating your own Inducements, it is important to make sure that they don't have too much of an impact on the game itself. They should provide a small bonus to the team that has purchased them that can have a subtle impact on the game, rather than being all-powerful effects that become the central focus of the match.</p>
+<p>Here are some examples of custom Inducements, which Event Organisers can use if they wish:</p>
+<h4 id="0-1-dwarven-smith">0-1 DWARVEN SMITH</h4>
+<p><strong>100,000 GOLD PIECES, AVAILABLE TO ANY TEAM</strong></p>
+<p>A Blood Bowl tournament is the ideal place for the local smiths to showcase their talents and sell their wares; many coaches are quick to purchase some extra Dwarven steel to protect their more vulnerable players or provide their heavy hitters with that extra 'edge' they need in a mid-match punch-up!</p>
+<p>Before the game begins, a team that has hired a Dwarven Smith must roll a D6.</p>
+<p>On a 1-3, the Dwarven Smith has provided the team with some additional armour plating. Choose D3 players on your team to improve their AV by 1 (to a maximum of 11 + ) until the end of the game.</p>
+<p>On a 4-6, the Dwarven Smith has provided the team with a selection of ornate knuckle-dusters, steel-capped boots, and other items designed to inflict pain on the opposition. Choose D3 players on your team to gain the Mighty Blow (+1) skill until the end of the game.</p>
+<h4 id="0-1-festive-gifts">0-1 FESTIVE GIFTS</h4>
+<p><strong>50,000 GOLD PIECES, AVAILABLE TO ANY TEAM</strong></p>
+<p>The festive period is a time for giving and many teams engage in this tradition by secretly giving gifts to a random one of their team-mates - though, some team­mates definitely end up getting better gifts than others!</p>
+<p>Before the game begins, randomly select one player on your team. That player has been given their festive gift and ripped it open with unbridled excitement! Roll a D6 to determine the effect of the gift.</p>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>GIFT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>More Socks...:</strong> The player gains the Animosity (all team-mates) trait as they are annoyed that their team-mates got them such a totally rubbish gift!</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Tasty Treat:</strong> Until the end of the game, the player may attempt to Rush one more time than they usually could as they are fuelled by the delicious delicacy.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Protection Spell:</strong> The first time in this game that the player suffers a KO'd or Casualty result on the Injury table, they do not suffer the effects and are instead placed in the Reserves box.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Bugman'sXXXXXX:</strong> Until the end of the game, the player may add 1 to the roll when rolling to see if they recover from being Knocked-out.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Spiked Gloves:</strong> The player gains the Mighty Blow (+1) skill until the end of the game.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Lucky Trinket:</strong> The player gains the Pro skill until the end of the game.</td>
+</tr>
+<tr>
+<td>#### BOOBY TRAPPED END ZONE</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>100,000 GOLD PIECES, AVAILABLE TO ANY TEAM</strong></p>
+<p>Victory in a game of Blood Bowl is determined by the number of touchdowns a team scores, at least in the eyes of the officials! It isn't unheard of for a particularly conniving coach to purchase some form of booby traps to hide in their own End Zone in an attempt to provide an explosive surprise for any opposition player that looks like scoring!</p>
+<p>For the duration of the game, whenever an opposition player with the ball moves into a square in your End Zone, they must roll a D6. On a 2+ nothing happens and the touchdown is scored. On a 1, a booby trap has gone off and the opposition player is Knocked Down. No touchdown is scored.</p>
+<h4 id="famous-moot-buffet">FAMOUS MOOT BUFFET</h4>
+<p><strong>50,000 PIECES. AVAILABLE TO ANY TEAM</strong></p>
+<p>Whenever a Blood Bowl tournament comes to the Moot, fans can be assured of three things: an abundance of Halfling teams getting the stuffing kicked out of them in the early rounds, referees that care more about the halftime snacks than enforcing the rules and, most importantly, the legendary Mootland buffets. Many coaches have been known to pay a budding Halfling baker to provide all manner of scrumptious snacks for their players over the course of a game, keeping their morale high, their energy levels up and using the smell of freshly baked goods to rouse those who may have been hit that little bit too hard on the field!</p>
+<p>During the pre-game sequence, before determining the kicking team, any team that has hired a Famous Moot Buffet must roll a D6 to determine what manner of tasty treats the Halfling bakers have provided for their team. The effects last for the duration of the game.</p>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>GIFT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Garlic Eclairs:</strong> Though delicious to eat, Garlic Eclairs do tend to leave a player's breath smelling particularly pungent, and not many opponents are willing to get near them if they can help it! Players on your team gain the Foul Appearance skill.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Super-sticky Buns:</strong> Sticky Buns are a firm favourite in the Moot, though eating them does leave a player's mitts somewhat stickier than before; something that does aid in picking the ball up however! Players on your team gain a bonus of +1 when rolling to pick up the ball.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Fresh Tripleberry Scones:</strong> The smell of freshly baked Tripleberry Scones wafting through the dugout is enough to rouse almost any knocked-out player. Players on your team gain a +2 bonus when rolling to recover from being KO'd.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Energy Bars:</strong> These delicious snacks are the perfect treat to fuel any player, letting them unleash bursts of energy all game long. Players on your team may Rush one more time than they usually could.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Amazing Apple Pie:</strong> It's long been said in the Moot that Apple Pie is very much a superfood, and many players will scoff down as many helpings as they can to keep their strength up! Players on your team gain a bonus of +1 to their ST when performing a Block action as part of a Blitz action for the duration of the action. This is applied before counting assists or applying any other modifiers.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>Delightful Doughnuts:</strong> Everyone loves doughnuts, and no tournament is complete without players wolfing down a doughnut or three to raise their spirits! Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.</td>
+</tr>
+</tbody>
+</table>
+<p>These are just a few examples of the kind of custom Inducements that Event Organisers can use if they wish. Of course, when it comes to creating your own Inducements they can be themed around whatever takes your fancy. You may even decide that every coach in your event gets your custom Inducement for free to add that extra level of flavour to your event!</p>
+<h3 id="gold-piece-escalation">GOLD PIECE ESCALATION</h3>
+<p>Some events may decide to change the Team Draft Budget in-between games, showing the increased investment of a team's owners over the course of the tournament. This means that coaches will start with a smaller Team Draft Budget for their first game and will then receive more gold pieces after each round to spend on their team.</p>
+<p><em>For example: an escalation event may start with a Team Draft Budget of 1,000,000 gold pieces for game 1, before increasing this to 1,100,000 for game 2, then 1,200,000 for game 3.</em></p>
+<p>There are a couple of important things to remember if you are running an escalation event. The first is that coaches can only add to their Team Draft Roster and cannot take anything away from it once it has been added in. The second is that at the start of the event, coaches must submit all of their Team Draft Rosters for all the Team Draft Budgets that they will be playing.</p>
+<h3 id="mandatory-star-players">MANDATORY STAR PLAYERS</h3>
+<p>Star Players are one of the most interesting and exciting Darts of Blood Bowl; after all, seeing the very best players of Nuffle's sacred game take to the pitch is a joy to behold! As a result many events may require all coaches to have at least one Star Player in their roster for the event.</p>
+<p>When this is the case, the Event Organiser may remove the restriction for a team to have 11 players before taking a Star Player if they wish, so long as all rosters still have at least 11 players. This is at the discretion of the Event Organiser and if they do decide to change this then it should be clearly marked in the rulespack.</p>
+<p>If an event does include mandatory Star Players, it is often a good idea to have a selection of awards themed around Star Players for coaches to engage with. Awards for the coach that inflicted the most Casualties on Star Players, caused the most Casualties with a Star Player, or scored the most touchdowns with a Star Player are a good idea, but many more can be included as well!</p>
+<h3 id="secret-objectives">SECRET OBJECTIVES</h3>
+<p>One additional rule that can provide another unique event experience is the use of Secret Objectives. These are a selection of hidden agendas that a team is trying to complete over the course of the game. Secret Objectives are best used as a Tiebreaker, usually the first tiebreaker and coaches should record how many of their Secret Objectives they achieved over the course of the game</p>
+<p>There are a total of 16 different Secret Objectives that can be used (provided opposite). At the start of the game, each coach should roll for three Secret Objectives and make a note of them, re-rolling any results that they have already rolled for this game. The three Secret Objectives that are rolled are what the coach must try to achieve over the course of the game, and each coach should write them down and place them by the side of the pitch to be revealed at the end of the game. Coaches should also not reveal what they are trying to achieve to their opponent and should not reveal if they have completed any of their Secret Objectives over the course of the game, as that takes all the mystery out of it!</p>
+<p>When rolling to determine Secret Objectives, roll a D16 three times consult the table opposite, re-rolling any results that you have already rolled:</p>
+<table>
+<thead>
+<tr>
+<th>D16</th>
+<th>SECRET OBJECTIVE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><em>Red Card:</em> Have a player on your team Sent-off.</td>
+</tr>
+<tr>
+<td>2</td>
+<td><em>Didn't Need Them Anyway:</em> Finish any half with at least one re-roll unused.</td>
+</tr>
+<tr>
+<td>3</td>
+<td><em>Coming Alone:</em> Have a player on your team knock down an opposition player without having any offensive assists.</td>
+</tr>
+<tr>
+<td>4</td>
+<td><em>Fouling Frenzy:</em> Make at least three Foul actions over the course of the game.</td>
+</tr>
+<tr>
+<td>5</td>
+<td><em>Coming Surfing:</em> Push an opposition player into the crowd.</td>
+</tr>
+<tr>
+<td>6</td>
+<td><em>Ganging Up:</em> Have two or more players on your team make a Block action against the same opposition player in the same team turn.</td>
+</tr>
+<tr>
+<td>7</td>
+<td><em>Whoops!:</em> Have a player on your team Knocked Down as a result of their own Block or Blitz action.</td>
+</tr>
+<tr>
+<td>8</td>
+<td><em>Not so Fast!:</em> Cause an opposition player to fail a Dodge roll.</td>
+</tr>
+<tr>
+<td>9</td>
+<td><em>Timely Tackle:</em> Successfully knock down an opposition player that was carrying the ball.</td>
+</tr>
+<tr>
+<td>10</td>
+<td><em>Precision Passing:</em> Make three successful Pass actions over the course of the game.</td>
+</tr>
+<tr>
+<td>11</td>
+<td><em>Hit 'em Hard:</em> Knock-out or inflict a Casualty! result on two opposition players in the same team turn.</td>
+</tr>
+<tr>
+<td>12</td>
+<td><em>Just a Little Further:</em> Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone.</td>
+</tr>
+<tr>
+<td>13</td>
+<td><em>Go Long:</em> Make a successful Pass action that is either a Long Pass or a Long Bomb.</td>
+</tr>
+<tr>
+<td>14</td>
+<td><em>Nuffle Favors the Bold:</em> Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated.</td>
+</tr>
+<tr>
+<td>15</td>
+<td><em>All According to Plan:</em> Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover.</td>
+</tr>
+<tr>
+<td>16</td>
+<td><em>Headtaker:</em> Inflict a Casualty! result on an opposition player.</td>
+</tr>
+</tbody>
+</table>
+<p>It is important to note that while every team is able to accomplish each of these Secret Objectives in theory, some teams will find some easier than others - you'll want to hope Nuffle gives you a favourable roll!</p>
+<h2 id="blood-bowl-events-at-warhammer-world">BLOOD BOWL EVENTS AT WARHAMMER WORLD</h2>
+<p><strong>Blood Bowl is incredibly popular here, at its ancestral home of Warhammer World. In fact it's hard to walk through the gaming hall, or Bugman's Bar, without witnessing at least one game of Blood Bowl kicking off! Throughout</strong> <strong>the year, excited coaches flock to Nottingham, UK, from all corners of the world in order to participate in events and gaming weekends in Warhammer World's hallowed halls - and visit the illustrious Bugman's Bar, of course!</strong></p>
+<p>Over the course of the year, Warhammer World holds events such as the Full Beard Cup, the Quick Snap Cup and the infamous Bugman's Belter, which usually takes place on Superbowl weekends and allows coaches to play some games, before sitting back to enjoy the other big game that is taking place! All of these events serve as a beacon to all fans Of Nuffle's great game and promote fair play, fun and great sportsmanship above all else: well, off the pitch, of course - we're certainly not going to stop any rambunctious teams from sticking the boot in, or prevent a Goblin with a Secret Weapon from unleashing their full potential upon an unwitting opponent!</p>
+<p>Of course, any Blood Bowl events that are held at Warhammer World will use the <em>Blood Bowl Matched</em> Players attending an event at Warhammer World also get to experience the world famous Bugman's Bar, which serves all manner of tasty fare and thirst-quenching beverages (including the wonderful Bugman's XXXXXX!) throughout the day with plentiful portions that will satisfy even the hungriest of Trolls!</p>
+<p>Details of upcoming Warhammer World events can be found over at warhammer-community.com, so keep your eyes peeled and make sure you don't miss out on these classic gaming events, and a chance to test your mettle against some of the very best coaches in the Blood world!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <!-- Footer -->
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <!-- Copyright and theme information -->
+        <div class="md-copyright">
+          <a href="/sitemap.xml" title="Site Map"> Site Map </a>
+          |
+          <a href="https://discord.gg/XkFPPEUDGy" title="Feedback Discord Channel">Feedback Discord </a>
+          |
+          <a href="https://wahapedia.ru/" title="Wahapedia">Wahapedia </a>
+          |
+          <a href="https://epicheresy.ru/" title="Epic Heresy">Epic Heresy </a>          
+          |
+          <a href="https://prancingponypub.ru/" title="Prancing Pony Pub">Prancing Pony Pub </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["header.autohide", "navigation.indexes", "navigation.tabs", "navigation.top", "content.code.copy"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
