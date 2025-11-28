@@ -1,0 +1,4980 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="../">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/BB2020_Favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Cheat Sheet - Blood Bowl Base</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto Slab";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#official-cheat-sheet" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+            
+  <div>
+    This is still WiP, so if something is missing - don't worry it will be there soon.
+  </div>
+
+          </div>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Blood Bowl Base" class="md-header__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Blood Bowl Base
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Cheat Sheet
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label=""  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Cheat Sheet
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Core Rules
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../spike_journal/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Spike! Journal
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../teams/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Teams
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../starplayers/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Star Players
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="/bb2020/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  [ BB2020 ]
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Blood Bowl Base" class="md-nav__button md-logo" aria-label="Blood Bowl Base" data-md-component="logo">
+      
+  <img src="../../assets/BB2020_Badge.png" alt="logo">
+
+    </a>
+    Blood Bowl Base
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cheat Sheet
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#official-cheat-sheet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OFFICIAL CHEAT SHEET!
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-of-play" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SEQUENCE OF PLAY
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SEQUENCE OF PLAY">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pre-game-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRE-GAME SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#start-of-drive-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        START OF DRIVE SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-turns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM TURNS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#end-of-drive-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        END OF DRIVE SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#weather-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WEATHER TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-turnover" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        THE TURNOVER
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#post-game-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        POST-GAME SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kick-off-event-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        KICK-OFF EVENT TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#player-activations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLAYER ACTIVATIONS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PASS ACTION
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#block-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOCK ACTION
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="BLOCK ACTION">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#assisting-a-block-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ASSISTING A BLOCK ACTION
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#block-dice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOCK DICE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risking-injury" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RISKING INJURY
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="RISKING INJURY">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#injury-rolls" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY ROLLS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#injury-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casualty-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CASUALTY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lasting-injury-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LASTING INJURY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#injury-by-the-crowd" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY BY THE CROWD
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stalling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STALLING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fouling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FOULING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#earning-star-player-points" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        EARNING STAR PLAYER POINTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Rules
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Core Rules
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../game_essentials/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Essentials
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../rules_and_regulations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules and Regulations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_game_of_blood_bowl/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Game of Blood Bowl
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../drafting_a_blood_bowl_team/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Drafting a Blood Bowl Team
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../league_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    League Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../matched_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Matched Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../exhibition_play/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exhibition Play
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../skills_and_traits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skills & Traits
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inducements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inducements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../the_teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../latest_faq/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lastest FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../spike_journal/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Spike! Journal
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_19/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 19
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../spike_journal/issue_20/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Spike! Journal 20
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../teams/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Teams
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Amazon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Amazon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Black_Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Black Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Bretonnian/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bretonnian
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Chosen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Chosen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Chaos_Renegades/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chaos Renegades
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dark_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dark Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Dwarf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dwarf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Elven_Union/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elven Union
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Gnome/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gnome
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Goblin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Goblin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Halfling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Halfling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/High_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    High Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Human/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Human
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Imperial_Nobility/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Imperial Nobility
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Khorne/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Khorne
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Lizardmen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lizardmen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Necromantic_Horror/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Necromantic Horror
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Norse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Norse
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Nurgle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nurgle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Ogre/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ogre
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Old_World_Alliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Old World Alliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Orc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Orc
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Shambling_Undead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shambling Undead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Skaven/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skaven
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Snotling/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Snotling
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Tomb_Kings/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tomb Kings
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Underworld_Denizens/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Underworld Denizens
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Vampire/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Vampire
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../teams/Wood_Elf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wood Elf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../starplayers/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Star Players
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Star Players
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Akhorne_The_Squirrel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Akhorne The Squirrel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Anqi_Panqi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Anqi Panqi
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Barik_Farblast/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Barik Farblast
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bilerot_Vomitflesh/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bilerot Vomitflesh
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Boa_Kon%27ssstriktr/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Boa Kon'ssstriktr
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Bomber_Dribblesnot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bomber Dribblesnot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Captain_Karina_Von_Riesz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Captain Karina Von Riesz
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Cindy_Piewhistle/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Cindy Piewhistle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Count_Luthor_von_Drakenborg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Count Luthor von Drakenborg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Deeproot_Strongbranch/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Deeproot Strongbranch
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Dribl_and_Drull/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dribl and Drull
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Eldril_Sidewinder/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Eldril Sidewinder
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Estelle_la_Veneaux/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estelle la Veneaux
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Fungus_the_Loon/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fungus the Loon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glart_Smashrip/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glart Smashrip
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gloriel_Summerbloom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gloriel Summerbloom
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Glotl_Stop/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glotl Stop
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grak_and_Crumbleberry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grak and Crumbleberry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grashnak_Blackhoof/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grashnak Blackhoof
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Gretchen_W%C3%A4chter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gretchen Wächter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Griff_Oberwald/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Griff Oberwald
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grim_Ironjaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grim Ironjaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Grombrindal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Grombrindal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Guffle_Pussmaw/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guffle Pussmaw
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Hakflem_Skuttlespike/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hakflem Skuttlespike
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Helmut_Wulf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Helmut Wulf
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/H%27thark_the_Unstoppable/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    H'thark the Unstoppable
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivan_%27the_Animal%27_Deathshroud/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivan 'the Animal' Deathshroud
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ivar_Eriksson/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ivar Eriksson
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jeremiah_Kool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremiah Kool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Jordell_Freshbreeze/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jordell Freshbreeze
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Josef_Bugman/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Josef Bugman
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Karla_von_Kill/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Karla von Kill
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kiroth_Krakeneye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kiroth Krakeneye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Kreek_Rustgouger/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kreek Rustgouger
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Lord_Borak_the_Despoiler/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lord Borak the Despoiler
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Maple_Highgrove/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maple Highgrove
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Max_Spleenripper/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Max Spleenripper
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Morg_%27n%27_Thorg/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morg 'n' Thorg
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Nobbla_Blackwart/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nobbla Blackwart
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Puggy_Baconbreath/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Puggy Baconbreath
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rashnak_Backstabber/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rashnak Backstabber
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Ripper_Bolgrot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ripper Bolgrot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rodney_Roachbait/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rodney Roachbait
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rowana_Forestfoot/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rowana Forestfoot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Roxanna_Darknail/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roxanna Darknail
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Rumbelow_Sheepskin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rumbelow Sheepskin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scrappa_Sorehead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scrappa Sorehead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Scyla_Anfingrimm/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Scyla Anfingrimm
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skitter_Stab-stab/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skitter Stab-stab
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrorg_Snowpelt/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrorg Snowpelt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Skrull_Halfheight/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Skrull Halfheight
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Swiftvine_Glimmershard/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Swiftvine Glimmershard
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Black_Gobbo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Black Gobbo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Mighty_Zug/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Mighty Zug
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/The_Swift_Twins/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    The Swift Twins
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Thorsson_Stoutmead/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thorsson Stoutmead
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Varag_Ghoul-Chewer/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Varag Ghoul-Chewer
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Wilhelm_Chaney/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Wilhelm Chaney
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Willow_Rosebark/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Willow Rosebark
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Withergrasp_Doubledrool/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Withergrasp Doubledrool
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zolcath_the_Zoat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zolcath the Zoat
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../starplayers/Zzharg_Madeye/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Zzharg Madeye
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="/bb2020/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    [ BB2020 ]
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#official-cheat-sheet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        OFFICIAL CHEAT SHEET!
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-of-play" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SEQUENCE OF PLAY
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="SEQUENCE OF PLAY">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pre-game-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRE-GAME SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#start-of-drive-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        START OF DRIVE SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#team-turns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        TEAM TURNS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#end-of-drive-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        END OF DRIVE SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#weather-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        WEATHER TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-turnover" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        THE TURNOVER
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#post-game-sequence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        POST-GAME SEQUENCE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kick-off-event-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        KICK-OFF EVENT TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#player-activations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLAYER ACTIVATIONS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pass-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PASS ACTION
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#block-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOCK ACTION
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="BLOCK ACTION">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#assisting-a-block-action" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ASSISTING A BLOCK ACTION
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#block-dice" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BLOCK DICE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#risking-injury" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RISKING INJURY
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="RISKING INJURY">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#injury-rolls" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY ROLLS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#injury-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#casualty-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CASUALTY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lasting-injury-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        LASTING INJURY TABLE
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#injury-by-the-crowd" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INJURY BY THE CROWD
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#stalling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STALLING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fouling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FOULING
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#earning-star-player-points" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        EARNING STAR PLAYER POINTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Cheat Sheet</h1>
+
+<h2 id="official-cheat-sheet">OFFICIAL CHEAT SHEET!</h2>
+<h2 id="sequence-of-play">SEQUENCE OF PLAY</h2>
+<h3 id="pre-game-sequence">PRE-GAME SEQUENCE</h3>
+<p>The pre-game sequence consists of the following steps:</p>
+<ol>
+<li>The Fans — page 45</li>
+<li>The Weather — page 46</li>
+<li>Take On Journeymen — page 94</li>
+<li>Inducements — page 94</li>
+<li>Determine Kicking Team — page 46</li>
+</ol>
+<h3 id="start-of-drive-sequence">START OF DRIVE SEQUENCE</h3>
+<p>At the start of every Drive, Coaches run through the following steps:</p>
+<ol>
+<li>Set-up — page 47</li>
+<li>The Kick-off — page 47</li>
+<li>The Kick-off Event — page 48</li>
+</ol>
+<h3 id="team-turns">TEAM TURNS</h3>
+<p>Coaches alternate taking Turns; each Drive, the team receiving the ball takes the first Turn.</p>
+<h3 id="end-of-drive-sequence">END OF DRIVE SEQUENCE</h3>
+<p>When a Touchdown is scored, or the final Turn of a half is played, the current drive ends. If Turns remain, run through the following sequence then start a new Drive:</p>
+<ol>
+<li>Deal with Secret Weapons — page 83</li>
+<li>End of Drive Effects — page 83</li>
+<li>Recover Knocked-out Players — page 83</li>
+<li>The Drive Ends — page 83</li>
+</ol>
+<h3 id="weather-table">WEATHER TABLE</h3>
+<table>
+<thead>
+<tr>
+<th>2D6</th>
+<th>WEATHER CONDITION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>SWELTERING HEAT:</strong> At the end of each Drive, one coach rolls a D3. Each coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>VERY SUNNY:</strong> Whenever a player makes a Passing Ability Test, apply a –1 modifier to the roll.</td>
+</tr>
+<tr>
+<td><strong>4–10</strong></td>
+<td><strong>PERFECT CONDITIONS:</strong> There is no additional effect.</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td><strong>POURING RAIN:</strong> Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a –1 modifier to the roll.</td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td><strong>BLIZZARD:</strong> Whenever a player attempts to Rush, apply a –1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="the-turnover">THE TURNOVER</h3>
+<p>A Turnover is caused if:</p>
+<ul>
+<li>A player on the active team Falls Over during their own activation.</li>
+<li>A player on the active team is Knocked Down during their own team's turn.</li>
+<li>A player on the active team that is carrying the ball is Placed Prone or forced to move off the pitch for any reason.</li>
+<li>A player on the active team attempts to pick up the ball from the ground and fails.</li>
+<li>A player on the active team attempts a Pass Action and Fumbles the ball.</li>
+<li>A player on the active team attempts to catch the ball following a Pass Action or a Hand-off Action and fails, resulting in it coming to rest on the ground. If the ball Bounces from the player who failed to Catch it directly into a square containing a player from the active team who successfully Catches the ball, no Turnover is caused.</li>
+<li>A player on the active team attempts a Pass Action and no player on the active team successfully Catches the ball, resulting in the ball hitting the ground and Bouncing or coming to rest on the ground.</li>
+<li>A player on the inactive team ends up in possession of the ball following an attempted Pass Action or by successfully Intercepting the ball.</li>
+<li>A player on the active team that is in possession of the ball is thrown by a team-mate and fails to land safely, lands in the crowd, or is eaten.</li>
+<li>A player on the active team is Sent-off for committing a Foul Action.</li>
+<li>A Touchdown is scored.</li>
+</ul>
+<h3 id="post-game-sequence">POST-GAME SEQUENCE</h3>
+<p>If playing in a league, Coaches should run through the following sequence after a game has finished:</p>
+<ol>
+<li>Record Outcome and Collect Winnings: page 95</li>
+<li>Update Dedicated Fans: page 95</li>
+<li>Player Advancement: page 96</li>
+<li>Hiring, Firing and Temporarily Retiring: page 99</li>
+<li>Expensive Mistakes: page 100</li>
+<li>Prepare for Next Fixture: page 100</li>
+</ol>
+<h3 id="kick-off-event-table">KICK-OFF EVENT TABLE</h3>
+<table>
+<thead>
+<tr>
+<th>2D6</th>
+<th>KICK-OFF EVENT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>GET THE REF:</strong> Each team immediately receives one free Bribe Inducement. This Bribe must be used by the end of the game or it is lost.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>TIME-OUT:</strong> If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space.</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>SOLID DEFENCE:</strong> The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team.</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>HIGH KICK:</strong> One Open player on the receiving team may immediately be placed in the square the ball is going to land in.</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><strong>CHEERING FANS:</strong> Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn.</td>
+</tr>
+<tr>
+<td><strong>7</strong></td>
+<td><strong>BRILLIANT COACHING:</strong> Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost.</td>
+</tr>
+<tr>
+<td><strong>8</strong></td>
+<td><strong>CHANGING WEATHER:</strong> Immediately make a new roll on the Weather Table. If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands.</td>
+</tr>
+<tr>
+<td><strong>9</strong></td>
+<td><strong>QUICK SNAP!:</strong> The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition half.</td>
+</tr>
+<tr>
+<td><strong>10</strong></td>
+<td><strong>CHARGE!:</strong> The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends.</td>
+</tr>
+<tr>
+<td><strong>11</strong></td>
+<td><strong>DODGY SNACK:</strong> Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory!</td>
+</tr>
+<tr>
+<td><strong>12</strong></td>
+<td><strong>PITCH INVASION:</strong> Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="player-activations">PLAYER ACTIVATIONS</h3>
+<p>During your Turn, you may activate each of your Standing and/or Prone players to perform one action available to them. Players that began the turn Stunned cannot be activated. Common Actions include:</p>
+<table>
+<thead>
+<tr>
+<th>ACTION</th>
+<th>NOTES</th>
+<th>RULEBOOK REFERENCE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MOVE</strong></td>
+<td>Up to MA, can Rush</td>
+<td>Page 54</td>
+</tr>
+<tr>
+<td><strong>BLOCK</strong></td>
+<td>Block adjacent player</td>
+<td>Page 60</td>
+</tr>
+<tr>
+<td><strong>BLITZ</strong></td>
+<td>Move then Block</td>
+<td>Page 64</td>
+</tr>
+<tr>
+<td><strong>PASS</strong></td>
+<td>Move, then Pass the ball</td>
+<td>Page 70</td>
+</tr>
+<tr>
+<td><strong>HAND-OFF</strong></td>
+<td>Pass to adjacent player, roll to Catch only</td>
+<td>Page 74</td>
+</tr>
+<tr>
+<td><strong>FOUL</strong></td>
+<td>Move, then Foul adjacent Prone opposing player</td>
+<td>Page 69</td>
+</tr>
+<tr>
+<td><strong>THROW TEAM-MATE</strong></td>
+<td>“Pass” a player with the Right Stuff Trait</td>
+<td>Page 76</td>
+</tr>
+<tr>
+<td><strong>SPECIAL ACTIONS</strong></td>
+<td>Skill or Trait Action</td>
+<td>Page 123</td>
+</tr>
+<tr>
+<td><strong>SECURE THE BALL</strong></td>
+<td>Move, then pick up the ball safely</td>
+<td>Page 59</td>
+</tr>
+</tbody>
+</table>
+<h3 id="pass-action">PASS ACTION</h3>
+<p>Once per team turn, a player with the ball can perform the Pass Action. Follow the sequence:</p>
+<ol>
+<li><strong>Declare Target Square.</strong></li>
+<li><strong>Measure Range</strong> — Use the Range Ruler or Passing Range chart to measure range to the target square and determine the type of pass required.</li>
+<li><strong>Test for Accuracy</strong> — Make a Passing Ability Test for the player performing the Pass Action. Apply modifiers.</li>
+<li><strong>Interceptions</strong> — A player on the opposing team can attempt to intercept the ball.</li>
+<li><strong>Resolve Pass Action</strong> — Determine if the ball is caught by the target player or where it comes to rest.</li>
+</ol>
+<h3 id="block-action">BLOCK ACTION</h3>
+<p>Resolve a Block Action by rolling Block Dice and choosing one result. The number of Block Dice rolled is determined by comparing the modified Strength of the blocker and their target.</p>
+<ul>
+<li>If both players have equal modified Strength, roll one Block Die.</li>
+<li>If one player has higher modified Strength, two Block Dice are rolled.*</li>
+<li>If one player has over double the other's modified Strength, three Block Dice are rolled.*</li>
+</ul>
+<p>*<em>The Coach of the player with the higher Strength Characteristic chooses the result used.</em></p>
+<h4 id="assisting-a-block-action">ASSISTING A BLOCK ACTION</h4>
+<p>A common way of modifying a player's Strength during Block Actions is through Assists.</p>
+<ul>
+<li>Blocking players gain a +1 Strength modifier for each player of the same team who is Marking the target of the Block Action and is not Marked by another opposing player.</li>
+<li>The target of a Block gains a +1 Strength modifier for each player of the same team who is Marking the player performing the Block Action and is not Marked by another opposing player.</li>
+</ul>
+<h3 id="block-dice">BLOCK DICE</h3>
+<p><strong>PLAYER DOWN</strong></p>
+<p>The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.</p>
+<p><strong>BOTH DOWN</strong></p>
+<p>The player that performed the Block Action and the target player are Knocked Down by each other if in the squares they are in as if they had both performed a Block Action.</p>
+<p><strong>PUSH BACK</strong></p>
+<p>The target player is Pushed Back by the player performing the Block Action. The player that performed the Block Action may choose to Follow-up by moving into the square vacated by the Pushed player.</p>
+<p><strong>STUMBLE</strong></p>
+<p>If the target player has the <a href="../skills_and_traits/#dodge-active">Dodge</a> skill, this becomes Push Back. Otherwise, this becomes POW.</p>
+<p><strong>POW</strong></p>
+<p>Apply the Push Back result to the target player. The target player is then Knocked Down in the square they are now in by the player performing the Block Action.</p>
+<h3 id="risking-injury">RISKING INJURY</h3>
+<p>When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player — see page 37 for Armour Rolls.</p>
+<h4 id="injury-rolls">INJURY ROLLS</h4>
+<p>If the Armour Roll results in a player's armour being broken, the opposing team's Coach rolls 2D6 and consults the table below:</p>
+<h4 id="injury-table">INJURY TABLE</h4>
+<table>
+<thead>
+<tr>
+<th>2D6</th>
+<th>RESULT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2–7</strong></td>
+<td><strong>STUNNED:</strong> The player is immediately Stunned.</td>
+</tr>
+<tr>
+<td><strong>8–9</strong></td>
+<td><strong>KNOCKED-OUT:</strong> The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout.</td>
+</tr>
+<tr>
+<td><strong>10–12</strong></td>
+<td><strong>CASUALTY:</strong> The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them (page 67).</td>
+</tr>
+</tbody>
+</table>
+<h4 id="casualty-table">CASUALTY TABLE</h4>
+<table>
+<thead>
+<tr>
+<th>D16</th>
+<th>RESULT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1–8</strong></td>
+<td><strong>BADLY HURT:</strong> The player suffers no long-term effects.</td>
+</tr>
+<tr>
+<td><strong>9–10</strong></td>
+<td><strong>SERIOUSLY HURT:</strong> The player must miss their next game.</td>
+</tr>
+<tr>
+<td><strong>11–12</strong></td>
+<td><strong>SERIOUS INJURY:</strong> The player suffers a Niggling Injury and must miss their next game.</td>
+</tr>
+<tr>
+<td><strong>13–14</strong></td>
+<td><strong>LASTING INJURY:</strong> The player suffers a characteristic reduction and must miss their next game.</td>
+</tr>
+<tr>
+<td><strong>15–16</strong></td>
+<td><strong>DEAD:</strong> The player is dead.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="lasting-injury-table">LASTING INJURY TABLE</h4>
+<table>
+<thead>
+<tr>
+<th>D6</th>
+<th>LASTING INJURY</th>
+<th>CHARACTERISTIC REDUCTION</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1–2</strong></td>
+<td>HEAD INJURY</td>
+<td>–1 AV</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>SMASHED KNEE</td>
+<td>–1 MV</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>BROKEN ARM</td>
+<td>–1 PA</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>DISLOCATED HIP</td>
+<td>–1 AG</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>BROKEN SHOULDER</td>
+<td>–1 ST</td>
+</tr>
+</tbody>
+</table>
+<h3 id="injury-by-the-crowd">INJURY BY THE CROWD</h3>
+<p>Make an Injury Roll for a player Pushed into the Crowd (page 68). If the player would be Stunned, place them in their team's Reserve Box. Otherwise, follow the result on the relevant Injury Table.</p>
+<h3 id="stalling">STALLING</h3>
+<p>If a player in possession of the ball when activated can score a Touchdown without having to roll dice but finishes their activation without having scored a Touchdown, then they are Stalling. Roll a D6 if a player is Stalling — if the result is equal to or greater than the team's current Turn number, the player is Knocked Down and a Turnover is caused.</p>
+<h3 id="fouling">FOULING</h3>
+<p>Make an Armour Roll for the target of the Foul Action. Apply a +1 modifier to the result for each Offensive Assist and –1 modifier to the result for each Defensive Assist.</p>
+<h3 id="earning-star-player-points">EARNING STAR PLAYER POINTS</h3>
+<p>During League Play, players earn Star Player Points (SPP) for the following (see page 96 for more detail):</p>
+<table>
+<thead>
+<tr>
+<th>ACTION</th>
+<th>SPP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Completion</td>
+<td>1 SPP</td>
+</tr>
+<tr>
+<td>Throw Team-mate</td>
+<td>See page 76</td>
+</tr>
+<tr>
+<td>Interception</td>
+<td>2 SPP</td>
+</tr>
+<tr>
+<td>Causing a Casualty</td>
+<td>2 SPP</td>
+</tr>
+<tr>
+<td>Touchdown</td>
+<td>3 SPP</td>
+</tr>
+<tr>
+<td>Most Valuable Player</td>
+<td>4 SPP</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+    <!-- Footer -->
+    <div class="md-footer-meta md-typeset">
+      <div class="md-footer-meta__inner md-grid">
+        <!-- Copyright and theme information -->
+        <div class="md-copyright">
+          <a href="/sitemap.xml" title="Site Map"> Site Map </a>
+          |
+          <a href="https://discord.gg/XkFPPEUDGy" title="Feedback Discord Channel">Feedback Discord </a>
+          |
+          <a href="https://wahapedia.ru/" title="Wahapedia">Wahapedia </a>
+          |
+          <a href="https://epicheresy.ru/" title="Epic Heresy">Epic Heresy </a>
+          |
+          <a href="https://prancingponypub.ru/" title="Prancing Pony Pub">Prancing Pony Pub </a>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["header.autohide", "navigation.indexes", "navigation.tabs", "navigation.top", "versioning"], "search": "../../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
