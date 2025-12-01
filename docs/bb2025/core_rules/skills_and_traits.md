@@ -10,19 +10,19 @@ For example: A Tomb Kings Blitzer has G and S listed under Primary, and A and D 
 
 Skills are denoted by a symbol showing which category they belong to - either Agility, Devious, General, Mutation, Passing or Strength. These symbols are shown below:
 
-***AGILITY SKILL***
+![](../media/core_rules/agility_skill.jpg) ***AGILITY SKILL*** 
 
-***DEVIOUS SKILL***
+![](../media/core_rules/devious_skill.jpg) ***DEVIOUS SKILL***
 
-***GENERAL SKILL***
+![](../media/core_rules/general_skill.jpg) ***GENERAL SKILL***
 
-***MUTATION SKILL***
+![](../media/core_rules/mutation_skill.jpg) ***MUTATION SKILL***
 
-***PASSING SKILL***
+![](../media/core_rules/passing_skill.jpg) ***PASSING SKILL***
 
-***STRENGTH SKILL***
+![](../media/core_rules/strength_skill.jpg) ***STRENGTH SKILL***
 
-Additionally, an Elite Skill will be denoted by the  symbol.
+Additionally, an Elite Skill will be denoted by the ![](../media/core_rules/elite_skill.jpg) symbol.
 
 ### SKILL USE
 
@@ -97,7 +97,7 @@ When an opposition player attempts to leave this player's Tackle Zone as a resul
 
 If a player tries to leave the Tackle Zone of multiple players with this Skill at the same time, only one of those players may use this Skill.
 
-#### DODGE (ACTIVE)
+#### DODGE (ACTIVE) ![](../media/core_rules/elite_skill_small.jpg)
 
 Once per Turn, this player may re-roll a single Agility Test when attempting to Dodge. Additionally, this Skill will impact the Stumble result when an opposition player performs a Block Action against this player, as described on page 62.
 
@@ -203,7 +203,7 @@ A player can only have this Skill if they have a Trait that allows them to perfo
 
 ### GENERAL
 
-#### BLOCK (ACTIVE)
+#### BLOCK (ACTIVE) ![](../media/core_rules/elite_skill_small.jpg)
 
 A player with this Skill may choose not to be Knocked Down when a Both Down result is applied during a Block Action that they are part of.
 
@@ -418,7 +418,7 @@ Additionally, when this player performs a Block Action, opposition players canno
 
 A player with this Skill cannot have the Frenzy Skill.
 
-#### GUARD (ACTIVE)
+#### GUARD (ACTIVE) ![](../media/core_rules/elite_skill_small.jpg)
 
 This player can provide Offensive and Defensive Assists when a player performs a Block Action regardless of how many opposition players are Marking this player.
 
@@ -428,7 +428,7 @@ When this player declares a Blitz Action, they may treat any result of Both Down
 
 Additionally, when this player performs a Block Action as part of a Blitz Action, opposition players cannot use the Fend, Stand Firm or Wrestle Skills.
 
-#### MIGHTY BLOW (ACTIVE)
+#### MIGHTY BLOW (ACTIVE) ![](../media/core_rules/elite_skill_small.jpg)
 
 Whenever this player Knocks Down an opposition player during a Block Action, even if this player is also Knocked Down, they may apply a +1 modifier to either the Armour Roll or Injury Roll. This modifier may be applied after the roll has been made.
 

@@ -12,17 +12,20 @@ Like many sports, Blood Bowl is split into two halves of roughly equal length ei
 
 Often, you will see rules referring to a Drive. A Drive is a period of time in the game between one team kicking off and either team scoring or the end of a half. This means there is no set time for the length of a Drive; some may last the entire half, whilst others may only last a single round or even turn!
 
-SETTING UP THE GAME
+### SETTING UP THE GAME
+
 Setting up a game of Blood Bowl is easy. Simply place the pitch on the playing surface in between the two Coaches and give each Coach a dugout in which to place any markers they may need during the game. Then, place the Random Direction Template in a place that both Coaches can easily see and that corresponds to the grid on the pitch: this will not be moved during the course of the game.
 
 Once this is done, both Coaches should put their players on the pitch and explain all the details of their team to their opponent. You are now ready to play Blood Bowl!
 
-YOUR FIRST FEW GAMES
+#### YOUR FIRST FEW GAMES
+
 For your first couple of games whilst you are learning, there are a few steps you don't need to worry about that you can just skip - Fan Factor, Weather and the Kick-off Event. These are all important parts of the game, though you can skip them whilst you get to grips with the basics.
 
 Instead, assume that both teams have an equal Fan Factor, the weather is always Perfect Conditions and just ignore the Kick-off Event completely.
 
-PRE-GAME SEQUENCE
+### PRE-GAME SEQUENCE
+
 With the game set up, the first thing that is required is to run through the Pre-game Sequence. There are five simple steps to the Pre-game Sequence, however, some of these are only relevant to League Play, which we will cover fully later on page 94, so you don't need to worry about these right now.
 
 The Pre-game Sequence is as follows:
@@ -33,24 +36,25 @@ The Pre-game Sequence is as follows:
 - **INDUCEMENTS:** This step is only used in League Play, and so will be covered fully on page 94.
 - **DETERMINE KICKING TEAM:** Coaches will roll off to determine who is the kicking team (defence) and who is the receiving team (offence).
 
-THE FANS
+### THE FANS
+
 Blood Bowl is incredibly popular in the Old World, and for any given game, scores of fans will flock to the various stadia to witness the grand spectacle. Some of these will be dedicated fans who have travelled far and wide to watch their favourite team play, whilst others are simply fair-weather fans who just go to watch whichever two teams happen to be playing in their local area and then pick one to cheer for on the day.
 
-FAN FACTOR
+#### FAN FACTOR
 The combination of Dedicated Fans and Fair-weather Fans that are cheering for a team make up the team's Fan Factor for the game.
 
 To work out your Fan Factor, you must first see how many Fair-weather Fans are cheering for your team by rolling a D3. Next, add the number of Fair-weather Fans to your Dedicated Fans Characteristic as found on your Team Roster (more on these later).
 
 The total number is your Fan Factor and represents the number of thousands of fans that are in attendance and cheering for your team. You can record your Fan Factor on your Team Record Sheet if you wish.
 
-For example: The Brionne Barons are determining their Fan Factor for a game. Their Coach rolls a D3 for their Fair-weather Fans and scores a 2. This is added to the team's Dedicated Fans Characteristic of 4, giving a total Fan Factor of 6.
+***For example:** The Brionne Barons are determining their Fan Factor for a game. Their Coach rolls a D3 for their Fair-weather Fans and scores a 2. This is added to the team's Dedicated Fans Characteristic of 4, giving a total Fan Factor of 6.*
 
-THE WEATHER
+### THE WEATHER
 Blood Bowl is played in all types of weather. Those that take to the gridiron are tough, hardy individuals who won't let a little rain stop them from pummelling their opposition into the damp turf! This doesn't mean that the weather won't have an impact on the game - far from it! The course of many games has been drastically altered by strong winds, blinding sun, sudden snowstorms, or all manner of other unconventional weather conditions!
 
 To determine what the weather is like at the start of the game, each Coach rolls a D6 and adds the two rolls together. Consult the Weather Table below to see what impact the weather has.
 
-WEATHER TABLE
+#### WEATHER TABLE
 
 | 2D6 | WEATHER CONDITION |
 |-----|-------------------|
@@ -60,7 +64,8 @@ WEATHER TABLE
 | **11** | **POURING RAIN:** The heavens have opened and the sudden downpour has left the players soaked and the ball rather slippery! Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
 | **12** | **BLIZZARD:** The freezing conditions and swirling snow makes the footing treacherous and drastically impedes a player's vision. Whenever a player attempts to Rush, apply an additional -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
 
-DETERMINE KICKING TEAM
+### DETERMINE KICKING TEAM
+
 The final thing to do before starting a game is to determine which team is kicking (the defence) and which team is receiving the ball (the offence). In a real game of Blood Bowl, this is done with a simple coin toss, which many fans, players and even the officials, see as a cue to start the violence!
 
 On the tabletop, this is represented through a simple roll-off (see page 33). The Coach who rolls highest decides which team is kicking and which team is receiving. Once this has been decided, you are ready to play a game of Blood Bowl!
@@ -70,6 +75,7 @@ On the tabletop, this is represented through a simple roll-off (see page 33). Th
 Once it has been decided who is kicking and who is receiving, it is time to start the first Drive of the game. Whenever a Drive starts, either at the start of a half or after one team has scored, Coaches will need to follow the Start of Drive Sequence below:
 
 ### START OF DRIVE SEQUENCE
+
 At the start of any Drive, Coaches run through the following steps in this order:
 
 - **SET-UP:** Starting with the kicking team, Coaches will set up their players on the pitch ready for the Drive.
@@ -77,6 +83,7 @@ At the start of any Drive, Coaches run through the following steps in this order
 - **THE KICK-OFF EVENT:** As the ball is in the air, the Kick-off Event will happen.
 
 ### SET-UP
+
 When setting up their players, each team must select 11 players to take part in the Drive. If a team has less than 11 players, which is likely during the course of a game when players begin to get knocked-out or suffer casualties, then they must set up as many as they can. Any players not chosen to set up for the Drive are placed in the Reserves Box.
 
 The kicking team must set up first followed by the receiving team. Players must be set up as follows:
@@ -87,21 +94,24 @@ The kicking team must set up first followed by the receiving team. Players must 
 
 Should a team only be able to field three or fewer players, then they must be deployed in the Centre Field directly adjacent to the Line of Scrimmage.
 
----
+#### TOO MANY PLAYERS
 
-### TOO MANY PLAYERS
 Sometimes, a situation may arise where one team has too many players on the pitch. This is usually down to an honest mistake by the team's Coach. If you notice this before the next Drive has started, simply correct the mistake and continue with the game. However, if the mistake is not noticed until the first Turn of the Drive has begun, then any extra players on the pitch will be immediately removed from the pitch and placed in the Reserves Box. The players that are removed cannot have the ball, cannot be a Star Player and are chosen by the opposition Coach.
 
 ### THE KICK-OFF
+
 Once both teams have set up, it is time for the kicking team to Kick-off.
 
-### NOMINATE KICKING PLAYER
+#### NOMINATE KICKING PLAYER
+
 The first thing that the kicking team must do is to nominate a kicking player. This can be any player on the kicking team that is on the pitch but not directly adjacent to the Line of Scrimmage (unless there is no other option) or in a Wide Zone. Most of the time nominating a kicking player doesn't really matter, however, some Skills, Traits or special rules may interact with the kicking player so it is good to get into the habit of nominating one whenever you Kick-off.
 
-### PLACE THE KICK
+#### PLACE THE KICK
+
 The Coach of the kicking team places the ball in any square in the opponent's half. This is the target square where the kicker is aiming to kick the ball.
 
-### THE KICK DEVIATES
+#### THE KICK DEVIATES
+
 It is not uncommon for a kick to go horribly off course; in fact, it is probably far more likely than an accurate kick! After the ball has been placed, the ball will Deviate from the target square; this is the square the ball will land in. At this point the ball is still high up in the air and cannot be caught until after the Kick-off Event has been resolved.
 
 ### THE KICK-OFF EVENT
@@ -110,9 +120,7 @@ When the ball is punted into the air, it is a signal that the game has begun and
 
 Immediately after the kick has Deviated, the Coach of the kicking team must roll 2D6 and consult the Kick-off Event Table below to see what manner of mayhem the kick-off has resulted in.
 
----
-
-### KICK-OFF EVENT TABLE
+#### KICK-OFF EVENT TABLE
 
 | 2D6 | KICK-OFF EVENT |
 |-----|----------------|
@@ -128,14 +136,14 @@ Immediately after the kick has Deviated, the Coach of the kicking team must roll
 | **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
 | **12** | **PITCH INVASION:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
 
-### WHAT GOES UP...
+#### WHAT GOES UP...
+
 Once the Kick-off Event has been fully resolved, the ball will land in the square that it is in. If there isn't a player in the square then the ball will immediately Bounce from that square.
 
 If there is a player in that square, they may immediately try to Catch the ball by making an Agility Test. If the test is passed, they will immediately gain possession of the ball. If the test is failed, then the ball will immediately Bounce from that square.
 
----
+#### TOUCHBACKS
 
-### TOUCHBACKS
 The ball must land safely in the opposition half for it to be a legal kick-off. If the ball ends up exiting the pitch or crosses the Line of Scrimmage into the kicking team's half, regardless if this was down to a Deviation, Bounce, or another effect, then it will result in a Touchback.
 
 When a Touchback occurs, after the Kick-off Event has been fully resolved, the Coach of the receiving team may give the ball to any of their Standing players on the pitch. If there are no Standing players for them to give it to, they may place it on any unoccupied square in their half instead.
@@ -144,9 +152,8 @@ When a Touchback occurs, after the Kick-off Event has been fully resolved, the C
 
 A real game of Blood Bowl is a manic affair with referees and officials constantly trying to keep track of all the chaos that is taking place on the pitch and attempting to exert a modicum of control over the players. On the tabletop, the game is divided into a series of Rounds and Turns to help Coaches keep track of what is going on and to make sure everyone knows exactly what is happening. During each Round, each Coach will get a Turn where they can activate their players and perform actions with them, bringing a sense of order and control to the otherwise chaotic game that is Blood Bowl!
 
----
-
 ### ROUNDS
+
 Each half of a game of Blood Bowl is divided into eight Rounds. In each Round both Coaches will get one Turn. Often you will hear Coaches refer to these as "Coach A's Turn 1". What this means is that it is Coach A's Turn in the first Round of the half. This will mean that each team will get eight Turns in each half.
 
 During each Round, the team that received the ball at the start of the half will have the first Turn, followed by the team that kicked the ball. This continues until each team has played their eight Turns for the half.
@@ -155,19 +162,16 @@ At the start of the second half, the team that received the ball at the start of
 
 If a Drive ends with a Touchdown, then the team that scored the Touchdown will kick the ball to the opposition before the next Turn begins.
 
-**For example:**
-The Bretonnian team received the ball at the start of the first half, meaning that they had the first Turn in each Round. They score during their Turn 5 ending their Turn, and the Drive, with a Touchdown. The teams then set up again and the Bretonnian team will kick to the Tomb Kings team. Play then resumes with the Tomb Kings Turn 5.
-
----
+***For example:** The Bretonnian team received the ball at the start of the first half, meaning that they had the first Turn in each Round. They score during their Turn 5 ending their Turn, and the Drive, with a Touchdown. The teams then set up again and the Bretonnian team will kick to the Tomb Kings team. Play then resumes with the Tomb Kings Turn 5.*
 
 ### TURNS
+
 During each Coach's Turn they will get a chance to activate each of their players in turn until they have all activated or a Turnover is caused. During a team's Turn they are referred to as the active team and the opposition is referred to as the opposition or inactive team.
 
 The first thing in each Turn that a team should do is to move their Turn Marker up one space. This is important so each Coach knows exactly what Turn it is. If your opponent forgets, simply remind them to do so in a polite and friendly manner.
 
----
-
 ### PLAYER ACTIVATIONS
+
 During your Turn, you may activate each of your players once, with the exception of players who began the Turn Stunned. Ideally, you will be able to activate each player in turn with no issues; however, it won't be uncommon for the Turn to end with a Turnover and some players may not have been activated, so take care in the order in which you activate your players!
 
 When you activate a player, you must declare what kind of Action they are going to make. During their activation the player will be referred to as the active player. You may not change your declared Action half way through a player's activation. However, you are not obliged to complete the declared Action if you do not wish to, though the player will still count as having declared that Action even if they do not complete it. This is important as some Actions can only be declared once each Turn.
@@ -176,42 +180,50 @@ If a player declares an action that can only be declared once each Turn, and is 
 
 What follows is the list of actions that a player may declare when activated, along with a brief description of what they do. They will be described in more detail throughout this section.
 
----
+#### MOVE ACTION
 
-### MOVE ACTION
 Probably the most basic Action of them all, a Move Action allows a player to move around the board up to its Move Allowance. There is no limit to the number of players that can declare a Move Action each Turn. Move Actions are covered on page 54.
 
-### SECURE THE BALL ACTION
+#### SECURE THE BALL ACTION
+
 A player may attempt to recover a loose ball safely. A player that declares a Secure the Ball Action may first make a free Move Action, however, this Move Action must end on the square containing a ball and the ball cannot be within 2 squares of any Standing opposition players (who are not Distracted). If this is not possible, a player cannot declare this Action. Only a single Secure the Ball Action can be declared each Turn. Players with the Big Guy keyword cannot declare this Action. Secure the Ball Actions are covered on page 59.
 
-### BLOCK ACTION
+#### BLOCK ACTION
+
 When a player makes a Block Action, they are targeting an opposition player with an attack. A Block Action allows a Standing player to perform a Block against one Standing opposition player in an attempt to push them back, knock them down, or even cause an injury. There is no limit to the number of players that can declare a Block Action each Turn. Block Actions are covered on page 60.
 
+#### BLITZ ACTION
 
-### BLITZ ACTION
 Simply put, a Blitz Action combines a Move Action with a Block Action so any rules that interact with either of these Actions will also interact with them when they are used as part of a Blitz Action. Only a single Blitz Action can be declared each Turn. Blitz Actions are covered on page 64.
 
-### PASS ACTION
+#### PASS ACTION
+
 The player may attempt to throw the ball to another player or part of the pitch. A player that declares a Pass Action may also make a free Move Action before making the pass, but may not continue moving after the pass has been made. Only a single Pass Action can be declared each Turn. Pass Actions are covered on page 70.
 
-### HAND-OFF ACTION
+#### HAND-OFF ACTION
+
 A player may attempt to hand-off the ball to another Standing player on their team. A player that declares a Hand-off Action may also make a free Move Action before making the hand-off, but may not continue moving after the hand-off has been made. Only a single Hand-off Action can be declared each Turn. Hand-off Actions are covered on page 74.
 
-### THROW TEAM-MATE ACTION
+#### THROW TEAM-MATE ACTION
+
 Some larger players have the ability to throw certain team-mates through the air, either to get the ball carrier up the field or to launch a 'willing' ally at the opposition. A player that declares a Throw Team-mate Action may also make a free Move Action before throwing their team-mate, but may not continue moving after the pass has been made. A player may only declare a Throw Team-mate Action if they have the Throw Team-mate Trait, and may only throw a team-mate that has the Right Stuff Trait. Only a single Throw Team-mate Action can be declared each Turn. Throw Team-mate Actions are covered on page 76.
 
-### FOUL ACTION
+#### FOUL ACTION
+
 It's not all good, clean fun in Blood Bowl; some players are prone to sticking the boot in when the ref isn't looking! A player that declares a Foul Action may also make a free Move Action before making the foul, but may not continue moving after the foul has been made. Only a single Foul Action can be declared each Turn. Foul Actions are covered on page 69.
 
-### SPECIAL ACTION
+#### SPECIAL ACTION
+
 There are many Skills and Traits that will provide a player with the option to declare a Special Action. Some Special Actions will also allow a player to make a free Move Action as part of the Special Action. Each Special Action will allow the player to perform a more unique action on the pitch, such as using a contraption of some sort, transfixing an opposition player where they stand, or even using a hidden blade to stab out at an opponent!
 
 These are all referred to as Special Actions and will be fully outlined in the Skill or Trait that allows them to be used. The full list of Skills and Traits and their descriptions can be found on pages 123-138.
 
-### FOREGO ACTIVATION
+#### FOREGO ACTIVATION
+
 Sometimes you may not wish to activate a player on your team, in which case they can declare they will forego their activation. In these instances, the player will not be activated, and so will not be subjected to any rules that take place at the start of or during their activation, with the exception of seeing if the Crowd Takes Action if the Player is deemed to be Stalling (see page 80). However, once a player has declared they will forego their activation, they cannot later be activated in the same turn.
 
-### DECLARE VS PERFORM
+#### DECLARE VS PERFORM
+
 Some rules will come into play when a player 'declares' a specific action, whilst others will come into play when a player 'performs' a specific action. There is an important distinction between declare and perform:
 
 An action is declared at the start of a player's activation, and so rules that come into play when an action is declared will take effect at this time - so long as the declared action matches the action in the relevant rule.
@@ -221,19 +233,25 @@ An action is performed when it actually happens, such as when you roll dice for 
 This distinction is important for actions that combine multiple actions into one, such as a Blitz Action (a Move Action plus a Block Action) or a Pass Action (a Move Action plus a Pass Action).
 
 For example:
-**During a Blitz Action:**
+
+During a Blitz Action:
+
 - A rule that comes into play when a player declares a Block Action would not come into effect as no Block Action has been declared - the declared Action was a Blitz Action.
 - A rule that comes into play when a player performs a Block Action would come into effect, triggering when the Block Action is performed as part of the Blitz Action.
 
 For example:
-**During a Pass Action:**
+
+During a Pass Action:
+
 - If a rule comes into play when a player declares a Pass Action, it will come into effect as soon as the Pass Action is declared.
 - If a rule comes into play when a player performs a Pass Action, then it would not come into play as soon as the player declared the Pass Action. Instead, it will come into play after the player had made their Move Action, before the Pass Action is performed.
 
-### REPLACING ACTIONS
+#### REPLACING ACTIONS
+
 Some Special Actions allow a player to replace the Block Action made as part of a Blitz Action with the Special Action. When this happens, this will still count as a team's one Blitz Action of the Turn. Additionally, it is worth noting that even though the Special Action is replacing a Block Action, it is not one itself and so any rules, Skills or Traits that affect a Block Action will have no effect.
 
-### ACTIVATED PLAYERS
+#### ACTIVATED PLAYERS
+
 Over the course of a Turn, it can be difficult to track which players have activated and which have not.
 
 To help with this, at the start of each of your Turns, you should make sure that each of your players that can be activated are facing the opposition End Zone. Then, after a player has been activated, turn them to face your End Zone. That way, it is easy for both Coaches to see which players have activated and which have yet to do so.
@@ -243,6 +261,8 @@ To help with this, at the start of each of your Turns, you should make sure that
 When a player performs a Move Action, they can move around the pitch a number of squares equal to their Move Allowance. Players may move in any direction, including diagonally, into any adjacent unoccupied square. An unoccupied square is any square that does not contain another player (even if it contains the ball), whilst an occupied square is any square that does contain another player, regardless of whether they are Standing, Prone or Stunned. Players may not move through an occupied square.
 
 Players are never obliged to use their full Move Allowance, and may move zero squares if they wish. Players can never voluntarily move off the pitch.
+
+![](../media/core_rules/move_actions.jpg)
 
 Here, the Bretonnian Knight Catcher is making a Move Action. As they have an MA of 7, they can move up to 7 squares in any direction. In this example, the Bretonnian Knight Catcher doesn't need to make any rolls to Dodge as they are not moving out of an opposition player's Tackle Zone at any point.
 
@@ -264,9 +284,35 @@ If there are no opposition players Marking the square a player is attempting to 
 
 Some Skills or Traits may apply additional modifiers to a player attempting to Dodge.
 
-For example: This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into isn't Marked by any opposition players, there are no modifiers to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 5, succeeding in the test and successfully Dodges away.
+![](../media/core_rules/dodging_1.jpg)
 
-For example: This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into is Marked by the Tomb Guardian, there is a -1 modifier to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 3, which fails due to the -1 modifier for Dodging into a square Marked by the Tomb Guardian. The Bretonnian Knight Catcher is moved into the square they attempted to Dodge into and then Falls Over.
+***For example:** This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into isn't Marked by any opposition players, there are no modifiers to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 5, succeeding in the test and successfully Dodges away.*
+
+![](../media/core_rules/dodging_2.jpg)
+
+***For example:** This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into is Marked by the Tomb Guardian, there is a -1 modifier to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 3, which fails due to the -1 modifier for Dodging into a square Marked by the Tomb Guardian. The Bretonnian Knight Catcher is moved into the square they attempted to Dodge into and then Falls Over.*
+
+### JUMPING OVER PLAYERS
+
+When performing a Move Action, a player may attempt to Jump over players that are Prone or Stunned and into an unoccupied square beyond. A player that attempts to Jump over another player in this manner may attempt to Jump into an unoccupied square that is adjacent to the Prone or Stunned player they are attempting to Jump over, but is not already adjacent to the jumping player. The diagrams below show a Bretonnian Knight Catcher attempting to Jump over a Skeleton Lineman from two different angles. The orange squares are eligible squares to Jump into, whilst the blue ones are not.
+
+![](../media/core_rules/jumping_over_players_1.jpg)
+
+When a player attempts to Jump over another player in this manner, they must make an Agility Test before moving over the downed player. The jumping player will suffer a negative modifier equal to the number of opposition players Marking the square they are currently in, or the number of opposition players Marking the square they are jumping into, whichever is higher. If the Agility Test is passed, place the jumping player Standing in the target square; they may continue their activation as normal. If the test is failed, place the jumping player in the target square where they will Fall Over and their activation immediately ends. If a natural 1 is rolled for the Agility Test, the player will instead Fall Over in the square they are in and their activation immediately ends.  Some Skills or Traits may apply additional modifiers to a player attempting to Jump over other players.
+
+When a player attempts to Jump over another player in this manner, they must make an Agility Test before moving over the downed player. The jumping player will suffer a negative modifier equal to the number of opposition players Marking the square they are currently in, or the number of opposition players Marking the square they are jumping into, whichever is higher.
+
+![](../media/core_rules/jumping_over_players_2.jpg)
+
+***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman. As there are no opposition players Marking the Bretonnian Knight Catcher, or the square they are attempting to Jump into, there are no modifiers to the Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 4, successfully Jumping over the Skeleton Lineman.*
+
+![](../media/core_rules/jumping_over_players_3.jpg)
+
+***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman, though will need to Rush once in order to do so. The Bretonnian Knight Catcher rolls a 5 for their Rush attempt, which succeeds, and then rolls their Agility Test, scoring a 3 and successfully jumps over the Skeleton Lineman.*
+
+![](../media/core_rules/jumping_over_players_4.jpg)
+
+***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman. There are currently two opposition players Marking the Bretonnian Knight Catcher, and one opposition player Marking the square they are attempting to Jump into. As a result, the Bretonnian Knight Catcher will suffer a -2 modifier to the Agility Test, as there are more opposition players Marking the square they are attempting to Jump out of; they will not suffer any modifiers from the opposition players Marking the square they are jumping into in this instance. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 6, which succeeds even with the -2 modifier!*
 
 ### PICKING UP THE BALL
 
@@ -288,7 +334,9 @@ When a player wishes to Rush, move the player into the square they wish to Rush 
 
 Players may attempt to Rush a maximum of two times during their activation. If, when a player attempts to Rush, there would be multiple rolls for moving into the square, such as having to Dodge, then the roll for attempt to Rush will always come first.
 
-Here, the Bretonnian Squire has already used their Move Allowance of 6, but wishes to try to Rush so they can Mark the Tomb Kings Blitzer. They Rush one square and roll a 5, which is a success. They then decide to try to Rush again to move adjacent to the Tomb Kings Blitzer; however, a 1 is rolled and the Bretonnian Squire Falls Over in the square they were trying to Rush into.
+![](../media/core_rules/rushing.jpg)
+
+*Here, the Bretonnian Squire has already used their Move Allowance of 6, but wishes to try to Rush so they can Mark the Tomb Kings Blitzer. They Rush one square and roll a 5, which is a success. They then decide to try to Rush again to move adjacent to the Tomb Kings Blitzer; however, a 1 is rolled and the Bretonnian Squire Falls Over in the square they were trying to Rush into.*
 
 ## SECURE THE BALL ACTIONS!
 
@@ -300,9 +348,13 @@ A player may only declare a Secure the Ball Action if the ball is loose on the g
 
 When performing a Secure the Ball Action, the player must attempt to pick up the ball. A player attempting to pick up a ball as part of a Secure the Ball Action does not make an Agility Test; instead they roll a D6 and on a 2+ they will automatically pick up the ball and their activation immediately ends. On a 1, the player fails to pick up the ball and a Turnover is caused – the ball will then Bounce from the player's square.
 
-For example: The Bretonnian Knight Catcher wants to declare a Secure the Ball Action. As there are no Standing opposition players within 2 squares of the ball, they can Move into the square containing the ball and attempt to pick it up on a 2+. Their activation then ends.
+![](../media/core_rules/secure_the_ball_1.jpg)
 
-This time, the Bretonnian Knight Catcher wants to declare a Secure the Ball Action; however, there is an opposing Skeleton Lineman within 2 squares of the ball. As a result, the Bretonnian Knight Catcher cannot declare a Secure the Ball Action at this time.
+***For example:** The Bretonnian Knight Catcher wants to declare a Secure the Ball Action. As there are no Standing opposition players within 2 squares of the ball, they can Move into the square containing the ball and attempt to pick it up on a 2+. Their activation then ends.*
+
+![](../media/core_rules/secure_the_ball_2.jpg)
+
+*This time, the Bretonnian Knight Catcher wants to declare a Secure the Ball Action; however, there is an opposing Skeleton Lineman within 2 squares of the ball. As a result, the Bretonnian Knight Catcher cannot declare a Secure the Ball Action at this time.*
 
 ## BLOCK ACTIONS!
 
@@ -326,19 +378,25 @@ The most common way of modifying a player's Strength Characteristic during a Blo
 
 There are two types of Assist: Offensive and Defensive.
 
-### OFFENSIVE ASSISTS
+#### OFFENSIVE ASSISTS
 
 An Offensive Assist is when another player on the active team is able to Assist the player performing the Block Action. For each Offensive Assist the player performing the Block Action receives they gain a +1 modifier to their Strength Characteristic for the duration of the Block Action. For a player to be able to provide an Offensive Assist, they must be Marking the target of the Block Action and must not be Marked by any other opposition player.
 
-For example: This Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Skeleton Lineman can provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other opposition players, granting a +1 modifier to the Tomb Kings player's Strength. The Tomb Guardian cannot provide an Offensive Assist as although they are Marking the Bretonnian Squire, they are also Marked by the Grail Knight, and so cannot Assist.
+![](../media/core_rules/offensive_assists.jpg)
 
-### DEFENSIVE ASSISTS
+***For example:** This Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Skeleton Lineman can provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other opposition players, granting a +1 modifier to the Tomb Kings player's Strength. The Tomb Guardian cannot provide an Offensive Assist as although they are Marking the Bretonnian Squire, they are also Marked by the Grail Knight, and so cannot Assist.*
+
+#### DEFENSIVE ASSISTS
 
 A Defensive Assist is when another player on the inactive team is able to Assist the target of the Block Action. For each Defensive Assist the target of the Block Action receives, they gain a +1 modifier to their Strength Characteristic for the duration of the Block Action. For a player to be able to provide an Defensive Assist, they must be Marking the player performing the Block Action and must not be Marked by any other opposition player.
 
-For example: The Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Grail Knight may not provide a Defensive Assist as, although they are Marking the Tomb Kings Blitzer, they are also being Marked by the Skeleton Lineman. However, the Bretonnian Knight Thrower may provide a Defensive Assist as they are also Marking the Tomb Kings Blitzer and are not Marked by any other opposition players, granting a +1 modifier to the Bretonnian Squire's ST.
+![](../media/core_rules/defensive_assists_1.jpg)
 
-For example: Here, the Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. Neither the Skeleton Lineman or the Grail Knight may provide Assists as, although they are each Marking the relevant players, they are also both Marking each other. The Bretonnian Knight Thrower may also not provide a Defensive Assist as they are currently being Marked by the Tomb Guardian. However, the Tomb Kings Thrower may provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other player, granting a +1 modifier to the Tomb Kings Blitzer and giving them the advantage in the Block Action.
+***For example:** The Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Grail Knight may not provide a Defensive Assist as, although they are Marking the Tomb Kings Blitzer, they are also being Marked by the Skeleton Lineman. However, the Bretonnian Knight Thrower may provide a Defensive Assist as they are also Marking the Tomb Kings Blitzer and are not Marked by any other opposition players, granting a +1 modifier to the Bretonnian Squire's ST.*
+
+![](../media/core_rules/defensive_assists_2.jpg)
+
+***For example:** Here, the Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. Neither the Skeleton Lineman or the Grail Knight may provide Assists as, although they are each Marking the relevant players, they are also both Marking each other. The Bretonnian Knight Thrower may also not provide a Defensive Assist as they are currently being Marked by the Tomb Guardian. However, the Tomb Kings Thrower may provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other player, granting a +1 modifier to the Tomb Kings Blitzer and giving them the advantage in the Block Action.*
 
 ### BLOCK DICE
 
@@ -346,19 +404,19 @@ When a player performs a Block Action, they will use a number of special Block D
 
 Block Dice are six-sided dice that feature five different icons instead of the usual numbers 1-6. Each of these icons represents a different outcome from the Block Action, from the player successfully flooring their opponent, to the target managing to hit back in retaliation! These icons and what they do are described below:
 
-### PLAYER DOWN
+#### PLAYER DOWN
 The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.
 
-### BOTH DOWN
+#### BOTH DOWN
 Both players find themselves hitting the deck after an almighty collision. Both the player that performed the Block Action and the target player are Knocked Down by each other in the squares they are in as if they had both performed a Block Action.
 
-### PUSH BACK
+#### PUSH BACK
 The player gives their opponent a mighty shove, forcing them backwards. The target player is Pushed Back one square by the player performing the Block Action as described as follows. The player that performed the Block Action may choose to Follow-up, in which case they move into the square vacated by the Pushed player.
 
-### STUMBLE
+#### STUMBLE
 The target does their best to avoid being clobbered by their attacker. If the target player has the Dodge Skill, then this result becomes Push Back as described above. Otherwise, this result becomes POW as described below.
 
-### POW
+#### POW
 The target is knocked flying and ends up hitting the dirt with great force. Apply the Push Back result to the player as described above. Additionally, after the Push Back result has been applied, the target player is immediately Knocked Down by the player performing the Block Action in the square they are now in.
 
 ### SELECT AND APPLY RESULT
@@ -373,11 +431,11 @@ The square the Pushed Back player is moved into is chosen by the Coach of the pl
 
 Sometimes there will be no unoccupied squares to move the Pushed Back player into, either because there are other players occupying those squares, or because a player is at the edge of the pitch. These situations will result in either a Chain Push or a player being Pushed into the Crowd.
 
-### CHAIN PUSHES
+#### CHAIN PUSHES
 
 If there is no unoccupied square for the Pushed Back player to be moved into then they will be Pushed Back into a square containing another player, which will cause a Chain Push. The player that was originally Pushed Back will be Pushed as normal, and the player occupying the square the originally Pushed player has been Pushed Back into will be themselves Pushed Back as if they had been Pushed Back by the player who is now occupying their square. When a Chain Push occurs, the Coach of the player performing the original Block Action will choose the direction of all Pushes within the Chain Push. A player can still be Chain Pushed even if they are Prone or Stunned. Below are two diagrams showing examples of a Chain Push:
 
-### PUSHED INTO THE CROWD
+#### PUSHED INTO THE CROWD
 
 If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on page 68.
 
@@ -403,7 +461,7 @@ If a player has used all of their Move Allowance before making the Block Action 
 
 Players are never required to perform the Block Action against their intended target if they decide not to, though they will still count as having used their team's one Blitz Action for the Turn.
 
-For example: The Skeleton Lineman has declared a Blitz Action against the Bretonnian Squire and uses all of their Move Allowance of 5 to end next to their intended target. As a result, the Skeleton Lineman must Rush in order to perform the Block Action part of the Blitz Action. The Skeleton Lineman rolls a 4 and succeeds, so the Block Action can go ahead.
+***For example:** The Skeleton Lineman has declared a Blitz Action against the Bretonnian Squire and uses all of their Move Allowance of 5 to end next to their intended target. As a result, the Skeleton Lineman must Rush in order to perform the Block Action part of the Blitz Action. The Skeleton Lineman rolls a 4 and succeeds, so the Block Action can go ahead.*
 
 ## ARMOUR AND INJURIES!
 
@@ -415,11 +473,11 @@ Many Blood Bowl players sport an impressive number of scrapes and scars, each on
 
 Whenever an Armour Roll is made for a player, they risk the chance of an Injury. As described on page 37, if a player's armour is not broken then they will be fine and suffer no further effect. However, if the player's armour is broken then an Injury Roll must be made for them.
 
-### INJURY ROLLS
+#### INJURY ROLLS
 
 Whenever an Injury Roll must be made for a player, the Coach of the opposing team rolls 2D6 and consults the Injury Table below:
 
-### INJURY TABLE
+##### INJURY TABLE
 
 | 2D6 | RESULT |
 |-----|--------|
@@ -427,11 +485,11 @@ Whenever an Injury Roll must be made for a player, the Coach of the opposing tea
 | 8-9 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
 | 10-12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
-### STUNTY PLAYERS
+#### STUNTY PLAYERS
 
 If an Injury Roll is made for a player with the Stunty Trait, then use the Stunty Injury Table below instead of the standard one. After all, being small and fragile means you are far more likely to get broken!
 
-### STUNTY INJURY TABLE
+##### STUNTY INJURY TABLE
 
 | 2D6 | RESULT |
 |-----|--------|
@@ -440,13 +498,13 @@ If an Injury Roll is made for a player with the Stunty Trait, then use the Stunt
 | 9 | **BADLY HURT:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the Casualty Table. |
 | 10-12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
-### CASUALTY ROLLS
+#### CASUALTY ROLLS
 
 Whenever a player suffers a Casualty, the opposing Coach makes a Casualty Roll against them by rolling a D16 and consulting the Casualty Table below. In all instances the player will miss the rest of the current game, but may also suffer some other long term effects.
 
 During Exhibition Play and Matched Play, this will have little to no effect on the game and can often be skipped entirely to speed things up. However, if your opponent has an Apothecary or a Special Rule associated with a specific result on the Casualty Table (usually the Dead result) then you should make sure to roll just in case.
 
-### CASUALTY TABLE
+##### CASUALTY TABLE
 
 | D16 | RESULT |
 |-----|--------|
@@ -456,19 +514,17 @@ During Exhibition Play and Matched Play, this will have little to no effect on t
 | 13-14 | **LASTING INJURY:** The player suffers a Characteristic reduction and must miss their next game. |
 | 15-16 | **DEAD:** The player is dead! |
 
-### MISS NEXT GAME
+##### MISS NEXT GAME
 
 In League Play, when a player is forced to miss their team's next game they will not be eligible for the team's next match. Make a note of this on your team roster.
 
-### NIGGLING INJURY
+##### NIGGLING INJURY
 
 Make a note on your team roster that the player has suffered a Niggling Injury. When making a Casualty Roll for a player with a Niggling Injury, apply a +1 modifier to the roll for each Niggling Injury the player has.
 
-### CHARACTERISTIC REDUCTION
+##### CHARACTERISTIC REDUCTION
 
 The player has one of their Characteristics reduced by 1 so that it is worse. To determine which Characteristic has been reduced, roll a D6 and consult the Lasting Injury Table below:
-
-### LASTING INJURY TABLE
 
 | D6 | LASTING INJURY | CHARACTERISTIC REDUCTION |
 |----|----------------|---------------------------|
@@ -484,7 +540,7 @@ Characteristics that are represented as a target number are affected slightly di
 
 If a Characteristic reduction is rolled that cannot be applied, such as if the Characteristic is already as bad as it can be, then do not apply the Characteristic reduction and treat the result as Miss Next Game instead - Nuffle clearly thinks that the player has suffered enough already!
 
-### DEAD
+##### DEAD
 
 The player is dead. Remove them from your team roster.
 
@@ -522,23 +578,23 @@ As mentioned earlier, a single player on the active team may declare a Foul Acti
 
 To perform the Foul Action, the player makes an Armour Roll (see page 37) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
 
-For example: The Tomb Kings Blitzer has declared a Foul Action and has finished their Move Action adjacent to the Bretonnian Squire. They make an Armour Roll for the Bretonnian Squire, applying a +1 modifier for the Skeleton Lineman who is providing an Offensive Assist. As the Tomb Guardian is being Marked by the Grail Knight, they cannot provide an Offensive Assist.
+***For example:** The Tomb Kings Blitzer has declared a Foul Action and has finished their Move Action adjacent to the Bretonnian Squire. They make an Armour Roll for the Bretonnian Squire, applying a +1 modifier for the Skeleton Lineman who is providing an Offensive Assist. As the Tomb Guardian is being Marked by the Grail Knight, they cannot provide an Offensive Assist.*
 
 ### BEING SENT-OFF
 
 Regardless of the outcome, if during a Foul Action a natural double is rolled for either the Armour Roll or Injury Roll, then the player performing the Foul Action is Sent-off after the Foul Action has been completed. The Sent-off player is immediately removed from the pitch and will play no further part in the game. When a player on the active team is Sent-off, a Turnover is caused.
 
-### ARGUE THE CALL
+#### ARGUE THE CALL
 
 When a player is Sent-off for any reason, their Coach may attempt to Argue the Call – roll a D6 and refer to the table below:
 
 | D6 | RESULT |
 |----|--------|
-| 1 | “YOU'RE OUTTA HERE!”: The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
-| 2–5 | “I DON'T CARE!”: The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
-| 6 | “WELL, WHEN YOU PUT IT LIKE THAT...”: You make some good points and the referee is swayed. The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
+| 1 | **"YOU'RE OUTTA HERE!":** The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
+| 2–5 | **"I DON'T CARE!":** The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
+| 6 | **"WELL, WHEN YOU PUT IT LIKE THAT...":** You make some good points and the referee is swayed. The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
 
-Continuing with our example, the Tomb Kings Blitzer makes an Armour Roll for the Bretonnian Squire they are fouling, rolling a 6 and a 3, which breaks their armour. They then make an Injury Roll and roll a double 2, causing the Tomb Kings Blitzer to be Sent-off and the Bretonnian Squire to be Stunned. The Tomb Kings Coach attempts to Argue the Call and rolls a 1, meaning that the Tomb Kings Blitzer is still Sent-off and the Coach cannot Argue the Call for the remainder of the game!
+*Continuing with our example, the Tomb Kings Blitzer makes an Armour Roll for the Bretonnian Squire they are fouling, rolling a 6 and a 3, which breaks their armour. They then make an Injury Roll and roll a double 2, causing the Tomb Kings Blitzer to be Sent-off and the Bretonnian Squire to be Stunned. The Tomb Kings Coach attempts to Argue the Call and rolls a 1, meaning that the Tomb Kings Blitzer is still Sent-off and the Coach cannot Argue the Call for the remainder of the game!*
 
 ## PASS ACTIONS!
 
@@ -563,15 +619,22 @@ The target square will fall into one of four sections on the Range Ruler (see pa
 - III: Long Pass
 - IIII: Long Bomb
 
-### DECLARE TARGET SQUARE
+#### DECLARE TARGET SQUARE
 
 The Coach declares which square is the target of the Pass Action. The declared square must be wholly underneath the maximum range of the Range Ruler. If a square is only partially underneath the Range Ruler, then it cannot be the target square. Though it is likely that the target square will contain a team-mate ready to attempt to catch the ball, this doesn't always have to be the case.
 
-### MEASURE RANGE
+#### MEASURE RANGE
 
 After the target square has been declared, you will need to measure the range to it and determine what kind of pass will be required - either a Quick Pass, Short Pass, Long Pass or Long Bomb.
 
 To measure the range, place the circle at the end of the Range Ruler over the centre of the square occupied by the player performing the Pass Action. The other end of the Range Ruler is positioned so that it covers the target square with the line running through the centre of the Range Ruler passing directly through the centre of the target square.
+
+The target square will fall into one of four sections on the Range Ruler (see page 26) as explained below:
+
+- **I:** Quick Pass  
+- **II:** Short Pass  
+- **III:** Long Pass  
+- **IIII:** Long Bomb
 
 *This Bretonnian Thrower wishes to pass the ball to the Bretonnian Knight Catcher using a Pass Action. Using the Range Ruler we can determine that it would be a Short Pass.*
 
@@ -579,7 +642,7 @@ If the target square sits partially within two sections (i.e., the line between 
 
 If it is not clear exactly which type of pass is required, then you can use the Passing Range Chart opposite to make sure you get it right.
 
-### TEST FOR ACCURACY
+#### TEST FOR ACCURACY
 
 The player performing the Pass Action must now make a Passing Ability Test to see if the Pass Action is successful. To do this, they roll a D6 and apply the following modifiers:
 
@@ -589,16 +652,16 @@ The player performing the Pass Action must now make a Passing Ability Test to se
 - If the player is attempting a Long Bomb, apply a -3 modifier.
 - Apply a -1 modifier for each opposition player Marking the player performing the Pass Action. Depending on the result, the pass will either be an Accurate Pass, an Inaccurate Pass or a Fumbled Pass.
 
-### ACCURATE PASS
+##### ACCURATE PASS
 If the Passing Ability Test is successful, or the roll is a natural 6, then the pass is an Accurate Pass. The ball will land in the target square.
 
-### INACCURATE PASS
+##### INACCURATE PASS
 If the Passing Ability Test is failed, then the pass is an Inaccurate Pass. The ball will Scatter (3) from the target square before landing. Should the ball leave the pitch as a result of this Scatter, a Throw-in will be required.
 
-### FUMBLED PASS
+##### FUMBLED PASS
 If the Passing Ability Test is a 1 after modifiers, or the roll is a natural 1, then it will be a Fumbled Pass. The ball is dropped and will Bounce from the throwing player's square and a Turnover will be caused.
 
-### INTERCEPTIONS
+#### INTERCEPTIONS
 
 After determining which square the ball is destined to land in, there may be a chance that an opposition player will be able to Intercept the pass.
 
@@ -612,7 +675,7 @@ When a player attempts to Intercept a pass, they make an Agility Test with the f
 
 If the Agility Test is failed, then the Pass Action continues as normal. However, if the Agility Test is successful, or a natural 6 is rolled, then the player successfully Intercepts the ball. The player immediately gains possession of the ball and a Turnover is caused.
 
-### RESOLVE PASS ACTION
+#### RESOLVE PASS ACTION
 
 If the Pass Action did not result in a Fumbled Pass and was not Intercepted, then it needs to be resolved. The ball will land in the square determined by the result of the Pass Action as described previously. If the ball lands in an occupied square, then the player must attempt to Catch the ball as described on page 72. If the ball lands in an unoccupied square, then it will Bounce from that square.
 
@@ -632,11 +695,9 @@ If the Agility Test is passed, or a natural 6 is rolled, the player successfully
 
 If a Prone or Stunned player, or a player that is Distracted, is required to Catch a ball, they will automatically fail the Agility Test and the ball will Bounce.
 
-*For example:*
-The Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Knight Catcher. After using the Range Ruler, it is determined that this is a Short Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -1 modifier for making a Short Pass, and rolls a 5 - an Accurate Pass! However, the Tomb Kings Blitzer is underneath the Range Ruler for the Pass Action and so now gets to attempt to Intercept. Fortunately, the Tomb Kings Blitzer rolls a 2 for their Agility Test and fails to Intercept. The Bretonnian Knight Catcher must now attempt to Catch the ball by making an Agility Test, for which they roll a 4 and successfully manages to Catch the ball.
+***For example:** The Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Knight Catcher. After using the Range Ruler, it is determined that this is a Short Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -1 modifier for making a Short Pass, and rolls a 5 - an Accurate Pass! However, the Tomb Kings Blitzer is underneath the Range Ruler for the Pass Action and so now gets to attempt to Intercept. Fortunately, the Tomb Kings Blitzer rolls a 2 for their Agility Test and fails to Intercept. The Bretonnian Knight Catcher must now attempt to Catch the ball by making an Agility Test, for which they roll a 4 and successfully manages to Catch the ball.*
 
-*For example:*
-This Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Squire. After using the Range Ruler, it is determined that this is a Long Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -2 modifier for making a Long Pass, and rolls a 6 - another Accurate Pass! As the Tomb Kings Blitzer is not underneath the Range Ruler for the Pass Action, they do not get to attempt to Intercept. The Bretonnian Squire must now attempt to Catch the ball by making an Agility Test; however, they roll a 1 and fail to Catch the ball, causing it to Bounce from their square and causing a Turnover.
+***For example:** This Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Squire. After using the Range Ruler, it is determined that this is a Long Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -2 modifier for making a Long Pass, and rolls a 6 - another Accurate Pass! As the Tomb Kings Blitzer is not underneath the Range Ruler for the Pass Action, they do not get to attempt to Intercept. The Bretonnian Squire must now attempt to Catch the ball by making an Agility Test; however, they roll a 1 and fail to Catch the ball, causing it to Bounce from their square and causing a Turnover.*
 
 ### THROW-INS
 
@@ -650,7 +711,7 @@ If a Throw-in is required as the result of a Pass Action, then if after the Thro
 
 Should the ball leave the pitch again following a Throw-in, simply repeat the process again.
 
-### CORNER THROW-INS
+#### CORNER THROW-INS
 
 Should the ball leave the pitch from a corner square, position the Random Direction Template as shown in the diagram below and roll a D3 to determine the direction of the Throw-in.
 
@@ -685,11 +746,11 @@ When a player performs a Throw Team-mate Action they may pick up an adjacent tea
 3. Test for Accuracy
 4. Landing
 
-### DECLARE TARGET SQUARE
+#### DECLARE TARGET SQUARE
 
 The Coach declares which square is the target of the Throw Team-mate Action. The declared square must be wholly underneath the first two sections of the Range Ruler. If a square is only partially underneath the first two sections of the Range Ruler, then it cannot be chosen to be the target square.
 
-### MEASURE RANGE
+#### MEASURE RANGE
 
 After the target square has been declared, you will need to measure the range to it and determine what kind of throw will be required - either a Quick Throw or a Short Throw.
 
@@ -706,7 +767,7 @@ If the target square sits partially within two sections (i.e., the line between 
 
 If it is not clear exactly which type of throw is required, then you can use the Throw Team-mate Range Chart opposite to make sure you get it right.
 
-### TEST FOR ACCURACY
+#### TEST FOR ACCURACY
 
 The player performing the Throw Team-mate Action must now make a Passing Ability Test to see if the Throw Team-mate Action is successful. To do this, they roll a D6 and apply the following modifiers:
 
@@ -718,14 +779,39 @@ Depending on the result, the throw will either be a Superb Throw, a Subpar Throw
 
 Should a thrown player leave the pitch as a result of a throw, they will risk Injury by the Crowd and a Turnover will be caused. If that player was also holding the ball, then a Throw-in will be required.
 
-### SUPERB THROW
+#### SUPERB THROW
 If the Passing Ability Test is successful, or the roll is a natural 6, then the throw is a Superb Throw. The thrown player will Scatter (3) from the target square before landing.
 
-### SUBPAR THROW
+#### SUBPAR THROW
 If the Passing Ability Test is failed, then the throw is a Subpar Throw. The thrown player will Scatter (3) from the target square before landing, though they will find it harder to do so.
 
-### FUMBLED THROW
+#### FUMBLED THROW
 If the Passing Ability Test is a 1 after modifiers, or the roll is a natural 1, then it will be a Fumbled Throw. The thrown player is dropped and will Bounce from the throwing player's square and must attempt to land.
+
+### LANDING  
+
+If, after the final square the thrown player will land in has been determined, they will land in an unoccupied square then they must attempt to land on their feet. To attempt to land, the thrown player must make an Agility Test and apply the following modifiers:
+
+- If the throw was a Subpar Throw, apply a -1 modifier.  
+- If the throw was a Fumbled Throw, apply a -1 modifier.  
+- Apply a -1 modifier for each opposition player Marking the square the thrown player will land in.
+
+If the Agility Test is passed, or a natural 6 is rolled, then the thrown player successfully lands on their feet.  
+If they have not yet been activated that Turn then they can still be activated.
+
+If the Agility Test is failed, or a natural 1 is rolled, then the thrown player will Fall Over; however, this will only cause a Turnover if the thrown player was holding the ball, otherwise no Turnover is caused.
+
+Players that were Prone, Stunned or Distracted when they were thrown will automatically fail the Agility Test to land.
+
+***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 – a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
+
+#### LANDING IN AN OCCUPIED SQUARE  
+
+If, after the final square the thrown player will land in has been determined they will land in an occupied square they will crash land. When a thrown player crash lands, the player in the occupied square is automatically Knocked Down even if they are already Prone or Stunned. The thrown player will then Bounce from the occupied square and will Fall Over; however, this will only cause a Turnover if the thrown player was holding the ball, otherwise no Turnover is caused.
+
+If after the Bounce the thrown player lands in another occupied square, repeat the above process.
+
+***For example:** After Scattering as part of a Throw Team-mate Action, this Gnome has landed in the same square as the Tomb Kings Lineman. The Tomb Kings Lineman is immediately Knocked Down and the Gnome will Bounce from their square, rolling a 6. The Gnome is then placed in the corresponding square and then Falls Over. If this square was also occupied, this process would then need to be repeated.*
 
 ## TOUCHDOWN!
 
@@ -743,13 +829,13 @@ As soon as a Touchdown is scored, play stops as a Turnover occurs - however, thi
 
 Remember to record your score by moving your Score Marker along the Score Tracker of your team's Dugout - it's important to remember how many Touchdowns you have scored during a game!
 
-### SCORING DURING YOUR OPPONENT'S TURN
+#### SCORING DURING YOUR OPPONENT'S TURN
 
 In some cases, you may find that a player is able to score a Touchdown during their opponent's Turn. For example, a player holding the ball may be Pushed Back into the opposition End Zone and not be Knocked Down in the process, resulting in them Standing in the End Zone and scoring a Touchdown during their opponent's Turn.
 
 Should this unusual situation happen and one of your players scores a Touchdown during an opposition Turn, your opponent's Turn immediately ends. However, the team that scored will skip their next Turn entirely - they spend the entire Turn celebrating the fact that they scored during their opponent's Turn! As a result, play will resume with the team that conceded as would usually happen during the End of Drive Sequence.
 
-### STALLING
+#### STALLING
 
 Sometimes, a Coach may wish to run the clock down and score later on in the half than they could, effectively opting not to score when they easily could. Other times, a team may get so caught up in bashing the opposition into the ground that they completely forget to score! This is referred to as Stalling and is a valid tactic used by many teams; however, it's not one that is overly popular with the fans who have come to watch the game, and there is always a risk that the fans will get involved should a team try to Stall for too long.
 
@@ -778,20 +864,20 @@ The End of Drive Sequence has four stages that must be followed in order. If the
 3. Recover Knocked-out Players
 4. The Drive Ends
 
-### DEAL WITH SECRET WEAPONS
+#### DEAL WITH SECRET WEAPONS
 
 If a Coach fielded any players with the Secret Weapon Trait during the current Drive, then they will immediately be Sent-off as if they had committed a Foul Action, even if they were not on the pitch at the end of the Drive. Players Sent-off in this way may still Argue the Call as usual for being Sent-off as part of a Foul Action.
 
-### END OF DRIVE EFFECTS
+#### END OF DRIVE EFFECTS
 
 Any special rules or effects that trigger at the end of a Drive (such as any weather effects) will happen now.
 If there are multiple effects that happen during this stage, then resolve any effects as a result of the Weather Table first before resolving any others. If there are still multiple effects that happen during this stage, randomly determine which one happens first.
 
-### RECOVER KNOCKED-OUT PLAYERS
+#### RECOVER KNOCKED-OUT PLAYERS
 
 If either Coach has any Knocked-out players in the Knocked-out Box of their Dugout, they may attempt to recover them for the next Drive. Roll a D6 for each Knocked-out player. On a 4+ the player recovers and is moved to the Reserves Box of their team's Dugout. On a 1-3, the player cannot be roused and is still Knocked-out for the time being.
 
-### THE DRIVE ENDS
+#### THE DRIVE ENDS
 
 The Drive comes to an end. Any effects that last until the end of a Drive will expire now. If there is going to be another Drive, Coaches will progress to Restarting the Game (below). If not, then Coaches will progress to Ending the Game (opposite).
 
@@ -805,7 +891,7 @@ If the Drive ended because of half-time, then the next half will begin with the 
 
 If there are no more Turns to be played, then the final whistle is blown and the game comes to an end. During League Play, this is where teams will move on to the Post-game Sequence where players will advance, winnings will be earnt, and so on. We will cover all that later on page 95.
 
-### WINNING THE GAME
+#### WINNING THE GAME
 
 When the game ends, the team that has scored the most Touchdowns is the winner! If both teams have scored the same number of Touchdowns, then the game is a draw.
 
@@ -819,7 +905,7 @@ If Extra Time is required, then an extra eight-Turn period will be played - Coac
 
 Extra Time is played exactly like a normal half. If at the end of Extra Time one team has scored more Touchdowns than their opponent, then they are the winner. Otherwise, if the result is still a draw, Penalties will be required.
 
-### PENALTIES
+#### PENALTIES
 
 If there is still no clear winner at the end of Extra Time, then a Penalty Shoot-out will be needed to determine a winner, representing the teams taking part in a field goal shoot-out - which, interestingly, is the only time that field goals are used in modern Blood Bowl.
 

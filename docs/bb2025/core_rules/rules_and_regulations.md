@@ -120,15 +120,19 @@ There are a number of terms that denote an amount of time over the course of a g
 ### DEVIATE AND SCATTER
 Sometimes the rules will call for something to 'Deviate' or 'Scatter' due to an effect. This will usually be the ball, but not always - Blood Bowl is a strange game after all!
 
-### DEVIATE
+#### DEVIATE
 When something Deviates, roll a D6 and a D8. The object will move a number of squares equal to the roll on the D6 in the direction determined by the D8 and the Random Direction Template. When something Deviates, the rules will explain what happens after the object is moved to its new square.
 
 *Here the ball is Deviating and a D6 and a D8 are rolled. The ball will then move 3 squares (as determined by the D6) in direction 7 (as determined by the D8).*
 
-### SCATTER
+![](../media/core_rules/deviate.jpg)
+
+#### SCATTER
 When the rules call for something to Scatter, it will also have a number in brackets afterwards, e.g., Scatter (3). When something Scatters, roll a D8 a number of times equal to the number in brackets, one at a time. After each roll, move the object to the corresponding square as determined by the Random Direction Template before making the next roll (if any). After the object has been Scattered the correct number of times, it will be placed in the final square and any effects that occur will take place (such as a player attempting to Catch a Scattered ball, for example).
 
 *Here, the ball is required to Scatter (3) from its current location. The first D8 roll is a 3, the second D8 rolls an 8, and the third D8 rolls a 5 meaning the ball will Scatter as shown below before ending in the final square.*
+
+![](../media/core_rules/scatter.jpg)
 
 ### BOUNCING BALLS
 Blood Bowl balls are odd-shaped items at the best of times and prone to bouncing in random directions when they hit the pitch. When the ball hits the pitch, it will **Bounce**. When the rules tell you to Bounce the ball, it will Scatter (1) from its current location and come to a rest in the new square.
@@ -176,50 +180,42 @@ Blood Bowl players are of noble stock; stoically playing Nuffle's great game wit
 
 Each player has a series of Characteristics, Skills and Traits that collectively make up a player's profile. This collection of letters, numbers and words may seem confusing at first, but we are going to take you through what it all means - that way you'll be able to understand them all in no time!
 
-### Grail Knight Blitzer
+![](../media/core_rules/player_profile.jpg)
 
-**MA 7**
-**ST 3**
-**AG 3+**
-**AV 4+**
+**1. PLAYER'S NAME**
 
-**SKILLS & TRAITS:**
-Block, Dauntless, Steady Footing
-
-**PLAYER DEVELOPMENT**
-Primary - General, Strength
-Secondary - Agility
-
-**COST:** 95,000 GP
-Blitzer, Human (0-2)
-
----
-
-### 1. PLAYER'S NAME
 Simply put, this is the name of the player type and is used to determine which profile is being talked about.
 
-### 2. KEYWORDS
+**2. KEYWORDS**
+
 These are the keywords the player has. Here we can see that this profile has the Human and Blitzer keywords.
 
-### 3. QTY - QUANTITY
+**3. QTY - QUANTITY**
+
 This denotes how many of this player type can be taken in a team. For example, if a player type has a Quantity of 0-2, then no more than two of that player type can be taken in a team.
 
-### 4. COST
+**4. COST**
+
 This is how many gold pieces it will cost to hire this player to your Team Roster. This is also known as the player's Hiring Fee.
 
-### 5. MA - MOVE ALLOWANCE
+**5. MA - MOVE ALLOWANCE**
+
 This is the number of squares the player can move during a Move Action. Move Actions are covered fully on page 54.
 
-### 6. ST - STRENGTH
+**6. ST - STRENGTH**
+
 This is how physically strong the player is. The higher the value, the stronger the player is. Strength is used during a Block Action, which is detailed on page 60.
 
-### 7. AG - AGILITY
+**7. AG - AGILITY**
+
 This is how agile the player is, and is represented by a target number (e.g., 3+). If the player is ever required to make an Agility Test, then they will need to roll a D6 and compare the value to their Agility Characteristic to see if the test is passed or failed.
 
-8. PA - PASSING ABILITY
+**8. PA - PASSING ABILITY**
+
 This is how good the player is at throwing the ball and is represented by a target number (e.g., 3+). If the player is ever required to make a Passing Ability Test, then they will need to roll a D6 and compare the value to their Passing Ability Characteristic to see if the test is passed.
 
-9. AV - ARMOUR VALUE
+**9. AV - ARMOUR VALUE**
+
 Armour Value represents how tough the player is, and is represented by a target number (e.g., 9+). This may be down to the protective gear the player wears, or their natural resilience to taking a hit - or a little bit of both!
 
 Sometimes the rules will call for an Armour Roll to be made against a player. In these instances, the opposing Coach will roll 2D6 and compare the value to the player's Armour Value. If the Armour Roll is failed, then nothing further happens: the player's armour has saved them this time. If the Armour Roll is successful, then the player's armour is 'broken' and they will risk injury. Injuries are explained on page 66.
@@ -231,14 +227,16 @@ Characteristics have a maximum and minimum value, and they can never be improved
 | MAXIMUM        | 9  | 8  | 1+ | 1+ | 11+ |
 | MINIMUM        | 1  | 1  | 6+ | 6+ | 3+ |
 
-10. SKILLS & TRAITS
+**10. SKILLS & TRAITS**
+
 Skills and Traits represent the various abilities a player has at their disposal during the course of a game.
 
 Skills are abilities taught to the player through hard work and practice, such as knowing when to make that pinpoint pass, or dodge an incoming tackle. Players may gain new Skills throughout the course of a league.
 
 Traits are those innate things that simply cannot be taught and are inherent to the individual that bears them. Traits can be either positive, or in some instances negative, though they cannot usually be gained by other players over the course of a league.
 
-11. PRIMARY & SECONDARY
+**11. PRIMARY & SECONDARY**
+
 Over the course of a league, players may have the opportunity to gain new Skills to add to their repertoire. These sections show which type of Skills suit the player's strengths and are therefore easier to learn (Primary) and which will take that added time and effort to be taught (Secondary).
 
 Don't worry about these for now though as gaining new Skills will be covered later on page 97.
@@ -252,18 +250,22 @@ There are four main statuses that a player may find themselves in: Standing, Dis
 ### STANDING PLAYERS
 Players that are up on their feet are referred to as Standing. A player that is Standing will have a greater freedom of movement than players on the ground, and will be able to hinder opposition players during their opponent's turn.
 
-### TACKLE ZONES
+#### TACKLE ZONES
 When a player is Standing, they will have an amount of control over the area directly around them called their Tackle Zone. A player's Tackle Zone is the eight squares directly surrounding them as shown in the diagram below.
 
 A Standing player that loses their Tackle Zone for whatever reason is said to be Distracted (see page 39).
 
-### MARKED AND BEING MARKED
+![](../media/core_rules/tackle_zones.jpg)
+
+#### MARKED AND BEING MARKED
 Players will use their Tackle Zone to interfere with opposition players. If a player has any opposition players in their Tackle Zone, regardless of the status of the opposition player, then they are said to be Marking that player. Conversely, if a player is within the Tackle Zone of an opposing player, then they are said to be Marked by that player. This will usually mean that a player that is Marking an opposing Standing player will also be Marked by that player as well.
 
 Standing players will automatically be Marking all opposition players within their Tackle Zone, and can be Marked by multiple opposition players at once. Players will never be Marking team-mates.
 
-### OPEN PLAYERS
+#### OPEN PLAYERS
 A Standing player that is not being Marked by an opposition is referred to as an Open player. Open players are able to perform Actions easier without direct interference from opposition players.
+
+![](../media/core_rules/open_players.jpg)
 
 ### DISTRACTED
 During the course of a game, there may be situations where a Standing player becomes Distracted. This could be due to the Skill or Trait of the player or an opposition player, a special rule, or all manner of other in-game effects. A player that is Distracted does not have a Tackle Zone and should have a Distracted token placed next to it as a reminder for both Coaches.
@@ -275,10 +277,10 @@ If a player becomes Distracted during their activation, then their activation im
 ### PRONE AND STUNNED PLAYERS
 Players that are not Standing will either be Prone or Stunned. Usually, this will occur as the result of the player tripping over when attempting to move, or if they are bashed to the ground by a particularly vicious opposition tackle. Additionally, any player that is Prone or Stunned will automatically lose its Tackle Zone whilst it remains Prone or Stunned.
 
-### PRONE
+#### PRONE
 When a player is Prone, place a Prone Token beside them to show they are Prone. Whilst a player is Prone, they can do nothing until they stand up as described on page 54.
 
-### STUNNED
+#### STUNNED
 When a player is Stunned, place a Stunned Token beside them to show they are Stunned. A Stunned player cannot be activated during their team's turn. At the end of each team's turn, any players on their team that started that turn Stunned will automatically roll over and become Prone instead - flip their Stunned Token over to become a Prone Token. This means that any player that became Stunned during the course of their team's turn will not roll over as they did not start their team's turn as Stunned - they must wait until the end of their team's next turn to roll over.
 
 ### DESIGNER'S NOTE: LYING DOWN MODELS

@@ -12,6 +12,8 @@ Regardless of the stadia in question, every pitch (from temporary playing fields
 
 A Blood Bowl Pitch is split into a number of sections, each of which will need explaining before you get started, as some of them will dictate where you can set up your players later on. Each of these are numbered on the diagram below to show you exactly where they are.
 
+![](../media/core_rules/pitch.jpg)
+
 1. **END ZONES:** The areas at the short edges of the pitch where players are trying to get the ball to score a Touchdown.
 2. **WIDE ZONES:** These are the areas on either side of the pitch that run the length of the pitch from End Zone to End Zone. They are four squares wide.
 3. **SIDELINES:** These run the length of the pitch from End Zone to End Zone and denote the edge of the pitch.
@@ -22,6 +24,8 @@ A Blood Bowl Pitch is split into a number of sections, each of which will need e
 ### DUGOUTS
 
 At the side of the pitch, each team will have their own Dugout. This is where they will place any players that are not currently playing the game (out of choice or not!) as well as track important in-game information such as what Turn it is, how many Team Re-rolls the team has left and, perhaps most importantly, how many Touchdowns the team has scored. The Dugout has a number of different sections, each of which are explained here:
+
+![](../media/core_rules/dugouts.jpg)
 
 1. **RESERVES BOX:** This is where any fit and healthy players are placed, ready for the next Drive.
 2. **KNOCKED-OUT BOX:** This is where any Knocked-out players are placed in order to try to recover later in the game.
@@ -66,15 +70,21 @@ Blood Bowl also uses three unique templates that help with different aspects of 
 
 This template is used whenever something is required to Scatter or Deviate, as described on page 34. It is placed next to the pitch so that both Coaches can easily see it and so that it corresponds to the grid on the pitch. Whenever something requires the Random Direction Template, such as when Scattering or Deviating, roll a D8 and move the object to the square corresponding to the roll as shown in the diagram below:
 
+![](../media/core_rules/random_direction_template.jpg)
+
 ### THROW-IN TEMPLATE
 
 Sometimes you will be asked to determine the direction of something using the Throw-in Template. Usually this will be a Throw-in, but there are some other obscure instances where you may also use the Throw-in Template as well (such as when using the Ball & Chain Trait).
 
 When using the Throw-in Template, place the Blood Bowl logo over the square the object is moving from and position the template so it is facing the desired direction as determined by the rule in question. Then roll a D6 to see which way the object will move.
 
+![](../media/core_rules/throw_in_template.jpg)
+
 ### RANGE RULER
 
 The Range Ruler is used primarily during a Pass Action or a Throw Team-mate Action to determine the range of a Pass, or to see if any opposition players are able to attempt to Intercept the ball. The number of stitches on the ball in each section of the Range Ruler determines the type of Pass a player will attempt to throw the ball that far, as described on page 70.
+
+![](../media/core_rules/range_ruler.jpg)
 
 ### BLOOD BOWL DICE
 
@@ -82,21 +92,23 @@ Blood Bowl uses a variety of different dice to determine the outcome of various 
 
 Below are the different types of dice you will come across in a game of Blood Bowl.
 
-### D6
+![](../media/core_rules/blood_bowl_dice.jpg)
+
+**D6**
 
 Blood Bowl primarily uses ordinary six-sided dice, marked 1 to 6. These are referred to as a D6, and if the rules ask you to roll a D6, it is one of these dice you will need to roll.
 
 Sometimes you may be asked to roll a D3; to do this, roll a D6 and half the value shown on the dice, rounding any fractions up. Other times you may be asked to roll 2D6, which is a multiple dice roll and requires two D6s to be rolled and added together, to give a result between 2 and 12.
 
-### BLOCK DICE
+**BLOCK DICE**
 
 These six-sided dice are unique to Blood Bowl and feature a number of icons on them. These are used when a player performs a Block Action, as described on page 60, and can result in the player knocking down their opponent or even end up being knocked over themselves!
 
-### D8
+**D8**
 
 This is an eight-sided dice, marked 1 to 8. This is mainly used in conjunction with the Random Direction Template, but you also may find it used in other instances as well. Regardless, when the rules ask you to roll a D8, this is the dice you will roll.
 
-### D16
+**D16**
 
 Finally, this is a sixteen-sided dice, marked 1 to 16. This is probably the least common dice that will be rolled during the game, however, when the rules ask you to roll a D16, this is the dice you will roll.
 
@@ -106,37 +118,55 @@ Below are the different types of tokens you will come across in a game of Blood 
 
 ### PRONE TOKEN - YELLOW
 
+![](../media/core_rules/prone_token.jpg)
+
 This denotes that the player is Prone (see page 39), and is used instead of laying models down on their back (as they used to be in previous editions). The other side of this token is a Stunned token.
 
 ### STUNNED TOKEN - RED
+
+![](../media/core_rules/stunned_token.jpg)
 
 This denotes that the player is Stunned (see page 39), and is used instead of laying models down on their front (as they used to be in previous editions). This is found on the reverse of the Prone token, meaning that when a player reverts from being Stunned to Prone, you can simply flip the token over as well.
 
 ### DISTRACTED TOKEN - BLUE
 
+![](../media/core_rules/distracted_token.jpg)
+
 Many effects in Blood Bowl will confer the Distracted condition onto a player (see page 39). Using this token is a great way of making sure coaches are aware of which players are Distracted and therefore don't have a Tackle Zone, and cannot use Active Skills or Traits.
 
 ### BLITZ TOKEN - GOLD
+
+![](../media/core_rules/blitz_token.jpg)
 
 Only a single player can declare a Blitz Action each turn (see page 64), and so placing this token next to a player who has performed a Blitz Action is a good way of making sure coaches don't forget and try to declare a second one in the same turn by accident.
 
 ### DODGY SNACK TOKEN - GREEN
 
+![](../media/core_rules/dodgy_snack_token.jpg)
+
 When the Dodgy Snack result is rolled on the Kick-off Event Table (see page 48), it's a good idea to mark the affected players with these tokens so both coaches remember who is suffering the effects!
 
 ### EYE GOUGE TOKEN - PURPLE
+
+![](../media/core_rules/eye_gouge_token.jpg)
 
 The Eye Gouge Skill (see page 128) means that affected players cannot provide Offensive or Defensive Assists when other players are performing a Block Action. To ensure this isn't overlooked, these tokens will help coaches remember who is affected.
 
 ### ROOTED TOKEN - BROWN
 
+![](../media/core_rules/rooted_token.jpg)
+
 In the unfortunate event that a Treeman becomes Rooted (see page 137) - or fortunate if you are on the opposing team - place a Rooted token next to them to make sure that they remain in place until the condition ends.
 
 ### CHOMPED TOKEN - WHITE
 
+![](../media/core_rules/chomped_token.jpg)
+
 Players affected by the Chomped condition (see page 131) cannot move until the player chomping them relinquishes them - either willingly or by force! Placing a Chomped token next to affected players serves as an important reminder.
 
 ### BALL TOKEN
+
+![](../media/core_rules/ball_token.jpg)
 
 The ball token has two sides, one showing that the ball is loose and the other showing that a player has possession of the ball. The 'in possession' side is also indented allowing a player on a 32mm base to fit inside making it really easy to see where the ball is at a moment's glance!
 
@@ -144,9 +174,12 @@ There is even a hole for a Blood Bowl ball with a peg to be slotted in for that 
 
 ### THROWN PLAYER TOKEN
 
+![](../media/core_rules/thrown_player_token.jpg)
+
 When a player is being thrown by a team-mate (see page 76) it is a good idea to have a marker showing where the player will currently land. This also helps when Scattering the player so that you don't have to move the thrown player until the final destination is determined. The reverse of this token is the Bomb token.
 
 ### BOMB TOKEN
 
-When a player uses the Bombardier Trait (see page 125) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait's description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.
+![](../media/core_rules/bomb_token.jpg)
 
+When a player uses the Bombardier Trait (see page 125) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait's description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.

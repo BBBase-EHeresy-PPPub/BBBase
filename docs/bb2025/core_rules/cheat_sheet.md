@@ -92,7 +92,7 @@ During your Turn, you may activate each of your Standing and/or Prone players to
 | **PASS** | Move, then Pass the ball | Page 70 |
 | **HAND-OFF** | Pass to adjacent player, roll to Catch only | Page 74 |
 | **FOUL** | Move, then Foul adjacent Prone opposing player | Page 69 |
-| **THROW TEAM-MATE** | “Pass” a player with the Right Stuff Trait | Page 76 |
+| **THROW TEAM-MATE** | "Pass" a player with the Right Stuff Trait | Page 76 |
 | **SPECIAL ACTIONS** | Skill or Trait Action | Page 123 |
 | **SECURE THE BALL** | Move, then pick up the ball safely | Page 59 |
 
