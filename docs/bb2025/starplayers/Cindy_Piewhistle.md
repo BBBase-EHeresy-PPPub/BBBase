@@ -25,11 +25,10 @@ Once per game, Cindy may perform two Throw Bomb Special Actions rather than one;
 
 ### Accept to play for...
 
-* [Dwarf]
+* [Bretonnian]
 * [Gnome]
 * [Halfling]
 * [Human]
 * [Imperial Nobility]
 * [Norse]
-* [Ogre]
 * [Old World Alliance]

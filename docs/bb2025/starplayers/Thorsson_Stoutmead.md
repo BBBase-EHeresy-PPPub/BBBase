@@ -23,8 +23,8 @@ Once per Drive, at the start of his activation, Thorsson may select an oppositio
 
 ### Accept to play for...
 
+* [Bretonnian]
 * [Dwarf]
-* [Halfling]
 * [Human]
 * [Imperial Nobility]
 * [Norse]

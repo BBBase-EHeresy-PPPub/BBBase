@@ -25,6 +25,7 @@ Once per game, when Skorgr causes an opposition player to be removed as a Casual
 
 ### Accept to play for...
 
+* [Bretonnian]
 * [Dwarf]
 * [Halfling]
 * [Human]

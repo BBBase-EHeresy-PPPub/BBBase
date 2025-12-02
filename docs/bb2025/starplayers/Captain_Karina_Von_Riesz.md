@@ -1,4 +1,4 @@
-# Captain Karina Von Riesz
+# Captain Karina von Riesz
 
 |  230K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

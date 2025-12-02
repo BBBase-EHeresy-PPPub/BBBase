@@ -140,9 +140,10 @@ If a team has a choice of any alignment, they can choose Undivided. Hashut, Khor
 * [Nurgle]
 
 ### LOW COST LINEMEN
-Some teams have so little regard for their linemen (with good reason!) that they will rarely even bother to open them. Instead, they will happily take on the most useless players to make up their numbers, seeing as they will happily play for peanuts anyway and are just happy to be there!
 
-In League Play, when a team with this special rule calculates its Current Team Value, the Hiring Fee value increase is included as normal. 0 gold pieces. Any
+Some teams have so little regard for their linemen (often with good reason!) that they will rarely even bother to pay them. Instead, they will happily take on the most useless players to bolster their ranks, seeing as they are only there to make up the numbers anyway. This is just fine for such players, seeing as they will happily play for peanuts anyway and are just happy to be there!
+
+In League Play, when a team with this special rule calculates its Current Team Value, treat the Hiring Fee of any **Lineman** players on the team as 0 gold pieces. Any value increase is included as normal.
 
 * [Snotling]
 

@@ -24,9 +24,6 @@ Once per half, so long as she is Standing at the start of her activation, Swiftv
 
 ### Accept to play for...
 
-* [Dark Elf]
-* [Elven Union]
 * [Gnome]
 * [Halfling]
-* [High Elf]
 * [Wood Elf]

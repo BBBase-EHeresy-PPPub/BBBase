@@ -26,9 +26,8 @@ Whenever Barik makes a Hail Mary Pass, he may re-roll any Scatter results for de
 
 ### Accept to play for...
 
+* [Bretonnian]
 * [Dwarf]
-* [Gnome]
-* [Halfling]
 * [Human]
 * [Imperial Nobility]
 * [Norse]

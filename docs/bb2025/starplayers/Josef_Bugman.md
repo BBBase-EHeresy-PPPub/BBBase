@@ -21,3 +21,13 @@ Once per game, when Josef's armour is broken as the result of an Armour Roll, yo
 
 * [Old World Classic]
 * [Worlds Edge Superleague]
+
+### Accept to play for...
+
+* [Bretonnian]
+* [Dwarf]
+* [Human]
+* [Imperial Nobility]
+* [Norse]
+* [Ogre]
+* [Old World Alliance]

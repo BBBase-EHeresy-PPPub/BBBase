@@ -24,11 +24,8 @@ Once per game, Griff may apply a +1 modifier to an Agility Test he has made. Thi
 
 ### Accept to play for...
 
-* [Dwarf]
-* [Gnome]
-* [Halfling]
+* [Bretonnian]
 * [Human]
 * [Imperial Nobility]
 * [Norse]
-* [Ogre]
 * [Old World Alliance]

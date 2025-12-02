@@ -23,13 +23,7 @@ Once per game, if Hakflem is adjacent to a team-mate who is in possession of the
 
 ### Accept to play for...
 
-* [Chaos Chosen]
-* [Chaos Dwarf]
-* [Chaos Renegades]
 * [Goblin]
-* [Khorne]
-* [Norse]
-* [Nurgle]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

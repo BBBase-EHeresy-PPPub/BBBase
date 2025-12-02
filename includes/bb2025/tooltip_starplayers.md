@@ -4,7 +4,7 @@
 [Bilerot Vomitflesh]: ../starplayers/Bilerot_Vomitflesh.md
 [Boa Kon'ssstriktr]: ../starplayers/Boa_Kon'ssstriktr.md
 [Bomber Dribblesnot]: ../starplayers/Bomber_Dribblesnot.md
-[Captain Karina Von Riesz]: ../starplayers/Captain_Karina_Von_Riesz.md
+[Captain Karina von Riesz]: ../starplayers/Captain_Karina_von_Riesz.md
 [Cindy Piewhistle]: ../starplayers/Cindy_Piewhistle.md
 [Count Luthor von Drakenborg]: ../starplayers/Count_Luthor_von_Drakenborg.md
 [Deeproot Strongbranch]: ../starplayers/Deeproot_Strongbranch.md

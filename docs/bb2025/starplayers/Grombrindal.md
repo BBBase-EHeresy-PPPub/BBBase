@@ -35,13 +35,12 @@ Once per game, when Grombrindal is activated he may select one team-mate within 
 
 ### Accept to play for...
 
-* [Amazon]
+* [Bretonnian]
 * [Dwarf]
 * [Gnome]
 * [Halfling]
 * [Human]
 * [Imperial Nobility]
-* [Lizardmen]
 * [Norse]
 * [Ogre]
 * [Old World Alliance]

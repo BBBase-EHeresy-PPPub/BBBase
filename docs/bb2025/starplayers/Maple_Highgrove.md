@@ -25,15 +25,6 @@ Once per half, when Maple declares a Block Action he may do so against an opposi
 
 ### Accept to play for...
 
-* [Dark Elf]
-* [Dwarf]
-* [Elven Union]
 * [Gnome]
 * [Halfling]
-* [High Elf]
-* [Human]
-* [Imperial Nobility]
-* [Norse]
-* [Ogre]
-* [Old World Alliance]
 * [Wood Elf]

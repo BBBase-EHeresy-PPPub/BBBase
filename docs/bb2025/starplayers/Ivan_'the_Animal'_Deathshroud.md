@@ -10,7 +10,7 @@
 
 * [Block]
 * [Disturbing Presence]
-* [Hatred (Dwarf)]
+* [Hatred] (Dwarf)
 * [Juggernaut]
 * [Loner] (4+)
 * [Regeneration]
@@ -22,7 +22,7 @@ Once per game, when an opposition player is Knocked Down as a result of a Block 
 
 ### Plays For
 
-* [Sylvania Spotlight]
+* [Sylvanian Spotlight]
 
 ### Accept to play for...
 

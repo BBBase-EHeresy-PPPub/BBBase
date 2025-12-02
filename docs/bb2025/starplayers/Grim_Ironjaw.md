@@ -26,10 +26,4 @@ Once per game, when an opposition Big Guy is Knocked Down as a result of a Block
 ### Accept to play for...
 
 * [Dwarf]
-* [Gnome]
-* [Halfling]
-* [Human]
-* [Imperial Nobility]
-* [Norse]
 * [Ogre]
-* [Old World Alliance]

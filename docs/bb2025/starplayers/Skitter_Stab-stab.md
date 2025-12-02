@@ -23,13 +23,7 @@ Once per game, when Skitter performs a Stab Special Action, he may choose to re-
 
 ### Accept to play for...
 
-* [Chaos Chosen]
-* [Chaos Dwarf]
-* [Chaos Renegades]
 * [Goblin]
-* [Khorne]
-* [Norse]
-* [Nurgle]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

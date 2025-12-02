@@ -24,12 +24,13 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless Skill.
 
 ### Plays For
 
-* [Any team]
+* Any team
 
 ### Accept to play for...
 
 * [Amazon]
 * [Black Orc]
+* [Bretonnian]
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]
@@ -50,10 +51,10 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless Skill.
 * [Ogre]
 * [Old World Alliance]
 * [Orc]
+* [Shambling Undead]
 * [Skaven]
 * [Snotling]
 * [Tomb Kings]
-* [Shambling Undead]
 * [Underworld Denizens]
 * [Vampire]
 * [Wood Elf]

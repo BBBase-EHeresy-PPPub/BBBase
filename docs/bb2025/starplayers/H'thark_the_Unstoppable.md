@@ -31,7 +31,6 @@ Whenever H'thark performs a Block Action as part of a Blitz Action, he may re-ro
 * [Black Orc]
 * [Chaos Chosen]
 * [Chaos Dwarf]
-* [Chaos Renegades]
 * [Goblin]
 * [Ogre]
 * [Orc]

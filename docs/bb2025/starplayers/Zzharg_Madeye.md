@@ -24,10 +24,5 @@ Once per half, at the start of his activation, Zzharg may select a Standing oppo
 
 ### Accept to play for...
 
-* [Black Orc]
 * [Chaos Chosen]
 * [Chaos Dwarf]
-* [Chaos Renegades]
-* [Goblin]
-* [Ogre]
-* [Orc]

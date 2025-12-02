@@ -22,10 +22,8 @@ Once per Drive, when Ivar begins his activation he may select one Open team-mate
 
 ### Accept to play for...
 
-* [Dwarf]
-* [Halfling]
+* [Bretonnian]
 * [Human]
 * [Imperial Nobility]
 * [Norse]
-* [Ogre]
 * [Old World Alliance]

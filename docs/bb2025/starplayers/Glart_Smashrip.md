@@ -24,13 +24,7 @@ Once per half, when Glart declares a Blitz Action he may gain the Frenzy Skill u
 
 ### Accept to play for...
 
-* [Chaos Chosen]
-* [Chaos Dwarf]
-* [Chaos Renegades]
 * [Goblin]
-* [Khorne]
-* [Norse]
-* [Nurgle]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

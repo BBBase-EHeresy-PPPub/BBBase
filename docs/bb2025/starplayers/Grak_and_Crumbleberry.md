@@ -47,6 +47,7 @@ Grak & Crumbleberry must be hired as a pair. Additionally, while Crumbleberry is
 
 * [Amazon]
 * [Black Orc]
+* [Bretonnian]
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

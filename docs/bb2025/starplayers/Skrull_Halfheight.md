@@ -21,13 +21,14 @@ Once per game, when Skrull performs a Pass Action he may modify the result of th
 
 ### Plays For
 
-* [Sylvania Spotlight]
+* [Sylvanian Spotlight]
 * [Worlds Edge Superleague]
 
 ### Accept to play for...
 
 * [Dwarf]
 * [Necromantic Horror]
-* [Tomb Kings]
+* [Ogre]
 * [Shambling Undead]
+* [Tomb Kings]
 * [Vampire]

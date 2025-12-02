@@ -25,12 +25,9 @@ Once per game, when Karla successfully rolls to use her Dauntless Skill, she may
 ### Accept to play for...
 
 * [Amazon]
-* [Dwarf]
-* [Gnome]
-* [Halfling]
+* [Bretonnian]
 * [Human]
 * [Imperial Nobility]
 * [Lizardmen]
 * [Norse]
-* [Ogre]
 * [Old World Alliance]

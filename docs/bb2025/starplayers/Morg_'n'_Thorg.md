@@ -27,6 +27,7 @@ Once per game, when Morg performs a Throw Team-mate Action, he may re-roll the P
 
 * [Amazon]
 * [Black Orc]
+* [Bretonnian]
 * [Chaos Chosen]
 * [Chaos Dwarf]
 * [Chaos Renegades]

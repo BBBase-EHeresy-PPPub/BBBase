@@ -27,3 +27,4 @@ Once per game, after declaring that she will Leap but before rolling any dice, R
 
 * [Gnome]
 * [Halfling]
+* [Wood Elf]

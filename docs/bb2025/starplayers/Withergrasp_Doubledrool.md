@@ -26,8 +26,5 @@ The first time each Drive that Withergrasp is the target of a Block Action perfo
 ### Accept to play for...
 
 * [Chaos Chosen]
-* [Chaos Dwarf]
 * [Chaos Renegades]
-* [Khorne]
-* [Norse]
 * [Nurgle]

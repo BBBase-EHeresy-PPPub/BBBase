@@ -27,11 +27,6 @@ If Deeproot makes a Fumbled Throw when performing a Throw Team-mate Action, the 
 
 ### Accept to play for...
 
-* [Dwarf]
 * [Gnome]
 * [Halfling]
-* [Human]
-* [Imperial Nobility]
-* [Norse]
-* [Ogre]
-* [Old World Alliance]
+* [Wood Elf]

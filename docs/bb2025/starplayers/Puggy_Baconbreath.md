@@ -25,11 +25,10 @@ Once per game, Puggy may re-roll a single dice that was rolled either as a singl
 
 ### Accept to play for...
 
-* [Dwarf]
+* [Bretonnian]
 * [Gnome]
 * [Halfling]
 * [Human]
 * [Imperial Nobility]
 * [Norse]
-* [Ogre]
 * [Old World Alliance]

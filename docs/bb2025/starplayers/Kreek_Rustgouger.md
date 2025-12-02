@@ -24,13 +24,7 @@ The first time in a game that Kreek would be Sent-off as per the Secret Weapon T
 
 ### Accept to play for...
 
-* [Chaos Chosen]
-* [Chaos Dwarf]
-* [Chaos Renegades]
 * [Goblin]
-* [Khorne]
-* [Norse]
-* [Nurgle]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

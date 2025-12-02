@@ -22,7 +22,6 @@ Once per game, when Willow performs a Block Action that would result in her bein
 
 ### Accept to play for...
 
-* [Dark Elf]
-* [Elven Union]
-* [High Elf]
+* [Gnome]
+* [Halfling]
 * [Wood Elf]

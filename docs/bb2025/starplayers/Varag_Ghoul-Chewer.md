@@ -30,6 +30,3 @@ Once per game, when an opposition player is Knocked Down as a result of a Block 
 * [Goblin]
 * [Ogre]
 * [Orc]
-* [Skaven]
-* [Snotling]
-* [Underworld Denizens]

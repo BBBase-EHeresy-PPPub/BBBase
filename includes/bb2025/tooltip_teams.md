@@ -1,5 +1,6 @@
 [Amazon]: ../teams/Amazon.md
 [Black Orc]: ../teams/Black_Orc.md
+[Bretonnian]: ../teams/Bretonnian.md
 [Chaos Chosen]: ../teams/Chaos_Chosen.md
 [Chaos Dwarf]: ../teams/Chaos_Dwarf.md
 [Chaos Renegades]: ../teams/Chaos_Renegades.md
