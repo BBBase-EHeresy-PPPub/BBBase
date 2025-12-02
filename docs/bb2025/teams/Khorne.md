@@ -1,4 +1,4 @@
-﻿**TIER 2**
+﻿**TIER 3**
 ![](../media/teams/BBKhorneTeamLead.jpg)
 
 ### Positionals
@@ -27,16 +27,11 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Max Spleenripper] - 130K
-* [Helmut Wulf] - 140K
-* [Skitter Stab-Stab] - 150K
-* [Kreek Rustgouger] - 170K
-* [Withergrasp Doubledrool] - 170K
-* [Glart Smashrip] - 195K
 * [Scyla Anfingrimm] - 200K
-* [Hakflem Skuttlespike] - 210K
 * [Grashnak Blackhoof] - 240K
-* [Grak and Crumbleberry] - 250K
-* [Lord Borak The Despoiler] - 260K
+* [Grak] - 250K
+* [Crumbleberry] - 250K
+* [Lord Borak The Despoiler] - 270K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements

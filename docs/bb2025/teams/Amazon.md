@@ -21,7 +21,7 @@
 * [Apothecary] - 50K
 * [Re-roll] - 60K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Boa Kon'ssstriktr] - 180K

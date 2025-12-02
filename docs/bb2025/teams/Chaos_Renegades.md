@@ -1,4 +1,4 @@
-﻿**TIER 2**
+﻿**TIER 3**
 ![](../media/teams/BBChaosRenegades.jpg)
 
 ### Positionals
@@ -33,7 +33,7 @@
 * [Apothecary] - 50K
 * [Re-roll] - 70K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Max Spleenripper] - 130K

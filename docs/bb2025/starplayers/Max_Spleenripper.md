@@ -18,7 +18,7 @@ Once per game, after Max performs a Chainsaw Attack Special Action he may immedi
 
 ### Plays For
 
-* [Favoured of Khorne]
+* [Favoured of Khorne][Favoured of...]
 
 ### Accept to play for...
 

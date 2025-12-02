@@ -29,7 +29,7 @@
 
 ### Star Players
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Fungus The Loon] - 80K

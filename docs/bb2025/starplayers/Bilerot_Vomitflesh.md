@@ -21,7 +21,7 @@ Once per half, Bilerot may use the Projectile Vomit Special Action. This may sti
 
 ### Plays For
 
-* [Favoured of Nurgle]
+* [Favoured of Nurgle][Favoured of...]
 
 ### Accept to play for...
 

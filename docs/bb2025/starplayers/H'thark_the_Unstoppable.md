@@ -4,7 +4,7 @@
 
 |  300K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 4  | 4+ | 6+ | 10+ |
+|      | 6  | 6  | 4+ | 6+ | 10+ |
 
 *(Blitzer, Dwarf)*
 
@@ -24,7 +24,7 @@ Whenever H'thark performs a Block Action as part of a Blitz Action, he may re-ro
 ### Plays For
 
 * [Badlands Brawl]
-* [Favoured of Hashut]
+* [Favoured of Hashut][Favoured of...]
 
 ### Accept to play for...
 

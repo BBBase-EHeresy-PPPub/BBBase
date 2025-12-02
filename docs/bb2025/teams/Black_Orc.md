@@ -22,11 +22,11 @@
 * [Apothecary] - 50K
 * [Re-roll] - 60K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] – 80K
 * [Fungus The Loon] – 80K
-* [Bomber Dribblesnot] – 50K
+* [Bomber Dribblesnot] – 80K
 * [Nobbla Blackwart] – 120K
 * [Scrappa Sorehead] – 120K
 * [Rashnak Backstabber] – 130K
@@ -36,7 +36,6 @@
 * [Varag Ghoul-Chewer] – 260K
 * [H'thark The Unstoppable] – 300K
 * [Morg 'n' Thorg] – 340K
-
 
 ### Inducements
 

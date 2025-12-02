@@ -1,4 +1,4 @@
-﻿**TIER 2**
+﻿**TIER 3**
 ![](../media/teams/BBDoomlordsChaosTeam01.jpg)
 
 ### Positionals
@@ -23,7 +23,7 @@
 * [Apothecary] - 50K
 * [Re-roll] - 60K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Max Spleenripper] - 130K

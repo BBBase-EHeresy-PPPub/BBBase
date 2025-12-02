@@ -20,7 +20,7 @@ Once per game, if Guffle is making an opposition player who catches the ball, he
 
 ### Plays For
 
-* [Favoured of Nurgle]
+* [Favoured of Nurgle][Favoured of...]
 
 ### Accept to play for...
 

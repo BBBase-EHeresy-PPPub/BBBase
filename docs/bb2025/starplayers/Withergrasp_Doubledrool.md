@@ -21,7 +21,7 @@ The first time each Drive that Withergrasp is the target of a Block Action perfo
 
 ### Plays For
 
-* [Favoured of Nurgle]
+* [Favoured of Nurgle][Favoured of...]
 
 ### Accept to play for...
 

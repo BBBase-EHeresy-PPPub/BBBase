@@ -20,7 +20,7 @@ Once per half, at the start of his activation, Zzharg may select a Standing oppo
 
 ### Plays For
 
-* [Favoured of Hashut]
+* [Favoured of Hashut][Favoured of...]
 
 ### Accept to play for...
 

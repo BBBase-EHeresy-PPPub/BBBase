@@ -619,6 +619,8 @@ The target square will fall into one of four sections on the Range Ruler (see pa
 - III: Long Pass
 - IIII: Long Bomb
 
+![](../media/core_rules/measure_range.jpg)
+
 #### DECLARE TARGET SQUARE
 
 The Coach declares which square is the target of the Pass Action. The declared square must be wholly underneath the maximum range of the Range Ruler. If a square is only partially underneath the Range Ruler, then it cannot be the target square. Though it is likely that the target square will contain a team-mate ready to attempt to catch the ball, this doesn't always have to be the case.

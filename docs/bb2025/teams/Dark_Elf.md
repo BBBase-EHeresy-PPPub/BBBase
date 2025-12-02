@@ -22,7 +22,7 @@
 * [Re-roll] - 50K
 * [Apothecary]  - 50K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Gloriel Summerbloom] - 150K

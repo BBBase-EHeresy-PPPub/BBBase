@@ -1,4 +1,4 @@
-﻿**TIER 2**
+﻿**TIER 3**
 ![](../media/teams/BBNurglesRottersTeam01.jpg)
 
 ### Positionals

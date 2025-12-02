@@ -21,7 +21,7 @@ Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring
 
 ### Plays For
 
-* [Favoured of Khorne]
+* [Favoured of Khorne][Favoured of...]
 
 ### Accept to play for...
 

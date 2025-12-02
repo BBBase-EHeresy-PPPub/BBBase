@@ -24,7 +24,7 @@
 * [Re-roll] - 50K
 * [Apothecary] - 50K
 
-### Starplayers
+### Star Players
 
 * [Rodney Roachbait] - 70K
 * [Cindy Piewhistle] - 100K

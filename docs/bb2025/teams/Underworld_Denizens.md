@@ -29,19 +29,17 @@
 
 * [Akhorne The Squirrel] - 80K
 * [Fungus The Loon] - 80K
-* [Bomber Dribblesnot] - 50K
+* [Bomber Dribblesnot] - 80K
 * [Nobbla Blackwart] - 120K
-* [Scrappa Sorehead] - 130K
-* [Skitter Stab-Stab] - 150K
-* [Helmut Wulf] - 140K
-* [Kreek Rustgouger] - 170K
-* [Glart Smashrip] - 195K
-* [Hakflem Skuttlespike] - 210K
-* [The Black Gobbo] - 165K
+* [Scrappa Sorehead] - 120K
+* [Skitter Stab-Stab] - 170K
+* [Glart Smashrip] - 175K
+* [Kreek Rustgouger] - 180K
+* [Hakflem Skuttlespike] - 200K
+* [The Black Gobbo] - 210K
 * [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K
-* [Varag Ghoul-Chewer] - 260K
-* [Morg 'n' Thorg] - 340K
+* [Morg 'N' Thorg] - 340K
 
 ### Inducements
 

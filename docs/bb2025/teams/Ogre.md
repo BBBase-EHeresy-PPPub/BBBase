@@ -22,9 +22,7 @@
 * [Apothecary] - 50K
 * [Re-roll] - 70K
 
-### Starplayers
-
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K  
 * [Barik Farblast] - 80K  

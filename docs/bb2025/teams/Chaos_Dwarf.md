@@ -28,7 +28,7 @@ or
 * [Apothecary] - 50K
 * [Re-roll] - 70K
 
-### Starplayers
+### Star Players
 
 * [Akhorne The Squirrel] - 80K
 * [Fungus The Loon] - 80K
