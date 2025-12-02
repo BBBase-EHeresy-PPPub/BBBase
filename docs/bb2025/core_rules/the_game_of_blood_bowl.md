@@ -404,19 +404,20 @@ When a player performs a Block Action, they will use a number of special Block D
 
 Block Dice are six-sided dice that feature five different icons instead of the usual numbers 1-6. Each of these icons represents a different outcome from the Block Action, from the player successfully flooring their opponent, to the target managing to hit back in retaliation! These icons and what they do are described below:
 
-#### PLAYER DOWN
+#### ![](../media/core_rules/player_down.jpg) PLAYER DOWN 
 The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.
 
-#### BOTH DOWN
+
+#### ![](../media/core_rules/both_down.jpg) BOTH DOWN
 Both players find themselves hitting the deck after an almighty collision. Both the player that performed the Block Action and the target player are Knocked Down by each other in the squares they are in as if they had both performed a Block Action.
 
-#### PUSH BACK
+#### ![](../media/core_rules/push_back.jpg) PUSH BACK
 The player gives their opponent a mighty shove, forcing them backwards. The target player is Pushed Back one square by the player performing the Block Action as described as follows. The player that performed the Block Action may choose to Follow-up, in which case they move into the square vacated by the Pushed player.
 
-#### STUMBLE
+#### ![](../media/core_rules/stumble.jpg) STUMBLE
 The target does their best to avoid being clobbered by their attacker. If the target player has the Dodge Skill, then this result becomes Push Back as described above. Otherwise, this result becomes POW as described below.
 
-#### POW
+#### ![](../media/core_rules/pow.jpg) POW
 The target is knocked flying and ends up hitting the dirt with great force. Apply the Push Back result to the player as described above. Additionally, after the Push Back result has been applied, the target player is immediately Knocked Down by the player performing the Block Action in the square they are now in.
 
 ### SELECT AND APPLY RESULT
@@ -427,6 +428,10 @@ When a Block Action is made, it is always the Coach of the player performing the
 
 When a player is Pushed Back, usually as a result of the Push Back or POW results from a Block Action, they will be Pushed Back one square away from the player that performed the Block Action so that they are in an adjacent square that is not adjacent to the player that performed the Block Action. The squares that a player can be Pushed into will depend on the direction of the Push, as shown in the diagrams below:
 
+![](../media/core_rules/pushed_players_1.jpg)
+
+![](../media/core_rules/pushed_players_2.jpg)
+
 The square the Pushed Back player is moved into is chosen by the Coach of the player performing the Block Action, though they must choose an unoccupied square if there is one. If a player is Pushed Back onto the ball, it will automatically Bounce though no Turnover is caused.
 
 Sometimes there will be no unoccupied squares to move the Pushed Back player into, either because there are other players occupying those squares, or because a player is at the edge of the pitch. These situations will result in either a Chain Push or a player being Pushed into the Crowd.
@@ -435,11 +440,15 @@ Sometimes there will be no unoccupied squares to move the Pushed Back player int
 
 If there is no unoccupied square for the Pushed Back player to be moved into then they will be Pushed Back into a square containing another player, which will cause a Chain Push. The player that was originally Pushed Back will be Pushed as normal, and the player occupying the square the originally Pushed player has been Pushed Back into will be themselves Pushed Back as if they had been Pushed Back by the player who is now occupying their square. When a Chain Push occurs, the Coach of the player performing the original Block Action will choose the direction of all Pushes within the Chain Push. A player can still be Chain Pushed even if they are Prone or Stunned. Below are two diagrams showing examples of a Chain Push:
 
+![](../media/core_rules/chain_pushes.jpg)
+
 #### PUSHED INTO THE CROWD
 
 If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on page 68.
 
 If a player that is holding the ball is Pushed into the Crowd, then the ball will be Thrown-in exactly as described on page 73. Additionally, if a player on the active team is Pushed into the Crowd then a Turnover is caused.
+
+![](../media/core_rules/pushed_into_the_crowd.jpg)
 
 ### FOLLOW-UP
 
@@ -578,6 +587,8 @@ As mentioned earlier, a single player on the active team may declare a Foul Acti
 
 To perform the Foul Action, the player makes an Armour Roll (see page 37) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
 
+![](../media/core_rules/performing_a_foul_action.jpg)
+
 ***For example:** The Tomb Kings Blitzer has declared a Foul Action and has finished their Move Action adjacent to the Bretonnian Squire. They make an Armour Roll for the Bretonnian Squire, applying a +1 modifier for the Skeleton Lineman who is providing an Offensive Assist. As the Tomb Guardian is being Marked by the Grail Knight, they cannot provide an Offensive Assist.*
 
 ### BEING SENT-OFF
@@ -619,7 +630,7 @@ The target square will fall into one of four sections on the Range Ruler (see pa
 - III: Long Pass
 - IIII: Long Bomb
 
-![](../media/core_rules/measure_range.jpg)
+![](../media/core_rules/measure_range_1.jpg)
 
 #### DECLARE TARGET SQUARE
 
@@ -643,6 +654,8 @@ The target square will fall into one of four sections on the Range Ruler (see pa
 If the target square sits partially within two sections (i.e., the line between two sections intersects the target square) then it is always considered to be in the further away of the two sections from the player performing the Pass Action.
 
 If it is not clear exactly which type of pass is required, then you can use the Passing Range Chart opposite to make sure you get it right.
+
+![](../media/core_rules/test_for_accurancy_1.jpg)
 
 #### TEST FOR ACCURACY
 
@@ -697,7 +710,11 @@ If the Agility Test is passed, or a natural 6 is rolled, the player successfully
 
 If a Prone or Stunned player, or a player that is Distracted, is required to Catch a ball, they will automatically fail the Agility Test and the ball will Bounce.
 
+![](../media/core_rules/catching_the_ball_1.jpg)
+
 ***For example:** The Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Knight Catcher. After using the Range Ruler, it is determined that this is a Short Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -1 modifier for making a Short Pass, and rolls a 5 - an Accurate Pass! However, the Tomb Kings Blitzer is underneath the Range Ruler for the Pass Action and so now gets to attempt to Intercept. Fortunately, the Tomb Kings Blitzer rolls a 2 for their Agility Test and fails to Intercept. The Bretonnian Knight Catcher must now attempt to Catch the ball by making an Agility Test, for which they roll a 4 and successfully manages to Catch the ball.*
+
+![](../media/core_rules/catching_the_ball_2.jpg)
 
 ***For example:** This Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Squire. After using the Range Ruler, it is determined that this is a Long Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -2 modifier for making a Long Pass, and rolls a 6 - another Accurate Pass! As the Tomb Kings Blitzer is not underneath the Range Ruler for the Pass Action, they do not get to attempt to Intercept. The Bretonnian Squire must now attempt to Catch the ball by making an Agility Test; however, they roll a 1 and fail to Catch the ball, causing it to Bounce from their square and causing a Turnover.*
 
@@ -706,6 +723,8 @@ If a Prone or Stunned player, or a player that is Distracted, is required to Cat
 Should the ball leave the pitch at any time, the crowd will throw it back into play from the point it left the pitch - this is called a Throw-in.
 
 To resolve a Throw-in, position the Throw-in Template with the Blood Bowl logo over the last square the ball occupied before it left the pitch as shown below.
+
+![](../media/core_rules/throw_ins.jpg)
 
 Next, roll a D6 to determine the direction the crowd will throw the ball as determined by the Throw-in Template. The ball will then travel 2D6 squares in the direction of the Throw-in before landing, counting the square underneath the Blood Bowl logo of the Throw-in Template as the first square. If the ball lands in an occupied square then the player must attempt to Catch the ball as described on the previous page.
 
@@ -716,6 +735,8 @@ Should the ball leave the pitch again following a Throw-in, simply repeat the pr
 #### CORNER THROW-INS
 
 Should the ball leave the pitch from a corner square, position the Random Direction Template as shown in the diagram below and roll a D3 to determine the direction of the Throw-in.
+
+![](../media/core_rules/corner_throw_ins.jpg)
 
 ## HAND-OFF ACTIONS!
 
@@ -763,11 +784,15 @@ The target square will fall into one of two sections on the Range Ruler as expla
 - I: Quick Throw
 - II: Short Throw
 
+![](../media/core_rules/measure_range_2.jpg)
+
 *This Treeman wishes to throw the Gnome Lineman using a Throw Team-mate Action. Using the Range Ruler we can determine that it would be a Short Throw.*
 
 If the target square sits partially within two sections (i.e., the line between two sections intersects the target square) then it is always considered to be in the further away of the two sections from the player performing the Throw Team-mate Action.
 
 If it is not clear exactly which type of throw is required, then you can use the Throw Team-mate Range Chart opposite to make sure you get it right.
+
+![](../media/core_rules/test_for_accurancy_2.jpg)
 
 #### TEST FOR ACCURACY
 
@@ -805,6 +830,8 @@ If the Agility Test is failed, or a natural 1 is rolled, then the thrown player 
 
 Players that were Prone, Stunned or Distracted when they were thrown will automatically fail the Agility Test to land.
 
+![](../media/core_rules/landing.jpg)
+
 ***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 – a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
 
 #### LANDING IN AN OCCUPIED SQUARE  
@@ -812,6 +839,8 @@ Players that were Prone, Stunned or Distracted when they were thrown will automa
 If, after the final square the thrown player will land in has been determined they will land in an occupied square they will crash land. When a thrown player crash lands, the player in the occupied square is automatically Knocked Down even if they are already Prone or Stunned. The thrown player will then Bounce from the occupied square and will Fall Over; however, this will only cause a Turnover if the thrown player was holding the ball, otherwise no Turnover is caused.
 
 If after the Bounce the thrown player lands in another occupied square, repeat the above process.
+
+![](../media/core_rules/landing_in_an_occupied_space.jpg)
 
 ***For example:** After Scattering as part of a Throw Team-mate Action, this Gnome has landed in the same square as the Tomb Kings Lineman. The Tomb Kings Lineman is immediately Knocked Down and the Gnome will Bounce from their square, rolling a 6. The Gnome is then placed in the corresponding square and then Falls Over. If this square was also occupied, this process would then need to be repeated.*
 
