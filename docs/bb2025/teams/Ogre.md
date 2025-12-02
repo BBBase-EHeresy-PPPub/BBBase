@@ -14,6 +14,7 @@
 * [Badlands Brawl]
 * [Worlds Edge Superleague]
 * [Brawlin' Brutes]
+* [Low Cost Linemen]
 
 ### Staff
 
@@ -51,12 +52,14 @@
 * [Prayers to Nuffle] - 10K
 * [Part-time Assistant Coach] - 20K
 * [Team Mascot] - 25K
-* [Weather Mage] - 30K
+* [Weather Mage] - 25K
+* [Mercenary Player] - 30K
 * [Blitzer's Best Keg] - 50K
 * [Bribe] - 100K
 * [Extra Team Training] - 100K
+* [Infamous Coaching Staff] - 100K
 * [Wandering Apothecary] - 100K
-* [Riotous Rookies] - 100K
 * [Biased Referee] - 120K
+* [Riotous Rookies] - 150K
 * [Wizard] - 150K
 * [Halfling Master Chef] - 300K

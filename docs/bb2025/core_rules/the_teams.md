@@ -145,6 +145,7 @@ Some teams have so little regard for their linemen (often with good reason!) tha
 
 In League Play, when a team with this special rule calculates its Current Team Value, treat the Hiring Fee of any **Lineman** players on the team as 0 gold pieces. Any value increase is included as normal.
 
+* [Ogre]
 * [Snotling]
 
 ### MASTERS OF UNDEATH
