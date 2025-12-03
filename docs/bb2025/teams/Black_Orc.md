@@ -5,9 +5,9 @@
 
 | Qty  | Position                          | MA | ST | AG | PA | AV  | Skills                                                                                                                                  | Primary | Secondary | Cost   |
 | ---- | ---------------------------------- | -- | -- | -- | -- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
-| 0-16 | Goblin Bruiser *(Lineman, Goblin)* | 6  | 2  | 3+ | 4+ | 8+   | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Thick Skull]                                                                            | A D     | G P S     | 45K |
-| 0-6  | Black Orc *(Blocker, Orc)*         | 4  | 4  | 4+ | 5+ | 10+  | • [Brawler]<br>• [Grab]                                                                                                                   | G S     | A D       | 90K |
-| 0-1  | Trained Troll *(Big Guy, Troll)*   | 4  | 5  | 5+ | 5+ | 10+  | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate]        | S       | A G P     | 115K |
+| 0‑16 | Goblin Bruiser *(Lineman, Goblin)* | 6  | 2  | 3+ | 4+ | 8+   | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]<br>• [Thick Skull]                                                                            | A D     | G P S     | 45K |
+| 0‑6  | Black Orc *(Blocker, Orc)*         | 4  | 4  | 4+ | 5+ | 10+  | • [Brawler]<br>• [Grab]                                                                                                                   | G S     | A D       | 90K |
+| 0‑1  | Trained Troll *(Big Guy, Troll)*   | 4  | 5  | 5+ | 5+ | 10+  | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate]        | S       | A G P     | 115K |
 
 ### Special Rules
 

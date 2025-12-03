@@ -5,9 +5,9 @@
 
 | Qty  | Position                               | MA | ST | AG | PA | AV | Skills & Traits                                                                 | Primary | Secondary       | Cost   |
 | ---- | --------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------- | ------- | --------------- | ------- |
-| 0-16 | Gnoblar Lineman *(Gnoblar, Lineman)*         | 5  | 1  | 3+ | 4+ | 6+ | • [Dodge]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]        | A D    | G               | 15K    |
-| 0-5  | Ogre Blocker *(Big Guy, Blocker, Ogre)*      | 5  | 5  | 4+ | 5+ | 10+| • [Bone Head]<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]      | S       | A D G P       | 140K   |
-| 0-1  | Ogre Runt Punter *(Big Guy, Ogre, Thrower)*  | 5  | 5  | 4+ | 4+ | 10+| • [Bone Head]<br>• [Kick Team-mate]<br>• [Mighty Blow]<br>• [Thick Skull]        | P S    | A D G         | 145K   |
+| 0‑16 | Gnoblar Lineman *(Gnoblar, Lineman)*         | 5  | 1  | 3+ | 4+ | 6+ | • [Dodge]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]        | A D    | G               | 15K    |
+| 0‑5  | Ogre Blocker *(Big Guy, Blocker, Ogre)*      | 5  | 5  | 4+ | 5+ | 10+| • [Bone Head]<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]      | S       | A D G P       | 140K   |
+| 0‑1  | Ogre Runt Punter *(Big Guy, Ogre, Thrower)*  | 5  | 5  | 4+ | 4+ | 10+| • [Bone Head]<br>• [Kick Team-mate]<br>• [Mighty Blow]<br>• [Thick Skull]        | P S    | A D G         | 145K   |
 
 ### Special Rules
 

@@ -5,11 +5,11 @@
 
 | Qty  | Position                                | MA | ST | AG | PA | AV  | Skills                                                                                                     | Primary | Secondary | Cost |
 | ---- | ---------------------------------------- | -- | -- | -- | -- | --- | ----------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Beastman Lineman *(Lineman, Beastman)*   | 6  | 3  | 3+ | 4+ | 9+  | • [Horns]<br>• [Thick Skull]                                                                              | A P S D | G M       | 50K  |
-| 0-4  | Chaos Chosen *(Blocker, Human)*          | 5  | 4  | 3+ | 5+ | 10+ | • [Arm Bar]                                                                                               | G M S   | A         | 100K |
-| 0-1  | Troll *(Big Guy, Troll)*                 | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | M S     | A G       | 115K |
-| 0-1  | Ogre *(Big Guy, Ogre)*                   | 5  | 5  | 4+ | 5+ | 10+ | • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]        | M S     | A G       | 140K |
-| 0-1  | Minotaur *(Big Guy, Minotaur)*           | 5  | 5  | 4+ | -  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Unchannelled Fury] | M S   | A G       | 150K |
+| 0‑16 | Beastman Lineman *(Lineman, Beastman)*   | 6  | 3  | 3+ | 4+ | 9+  | • [Horns]<br>• [Thick Skull]                                                                              | A P S D | G M       | 50K  |
+| 0‑4  | Chaos Chosen *(Blocker, Human)*          | 5  | 4  | 3+ | 5+ | 10+ | • [Arm Bar]                                                                                               | G M S   | A         | 100K |
+| 0‑1  | Troll *(Big Guy, Troll)*                 | 4  | 5  | 5+ | 5+ | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | M S     | A G       | 115K |
+| 0‑1  | Ogre *(Big Guy, Ogre)*                   | 5  | 5  | 4+ | 5+ | 10+ | • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]        | M S     | A G       | 140K |
+| 0‑1  | Minotaur *(Big Guy, Minotaur)*           | 5  | 5  | 4+ | -  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Unchannelled Fury] | M S   | A G       | 150K |
 
 ### Special Rules
 

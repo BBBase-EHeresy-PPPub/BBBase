@@ -5,11 +5,11 @@
 
 | Qty  | Position                                | MA | ST | AG | PA | AV | Skills & Traits                                                                                           | Primary | Secondary | Cost  |
 | ---- | ---------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------------------ | ------- | --------- | ------ |
-| 0-16 | Zombie Lineman *(Human, Lineman, UndeaD Zombie)* | 4  | 3  | 4+ | 6+ | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]                                                           | D G    | A S       | 40K   |
-| 0-2  | Ghoul Runner *(Ghoul, Runner, Undead)*           | 7  | 3  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Regeneration]                                                                               | A G    | D P S    | 75K   |
-| 0-2  | Wraith *(Blocker, UndeaD Wraith)*               | 6  | 3  | 3+ | —  | 9+ | • [Block]<br>• [Foul Appearance]<br>• [No Ball]<br>• [Regeneration]<br>• [Sidestep]                         | G S    | A D       | 85K   |
-| 0-2  | Flesh Golem *(Blocker, Construct, Undead)*       | 4  | 4  | 4+ | 4+ | 10+| • [Regeneration]<br>• [Stand Firm]<br>• [Thick Skull]<br>• [Unsteady]                                      | G S    | A D       | 110K  |
-| 0-2  | Werewolf *(Blitzer, UndeaD Werewolf)*           | 8  | 3  | 3+ | 3+ | 9+ | • [Claws]<br>• [Frenzy]<br>• [Regeneration]                                                                  | A G    | D P S    | 120K  |
+| 0‑16 | Zombie Lineman *(Human, Lineman, UndeaD Zombie)* | 4  | 3  | 4+ | 6+ | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]                                                           | D G    | A S       | 40K   |
+| 0‑2  | Ghoul Runner *(Ghoul, Runner, Undead)*           | 7  | 3  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Regeneration]                                                                               | A G    | D P S    | 75K   |
+| 0‑2  | Wraith *(Blocker, UndeaD Wraith)*               | 6  | 3  | 3+ | —  | 9+ | • [Block]<br>• [Foul Appearance]<br>• [No Ball]<br>• [Regeneration]<br>• [Sidestep]                         | G S    | A D       | 85K   |
+| 0‑2  | Flesh Golem *(Blocker, Construct, Undead)*       | 4  | 4  | 4+ | 4+ | 10+| • [Regeneration]<br>• [Stand Firm]<br>• [Thick Skull]<br>• [Unsteady]                                      | G S    | A D       | 110K  |
+| 0‑2  | Werewolf *(Blitzer, UndeaD Werewolf)*           | 8  | 3  | 3+ | 3+ | 9+ | • [Claws]<br>• [Frenzy]<br>• [Regeneration]                                                                  | A G    | D P S    | 120K  |
 
 ### Special Rules
 
