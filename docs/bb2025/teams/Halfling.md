@@ -6,8 +6,8 @@
 | Qty  | Position                           | MA | ST | AG | PA | AV | Skills                                                                                           | Primary | Secondary | Cost |
 | ---- | ----------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0-16 | Halfling Hopeful *(Lineman, Halfling)* | 5  | 2  | 3+ | 4+ | 7+ | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                       | A       | G S D     | 30K  |
-| 0-2  | Halfling Hefty *(Runner, Halfling)*    | 5  | 2  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Fend]<br>• [Stunty]                                                              | A P     | G S D     | 50K  |
-| 0-2  | Halfling Catcher *(Catcher, Halfling)* | 5  | 2  | 3+ | 5+ | 7+ | • [Catch]<br>• [Dodge]<br>• [Right Stuff]<br>• [Sprint]<br>• [Stunty]                            | A       | G S D     | 50K  |
+| 0-2  | Halfling Hefty *(Blocker, Halfling)*    | 5  | 2  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Fend]<br>• [Stunty]                                                              | A P     | G S D     | 50K  |
+| 0-2  | Halfling Catcher *(Catcher, Halfling)* | 5  | 2  | 3+ | 4+ | 7+ | • [Catch]<br>• [Dodge]<br>• [Right Stuff]<br>• [Sprint]<br>• [Stunty]                            | A       | G S D     | 50K  |
 | 0-2  | Athel Forest Treeman *(Big Guy, Treeman)* | 2 | 6 | 5+ | 5+ | 11+ | • [Mighty Blow]<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S | A G P D | 120K |
 
 ### Special Rules

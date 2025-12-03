@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty | Position                          | MA | ST | AG | PA | AV | Skills                                                        | Primary | Secondary | Cost |
-| --- | --------------------------------- | -- | -- | -- | -- | -- | ---------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Skeleton Lineman *(Lineman, Skeleton)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                                   | G       | A S D     | 40K |
-| 0-2  | Tomb Kings Thrower *(Thrower, Skeleton)* | 6  | 3  | 4+ | 3+ | 8+ | • [Pass]<br>• [Regeneration]<br>• [Sure Hands]<br>• [Thick Skull]     | G P     | A S D     | 65K |
-| 0-2  | Tomb Kings Blitzer *(Blitzer, Skeleton)* | 6  | 3  | 4+ | 5+ | 9+ | • [Block]<br>• [Regeneration]<br>• [Thick Skull]                      | G S     | A D       | 85K |
-| 0-4  | Tomb Guardian *(Blocker, Human)*        | 4  | 5  | 5+ | 5+ | 10+| • [Brawler]<br>• [Decay]<br>• [Regeneration]                          | S A G   | -         | 115K |
+| Qty  | Position                                           | MA | ST | AG | PA | AV | Skills & Traits                                        | Primary | Secondary | Cost   |
+| ---- | -------------------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------- | ------- | --------- | ------- |
+| 0-16 | Skeleton Lineman *(Human, Lineman, Skeleton, Undead)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                     | G       | A D S    | 40K    |
+| 0-2  | Tomb Kings Thrower *(Human, Skeleton, Thrower, Undead)* | 6  | 3  | 4+ | 3+ | 9+ | • [Pass]<br>• [Regeneration]<br>• [Sure Hands]<br>• [Thick Skull] | G P    | A D S    | 65K    |
+| 0-2  | Tomb Kings Blitzer *(Blitzer, Human, Skeleton, Undead)* | 6  | 3  | 4+ | 5+ | 9+ | • [Block]<br>• [Regeneration]<br>• [Thick Skull]       | G S    | A D       | 85K    |
+| 0-4  | Tomb Guardian *(Big Guy, Blocker, Human, Undead)*      | 4  | 5  | 5+ | 6+ | 10+| • [Brawler]<br>• [Decay]<br>• [Regeneration]            | S       | A G       | 115K   |
 
 ### Special Rules
 

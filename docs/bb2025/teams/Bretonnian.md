@@ -3,12 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position                            | MA | ST | AG | PA | AV | Skills                                                   | Primary | Secondary | Cost |
-| ---- | ------------------------------------ | -- | -- | -- | -- | -- | -------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Bretonnian Squire *(Lineman, Human)* | 6  | 3  | 3+ | 4+ | 9+ | • [Wrestle]                                              | G       | A S       | 50K  |
-| 0-2  | Bretonnian Knight Thrower *(Thrower)*| 6  | 3  | 3+ | 3+ | 9+ | • [Dauntless]<br>• [Nerves of Steel]<br>• [Pass]         | G A     | S         | 80K  |
-| 0-4  | Bretonnian Knight Catcher *(Catcher)*| 7  | 3  | 2+ | 5+ | 8+ | • [Catch]<br>• [Dauntless]<br>• [Nerves of Steel]        | A G     | S         | 85K  |
-| 0-2  | Grail Knight *(Blitzer, Human)*      | 7  | 3  | 3+ | 5+ | 9+ | • [Block]<br>• [Dauntless]<br>• [Steady Footing]         | G S     | A         | 95K  |
+| Qty | Position                           | MA | ST | AG | PA | AV | Skills                                                                 | Primary | Secondary | Cost |
+| --- | ---------------------------------- | -- | -- | -- | -- | -- | ----------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0-16 | Bretonnian Squire *(Lineman, Human)*        | 6  | 3  | 3+ | 4+ | 8+ | • [Wrestle]                                                             | G       | A S       | 50K |
+| 0-2  | Bretonnian Knight Thrower *(Thrower, Human)* | 6  | 3  | 3+ | 3+ | 9+ | • [Dauntless]<br>• [Nerves of Steel]<br>• [Pass]                        | G P     | A S       | 80K |
+| 0-2  | Bretonnian Knight Catcher *(Catcher, Human)* | 7  | 3  | 3+ | 4+ | 9+ | • [Catch]<br>• [Dauntless]<br>• [Nerves of Steel]                       | A G     | S         | 85K |
+| 0-2  | Grail Knight *(Blitzer, Human)*              | 7  | 3  | 3+ | 4+ | 10+| • [Block]<br>• [Dauntless]<br>• [Steady Footing]                        | G S     | A         | 95K |
 
 ### Special Rules
 

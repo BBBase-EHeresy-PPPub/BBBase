@@ -3,15 +3,20 @@
 
 ### Positionals
 
-| Qty | Position                              | MA | ST | AG | PA | AV | Skills                                                                                               | Primary | Secondary | Cost |
-| --- | ------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0-16 | Snotling Lineman *(Lineman, Snotling)* | 5  | 1  | 3+ | 5+ | 6+ | • [Dodge]<br>• [Insignificant]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]                 | A M D   | G         | 15K |
-| 0-6  | Skaven Clanrat *(Lineman, Skaven)*     | 7  | 3  | 3+ | 4+ | 8+ | • [Animosity] (Goblin)                                                  | G M D   | A S       | 50K |
-| 0-2  | Skaven Thrower *(Thrower, Skaven)*     | 7  | 3  | 3+ | 2+ | 8+ | • [Animosity] (Goblin)<br>• [Pass]<br>• [Sure Hands]                    | G M P   | A S D     | 80K |
-| 0-1  | Gutter Runner *(Runner, Skaven)*       | 9  | 2  | 2+ | 4+ | 8+ | • [Animosity] (Goblin)<br>• [Dodge]<br>• [Stab]                         | A G M D | P S       | 85K |
-| 0-1  | Skaven Blitzer *(Blitzer, Skaven)*     | 7  | 3  | 3+ | 4+ | 9+ | • [Animosity] (Goblin)<br>• [Block]<br>• [Strip Ball]                   | G M S   | A D       | 90K |
-| 0-1  | Troll *(Big Guy, Troll)*               | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | M S     | A G P     | 115K |
-| 0-1  | Rat Ogre *(Big Guy, Skaven)*           | 6  | 5  | 4+ | -  | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail] | M S     | A G       | 150K |
+### Positionals
+
+| Qty  | Position                                   | MA | ST | AG | PA | AV | Skills & Traits                                                                                 | Primary | Secondary | Cost   |
+| ---- | ------------------------------------------- | -- | -- | -- | -- | -- | ----------------------------------------------------------------------------------------------- | ------- | --------- | ------- |
+| 0-16 | Goblin Lineman *(Goblin, Lineman)*               | 6  | 2  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                      | A D M | G P S    | 40K    |
+| 0-6  | Snotling Lineman *(Lineman, Snotling)*          | 5  | 1  | 3+ | 4+ | 6+ | • [Dodge]<br>• [Insignificant]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]   | A D M | G          | 15K    |
+| 0-3  | Skaven Clanrat *(Lineman, Skaven)*              | 7  | 3  | 4+ | 4+ | 8+ | • [Animosity (Goblin)]                                                                          | D G M | A S       | 50K    |
+| 0-1  | Skaven Thrower *(Skaven, Thrower)*              | 7  | 3  | 2+ | 2+ | 8+ | • [Animosity (Goblin)]<br>• [Pass]<br>• [Sure Hands]                                            | G M P | A D S    | 80K    |
+| 0-1  | Gutter Runner *(Runner, Skaven)*                | 9  | 2  | 2+ | 4+ | 8+ | • [Animosity (Goblin)]<br>• [Dodge]<br>• [Stab]                                                 | A D G M | S        | 85K    |
+| 0-1  | Skaven Blitzer *(Blitzer, Skaven)*              | 8  | 3  | 3+ | 4+ | 9+ | • [Animosity (Goblin)]<br>• [Block]<br>• [Strip Ball]                                           | G M S | A D       | 90K    |
+| 0-1 | Troll\* *(Big Guy, Troll)*       | 4  | 5  | 5+ | 5+ | 10+| • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | M S | A G P | 115K  |
+| 0-1 | Rat Ogre\* *(Big Guy, Skaven)*   | 6  | 5  | 4+ | 6+ | 9+ | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail]        | M S    | A G       | 150K   |
+
+\* An Underworld Denizens team may have a single Big Guy, chosen from the following.
 
 ### Special Rules
 
