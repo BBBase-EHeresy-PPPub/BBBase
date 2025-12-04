@@ -26,14 +26,14 @@
 ### Star Players
 
 * [Rodney Roachbait] - 70K
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Swiftvine Glimmershard] - 110K
 * [Gloriel Summerbloom] - 150K
 * [Willow Rosebark] - 150K
 * [Kiroth Krakeneye] - 160K
 * [Maple Highgrove] - 210K
 * [Eldril Sidewinder] - 220K
-* [Zolcath The Zoat] - 230K
+* [Zolcath the Zoat] - 230K
 * [Grak and Crumbleberry] - 250K
 * [Jordell Freshbreeze] - 250K
 * [Roxanna Darknail] - 270K

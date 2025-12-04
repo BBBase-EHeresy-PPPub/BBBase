@@ -24,7 +24,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Skrull Halfheight] - 150K
 * [Gretchen Wächter] - 180K
 * [Ivan 'the Animal' Deathshroud] - 210K

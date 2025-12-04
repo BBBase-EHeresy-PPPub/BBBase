@@ -28,7 +28,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Barik Farblast] - 80K
 * [Skrull Halfheight] - 150K
 * [Grombrindal] - 170K

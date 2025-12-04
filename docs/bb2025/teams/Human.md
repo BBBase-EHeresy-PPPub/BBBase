@@ -28,7 +28,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Barik Farblast] - 80K
 * [Cindy Piewhistle] - 100K
 * [Puggy Baconbreath] - 130K

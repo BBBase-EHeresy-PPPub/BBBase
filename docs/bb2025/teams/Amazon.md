@@ -23,7 +23,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Boa Kon'ssstriktr] - 180K
 * [Estelle la Veneaux] - 190K
 * [Anqi Panqi] - 190K

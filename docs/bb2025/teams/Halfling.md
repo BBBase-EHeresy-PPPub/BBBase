@@ -27,7 +27,7 @@
 ### Star Players
 
 * [Rodney Roachbait] - 70K  
-* [Akhorn The Squirrel] - 80K  
+* [Akhorne The Squirrell] - 80K  
 * [Cindy Piewhistle] - 100K  
 * [Swiftvine Glimmershard] - 110K  
 * [Puggy Baconbreath] - 130K  

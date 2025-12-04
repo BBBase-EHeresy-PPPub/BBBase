@@ -125,7 +125,7 @@ If a player elects to spend their SPP on improving a Characteristic, then they d
 |----|-----------------------------|
 | 1  | Improve the player's AV by 1. |
 | 2  | Improve the player's AV or PA by 1. |
-| 3-4 | Improve the player's AV, MA or PA by 1. |
+| 3‑4 | Improve the player's AV, MA or PA by 1. |
 | 5  | Improve the player's MA or PA by 1. |
 | 6  | Improve the player's AG or MA by 1. |
 | 7  | Improve the player's AG or ST by 1. |

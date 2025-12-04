@@ -44,18 +44,18 @@ Below is the full list of the different Skills and the categories they are in. W
 
 | 1ST D6 | 2ND D6 | AGILITY                | DEVIOUS              | GENERAL             | MUTATION                  | PASSING             | STRENGTH        |
 |--------|--------|------------------------|-----------------------|----------------------|---------------------------|----------------------|------------------|
-| 1-3    | 1      | [Catch]                | [Dirty Player]       | [Block]             | [Big Hand]               | [Accurate]           | [Arm Bar]        |
-| 1-3    | 2      | [Diving Catch]         | [Eye Gouge]          | [Dauntless]         | [Claws]                  | [Cannoneer]          | [Brawler]        |
-| 1-3    | 3      | [Diving Tackle]        | [Fumblerooski]       | [Fend]              | [Disturbing Presence]*   | [Cloud Burster]      | [Break Tackle]   |
-| 1-3    | 4      | [Dodge]                | [Lethal Flight]      | [Frenzy]*           | [Extra Arms]             | [Dump-off]           | [Bullseye]       |
-| 1-3    | 5      | [Defensive]            | [Lone Fouler]        | [Kick]              | [Foul Appearance]*       | [Give and Go]        | [Grab]           |
-| 1-3    | 6      | [Hit and Run]          | [Pile Driver]        | [Pro]               | [Horns]                  | [Hail Mary Pass]     | [Guard]          |
-| 4-6    | 1      | [Jump Up]              | [Put the Boot In]    | [Steady Footing]    | [Iron Hard Skin]         | [Leader]             | [Juggernaut]     |
-| 4-6    | 2      | [Leap]                 | [Quick Foul]         | [Strip Ball]        | [Monstrous Mouth]        | [Nerves of Steel]    | [Mighty Blow]    |
-| 4-6    | 3      | [Safe Pair of Hands]   | [Saboteur]           | [Sure Hands]        | [Prehensile Tail]        | [On the Ball]        | [Multiple Block] |
-| 4-6    | 4      | [Sidestep]             | [Shadowing]          | [Tackle]            | [Tentacles]              | [Pass]               | [Stand Firm]     |
-| 4-6    | 5      | [Sprint]               | [Sneaky Git]         | [Taunt]             | [Two Heads]              | [Punt]               | [Strong Arm]     |
-| 4-6    | 6      | [Sure Feet]            | [Violent Innovator]  | [Wrestle]           | [Very Long Legs]         | [Safe Pass]          | [Thick Skull]    |
+| 1‑3    | 1      | [Catch]                | [Dirty Player]       | [Block]             | [Big Hand]               | [Accurate]           | [Arm Bar]        |
+| 1‑3    | 2      | [Diving Catch]         | [Eye Gouge]          | [Dauntless]         | [Claws]                  | [Cannoneer]          | [Brawler]        |
+| 1‑3    | 3      | [Diving Tackle]        | [Fumblerooski]       | [Fend]              | [Disturbing Presence]*   | [Cloud Burster]      | [Break Tackle]   |
+| 1‑3    | 4      | [Dodge]                | [Lethal Flight]      | [Frenzy]*           | [Extra Arms]             | [Dump-off]           | [Bullseye]       |
+| 1‑3    | 5      | [Defensive]            | [Lone Fouler]        | [Kick]              | [Foul Appearance]*       | [Give and Go]        | [Grab]           |
+| 1‑3    | 6      | [Hit and Run]          | [Pile Driver]        | [Pro]               | [Horns]                  | [Hail Mary Pass]     | [Guard]          |
+| 4‑6    | 1      | [Jump Up]              | [Put the Boot In]    | [Steady Footing]    | [Iron Hard Skin]         | [Leader]             | [Juggernaut]     |
+| 4‑6    | 2      | [Leap]                 | [Quick Foul]         | [Strip Ball]        | [Monstrous Mouth]        | [Nerves of Steel]    | [Mighty Blow]    |
+| 4‑6    | 3      | [Safe Pair of Hands]   | [Saboteur]           | [Sure Hands]        | [Prehensile Tail]        | [On the Ball]        | [Multiple Block] |
+| 4‑6    | 4      | [Sidestep]             | [Shadowing]          | [Tackle]            | [Tentacles]              | [Pass]               | [Stand Firm]     |
+| 4‑6    | 5      | [Sprint]               | [Sneaky Git]         | [Taunt]             | [Two Heads]              | [Punt]               | [Strong Arm]     |
+| 4‑6    | 6      | [Sure Feet]            | [Violent Innovator]  | [Wrestle]           | [Very Long Legs]         | [Safe Pass]          | [Thick Skull]    |
 
 **For example**: Dan is taking a random Primary Skill on one of his Halfling Hopefuls, and has chosen the Agility Category. His first roll is a 4 and his second roll is a 2. For his second roll, he first rolls a 3 and then rolls a 5. Looking at the Skill Table, we can see that the Halfling Hopeful has the choice of the [Leap] Skill or the [Defensive] Skill as its random skill.
 
@@ -179,7 +179,7 @@ This player's activation does not end after performing a Foul Action, and they m
 
 #### SABOTEUR (ACTIVE)
 
-When this player is Knocked Down as a result of an opposition player's Block Action, before the Armour Roll is made, they may roll a D6. On a 1-3, nothing happens and the Armour Roll is made as normal. On a 4+, this player's sabotaged weapon goes off and the opposition player is also Knocked Down, though this will not cause a Turnover unless the opposition player was holding the ball. If this player's sabotaged weapon goes off, then they are automatically Knocked Out and the Armour Roll is not made for them.
+When this player is Knocked Down as a result of an opposition player's Block Action, before the Armour Roll is made, they may roll a D6. On a 1‑3, nothing happens and the Armour Roll is made as normal. On a 4+, this player's sabotaged weapon goes off and the opposition player is also Knocked Down, though this will not cause a Turnover unless the opposition player was holding the ball. If this player's sabotaged weapon goes off, then they are automatically Knocked Out and the Armour Roll is not made for them.
 
 A player without the Secret Weapon Trait cannot have this Skill.
 
@@ -187,7 +187,7 @@ A player without the Secret Weapon Trait cannot have this Skill.
 
 Each time an opposing player attempts to Dodge out of a square within this player's Tackle Zone, this player may use this Skill.
 
-When this player uses this Skill, roll a D6. On a 1-3, nothing happens. On a 4+, this player is immediately placed into the square that the opposition player vacated. This player may only use this Skill a number of times per Turn equal to their MA.
+When this player uses this Skill, roll a D6. On a 1‑3, nothing happens. On a 4+, this player is immediately placed into the square that the opposition player vacated. This player may only use this Skill a number of times per Turn equal to their MA.
 
 If a player tries to leave the Tackle Zone of multiple players with this Skill at the same time, only one of those players may use this Skill.
 
@@ -464,9 +464,9 @@ On a 2+, the team-mate will squirm free and the Throw Team-mate Action will auto
 
 Whenever this player is activated, after declaring their action they must roll a D6. They may apply a +2 modifier to the roll if they have declared a Block Action or a Blitz Action. On a 4+, the player may perform the declared action as normal.
 
-On a 1-3, this player lashes out at one of their team-mates. Choose one Standing team-mate adjacent to this player; the chosen player is immediately Knocked Down. This will not cause a Turnover unless the player was holding the ball. If this player has either the Claws or Mighty Blow Skill, then they must use them when making the Armour Roll for the Knocked Down player.
+On a 1‑3, this player lashes out at one of their team-mates. Choose one Standing team-mate adjacent to this player; the chosen player is immediately Knocked Down. This will not cause a Turnover unless the player was holding the ball. If this player has either the Claws or Mighty Blow Skill, then they must use them when making the Armour Roll for the Knocked Down player.
 
-If this player rolls a 1-3 and there are no Standing team-mates adjacent to them, then they are Distracted.
+If this player rolls a 1‑3 and there are no Standing team-mates adjacent to them, then they are Distracted.
 
 #### ANIMOSITY (X)* (ACTIVE)
 
@@ -631,13 +631,13 @@ This player may use the Projectile Vomit Special Action to replace the Block Act
 
 #### REALLY STUPID* (PASSIVE)
 
-Whenever this player is activated, after declaring their Action, they must roll a D6. They may apply a +2 modifier to the roll if they have any Standing team-mates who are not Distracted, and do not have the Really Stupid Trait, adjacent to them. On a 4+, the player may perform the declared Action as normal. On a 1-3, this player becomes Distracted.
+Whenever this player is activated, after declaring their Action, they must roll a D6. They may apply a +2 modifier to the roll if they have any Standing team-mates who are not Distracted, and do not have the Really Stupid Trait, adjacent to them. On a 4+, the player may perform the declared Action as normal. On a 1‑3, this player becomes Distracted.
 
 #### REGENERATION (PASSIVE)
 
 Whenever this player suffers a Casualty, before making the Casualty Roll for them, roll a D6.
 
-On a 1-3, this player suffers the Casualty; make the Casualty Roll as normal. On a 4+, this player regenerates and ignores the Casualty (though any Star Player Points earned for causing the Casualty are still earned) and is instead placed in their team's Reserves Box.
+On a 1‑3, this player suffers the Casualty; make the Casualty Roll as normal. On a 4+, this player regenerates and ignores the Casualty (though any Star Player Points earned for causing the Casualty are still earned) and is instead placed in their team's Reserves Box.
 
 #### RIGHT STUFF* (PASSIVE)
 
@@ -703,7 +703,7 @@ If this player uses this Trait to be placed on the ball, they may attempt to pic
 
 Whenever this player is activated, after declaring their Action, they must roll a D6. They may apply a +2 modifier to the roll if they have declared a Block Action or a Blitz Action. On a 4+, the player may perform the declared Action as normal.
 
-On a 1-3, this player rages incoherently but nothing really happens. Their activation immediately ends.
+On a 1‑3, this player rages incoherently but nothing really happens. Their activation immediately ends.
 
 #### UNSTEADY* (PASSIVE)
 

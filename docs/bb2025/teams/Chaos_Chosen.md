@@ -25,7 +25,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Max Spleenripper] - 130K
 * [Zzharg Madeye] - 130K
 * [Guffle Pusmaw] - 150K
@@ -34,8 +34,8 @@
 * [Scyla Anfingrimm] - 200K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
-* [Lord Borak The Despoiler] - 270K
-* [H'Tarkh The Unstoppable] - 300K
+* [Lord Borak the Despoiler] - 270K
+* [H'Tarkh the Unstoppable] - 300K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements

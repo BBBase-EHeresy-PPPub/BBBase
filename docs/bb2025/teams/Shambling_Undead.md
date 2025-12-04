@@ -25,13 +25,12 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Skrull Halfheight] - 150K
 * [Gretchen Wächter] - 260K
 * [Ivan 'the Animal' Deathshroud] - 210K
 * [Wilhelm Chaney] - 220K
 * [Captain Karina von Riesz] - 230K
-* [Frank 'n' Stein] - 250K
 * [Grak and Crumbleberry] - 250K
 * [Count Luthor Von Drakenborg] - 340K
 

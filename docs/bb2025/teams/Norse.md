@@ -32,7 +32,7 @@ or
 
 ### Star Players
 
-* [Akhorne The Squirrel] – 80K
+* [Akhorne the Squirrel] – 80K
 * [Barik Farblast] – 80K
 * [Cindy Piewhistle] – 100K
 * [Puggy Baconbreath] – 130K
@@ -46,7 +46,7 @@ or
 * [Grashnak Blackhoof] – 240K
 * [Skrorg Snowpelt] – 240K
 * [Grak and Crumbleberry] – 250K
-* [Lord Borak The Despoiler] – 270K
+* [Lord Borak the Despoiler] – 270K
 * [Griff Oberwald] – 300K
 * [Morg 'n' Thorg] – 340K
 

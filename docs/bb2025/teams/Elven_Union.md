@@ -23,11 +23,11 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Gloriel Summerbloom] - 150K
 * [Kiroth Krakeneye] - 160K
 * [Eldril Sidewinder] - 220K
-* [Zolcath The Zoat] - 220K
+* [Zolcath the Zoat] - 220K
 * [Grak and Crumbleberry] - 250K
 * [Roxanna Darknail] - 270K
 * [Jordell Freshbreeze] - 280K

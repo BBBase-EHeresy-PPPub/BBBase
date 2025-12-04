@@ -5,18 +5,18 @@
 ### PRE-GAME SEQUENCE
 The pre-game sequence consists of the following steps:
 
-1. The Fans — page 45
-2. The Weather — page 46
-3. Take On Journeymen — page 94
-4. Inducements — page 94
-5. Determine Kicking Team — page 46
+1. The Fans - page 45
+2. The Weather - page 46
+3. Take On Journeymen - page 94
+4. Inducements - page 94
+5. Determine Kicking Team - page 46
 
 ### START OF DRIVE SEQUENCE
 At the start of every Drive, Coaches run through the following steps:
 
-1. Set-up — page 47
-2. The Kick-off — page 47
-3. The Kick-off Event — page 48
+1. Set-up - page 47
+2. The Kick-off - page 47
+3. The Kick-off Event - page 48
 
 ### TEAM TURNS
 Coaches alternate taking Turns; each Drive, the team receiving the ball takes the first Turn.
@@ -24,20 +24,20 @@ Coaches alternate taking Turns; each Drive, the team receiving the ball takes th
 ### END OF DRIVE SEQUENCE
 When a Touchdown is scored, or the final Turn of a half is played, the current drive ends. If Turns remain, run through the following sequence then start a new Drive:
 
-1. Deal with Secret Weapons — page 83
-2. End of Drive Effects — page 83
-3. Recover Knocked-out Players — page 83
-4. The Drive Ends — page 83
+1. Deal with Secret Weapons - page 83
+2. End of Drive Effects - page 83
+3. Recover Knocked-out Players - page 83
+4. The Drive Ends - page 83
 
 ### WEATHER TABLE
 
 | 2D6 | WEATHER CONDITION |
 |-----|------------------|
 | **2** | **SWELTERING HEAT:** At the end of each Drive, one coach rolls a D3. Each coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
-| **3** | **VERY SUNNY:** Whenever a player makes a Passing Ability Test, apply a –1 modifier to the roll. |
-| **4–10** | **PERFECT CONDITIONS:** There is no additional effect. |
-| **11** | **POURING RAIN:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a –1 modifier to the roll. |
-| **12** | **BLIZZARD:** Whenever a player attempts to Rush, apply a –1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
+| **3** | **VERY SUNNY:** Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
+| **4‑10** | **PERFECT CONDITIONS:** There is no additional effect. |
+| **11** | **POURING RAIN:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
+| **12** | **BLIZZARD:** Whenever a player attempts to Rush, apply a -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
 
 ### THE TURNOVER
 
@@ -100,10 +100,10 @@ During your Turn, you may activate each of your Standing and/or Prone players to
 Once per team turn, a player with the ball can perform the Pass Action. Follow the sequence:
 
 1. **Declare Target Square.**
-2. **Measure Range** — Use the Range Ruler or Passing Range chart to measure range to the target square and determine the type of pass required.
-3. **Test for Accuracy** — Make a Passing Ability Test for the player performing the Pass Action. Apply modifiers.
-4. **Interceptions** — A player on the opposing team can attempt to intercept the ball.
-5. **Resolve Pass Action** — Determine if the ball is caught by the target player or where it comes to rest.
+2. **Measure Range** - Use the Range Ruler or Passing Range chart to measure range to the target square and determine the type of pass required.
+3. **Test for Accuracy** - Make a Passing Ability Test for the player performing the Pass Action. Apply modifiers.
+4. **Interceptions** - A player on the opposing team can attempt to intercept the ball.
+5. **Resolve Pass Action** - Determine if the ball is caught by the target player or where it comes to rest.
 
 ### BLOCK ACTION
 Resolve a Block Action by rolling Block Dice and choosing one result. The number of Block Dice rolled is determined by comparing the modified Strength of the blocker and their target.
@@ -144,7 +144,7 @@ If the target player has the [Dodge] skill, this becomes Push Back. Otherwise, t
 Apply the Push Back result to the target player. The target player is then Knocked Down in the square they are now in by the player performing the Block Action.
 
 ### RISKING INJURY
-When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player — see page 37 for Armour Rolls.
+When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player - see page 37 for Armour Rolls.
 
 #### INJURY ROLLS
 If the Armour Roll results in a player's armour being broken, the opposing team's Coach rolls 2D6 and consults the table below:
@@ -153,36 +153,36 @@ If the Armour Roll results in a player's armour being broken, the opposing team'
 
 | 2D6 | RESULT |
 |-----|--------|
-| **2–7** | **STUNNED:** The player is immediately Stunned. |
-| **8–9** | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| **10–12** | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them (page 67). |
+| **2‑7** | **STUNNED:** The player is immediately Stunned. |
+| **8‑9** | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| **10‑12** | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them (page 67). |
 
 #### CASUALTY TABLE
 | D16 | RESULT |
 |-----|--------|
-| **1–8** | **BADLY HURT:** The player suffers no long-term effects. |
-| **9–10** | **SERIOUSLY HURT:** The player must miss their next game. |
-| **11–12** | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
-| **13–14** | **LASTING INJURY:** The player suffers a characteristic reduction and must miss their next game. |
-| **15–16** | **DEAD:** The player is dead. |
+| **1‑8** | **BADLY HURT:** The player suffers no long-term effects. |
+| **9‑10** | **SERIOUSLY HURT:** The player must miss their next game. |
+| **11‑12** | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
+| **13‑14** | **LASTING INJURY:** The player suffers a characteristic reduction and must miss their next game. |
+| **15‑16** | **DEAD:** The player is dead. |
 
 #### LASTING INJURY TABLE
 | D6 | LASTING INJURY | CHARACTERISTIC REDUCTION |
 |----|----------------|--------------------------|
-| **1–2** | HEAD INJURY | –1 AV |
-| **3** | SMASHED KNEE | –1 MV |
-| **4** | BROKEN ARM | –1 PA |
-| **5** | DISLOCATED HIP | –1 AG |
-| **6** | BROKEN SHOULDER | –1 ST |
+| **1‑2** | HEAD INJURY | -1 AV |
+| **3** | SMASHED KNEE | -1 MV |
+| **4** | BROKEN ARM | -1 PA |
+| **5** | DISLOCATED HIP | -1 AG |
+| **6** | BROKEN SHOULDER | -1 ST |
 
 ### INJURY BY THE CROWD
 Make an Injury Roll for a player Pushed into the Crowd (page 68). If the player would be Stunned, place them in their team's Reserve Box. Otherwise, follow the result on the relevant Injury Table.
 
 ### STALLING
-If a player in possession of the ball when activated can score a Touchdown without having to roll dice but finishes their activation without having scored a Touchdown, then they are Stalling. Roll a D6 if a player is Stalling — if the result is equal to or greater than the team's current Turn number, the player is Knocked Down and a Turnover is caused.
+If a player in possession of the ball when activated can score a Touchdown without having to roll dice but finishes their activation without having scored a Touchdown, then they are Stalling. Roll a D6 if a player is Stalling - if the result is equal to or greater than the team's current Turn number, the player is Knocked Down and a Turnover is caused.
 
 ### FOULING
-Make an Armour Roll for the target of the Foul Action. Apply a +1 modifier to the result for each Offensive Assist and –1 modifier to the result for each Defensive Assist.
+Make an Armour Roll for the target of the Foul Action. Apply a +1 modifier to the result for each Offensive Assist and -1 modifier to the result for each Defensive Assist.
 
 ### EARNING STAR PLAYER POINTS
 During League Play, players earn Star Player Points (SPP) for the following (see page 96 for more detail):

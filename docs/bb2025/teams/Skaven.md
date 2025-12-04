@@ -24,8 +24,8 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] – 80K
-* [Fungus The Loon] – 80K
+* [Akhorne the Squirrel] – 80K
+* [Fungus the Loon] – 80K
 * [Bomber Dribblesnot] – 80K
 * [Nobbla Blackwart] – 120K
 * [Scrappa Sorehead] – 120K

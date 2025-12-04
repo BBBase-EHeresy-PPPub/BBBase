@@ -60,7 +60,7 @@ To determine what the weather is like at the start of the game, each Coach rolls
 |-----|-------------------|
 | **2** | **SWELTERING HEAT:** The intense heat causes some players to faint! At the end of each Drive whilst this weather condition is in effect, one Coach rolls a D3 and each Coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
 | **3** | **VERY SUNNY:** The glorious sunshine makes for a beautiful day, but plays havoc with the passing game! Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
-| **4-10** | **PERFECT CONDITIONS:** Not too hot, nor too cold. It's perfect weather for Blood Bowl! There is no additional effect. |
+| **4‑10** | **PERFECT CONDITIONS:** Not too hot, nor too cold. It's perfect weather for Blood Bowl! There is no additional effect. |
 | **11** | **POURING RAIN:** The heavens have opened and the sudden downpour has left the players soaked and the ball rather slippery! Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
 | **12** | **BLIZZARD:** The freezing conditions and swirling snow makes the footing treacherous and drastically impedes a player's vision. Whenever a player attempts to Rush, apply an additional -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
 
@@ -490,9 +490,9 @@ Whenever an Injury Roll must be made for a player, the Coach of the opposing tea
 
 | 2D6 | RESULT |
 |-----|--------|
-| 2-7 | **STUNNED:** The player is immediately Stunned. |
-| 8-9 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| 10-12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
+| 2‑7 | **STUNNED:** The player is immediately Stunned. |
+| 8‑9 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| 10‑12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
 #### STUNTY PLAYERS
 
@@ -502,10 +502,10 @@ If an Injury Roll is made for a player with the Stunty Trait, then use the Stunt
 
 | 2D6 | RESULT |
 |-----|--------|
-| 2-6 | **STUNNED:** The player is immediately Stunned. |
-| 7-8 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| 2‑6 | **STUNNED:** The player is immediately Stunned. |
+| 7‑8 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
 | 9 | **BADLY HURT:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the Casualty Table. |
-| 10-12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
+| 10‑12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
 #### CASUALTY ROLLS
 
@@ -517,11 +517,11 @@ During Exhibition Play and Matched Play, this will have little to no effect on t
 
 | D16 | RESULT |
 |-----|--------|
-| 1-8 | **BADLY HURT:** The player suffers no long term effects. |
-| 9-10 | **SERIOUSLY HURT:** The player must miss their next game. |
-| 11-12 | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
-| 13-14 | **LASTING INJURY:** The player suffers a Characteristic reduction and must miss their next game. |
-| 15-16 | **DEAD:** The player is dead! |
+| 1‑8 | **BADLY HURT:** The player suffers no long term effects. |
+| 9‑10 | **SERIOUSLY HURT:** The player must miss their next game. |
+| 11‑12 | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
+| 13‑14 | **LASTING INJURY:** The player suffers a Characteristic reduction and must miss their next game. |
+| 15‑16 | **DEAD:** The player is dead! |
 
 ##### MISS NEXT GAME
 
@@ -537,7 +537,7 @@ The player has one of their Characteristics reduced by 1 so that it is worse. To
 
 | D6 | LASTING INJURY | CHARACTERISTIC REDUCTION |
 |----|----------------|---------------------------|
-| 1-2 | HEAD INJURY | -1 AV |
+| 1‑2 | HEAD INJURY | -1 AV |
 | 3 | SMASHED KNEE | -1 MV |
 | 4 | BROKEN ARM | -1 PA |
 | 5 | DISLOCATED HIP | -1 AG |

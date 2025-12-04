@@ -1,4 +1,4 @@
-[Akhorne The Squirrel]: ../starplayers/Akhorne_The_Squirrel.md
+[Akhorne the Squirrel]: ../starplayers/Akhorne_The_Squirrel.md
 [Anqi Panqi]: ../starplayers/Anqi_Panqi.md
 [Barik Farblast]: ../starplayers/Barik_Farblast.md
 [Bilerot Vomitflesh]: ../starplayers/Bilerot_Vomitflesh.md
@@ -21,7 +21,7 @@
 [Griff Oberwald]: ../starplayers/Griff_Oberwald.md
 [Grim Ironjaw]: ../starplayers/Grim_Ironjaw.md
 [Grombrindal]: ../starplayers/Grombrindal.md
-[Guffle Pussmaw]: ../starplayers/Guffle_Pussmaw.md
+[Guffle Pusmaw]: ../starplayers/Guffle_Pusmaw.md
 [H'thark the Unstoppable]: ../starplayers/H'thark_the_Unstoppable.md
 [Hakflem Skuttlespike]: ../starplayers/Hakflem_Skuttlespike.md
 [Helmut Wulf]: ../starplayers/Helmut_Wulf.md

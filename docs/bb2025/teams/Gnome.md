@@ -28,7 +28,7 @@
 
 * [Rodney Roachbait] - 70K
 * [Cindy Piewhistle] - 100K
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Swiftvine Glimmershard] - 110K
 * [Puggy Baconbreath] - 130K
 * [Willow Rosebark] - 160K

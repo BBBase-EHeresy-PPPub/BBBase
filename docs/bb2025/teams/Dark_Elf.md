@@ -3,8 +3,6 @@
 
 ### Positionals
 
-### Positionals
-
 | Qty  | Position                       | MA | ST | AG | PA | AV | Skills                                                       | Primary | Secondary | Cost   |
 | ---- | ------------------------------ | -- | -- | -- | -- | -- | ------------------------------------------------------------- | ------- | --------- | ------- |
 | 0‑16 | Dark Elf Lineman *(Lineman, Elf)*   | 6  | 3  | 2+ | 3+ | 9+ | —                                                             | A G     | S D       | 65K    |
@@ -26,7 +24,7 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] - 80K
+* [Akhorne the Squirrel] - 80K
 * [Gloriel Summerbloom] - 150K
 * [Kiroth Krakeneye] - 160K
 * [Eldril Sidewinder] - 220K

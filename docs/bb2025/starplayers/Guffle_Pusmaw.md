@@ -1,4 +1,4 @@
-# Guffle Pussmaw
+# Guffle Pusmaw
 
 ![](../media/starplayers/BBGuffle.jpg)
 

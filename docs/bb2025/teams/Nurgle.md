@@ -25,13 +25,13 @@
 
 ### Star Players
 
-* [Akhorne The Squirrel] – 80K
+* [Akhorne the Squirrel] – 80K
 * [Guffle Pusmaw] – 150K
 * [Withergrasp Doubledrool] – 170K
 * [Bilerot Vomitflesh] – 180K
 * [Grashnak Blackhoof] – 240K
 * [Grak and Crumbleberry] – 250K
-* [Lord Borak The Despoiler] – 270K
+* [Lord Borak the Despoiler] – 270K
 * [Morg 'n' Thorg] – 340K
 
 
