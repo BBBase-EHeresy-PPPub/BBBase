@@ -3,13 +3,13 @@
 
 ### Positionals
 
-| Qty  | Position                                           | MA | ST | AG | PA | AV | Skills & Traits                                             | Primary | Secondary | Cost   |
-| ---- | -------------------------------------------------- | -- | -- | -- | -- | -- | ------------------------------------------------------------ | ------- | --------- | ------- |
-| 0‑16 | Skeleton Lineman *(Human, Lineman, Skeleton, Undead)* | 5  | 3  | 4+ | 6+ | 8+ | • [Regeneration]<br>• [Thick Skull]                          | G       | A D S    | 40K    |
-| 0‑16 | Zombie Lineman *(Human, Lineman, UndeaD Zombie)*     | 4  | 3  | 4+ | 6+ | 9+ | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]            | D G    | A S       | 40K    |
-| 0‑2  | Ghoul Runner *(Ghoul, Runner, Undead)*                | 7  | 3  | 3+ | 3+ | 8+ | • [Dodge]<br>• [Regeneration]                                | A G    | D P S    | 75K    |
-| 0‑2  | Wight Blitzer *(Blitzer, Human, Skeleton, Undead)*    | 6  | 3  | 3+ | 5+ | 9+ | • [Block]<br>• [Regeneration]<br>• [Tackle]<br>• [Thick Skull] | G S    | A D       | 95K    |
-| 0‑2  | Mummy *(Big Guy, Blocker, Human, Undead)*             | 3  | 5  | 5+ | 6+ | 10+| • [Mighty Blow]<br>• [Regeneration]                          | S       | A G       | 125K   |
+| Qty  | Position                                              | MA  | ST  | AG  | PA  | AV  | Skills & Traits                                                | Primary | Secondary | Cost |
+| ---- | ----------------------------------------------------- | --- | --- | --- | --- | --- | -------------------------------------------------------------- | ------- | --------- | ---- |
+| 0‑16 | Skeleton Lineman *(Human, Lineman, Skeleton, Undead)* | 5   | 3   | 4+  | 6+  | 8+  | • [Regeneration]<br>• [Thick Skull]                            | G       | A D S     | 40K  |
+| 0‑16 | Zombie Lineman *(Human, Lineman, Undead, Zombie)*     | 4   | 3   | 4+  | 6+  | 9+  | • [Eye Gouge]<br>• [Regeneration]<br>• [Unsteady]              | D G     | A S       | 40K  |
+| 0‑2  | Ghoul Runner *(Ghoul, Runner, Undead)*                | 7   | 3   | 3+  | 3+  | 8+  | • [Dodge]<br>• [Regeneration]                                  | A G     | D P S     | 75K  |
+| 0‑2  | Wight Blitzer *(Blitzer, Human, Skeleton, Undead)*    | 6   | 3   | 3+  | 5+  | 9+  | • [Block]<br>• [Regeneration]<br>• [Tackle]<br>• [Thick Skull] | G S     | A D       | 95K  |
+| 0‑2  | Mummy *(Big Guy, Blocker, Human, Undead)*             | 3   | 5   | 5+  | 6+  | 10+ | • [Mighty Blow]<br>• [Regeneration]                            | S       | A G       | 125K |
 
 ### Special Rules
 
