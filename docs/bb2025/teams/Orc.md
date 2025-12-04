@@ -6,11 +6,11 @@
 | Qty  | Position                           | MA  | ST  | AG  | PA  | AV  | Skills                                                                                                                                         | Primary | Secondary | Cost |
 | ---- | ---------------------------------- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Orc Lineman *(Lineman, Orc)*       | 5   | 3   | 3+  | 4+  | 10+ |                                                                                                                                                | G S     | A D       | 50K  |
-| 0‑4  | Goblin Lineman *(Lineman, Goblin)* | 6   | 2   | 3+  | 3+  | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                                                     | A D     | G P S     | 40K  |
-| 0‑2  | Orc Thrower *(Thrower, Orc)*       | 6   | 3   | 3+  | 3+  | 9+  | • [Pass]<br>• [Sure Hands]                                                                                                                     | G P     | A S D     | 75K  |
-| 0‑2  | Orc Blitzer *(Blitzer, Orc)*       | 6   | 3   | 3+  | 4+  | 10+ | • [Block]<br>• [Break Tackle]                                                                                                                  | G S     | A D       | 85K  |
-| 0‑2  | Big Un Blocker *(Blocker, Orc)*    | 5   | 4   | 4+  | 6+  | 10+ | • [Mighty Blow]<br>• [Taunt]<br>• [Thick Skull]<br>• [Unsteady]                                                                                | G S     | A D       | 95K  |
-| 0‑1  | Troll *(Big Guy, Troll)*           | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
+| 0‑4  | Goblin Lineman *(Lineman, Goblin)* | 6   | 2   | 3+  | 3+  | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                                                     | A D     | G P S     | 40K  |
+| 0‑2  | Orc Thrower *(Thrower, Orc)*       | 6   | 3   | 3+  | 3+  | 9+  | • [Pass]<br>• [Sure Hands]                                                                                                                     | G P     | A S D     | 75K  |
+| 0‑2  | Orc Blitzer *(Blitzer, Orc)*       | 6   | 3   | 3+  | 4+  | 10+ | • [Block]<br>• [Break Tackle]                                                                                                                  | G S     | A D       | 85K  |
+| 0‑2  | Big Un Blocker *(Blocker, Orc)*    | 5   | 4   | 4+  | 6+  | 10+ | • [Mighty Blow]<br>• [Taunt]<br>• [Thick Skull]<br>• [Unsteady]                                                                                | G S     | A D       | 95K  |
+| 0‑1  | Troll *(Big Guy, Troll)*           | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

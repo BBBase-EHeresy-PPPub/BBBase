@@ -5,12 +5,12 @@
 
 | Qty  | Position                                  | MA  | ST  | AG  | PA  | AV  | Skills & Traits                                                                                                              | Primary | Secondary | Cost |
 | ---- | ----------------------------------------- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0‑16 | Snotling Lineman *(Lineman, Snotling)*    | 5   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Insignificant]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]                                | A D     | G         | 15K  |
-| 0‑2  | Fun-hoppa *(Snotling, Special)*           | 6   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Pogo]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]                                                       | A D     | G         | 20K  |
-| 0‑2  | Stilty Runna *(Runner, Snotling)*         | 6   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Sprint]<br>• [Stunty]                                                     | A D     | G         | 20K  |
-| 0‑2  | Fungus Flinga *(Snotling, Special)*       | 5   | 1   | 3+  | 4+  | 6+  | • [Bombardier]<br>• [Dodge]<br>• [Right Stuff]<br>• [Secret Weapon]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]              | A D P   | G         | 30K  |
-| 0‑2  | Pump Wagon *(Big Guy, Snotling, Special)* | 5   | 5   | 5+  | 6+  | 9+  | • [Dirty Player]<br>• [Juggernaut]<br>• [Mighty Blow]<br>• [Really Stupid]<br>• [Stand Firm]                                 | D S     | A G       | 100K |
-| 0‑2  | Trained Troll *(Big Guy, Troll)*          | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
+| 0‑16 | Snotling Lineman *(Lineman, Snotling)*    | 5   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Insignificant]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]                                | A D     | G         | 15K  |
+| 0‑2  | Fun-hoppa *(Snotling, Special)*           | 6   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Pogo]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Stunty]                                                       | A D     | G         | 20K  |
+| 0‑2  | Stilty Runna *(Runner, Snotling)*         | 6   | 1   | 3+  | 4+  | 6+  | • [Dodge]<br>• [Right Stuff]<br>• [Sidestep]<br>• [Sprint]<br>• [Stunty]                                                     | A D     | G         | 20K  |
+| 0‑2  | Fungus Flinga *(Snotling, Special)*       | 5   | 1   | 3+  | 4+  | 6+  | • [Bombardier]<br>• [Dodge]<br>• [Right Stuff]<br>• [Secret Weapon]<br>• [Sidestep]<br>• [Stunty]<br>• [Titchy]              | A D P   | G         | 30K  |
+| 0‑2  | Pump Wagon *(Big Guy, Snotling, Special)* | 5   | 5   | 5+  | 6+  | 9+  | • [Dirty Player]<br>• [Juggernaut]<br>• [Mighty Blow]<br>• [Really Stupid]<br>• [Stand Firm]                                 | D S     | A G       | 100K |
+| 0‑2  | Trained Troll *(Big Guy, Troll)*          | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
 ### Special Rules
 

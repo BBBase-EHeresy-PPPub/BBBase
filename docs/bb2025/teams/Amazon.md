@@ -41,7 +41,7 @@
 * [Part-time Assistant Coach] - 20K
 * [Team Mascot] - 25K
 * [Weather Mage] - 25K
-* [Mercenary] - 30K
+* [Mercenary Player] - 30K
 * [Blitzer's Best Keg] - 50K
 * [Bribe] - 100K
 * [Extra Team Training] - 100K

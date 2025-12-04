@@ -5,10 +5,10 @@
 
 | Qty  | Position                              | MA | ST | AG | PA | AV | Skills                                                                                               | Primary | Secondary | Cost   |
 | ---- | -------------------------------------- | -- | -- | -- | -- | -- | ----------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
-| 0‑16 | Skink Lineman *(Lineman, Lizardman)*   | 8  | 2  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Stunty]                                                                               | A       | G P S D   | 60K |
-| 0‑2  | Chameleon Skink *(Thrower, Lizardman)* | 7  | 2  | 3+ | 3+ | 8+ | • [Dodge]<br>• [On the Ball]<br>• [Shadowing]<br>• [Stunty]                                          | A P     | G S D     | 70K |
-| 0‑6  | Saurus Blocker *(Blocker, Lizardman)*  | 6  | 4  | 5+ | 6+ | 10+| • [Juggernaut]<br>• [Unsteady]                                                                        | G S     | A         | 90K |
-| 0‑1  | Kroxigor *(Big Guy, Lizardman)*        | 6  | 5  | 5+ | 6+ | 10+| • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail]<br>• [Thick Skull]         | S       | A G       | 140K |
+| 0‑16 | Skink Lineman *(Lineman, Lizardman)*   | 8  | 2  | 3+ | 4+ | 8+ | • [Dodge]<br>• [Stunty]                                                                               | A       | G P S D   | 60K |
+| 0‑2  | Chameleon Skink *(Thrower, Lizardman)* | 7  | 2  | 3+ | 3+ | 8+ | • [Dodge]<br>• [On the Ball]<br>• [Shadowing]<br>• [Stunty]                                          | A P     | G S D     | 70K |
+| 0‑6  | Saurus Blocker *(Blocker, Lizardman)*  | 6  | 4  | 5+ | 6+ | 10+| • [Juggernaut]<br>• [Unsteady]                                                                        | G S     | A         | 90K |
+| 0‑1  | Kroxigor *(Big Guy, Lizardman)*        | 6  | 5  | 5+ | 6+ | 10+| • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail]<br>• [Thick Skull]         | S       | A G       | 140K |
 
 ### Special Rules
 

@@ -37,8 +37,7 @@
 * [Grak and Crumbleberry] - 250K
 * [Jordell Freshbreeze] - 250K
 * [Roxanna Darknail] - 270K
-* [Lucien Swift] - 300K
-* [Valen Swift] - 300K
+* [The Swift Twins] - 300K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements

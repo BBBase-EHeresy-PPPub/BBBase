@@ -5,11 +5,11 @@
 
 | Qty  | Position                            | MA | ST | AG | PA | AV | Skills                                                                                      | Primary | Secondary | Cost   |
 | ---- | ------------------------------------ | -- | -- | -- | -- | -- | -------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
-| 0‑16 | Imperial Retainer *(Lineman, Human)* | 6  | 3  | 3+ | 4+ | 8+ | • [Fend]                                                                                     | G       | A S       | 45K |
-| 0‑2  | Imperial Thrower *(Thrower, Human)*  | 6  | 3  | 3+ | 2+ | 9+ | • [Give and Go]<br>• [Pass]<br>• [Pro]                                                       | G P     | A S       | 75K |
-| 0‑4  | Bodyguard *(Blocker, Human)*         | 5  | 3  | 3+ | 4+ | 9+ | • [Stand Firm]<br>• [Wrestle]                                                                | G S     | A         | 85K |
-| 0‑2  | Noble Blitzer *(Blitzer, Human)*     | 7  | 3  | 3+ | 4+ | 9+ | • [Block]<br>• [Catch]<br>• [Pro]                                                            | A G     | P S       | 90K |
-| 0‑1  | Ogre *(Big Guy, Ogre)*               | 5  | 5  | 4+ | 5+ | 10+| • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G       | 140K |
+| 0‑16 | Imperial Retainer *(Lineman, Human)* | 6  | 3  | 3+ | 4+ | 8+ | • [Fend]                                                                                     | G       | A S       | 45K |
+| 0‑2  | Imperial Thrower *(Thrower, Human)*  | 6  | 3  | 3+ | 2+ | 9+ | • [Give and Go]<br>• [Pass]<br>• [Pro]                                                       | G P     | A S       | 75K |
+| 0‑4  | Bodyguard *(Blocker, Human)*         | 5  | 3  | 3+ | 4+ | 9+ | • [Stand Firm]<br>• [Wrestle]                                                                | G S     | A         | 85K |
+| 0‑2  | Noble Blitzer *(Blitzer, Human)*     | 7  | 3  | 3+ | 4+ | 9+ | • [Block]<br>• [Catch]<br>• [Pro]                                                            | A G     | P S       | 90K |
+| 0‑1  | Ogre *(Big Guy, Ogre)*               | 5  | 5  | 4+ | 5+ | 10+| • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G       | 140K |
 
 ### Special Rules
 
