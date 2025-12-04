@@ -3,13 +3,13 @@
 
 ### Positionals
 
-| Qty  | Position                       | MA | ST | AG | PA | AV | Skills                                                       | Primary | Secondary | Cost   |
-| ---- | ------------------------------ | -- | -- | -- | -- | -- | ------------------------------------------------------------- | ------- | --------- | ------- |
-| 0‑16 | Dark Elf Lineman *(Lineman, Elf)*   | 6  | 3  | 2+ | 3+ | 9+ | —                                                             | A G     | S D       | 65K    |
-| 0‑2  | Dark Elf Runner *(Runner, Elf)*     | 7  | 3  | 2+ | 3+ | 8+ | • [Dump-off]<br>• [Punt]                                      | A G P   | S D       | 80K    |
-| 0‑2  | Dark Elf Assassin *(Special, Elf)*  | 7  | 3  | 2+ | 4+ | 8+ | • [Hit and Run]<br>• [Shadowing]<br>• [Stab]                  | A D     | G S       | 90K    |
-| 0‑2  | Dark Elf Blitzer *(Blitzer, Elf)*   | 7  | 3  | 2+ | 3+ | 9+ | • [Block]                                                    | A G     | P S D     | 105K   |
-| 0‑2  | Witch Elf *(Special, Elf)*          | 7  | 3  | 2+ | 4+ | 8+ | • [Dodge]<br>• [Frenzy]<br>• [Jump Up]                        | A G     | S D       | 110K   |
+| Qty  | Position                           | MA  | ST  | AG  | PA  | AV  | Skills                                       | Primary | Secondary | Cost |
+| ---- | ---------------------------------- | --- | --- | --- | --- | --- | -------------------------------------------- | ------- | --------- | ---- |
+| 0‑16 | Dark Elf Lineman *(Lineman, Elf)*  | 6   | 3   | 2+  | 3+  | 9+  | —                                            | A G     | S D       | 65K  |
+| 0‑2  | Dark Elf Runner *(Runner, Elf)*    | 7   | 3   | 2+  | 3+  | 8+  | • [Dump-off]<br>• [Punt]                     | A G P   | S D       | 80K  |
+| 0‑2  | Dark Elf Assassin *(Special, Elf)* | 7   | 3   | 2+  | 4+  | 8+  | • [Hit and Run]<br>• [Shadowing]<br>• [Stab] | A D     | G S       | 90K  |
+| 0‑2  | Dark Elf Blitzer *(Blitzer, Elf)*  | 7   | 3   | 2+  | 3+  | 9+  | • [Block]                                    | A G     | P S D     | 105K |
+| 0‑2  | Witch Elf *(Special, Elf)*         | 7   | 3   | 2+  | 4+  | 8+  | • [Dodge]<br>• [Frenzy]<br>• [Jump Up]       | A G     | S D       | 110K |
 
 ### Special Rules
 

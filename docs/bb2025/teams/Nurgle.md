@@ -3,13 +3,12 @@
 
 ### Positionals
 
-| Qty  | Position                       | MA | ST | AG | PA | AV | Skills                                                                                                                                                                     | Primary | Secondary | Cost   |
-| ---- | ------------------------------ | -- | -- | -- | -- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------ |
-| 0‑16 | Rotter *(Lineman, Human)*      | 5  | 3  | 4+ | 6+ | 9+ | • [Decay]<br>• [Plague Ridden]                                                                                                                                              | G M D   | A S       | 40K |
-| 0‑2  | Pestigor *(Runner, Beastman)*  | 6  | 3  | 3+ | 4+ | 9+ | • [Horns]<br>• [Plague Ridden]<br>• [Regeneration]<br>• [Steady Footing]<br>• [Thick Skull]                                                                                | G M S   | A P D     | 70K |
-| 0‑4  | Bloater *(Blocker, Human)*     | 4  | 4  | 4+ | 6+ | 10+| • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Plague Ridden]<br>• [Regeneration]<br>• [Stand Firm]<br>• [Unsteady]                                                | G M S   | A D       | 110K |
-| 0‑1  | Rotspawn *(Big Guy, Spawn)*    | 4  | 5  | 5+ | 6+ | 10+| • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Pick-me-up]<br>• [Plague Ridden]<br>• [Really Stupid]<br>• [Tentacles]         | S       | G M D     | 140K |
-
+| Qty  | Position                      | MA  | ST  | AG  | PA  | AV  | Skills                                                                                                                                                           | Primary | Secondary | Cost |
+| ---- | ----------------------------- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
+| 0‑16 | Rotter *(Lineman, Human)*     | 5   | 3   | 4+  | 6+  | 9+  | • [Decay]<br>• [Plague Ridden]                                                                                                                                   | G M D   | A S       | 40K  |
+| 0‑2  | Pestigor *(Runner, Beastman)* | 6   | 3   | 3+  | 4+  | 9+  | • [Horns]<br>• [Plague Ridden]<br>• [Regeneration]<br>• [Steady Footing]<br>• [Thick Skull]                                                                      | G M S   | A P D     | 70K  |
+| 0‑4  | Bloater *(Blocker, Human)*    | 4   | 4   | 4+  | 6+  | 10+ | • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Plague Ridden]<br>• [Regeneration]<br>• [Stand Firm]<br>• [Unsteady]                                        | G M S   | A D       | 110K |
+| 0‑1  | Rotspawn *(Big Guy, Spawn)*   | 4   | 5   | 5+  | 6+  | 10+ | • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Pick-me-up]<br>• [Plague Ridden]<br>• [Really Stupid]<br>• [Tentacles] | S       | G M D     | 140K |
 
 ### Special Rules
 
@@ -21,7 +20,7 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Re-roll] - 70K
+* [Re-roll] - 60K
 
 ### Star Players
 
