@@ -10,7 +10,7 @@
 | 0‑2  | Human Catcher *(Catcher, Human)*       | 8   | 3   | 3+  | 4+  | 8+  | • [Catch]<br>• [Dodge]                                                                       | A G     | D P S     | 75K  |
 | 0‑2  | Human Thrower *(Thrower, Human)*       | 6   | 3   | 3+  | 3+  | 9+  | • [Pass]<br>• [Sure Hands]                                                                   | G P     | A D S     | 75K  |
 | 0‑2  | Human Blitzer *(Blitzer, Human)*       | 7   | 3   | 3+  | 4+  | 9+  | • [Block]<br>• [Tackle]                                                                      | G S     | A D       | 85K  |
-| 0‑1  | Ogre *(Big Guy, Ogre)*                 | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G M     | 140K |
+| 0‑1  | Ogre *(Big Guy, Ogre)*                 | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G       | 140K |
 
 ### Special Rules
 
