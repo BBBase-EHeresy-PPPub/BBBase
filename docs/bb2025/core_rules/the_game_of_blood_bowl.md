@@ -130,7 +130,7 @@ Immediately after the kick has Deviated, the Coach of the kicking team must roll
 | **5** | **HIGH KICK:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
 | **6** | **CHEERING FANS:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
 | **7** | **BRILLIANT COACHING:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
-| **8** | **CHANGING WEATHER:** Immediately make a new roll on the Weather Table. If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
+| **8** | **CHANGING WEATHER:** Immediately make a new roll on the [Weather Table](#weather-table). If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
 | **9** | **QUICK SNAP!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition's half. |
 | **10** | **CHARGE!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
 | **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
@@ -198,7 +198,7 @@ Simply put, a Blitz Action combines a Move Action with a Block Action so any rul
 
 #### PASS ACTION
 
-The player may attempt to throw the ball to another player or part of the pitch. A player that declares a Pass Action may also make a free Move Action before making the pass, but may not continue moving after the pass has been made. Only a single Pass Action can be declared each Turn. Pass Actions are covered on page 70.
+The player may attempt to throw the ball to another player or part of the pitch. A player that declares a Pass Action may also make a free Move Action before making the pass, but may not continue moving after the pass has been made. Only a single Pass Action can be declared each Turn. Pass Actions are covered on [page 70](./the_game_of_blood_bowl.md#pass-actions).
 
 #### HAND-OFF ACTION
 
@@ -504,7 +504,7 @@ If an Injury Roll is made for a player with the Stunty Trait, then use the Stunt
 |-----|--------|
 | 2‑6 | **STUNNED:** The player is immediately Stunned. |
 | 7‑8 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| 9 | **BADLY HURT:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the Casualty Table. |
+| 9 | **BADLY HURT:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the [Casualty Table](#casualty-table). |
 | 10‑12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
 #### CASUALTY ROLLS
@@ -565,7 +565,7 @@ A player may gain multiple versions of the Hatred (X) Trait during the course of
 
 When a player is Pushed into the Crowd or lands in the crowd by any other means, there is no telling how they will be treated by those they land amongst - Blood Bowl fans are a vicious bunch at the best of times! As a result, they will risk Injury by the Crowd.
 
-When a player risks Injury by the Crowd, immediately make an Injury Roll for them as described on page 66. If the player would be Stunned, place them in their team's Reserve Box instead. Otherwise, follow the result as shown on the relevant Injury Table.
+When a player risks Injury by the Crowd, immediately make an Injury Roll for them as described on [page 66](#injury-rolls). If the player would be Stunned, place them in their team's Reserve Box instead. Otherwise, follow the result as shown on the relevant [Injury Table](#injury-table).
 
 ### APOTHECARIES
 
@@ -703,7 +703,7 @@ There are many times the rules will call for a player to attempt to Catch a ball
 When a player is required to Catch a ball, they must make an Agility Test and apply the following modifiers:
 
 - If the player is attempting to Catch a ball that has Bounced, apply a -1 modifier.
-- If the player is attempting to Catch a ball that has been Thrown-in (see opposite), apply a -1 modifier.
+- If the player is attempting to Catch a ball that has been Thrown-in (see [opposite](#throw-ins)), apply a -1 modifier.
 - Apply a -1 modifier for each opposition player that is Marking the player attempting to Catch the ball.
 
 If the Agility Test is passed, or a natural 6 is rolled, the player successfully Catches the ball and immediately gains possession of it. If the Agility Test is failed, or a natural 1 is rolled, the player fails to Catch the ball and it will Bounce from the square they are in. If this Bounce lands on another player, that player must then also attempt to Catch the ball as described above.
@@ -888,7 +888,7 @@ When a Touchdown is scored or there are no more Turns left in the half, the curr
 
 ### END OF DRIVE SEQUENCE
 
-The End of Drive Sequence has four stages that must be followed in order. If the game hasn't finished and there is going to be another Drive then, after completing the End of Drive Sequence, Coaches will proceed to Restart the Game as explained opposite.
+The End of Drive Sequence has four stages that must be followed in order. If the game hasn't finished and there is going to be another Drive then, after completing the End of Drive Sequence, Coaches will proceed to Restart the Game as explained [opposite](#restarting-the-game).
 
 1. Deal with Secret Weapons
 2. End of Drive Effects
@@ -902,7 +902,7 @@ If a Coach fielded any players with the Secret Weapon Trait during the current D
 #### END OF DRIVE EFFECTS
 
 Any special rules or effects that trigger at the end of a Drive (such as any weather effects) will happen now.
-If there are multiple effects that happen during this stage, then resolve any effects as a result of the Weather Table first before resolving any others. If there are still multiple effects that happen during this stage, randomly determine which one happens first.
+If there are multiple effects that happen during this stage, then resolve any effects as a result of the [Weather Table](#weather-table) first before resolving any others. If there are still multiple effects that happen during this stage, randomly determine which one happens first.
 
 #### RECOVER KNOCKED-OUT PLAYERS
 
@@ -910,7 +910,7 @@ If either Coach has any Knocked-out players in the Knocked-out Box of their Dugo
 
 #### THE DRIVE ENDS
 
-The Drive comes to an end. Any effects that last until the end of a Drive will expire now. If there is going to be another Drive, Coaches will progress to Restarting the Game (below). If not, then Coaches will progress to Ending the Game (opposite).
+The Drive comes to an end. Any effects that last until the end of a Drive will expire now. If there is going to be another Drive, Coaches will progress to Restarting the Game (below). If not, then Coaches will progress to Ending the Game ([opposite](#ending-the-game)).
 
 ### RESTARTING THE GAME
 

@@ -83,7 +83,53 @@ If your team lost, roll a D6. If the result is lower than your team's Dedicated 
 
 If your team drew, your team's Dedicated Fans Characteristic remains the same.
 
-### ADVANCEMENT TABLE
+## PLAYER ADVANCEMENT
+
+During the course of a league, the players on your team will gain experience from their efforts on the pitch. This will allow each to improve, adapt to new plays, and will allow them to gain new skills, adapt to new plays, and potentially even improve their own attributes. In-game, this is done by accumulating Star Player Points, which can be gained by accomplishing certain feats within the game. These Star Player Points can then be spent in order to give a player a new Skill, or even improve one of their Characteristics. Over the course of a league, you will see your players develop and potentially even hit legendary status as they forge their own legacies on the gridiron!
+
+### RECORDING STAR PLAYER POINTS
+
+On your Team Draft List there is a section to keep track of the number of Star Player Points (SPP) that each player has saved up. At the end of each game you should add any SPP that a player has earned to their tally in this section, so it's important to keep track of every time a player does something that generates SPP during a game.
+
+It’s also important to note that Star Players do not generate SPP at all during the course of a game. Journeymen, however, do generate SPP, which will be important to consider when you get the option to hire them later on in the Post-game Sequence.
+
+### EARNING STAR PLAYER POINTS
+
+Whether it's for scoring a Touchdown, causing a Casualty on an opposition player, or for being chosen as the Most Valuable Player of the match, there are a number of ways that players can generate SPP during a game. What follows are all the standard ways of generating SPP; however, there may also be some other more niche situations that will generate SPP in certain circumstances. Where that is the case, it will be stated in the associated rule.
+
+#### COMPLETION
+
+When a player makes a Pass Action that results in an Accurate Pass, and is successfully caught by a team-mate without the ball hitting the ground and Bouncing, this is called a Completion. A player who makes a Completion gains 1 SPP.
+
+#### THROW TEAM-MATE
+
+When a player makes a Throw Team-mate Action that results in a Superb Throw, and the thrown team-mate successfully lands on their feet, the player who made the Throw Team-mate Action gains 1 SPP.
+
+Additionally, if a player is thrown by a team-mate and successfully lands safely, they will also gain 1 SPP for landing safely, regardless of the type of throw.
+
+#### INTERCEPTION
+
+Should a player successfully Intercept a Pass Action made by an opposition player, the player that made the Interception will gain 2 SPP.
+
+#### CASUALTY
+
+If a player is Knocked Down as a result of a Block Action and suffers a Casualty, regardless of which player performed the Block Action, then the player that knocked them down is said to have caused a Casualty. A player that causes a Casualty will gain 2 SPP.
+
+A player will still gain the 2 SPP even if both players were Knocked Down and suffer a Casualty, and will still gain the 2 SPP even if the Casualty is recovered by any means – such as an Apothecary or the Regeneration Trait. Casualties caused by other methods, such as Secret Actions or by Injury by the Crowd do not generate SPP.
+
+#### TOUCHDOWN
+
+When a player scores a Touchdown, they are awarded 3 SPP. If your team is awarded Touchdowns as a result of an opposing team Conceding, then you may allocate the SPP for any Touchdowns scored to players of your choice on your team.
+
+#### MOST VALUABLE PLAYER
+
+At the end of each game you will need to determine who your Most Valuable Player (MVP) for the game was. To do this, each Coach nominates six players on their team that played during the match and assigns them a number between 1 and 6. They then roll a D6 to determine which of them is given the MVP award. The player that is given the MVP award generates 4 SPP.
+
+### SPENDING STAR PLAYER POINTS
+
+After all SPP have been assigned following a game, players are then able to spend them in order to gain an advancement – either on new Skills or to improve their Characteristics. The number of SPP that it will cost a player to gain an advancement will depend on the number of advancements the player already has, and the type of advancement they wish to purchase. Players do not have to spend their SPP as soon as they are able to; they are free to save them up should they wish. However, should a player accumulate enough SPP to improve a Characteristic (as shown by the Advancement Table on [page 97](#advancement-table)) then they must take an advancement; though this does not have to be a Characteristic improvement if they don't want it to be.
+
+#### ADVANCEMENT TABLE
 
 |                          | RANDOMLY SELECT A PRIMARY SKILL | CHOOSE A PRIMARY SKILL | CHOOSE A SECONDARY SKILL | CHARACTERISTIC IMPROVEMENT |
 |--------------------------|----------------------------------|-------------------------|----------------------------|------------------------------|
@@ -96,7 +142,7 @@ If your team drew, your team's Dedicated Fans Characteristic remains the same.
 
 ### NEW SKILLS
 
-Each player's profile will have a section listed as Primary and one as Secondary. These are the Skill categories they can take Skills from as per the Advancement Table above, with a player's Primary Skills being easier to learn and costing less SPP, whilst a player's Secondary Skills are harder to learn and will cost more SPP. Not every player can take Skills from every category, and many will not have access to some categories at all. On a player's profile the categories they can take Skills from will be presented as a series of letters as follows:
+Each player's profile will have a section listed as Primary and one as Secondary. These are the Skill categories they can take Skills from as per the [Advancement Table](#advancement-table) above, with a player's Primary Skills being easier to learn and costing less SPP, whilst a player's Secondary Skills are harder to learn and will cost more SPP. Not every player can take Skills from every category, and many will not have access to some categories at all. On a player's profile the categories they can take Skills from will be presented as a series of letters as follows:
 
 - **A** - Agility Skills
 - **D** - Devious Skills
@@ -105,13 +151,13 @@ Each player's profile will have a section listed as Primary and one as Secondary
 - **P** - Passing Skills
 - **S** - Strength Skills
 
-Choosing a Skill is simple. Select the Skill category the player would like to take a Skill from, and decide if they are generating one randomly (for less SPP as shown in the Advancements Table) or if they are choosing one. Then deduct the required amount of SPP from those accumulated on the player's profile.
+Choosing a Skill is simple. Select the Skill category the player would like to take a Skill from, and decide if they are generating one randomly (for less SPP as shown in the [Advancements Table](#advancement-table)) or if they are choosing one. Then deduct the required amount of SPP from those accumulated on the player's profile.
 
 Additionally, some Skills will be listed as Elite Skills. If a player gains an Elite Skill, increase their value by an additional 10,000 gold pieces.
 
 If the player is choosing a Skill, simply select the desired Skill from the category and add it to the player's profile on your Team Draft List.
 
-If the player is randomly choosing a Skill, select the category they wish to roll from and roll two D6, one after the other, and consult the Skill Table on page 121. The first roll will determine which part of the Skill Table you are rolling on, and the second roll will determine the Skill your player receives. Do this twice, and then choose which of the two randomly rolled Skills you wish your player to receive. If you roll the same Skill both times, you must choose that one (if able). Record the newly gained Skill on your player's profile.
+If the player is randomly choosing a Skill, select the category they wish to roll from and roll two D6, one after the other, and consult the Skill Table on [page 121](./skills_and_traits.md#skill-table). The first roll will determine which part of the Skill Table you are rolling on, and the second roll will determine the Skill your player receives. Do this twice, and then choose which of the two randomly rolled Skills you wish your player to receive. If you roll the same Skill both times, you must choose that one (if able). Record the newly gained Skill on your player's profile.
 
 Players may not select a Skill that they already have or one they are unable to use due to their other Skills. Should a player randomly roll a Skill they already have, or one they cannot use, simply roll again to determine a new Skill for that player.
 
@@ -167,7 +213,7 @@ To do so, follow the steps below in order:
 
 ### TEMPORARILY RETIRING
 
-Should a player suffer a Lasting Injury result on the Casualty Table, their Coach may decide to give them the rest of the season off in order to recover, in which case the player will be considered to be Temporarily Retiring (TR) - make a note of this on your Team Draft List. Taking some time off may benefit the Temporarily Retiring player later on, should the Coach decide to re-draft their team for a future season.
+Should a player suffer a Lasting Injury result on the [Casualty Table](./the_game_of_blood_bowl.md#casualty-table), their Coach may decide to give them the rest of the season off in order to recover, in which case the player will be considered to be Temporarily Retiring (TR) - make a note of this on your Team Draft List. Taking some time off may benefit the Temporarily Retiring player later on, should the Coach decide to re-draft their team for a future season.
 
 A player that is Temporarily Retiring plays no further part in the season, though is not deleted from the Team Draft List. They will still count towards the maximum number of 16 players allowed on the Team Draft List. The Current Value of a Temporarily Retiring player is not included when working out a team's Current Team Value.
 
@@ -262,7 +308,7 @@ After each League Fixture, both teams must go through the Post-game Sequence as 
 ### FRIENDLIES
 Some Coaches may wish to play Friendly games against other Coaches to gain practice or just get in some more Blood Bowl. This is perfectly acceptable, though there are a few things to note in regards to Friendly games.
 
-A Friendly game will award no Star Player Points of any kind, no League Points and will generate no Winnings. Additionally, any player that suffers a Casualty will automatically count as having rolled Badly Hurt on the Casualty Table. Finally, any players that were scheduled to miss a team's next game will still count as missing the team's next game.
+A Friendly game will award no Star Player Points of any kind, no League Points and will generate no Winnings. Additionally, any player that suffers a Casualty will automatically count as having rolled Badly Hurt on the [Casualty Table](./the_game_of_blood_bowl.md#casualty-table). Finally, any players that were scheduled to miss a team's next game will still count as missing the team's next game.
 
 Essentially, Friendly games have no impact on a league and cannot be used in order for a Coach to recover their team or gain an advantage within their Division.
 

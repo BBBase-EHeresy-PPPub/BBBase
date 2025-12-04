@@ -88,14 +88,14 @@ Team mascots are incredibly popular, with many fans delighted to see their whims
 
 A team with a Team Mascot gains an additional Team Re-roll for each half. However, whenever the team wishes to use this Team Re-roll, they must first roll a D6. On a 4+, the Team Re-roll may be used as normal. On a 1-3, the Team Re-roll is lost for this half. Another Team Re-roll can be used instead.
 
-Additionally, a team with a Team Mascot can re-roll any rolls of a natural 1 when rolling the D6 for the Cheering Fans result on the Kick-off Event Table.
+Additionally, a team with a Team Mascot can re-roll any rolls of a natural 1 when rolling the D6 for the Cheering Fans result on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 ### 0-1 WEATHER MAGE
 **25,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
 The weather is unpredictable at the best of times, and some stadium owners will pay good money to hire a mage that can control the weather - ensuring that fans are kept warm, dry and happy whilst also making sure that the weather is beneficial for their team on the pitch!
 
-Once per game, at the start of any of your Turns, you may immediately add +1 or -2 to the Weather Table. The resulting weather modifications are applied immediately and will last until the next time a Changing Weather result is rolled on the Kick-off Event Table.
+Once per game, at the start of any of your Turns, you may immediately add +1 or -2 to the [Weather Table](./the_game_of_blood_bowl.md#weather-table). The resulting weather modifications are applied immediately and will last until the next time a Changing Weather result is rolled on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 ### 0-2 BLITZER'S BEST KEGS
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM**

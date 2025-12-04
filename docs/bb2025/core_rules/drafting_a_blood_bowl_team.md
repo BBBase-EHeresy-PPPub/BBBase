@@ -2,11 +2,11 @@ Now that you know how to play a game, it's time to explain how to put together y
 
 ## TEAM ROSTERS
 
-There are a number of different Team Rosters that you can choose from, which can be found on pages 160-188. Each of these will have a number of important bits of information; from which players can be taken in that team, the profiles of those players including their Hiring Fee, the cost of Team Re-rolls, any Special Rules the team has, what Leagues the team can play for, and more.
+There are a number of different Team Rosters that you can choose from, which can be found on [pages 160-188](../teams/index.md). Each of these will have a number of important bits of information; from which players can be taken in that team, the profiles of those players including their Hiring Fee, the cost of Team Re-rolls, any Special Rules the team has, what Leagues the team can play for, and more.
 
 ### TEAM DRAFT LISTS
 
-When you are drafting your team, you will need to complete a Team Draft List as you do so. This contains space to record each of your hired players, their name, position, Hiring Fee and player profile. There is also space for recording their Star Player Points (SPP), which are used for the player's advancement - don't worry about this for now, we'll cover player advancement later on page 96. The Current Value of a player is equal to their Hiring Fee plus any Value Increase they have had as a result of player advancement.
+When you are drafting your team, you will need to complete a Team Draft List as you do so. This contains space to record each of your hired players, their name, position, Hiring Fee and player profile. There is also space for recording their Star Player Points (SPP), which are used for the player's advancement - don't worry about this for now, we'll cover player advancement later on [page 96](./league_play.md#player-advancement). The Current Value of a player is equal to their Hiring Fee plus any Value Increase they have had as a result of player advancement.
 
 There is also space for information such as if the player is needing to miss their next game (MNG) or if they have any Niggling Injuries (NI). These are only used for League Play, which we will cover later.
 
@@ -38,7 +38,7 @@ A team must have at least 11 players on their Team Draft List when it is first d
 
 A team may never have more than 16 players on their Team Draft List.
 
-In League Play you may find your team in a situation where they have less than 11 players on their Team Draft List either due to players being injured or worse, dying. This is allowed, though not ideal, and will be covered later on page 94.
+In League Play you may find your team in a situation where they have less than 11 players on their Team Draft List either due to players being injured or worse, dying. This is allowed, though not ideal, and will be covered later on [page 94](./league_play.md#take-on-journeymen).
 
 **PLAYER POSITIONS**
 
@@ -64,7 +64,7 @@ In each player's profile they will have a number of keywords, one of which will 
 
 Any team may purchase Team Re-rolls, the cost of which may vary and will be outlined in each team's specific Team Roster. Teams may purchase a maximum of 8 Team Re-rolls, though they may never have more than 8 Team Re-rolls on their Team Draft Roster.
 
-In League Play, if a team wishes to purchase a Team Re-roll during the course of a league rather than at the start, then it will cost double the usual amount of gold pieces in order to do so, though it will still count as its usual value when it comes to working out a team's Current Team Value (CTV) (see opposite).
+In League Play, if a team wishes to purchase a Team Re-roll during the course of a league rather than at the start, then it will cost double the usual amount of gold pieces in order to do so, though it will still count as its usual value when it comes to working out a team's Current Team Value (CTV) (see [opposite](#team-value)).
 
 ### HIRING SIDELINE STAFF
 
@@ -74,13 +74,13 @@ Many Sideline Staff can be vital for helping out their team, offering assistance
 
 A team may hire up to a maximum of 6 Assistant Coaches. Each Assistant Coach costs 10,000 gold pieces to hire. During the course of a league, additional Assistant Coaches may be hired for the same cost. A team may never have more than 6 Assistant Coaches on its Team Draft Roster.
 
-Assistant Coaches benefit a team during the Brilliant Coaching result on the Kick-off Event Table, as described on page 48.
+Assistant Coaches benefit a team during the Brilliant Coaching result on the Kick-off Event Table, as described on [page 48](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 #### CHEERLEADERS
 
 A team may hire up to a maximum of 6 Cheerleaders. Each Cheerleader costs 10,000 gold pieces to hire. During the course of a league, additional Cheerleaders may be hired for the same cost. A team may never have more than 6 Cheerleaders on its Team Draft Roster.
 
-Cheerleaders will benefit their team during the Cheering Fans result on the Kick-off Event Table, as described on page 48.
+Cheerleaders will benefit their team during the Cheering Fans result on the Kick-off Event Table, as described on [page 48](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 #### APOTHECARY
 
@@ -88,7 +88,7 @@ Most teams may hire an Apothecary who can attempt to patch up an injured player 
 
 A team can only ever have a single Apothecary on its Team Draft Roster. An Apothecary costs a team 50,000 gold pieces to hire.
 
-The effect of an Apothecary is described on page 68.
+The effect of an Apothecary is described on [page 68](./the_game_of_blood_bowl.md#apothecaries).
 
 ### OTHER INFORMATION
 
@@ -106,7 +106,7 @@ In League Play, your Dedicated Fans Characteristic can change after each game de
 
 After you have drafted your team, any gold pieces left over are recorded in your team's Treasury. In Exhibition Play and Matched Play games, this has no effect and so in those game types it's always best to spend all of your gold pieces if possible.
 
-In League Play, this is where you record the amount of gold pieces your team amasses during the course of the league. Winnings are added to your Treasury and should you decide to purchase more players, Team Re-rolls or Sideline Staff, you will do so from your Treasury. We will cover this fully in the League Play section later on page 94.
+In League Play, this is where you record the amount of gold pieces your team amasses during the course of the league. Winnings are added to your Treasury and should you decide to purchase more players, Team Re-rolls or Sideline Staff, you will do so from your Treasury. We will cover this fully in the League Play section later on [page 94](./league_play.md#league-play-rules).
 
 #### TEAM VALUE
 
@@ -114,5 +114,5 @@ The final thing to do when drafting your team is to work out its Team Value and 
 
 A team's Team Value (TV) is worked out by adding up the Current Value of all the players on the team, plus the cost of any Sideline Staff and Team Re-rolls the team has. Dedicated Fans and gold pieces in a team's Treasury are not included when working out a team's Team Value.
 
-A team's Current Team Value (CTV) is only used in League Play, and is equal to the team's Team Value minus the Current Value of any players that are unable to play in the next game, such as those that suffered a Miss Next Game result on the Casualty Table.
+A team's Current Team Value (CTV) is only used in League Play, and is equal to the team's Team Value minus the Current Value of any players that are unable to play in the next game, such as those that suffered a Miss Next Game result on the [Casualty Table](./the_game_of_blood_bowl.md#casualty-table).
 

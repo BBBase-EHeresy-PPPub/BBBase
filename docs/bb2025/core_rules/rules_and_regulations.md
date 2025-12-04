@@ -182,39 +182,39 @@ Each player has a series of Characteristics, Skills and Traits that collectively
 
 ![](../media/core_rules/player_profile.jpg)
 
-**1. PLAYER'S NAME**
+#### 1. PLAYER'S NAME
 
 Simply put, this is the name of the player type and is used to determine which profile is being talked about.
 
-**2. KEYWORDS**
+#### 2. KEYWORDS
 
 These are the keywords the player has. Here we can see that this profile has the Human and Blitzer keywords.
 
-**3. QTY - QUANTITY**
+#### 3. QTY - QUANTITY
 
 This denotes how many of this player type can be taken in a team. For example, if a player type has a Quantity of 0-2, then no more than two of that player type can be taken in a team.
 
-**4. COST**
+#### 4. COST
 
 This is how many gold pieces it will cost to hire this player to your Team Roster. This is also known as the player's Hiring Fee.
 
-**5. MA - MOVE ALLOWANCE**
+#### 5. MA - MOVE ALLOWANCE
 
 This is the number of squares the player can move during a Move Action. Move Actions are covered fully on page 54.
 
-**6. ST - STRENGTH**
+#### 6. ST - STRENGTH
 
 This is how physically strong the player is. The higher the value, the stronger the player is. Strength is used during a Block Action, which is detailed on page 60.
 
-**7. AG - AGILITY**
+#### 7. AG - AGILITY
 
 This is how agile the player is, and is represented by a target number (e.g., 3+). If the player is ever required to make an Agility Test, then they will need to roll a D6 and compare the value to their Agility Characteristic to see if the test is passed or failed.
 
-**8. PA - PASSING ABILITY**
+#### 8. PA - PASSING ABILITY
 
 This is how good the player is at throwing the ball and is represented by a target number (e.g., 3+). If the player is ever required to make a Passing Ability Test, then they will need to roll a D6 and compare the value to their Passing Ability Characteristic to see if the test is passed.
 
-**9. AV - ARMOUR VALUE**
+#### 9. AV - ARMOUR VALUE
 
 Armour Value represents how tough the player is, and is represented by a target number (e.g., 9+). This may be down to the protective gear the player wears, or their natural resilience to taking a hit - or a little bit of both!
 
@@ -227,7 +227,7 @@ Characteristics have a maximum and minimum value, and they can never be improved
 | MAXIMUM        | 9  | 8  | 1+ | 1+ | 11+ |
 | MINIMUM        | 1  | 1  | 6+ | 6+ | 3+ |
 
-**10. SKILLS & TRAITS**
+#### 10. SKILLS & TRAITS
 
 Skills and Traits represent the various abilities a player has at their disposal during the course of a game.
 
@@ -235,7 +235,7 @@ Skills are abilities taught to the player through hard work and practice, such a
 
 Traits are those innate things that simply cannot be taught and are inherent to the individual that bears them. Traits can be either positive, or in some instances negative, though they cannot usually be gained by other players over the course of a league.
 
-**11. PRIMARY & SECONDARY**
+#### 11. PRIMARY & SECONDARY
 
 Over the course of a league, players may have the opportunity to gain new Skills to add to their repertoire. These sections show which type of Skills suit the player's strengths and are therefore easier to learn (Primary) and which will take that added time and effort to be taught (Secondary).
 

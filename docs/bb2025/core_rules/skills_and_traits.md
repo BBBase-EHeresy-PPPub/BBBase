@@ -661,7 +661,7 @@ When this player attempts to Dodge, they do not suffer any negative modifiers to
 
 Additionally, this player applies a -1 modifier to the Agility Test when attempting to Intercept the ball.
 
-A player with this Trait is more prone to injury and so if an Injury Roll is made for them, roll on the Stunty Injury Table instead.
+A player with this Trait is more prone to injury and so if an Injury Roll is made for them, roll on the [Stunty Injury Table](./the_game_of_blood_bowl.md#stunty-injury-table) instead.
 
 #### SWOOP (ACTIVE)
 

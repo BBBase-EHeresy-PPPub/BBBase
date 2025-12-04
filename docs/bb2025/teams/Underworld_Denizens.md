@@ -3,8 +3,6 @@
 
 ### Positionals
 
-### Positionals
-
 | Qty  | Position                               | MA  | ST  | AG  | PA  | AV  | Skills & Traits                                                                                                                                | Primary | Secondary | Cost |
 | ---- | -------------------------------------- | --- | --- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Goblin Lineman *(Goblin, Lineman)*     | 6   | 2   | 3+  | 4+  | 8+  | • [Dodge]<br>• [Right Stuff]<br>• [Stunty]                                                                                                     | A D M   | G P S     | 40K  |

@@ -29,8 +29,6 @@
 
 ### Star Players
 
-### Star Players
-
 * [Akhorne the Squirrel] - 80K
 * [Fungus the Loon] - 80K
 * [Bomber Dribblesnot] - 80K

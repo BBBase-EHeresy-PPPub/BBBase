@@ -68,7 +68,7 @@ Blood Bowl also uses three unique templates that help with different aspects of 
 
 #### RANDOM DIRECTION TEMPLATE
 
-This template is used whenever something is required to Scatter or Deviate, as described on page 34. It is placed next to the pitch so that both Coaches can easily see it and so that it corresponds to the grid on the pitch. Whenever something requires the Random Direction Template, such as when Scattering or Deviating, roll a D8 and move the object to the square corresponding to the roll as shown in the diagram below:
+This template is used whenever something is required to Scatter or Deviate, as described on [page 34](./rules_and_regulations.md#deviate-and-scatter). It is placed next to the pitch so that both Coaches can easily see it and so that it corresponds to the grid on the pitch. Whenever something requires the Random Direction Template, such as when Scattering or Deviating, roll a D8 and move the object to the square corresponding to the roll as shown in the diagram below:
 
 ![](../media/core_rules/random_direction_template.jpg)
 
@@ -82,7 +82,7 @@ When using the Throw-in Template, place the Blood Bowl logo over the square the 
 
 ### RANGE RULER
 
-The Range Ruler is used primarily during a Pass Action or a Throw Team-mate Action to determine the range of a Pass, or to see if any opposition players are able to attempt to Intercept the ball. The number of stitches on the ball in each section of the Range Ruler determines the type of Pass a player will attempt to throw the ball that far, as described on page 70.
+The Range Ruler is used primarily during a Pass Action or a Throw Team-mate Action to determine the range of a Pass, or to see if any opposition players are able to attempt to Intercept the ball. The number of stitches on the ball in each section of the Range Ruler determines the type of Pass a player will attempt to throw the ball that far, as described on [page 70](./the_game_of_blood_bowl.md#pass-actions).
 
 ![](../media/core_rules/range_ruler.jpg)
 
@@ -144,7 +144,7 @@ Only a single player can declare a Blitz Action each turn (see page 64), and so 
 
 ![](../media/core_rules/dodgy_snack_token.jpg)
 
-When the Dodgy Snack result is rolled on the Kick-off Event Table (see page 48), it's a good idea to mark the affected players with these tokens so both coaches remember who is suffering the effects!
+When the Dodgy Snack result is rolled on the Kick-off Event Table (see [page 48](./the_game_of_blood_bowl.md#kick-off-event-table)), it's a good idea to mark the affected players with these tokens so both coaches remember who is suffering the effects!
 
 ### EYE GOUGE TOKEN - PURPLE
 

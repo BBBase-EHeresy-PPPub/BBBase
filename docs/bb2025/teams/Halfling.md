@@ -24,8 +24,6 @@
 
 ### Star Players
 
-### Star Players
-
 * [Rodney Roachbait] - 70K  
 * [Akhorne The Squirrell] - 80K  
 * [Cindy Piewhistle] - 100K  

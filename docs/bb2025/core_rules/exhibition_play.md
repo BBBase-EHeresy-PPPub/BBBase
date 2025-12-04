@@ -4,7 +4,7 @@ The flexible nature of Exhibition Play is perfect for Coaches who want to try so
 
 ## DRAFTING AN EXHIBITION PLAY TEAM!
 
-Drafting an Exhibition Play team works in the same way as drafting a team for Matched Play as described on page 110, ensuring that both Coaches have an equally balanced Team Draft List to the same amount of gold pieces. Of course, in Exhibition Play you are free to tweak certain elements of this however you wish in order to fit your desired narrative.
+Drafting an Exhibition Play team works in the same way as drafting a team for Matched Play as described on [page 110](./matched_play.md#drafting-a-matched-play-team), ensuring that both Coaches have an equally balanced Team Draft List to the same amount of gold pieces. Of course, in Exhibition Play you are free to tweak certain elements of this however you wish in order to fit your desired narrative.
 
 We would recommend that both teams are still built to the same cost, and that both Coaches are fully aware of and agree to whatever changes are being made to the process when drafting their teams.
 
