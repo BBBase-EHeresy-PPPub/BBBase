@@ -16,7 +16,7 @@
 * [Plague Ridden]
 * **Quick Bite**
 
-Once per game, if Guffle is making an opposition player who catches the ball, he may immediately attempt an Armour Roll against that player. If the target's armour is broken, Guffle immediately gains possession of the ball. This may not be used as a result of using this special rule.
+Once per game, if Guffle is making an opposition player who catches the ball, he may immediately attempt an Armour Roll against that player. If the target's armour is broken, Guffle immediately gains possession of the ball. No Turnover is caused as a result of using this special rule.
 
 ### Plays For
 

@@ -35,7 +35,7 @@
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Lord Borak the Despoiler] - 270K
-* [H'Tarkh the Unstoppable] - 300K
+* [H'Thark the Unstoppable] - 300K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements
