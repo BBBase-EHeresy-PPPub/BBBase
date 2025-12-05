@@ -20,4 +20,4 @@ Star Players can only play for teams that have the same League as them. In some 
 
 Each Star Player profile will also have a cost in gold pieces that a team must pay to hire them, as well as their own unique special rule that they can use during the game.
 
-In League Play, Star Players can be hired as Inducements as described on page 142. In Matched Play or Exhibition Play, Star Players can be hired with gold pieces from a Team Draft Budget, and using Skill Points, as described on page 112.
+In League Play, Star Players can be hired as Inducements as described on [page 142](../core_rules/inducements.md#purchasing-inducements). In Matched Play or Exhibition Play, Star Players can be hired with gold pieces from a Team Draft Budget, and using Skill Points, as described on [page 113](../core_rules/matched_play.md#star-players).

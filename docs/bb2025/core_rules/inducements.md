@@ -4,41 +4,41 @@ Whether this is a healthy supply of Bugman's Ale to keep their players refreshed
 
 **INDUCEMENTS IN LEAGUE PLAY**
 
-As described on page 94, Inducements in League Play are purchased using Petty Cash, a team's Treasury, or sometimes a mixture of both. Working out what Inducements a team can take is done during the Pre-game Sequence.
+As described on [page 94](./league_play.md#inducements), Inducements in League Play are purchased using Petty Cash, a team's Treasury, or sometimes a mixture of both. Working out what Inducements a team can take is done during the Pre-game Sequence.
 
 **INDUCEMENTS IN MATCHED PLAY AND EXHIBITION PLAY**
 
-As described on pages 110 and 116, Inducements in Matched Play and Exhibition Play are purchased out of a team's Team Draft Budget.
+As described on [page 110](./matched_play.md#inducements-in-matched-play) and [page 116](./exhibition_play.md#drafting-an-exhibition-play-team), Inducements in Matched Play and Exhibition Play are purchased out of a team's Team Draft Budget.
 
 ## PURCHASING INDUCEMENTS!
 
 Over the next few pages we are going to list the common Inducements that are available in Blood Bowl. Other Blood Bowl publications may also include additional Inducements, and you should check with your League Commissioner, Tournament Organiser, or regular opponent if you are planning on using any such additional Inducements to see what they are permitting.
 
-Each Inducement will have a cost, which is the amount of gold pieces required to purchase that Inducement, and will state the number of them that can be taken (e.g., 0-2). They will also state which teams they can be taken by. Sometimes, this will require a team to have a particular special rule if they wish to purchase the Inducement. Team special rules are explained later on page 154.
+Each Inducement will have a cost, which is the amount of gold pieces required to purchase that Inducement, and will state the number of them that can be taken (e.g., 0-2). They will also state which teams they can be taken by. Sometimes, this will require a team to have a particular special rule if they wish to purchase the Inducement. Team special rules are explained later on [page 154](./the_teams.md#special-rules).
 
 Some Inducements may also be cheaper for certain teams, or teams with specific special rules.
 
 ### COMMON INDUCEMENTS
 Below is a list of the common Inducements and their associated costs for easy reference. They will each be explained over the next few pages.
 
-- 0-3 Prayers to Nuffle - 10,000 gold pieces
-- 0-5 Part-time Assistant Coaches - 20,000 gold pieces
-- 0-5 Temp Agency Cheerleaders - 5,000 gold pieces
-- 0-1 Team Mascot - 25,000 gold pieces
-- 0-1 Weather Mage - 25,000 gold pieces
-- 0-2 Blitzer's Best Kegs - 50,000 gold pieces
-- 0-3 Bribes (0-6 for teams with the Bribery and Corruption special rule) - 100,000 gold pieces (50,000 gold pieces for teams with the Bribery and Corruption special rule)
-- 0-8 Extra Team Training - 100,000 gold pieces
-- 0-1 Mortuary Assistant - 100,000 gold pieces (teams with the Masters of Undeath special rule only)
-- 0-1 Plague Doctor - 100,000 gold pieces (teams with the Favoured of Nurgle special rule only)
-- 0-1 Riotous Rookies - 150,000 gold pieces (teams with the Low Cost Linemen special rule only)
-- 0-2 Wandering Apothecary - 100,000 gold pieces (not available to teams that cannot hire an Apothecary)
-- 0-1 Halfling Master Chef - 300,000 gold pieces (100,000 gold pieces for Halfling teams)
-- 0-1 Biased Referee - price varies
-- 0-1 Infamous Coaching Staff - price varies
-- 0-3 Mercenary Players - price varies
-- 0-2 Star Players - price varies
-- 0-1 Wizard - price varies
+- 0-3 [Prayers to Nuffle] - 10,000 gold pieces
+- 0-5 [Part-time Assistant Coaches][Part-time Assistant Coach] - 20,000 gold pieces
+- 0-5 [Temp Agency Cheerleaders][Temp Agency Cheerleader] - 5,000 gold pieces
+- 0-1 [Team Mascot] - 25,000 gold pieces
+- 0-1 [Weather Mage] - 25,000 gold pieces
+- 0-2 [Blitzer's Best Kegs][Blitzer's Best Keg] - 50,000 gold pieces
+- 0-3 [Bribes][Bribe] (0-6 for teams with the Bribery and Corruption special rule) - 100,000 gold pieces (50,000 gold pieces for teams with the Bribery and Corruption special rule)
+- 0-8 [Extra Team Training] - 100,000 gold pieces
+- 0-1 [Mortuary Assistant] - 100,000 gold pieces (teams with the Masters of Undeath special rule only)
+- 0-1 [Plague Doctor] - 100,000 gold pieces (teams with the Favoured of Nurgle special rule only)
+- 0-1 [Riotous Rookies] - 150,000 gold pieces (teams with the Low Cost Linemen special rule only)
+- 0-2 [Wandering Apothecary] - 100,000 gold pieces (not available to teams that cannot hire an Apothecary)
+- 0-1 [Halfling Master Chef] - 300,000 gold pieces (100,000 gold pieces for Halfling teams)
+- 0-1 [Biased Referee] - price varies
+- 0-1 [Infamous Coaching Staff] - price varies
+- 0-3 [Mercenary Players][Mercenary Player] - price varies
+- 0-2 [Star Players](#0-2-star-players) - price varies
+- 0-1 [Wizard] - price varies
 
 ### 0-3 PRAYERS TO NUFFLE
 **10,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
@@ -219,7 +219,7 @@ It is possible for both teams to hire the same Star Player in which case both te
 
 Star Players cannot earn Star Player Points, be awarded MVPs, or have Casualty Rolls made against them automatically waived at the end of the game - Star Players are wealthy enough to pay for the very best medical treatment and insurance spells!
 
-The list of Star Players can be found on pages 193-196. Each Star Player profile will explain which teams can hire them and how many gold pieces they will cost to hire. Additional Star Players can be found at warhammer-community.com.
+The list of Star Players can be found on [pages 193-196](../starplayers/index.md). Each Star Player profile will explain which teams can hire them and how many gold pieces they will cost to hire. Additional Star Players can be found at warhammer-community.com.
 
 ### 0-1 WIZARD
 **PRICE VARIES, AVAILABLE TO ANY TEAM**

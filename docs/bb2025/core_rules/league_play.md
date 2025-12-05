@@ -30,7 +30,7 @@ Journeymen will still count towards a team's Current Team Value for a game, so a
 
 Before any League Fixture, teams are allowed to spend gold pieces from their Treasury or Petty Cash in order to buy Inducements to help their team out. These are then recorded on a team's Game Record Sheet. The process works as follows:
 
-If one team has a lower CTV (see page 91) (including the value of any Journeymen) then it will be given Petty Cash to spend on Inducements. To work out how much Petty Cash a team will receive, follow the steps below in order:
+If one team has a lower CTV (see [page 91](./drafting_a_blood_bowl_team.md#team-value)) (including the value of any Journeymen) then it will be given Petty Cash to spend on Inducements. To work out how much Petty Cash a team will receive, follow the steps below in order:
 
 - First, the team with the higher CTV gets the opportunity to spend any gold pieces from their Treasury to purchase any Inducements.
 - After this has been resolved, the team with the lower CTV gets an amount of Petty Cash equal to the difference in CTV between the two teams, plus an amount equal to the amount of gold the other team spent from its Treasury.
@@ -39,7 +39,7 @@ If one team has a lower CTV (see page 91) (including the value of any Journeymen
 
 **For example:** Jay is playing Dan in a League Fixture. The CTV of Jay's team is 1,240,000 whilst the CTV of Dan's team is 1,160,000. As Jay has the higher CTV, he gets to spend gold pieces from his Treasury first, and decides to purchase a Blitzer's Best Keg for 50,000 gold pieces. Dan will then gain Petty Cash of 80,000 (the difference between the two teams' CTVs) plus 50,000 (the amount that Jay spent), and decides to add 10,000 from his Treasury, for a total of 140,000 gold pieces.
 
-The list of Inducements, how many of each Inducement can be purchased, and which teams can purchase them, can be found on page 142.
+The list of Inducements, how many of each Inducement can be purchased, and which teams can purchase them, can be found on [page 142](./inducements.md#purchasing-inducements).
 
 ### POST-GAME SEQUENCE
 
@@ -60,8 +60,8 @@ Each Coach will need to record the outcome of the game on their Game Record Shee
 
 - The result, either Win, Loss or Draw
 - How many Touchdowns each team scored
-- How many Casualties each team caused, counting only those that earned Star Player Points (see page 96)
-- How many League Points were earned (see page 103)
+- How many Casualties each team caused, counting only those that earned Star Player Points (see [page 96](#earning-star-player-points))
+- How many League Points were earned (see [page 103](#league-scoring))
 
 Next, Coaches will need to work out how many gold pieces their team gained as Winnings. To work out a team's Winnings you will need to start by working out the Fan Attendance, which is worked out by adding the Fan Factors of both teams together.
 
@@ -177,7 +177,7 @@ If a player elects to spend their SPP on improving a Characteristic, then they d
 | 7  | Improve the player's AG or ST by 1. |
 | 8  | Improve a Characteristic of your choice by 1. |
 
-Should a player not wish to take the Characteristic Improvement they have rolled, they can choose to select a Primary or Secondary Skill instead; however, the SPP spent for making a Characteristic Improvement roll is still spent. Remember that a Characteristic can never be improved more than twice or above its maximum value as shown on page 37.
+Should a player not wish to take the Characteristic Improvement they have rolled, they can choose to select a Primary or Secondary Skill instead; however, the SPP spent for making a Characteristic Improvement roll is still spent. Remember that a Characteristic can never be improved more than twice or above its maximum value as shown on [page 37](./rules_and_regulations.md#player-profiles-and-characteristic-tests).
 
 When improving a player's MA or ST, simply increase the number by 1. When improving a player's AG or PA, reduce the number in front of the + sign by 1. When improving a player's AV, increase the number in front of the + sign by 1.
 
@@ -286,7 +286,7 @@ When running a league, the first thing you will require is a League Commissioner
 When running a league, you will need at least four teams though there is no limit on how many teams your league can have - though the more teams, the more work for the League Commissioner! At the start of a league, each Coach will need to submit their Team Draft List to the League Commissioner to check and approve before the league starts.
 
 ### SEASONS
-The duration of a league is known as a Season, and is split into the Regular Season and the Play-offs. A league may have only a single Season, or may run for multiple Seasons, in which case the League Commissioner may decide that Coaches can Re-draft their teams during the Off-season Break. We'll cover this on page 106.
+The duration of a league is known as a Season, and is split into the Regular Season and the Play-offs. A league may have only a single Season, or may run for multiple Seasons, in which case the League Commissioner may decide that Coaches can Re-draft their teams during the Off-season Break. We'll cover this on [page 106](#re-draft-team).
 
 ### DIVISIONS
 Once the League Commissioner knows how many teams will be participating in the Season, they need to decide how many Divisions there will be. Each Division should have as close to an equal number of teams as possible, though each Division should contain at least four teams. The more teams in a Division, the longer the Season will last as each team needs to play each other team in their Division once.
@@ -343,7 +343,7 @@ It is up to the League Commissioner to decide how they want to determine these m
 
 Whatever your League Commissioner's preference, the schedule should be made clear to all Coaches from the start so that they can all see who they are playing and their path to the final - should they be so lucky!
 
-Play-off games are all knockout rounds. As a result, the winning team will continue on to the next round whilst the losing team will be eliminated from the competition. Because of this, it is important to always have a winner in each round and so every Play-off game will be played using the Extra Time and Penalties (if required) rules as listed on page 83.
+Play-off games are all knockout rounds. As a result, the winning team will continue on to the next round whilst the losing team will be eliminated from the competition. Because of this, it is important to always have a winner in each round and so every Play-off game will be played using the Extra Time and Penalties (if required) rules as listed on [page 83](./the_game_of_blood_bowl.md#extra-time).
 
 After the semi-finals have been played, the two winning teams will move on to the final whilst the two losing teams will play in the third-place Play-off to determine which of them finishes third.
 
@@ -351,7 +351,9 @@ After the semi-finals have been played, the two winning teams will move on to th
 After the final games have been played, and the League Commissioner has presented any awards that were on offer during the course of the league, prizes of gold pieces are awarded to the teams that came in 1st, 2nd and 3rd place as follows:
 
 **3RD PLACE:** 30,000 gold pieces
+
 **2ND PLACE:** 60,000 gold pieces
+
 **1ST PLACE:** 100,000 gold pieces and the League Trophy
 
 These Winnings are awarded after the final Post-game Sequence and so are not taken into account for the Expensive Mistakes step. This way, these Winnings can't be lost as soon as they have been won!
@@ -386,7 +388,7 @@ It is recommended that there is a Re-draft Budget cap of 1,300,000 gold pieces f
 ### RE-DRAFT TEAM
 Once a team has worked out their Re-draft Budget, they may begin to Re-draft their team. Some key figures from the previous Season may find their contracts renewed, whilst others may find themselves cut from the team, allowing themselves to slink off into the backwater leagues or become sports pundits on one of the many Blood Bowl chat shows.
 
-To Re-draft a team, you will need to use a new Team Draft List and create a brand new version of your team using the same rules as when you first drafted your team, as found on page 84.
+To Re-draft a team, you will need to use a new Team Draft List and create a brand new version of your team using the same rules as when you first drafted your team, as found on [page 84](./drafting_a_blood_bowl_team.md).
 
 When Re-drafting a team, you may carry over any number of Assistant Coaches, Cheerleaders, Apothecaries or Team Re-rolls from your previous Team Draft List at their standard cost, or they may be let go.
 

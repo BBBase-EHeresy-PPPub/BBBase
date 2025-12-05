@@ -102,7 +102,7 @@ Sometimes you may be asked to roll a D3; to do this, roll a D6 and half the valu
 
 **BLOCK DICE**
 
-These six-sided dice are unique to Blood Bowl and feature a number of icons on them. These are used when a player performs a Block Action, as described on page 60, and can result in the player knocking down their opponent or even end up being knocked over themselves!
+These six-sided dice are unique to Blood Bowl and feature a number of icons on them. These are used when a player performs a Block Action, as described on [page 60](./the_game_of_blood_bowl.md#block-actions), and can result in the player knocking down their opponent or even end up being knocked over themselves!
 
 **D8**
 
@@ -120,25 +120,25 @@ Below are the different types of tokens you will come across in a game of Blood 
 
 ![](../media/core_rules/prone_token.jpg)
 
-This denotes that the player is Prone (see page 39), and is used instead of laying models down on their back (as they used to be in previous editions). The other side of this token is a Stunned token.
+This denotes that the player is Prone (see [page 39](./rules_and_regulations.md#prone)), and is used instead of laying models down on their back (as they used to be in previous editions). The other side of this token is a Stunned token.
 
 ### STUNNED TOKEN - RED
 
 ![](../media/core_rules/stunned_token.jpg)
 
-This denotes that the player is Stunned (see page 39), and is used instead of laying models down on their front (as they used to be in previous editions). This is found on the reverse of the Prone token, meaning that when a player reverts from being Stunned to Prone, you can simply flip the token over as well.
+This denotes that the player is Stunned (see [page 39](./rules_and_regulations.md#stunned)), and is used instead of laying models down on their front (as they used to be in previous editions). This is found on the reverse of the Prone token, meaning that when a player reverts from being Stunned to Prone, you can simply flip the token over as well.
 
 ### DISTRACTED TOKEN - BLUE
 
 ![](../media/core_rules/distracted_token.jpg)
 
-Many effects in Blood Bowl will confer the Distracted condition onto a player (see page 39). Using this token is a great way of making sure coaches are aware of which players are Distracted and therefore don't have a Tackle Zone, and cannot use Active Skills or Traits.
+Many effects in Blood Bowl will confer the Distracted condition onto a player (see [page 39](./rules_and_regulations.md#distracted)). Using this token is a great way of making sure coaches are aware of which players are Distracted and therefore don't have a Tackle Zone, and cannot use Active Skills or Traits.
 
 ### BLITZ TOKEN - GOLD
 
 ![](../media/core_rules/blitz_token.jpg)
 
-Only a single player can declare a Blitz Action each turn (see page 64), and so placing this token next to a player who has performed a Blitz Action is a good way of making sure coaches don't forget and try to declare a second one in the same turn by accident.
+Only a single player can declare a Blitz Action each turn (see [page 64](./the_game_of_blood_bowl.md#blitz-actions)), and so placing this token next to a player who has performed a Blitz Action is a good way of making sure coaches don't forget and try to declare a second one in the same turn by accident.
 
 ### DODGY SNACK TOKEN - GREEN
 
@@ -150,19 +150,19 @@ When the Dodgy Snack result is rolled on the Kick-off Event Table (see [page 48]
 
 ![](../media/core_rules/eye_gouge_token.jpg)
 
-The Eye Gouge Skill (see page 128) means that affected players cannot provide Offensive or Defensive Assists when other players are performing a Block Action. To ensure this isn't overlooked, these tokens will help coaches remember who is affected.
+The Eye Gouge Skill (see [page 128](./skills_and_traits.md#eye-gouge-active)) means that affected players cannot provide Offensive or Defensive Assists when other players are performing a Block Action. To ensure this isn't overlooked, these tokens will help coaches remember who is affected.
 
 ### ROOTED TOKEN - BROWN
 
 ![](../media/core_rules/rooted_token.jpg)
 
-In the unfortunate event that a Treeman becomes Rooted (see page 137) - or fortunate if you are on the opposing team - place a Rooted token next to them to make sure that they remain in place until the condition ends.
+In the unfortunate event that a Treeman becomes Rooted (see [page 137](./skills_and_traits.md#take-root-passive)) - or fortunate if you are on the opposing team - place a Rooted token next to them to make sure that they remain in place until the condition ends.
 
 ### CHOMPED TOKEN - WHITE
 
 ![](../media/core_rules/chomped_token.jpg)
 
-Players affected by the Chomped condition (see page 131) cannot move until the player chomping them relinquishes them - either willingly or by force! Placing a Chomped token next to affected players serves as an important reminder.
+Players affected by the Chomped condition (see [page 131](./skills_and_traits.md#monstrous-mouth-active)) cannot move until the player chomping them relinquishes them - either willingly or by force! Placing a Chomped token next to affected players serves as an important reminder.
 
 ### BALL TOKEN
 
@@ -176,10 +176,10 @@ There is even a hole for a Blood Bowl ball with a peg to be slotted in for that 
 
 ![](../media/core_rules/thrown_player_token.jpg)
 
-When a player is being thrown by a team-mate (see page 76) it is a good idea to have a marker showing where the player will currently land. This also helps when Scattering the player so that you don't have to move the thrown player until the final destination is determined. The reverse of this token is the Bomb token.
+When a player is being thrown by a team-mate (see [page 76](./the_game_of_blood_bowl.md#throw-team-mate-actions)) it is a good idea to have a marker showing where the player will currently land. This also helps when Scattering the player so that you don't have to move the thrown player until the final destination is determined. The reverse of this token is the Bomb token.
 
 ### BOMB TOKEN
 
 ![](../media/core_rules/bomb_token.jpg)
 
-When a player uses the Bombardier Trait (see page 125) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait's description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.
+When a player uses the Bombardier Trait (see [page 125](./skills_and_traits.md#bombardier-active)) they will need to choose a square to throw the bomb at and then Scatter it as per the Trait's description. To make it easy to see where the bomb is being thrown, use this token to mark its current position on the pitch. The reverse of this token is the Thrown Player token.
