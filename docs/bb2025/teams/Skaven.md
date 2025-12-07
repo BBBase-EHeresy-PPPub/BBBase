@@ -24,19 +24,19 @@
 
 ### Star Players
 
-* [Akhorne the Squirrel] – 80K
-* [Fungus the Loon] – 80K
-* [Bomber Dribblesnot] – 80K
-* [Nobbla Blackwart] – 120K
-* [Scrappa Sorehead] – 120K
-* [Skitter Stab-Stab] – 170K
-* [Glart Smashrip] – 175K
-* [Kreek Rustgouger] – 180K
-* [Hakflem Skuttlespike] – 200K
-* [The Black Gobbo] – 210K
-* [Grak and Crumbleberry] – 250K
-* [Ripper Bolgrot] – 250K
-* [Morg 'n' Thorg] – 340K
+* [Akhorne the Squirrel] - 80K
+* [Fungus the Loon] - 80K
+* [Bomber Dribblesnot] - 80K
+* [Nobbla Blackwart] - 120K
+* [Scrappa Sorehead] - 120K
+* [Skitter Stab-Stab] - 170K
+* [Glart Smashrip] - 175K
+* [Kreek Rustgouger] - 180K
+* [Hakflem Skuttlespike] - 200K
+* [The Black Gobbo] - 210K
+* [Grak and Crumbleberry] - 250K
+* [Ripper Bolgrot] - 250K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

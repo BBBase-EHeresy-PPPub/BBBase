@@ -91,7 +91,7 @@ During the course of a league, the players on your team will gain experience fro
 
 On your Team Draft List there is a section to keep track of the number of Star Player Points (SPP) that each player has saved up. At the end of each game you should add any SPP that a player has earned to their tally in this section, so it's important to keep track of every time a player does something that generates SPP during a game.
 
-It’s also important to note that Star Players do not generate SPP at all during the course of a game. Journeymen, however, do generate SPP, which will be important to consider when you get the option to hire them later on in the Post-game Sequence.
+It's also important to note that Star Players do not generate SPP at all during the course of a game. Journeymen, however, do generate SPP, which will be important to consider when you get the option to hire them later on in the Post-game Sequence.
 
 ### EARNING STAR PLAYER POINTS
 
@@ -115,7 +115,7 @@ Should a player successfully Intercept a Pass Action made by an opposition playe
 
 If a player is Knocked Down as a result of a Block Action and suffers a Casualty, regardless of which player performed the Block Action, then the player that knocked them down is said to have caused a Casualty. A player that causes a Casualty will gain 2 SPP.
 
-A player will still gain the 2 SPP even if both players were Knocked Down and suffer a Casualty, and will still gain the 2 SPP even if the Casualty is recovered by any means – such as an Apothecary or the Regeneration Trait. Casualties caused by other methods, such as Secret Actions or by Injury by the Crowd do not generate SPP.
+A player will still gain the 2 SPP even if both players were Knocked Down and suffer a Casualty, and will still gain the 2 SPP even if the Casualty is recovered by any means - such as an Apothecary or the Regeneration Trait. Casualties caused by other methods, such as Secret Actions or by Injury by the Crowd do not generate SPP.
 
 #### TOUCHDOWN
 
@@ -127,7 +127,7 @@ At the end of each game you will need to determine who your Most Valuable Player
 
 ### SPENDING STAR PLAYER POINTS
 
-After all SPP have been assigned following a game, players are then able to spend them in order to gain an advancement – either on new Skills or to improve their Characteristics. The number of SPP that it will cost a player to gain an advancement will depend on the number of advancements the player already has, and the type of advancement they wish to purchase. Players do not have to spend their SPP as soon as they are able to; they are free to save them up should they wish. However, should a player accumulate enough SPP to improve a Characteristic (as shown by the Advancement Table on [page 97](#advancement-table)) then they must take an advancement; though this does not have to be a Characteristic improvement if they don't want it to be.
+After all SPP have been assigned following a game, players are then able to spend them in order to gain an advancement - either on new Skills or to improve their Characteristics. The number of SPP that it will cost a player to gain an advancement will depend on the number of advancements the player already has, and the type of advancement they wish to purchase. Players do not have to spend their SPP as soon as they are able to; they are free to save them up should they wish. However, should a player accumulate enough SPP to improve a Characteristic (as shown by the Advancement Table on [page 97](#advancement-table)) then they must take an advancement; though this does not have to be a Characteristic improvement if they don't want it to be.
 
 #### ADVANCEMENT TABLE
 

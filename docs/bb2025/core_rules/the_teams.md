@@ -99,9 +99,8 @@ Some Inducements are only available to teams with a certain special rule. This c
 Here you will find the list of team special rules and what they do.
 
 ### BRAWLIN' BRUTES
-Violence is the name of the game to these teams, and they will not hesitate to get themselves stuck into a punch-up as soon as the whistle blows. Often, the fans of these teams will celebrate a bone-crunching tackle in their eyes, the game more about the carnage caused than the actual scoreline.
 
-During League Play, a team with this special rule will earn SPP slightly differently. Players on this team will earn 3 SPP for causing a Casualty rather than the usual 2. Additionally, players on this team will earn 1 SPP for Scoring a Touchdown rather than the usual 3.
+During League Play, a team with this special rule will earn SPP slightly differently. Players on this team will earn 3 SPP for causing a Casualty rather than the usual 2. Additionally, players on this team will only earn 2 SPP for scoring a Touchdown rather than the usual 3.
 
 * [Black Orc]
 * [Dwarf]
@@ -111,9 +110,8 @@ During League Play, a team with this special rule will earn SPP slightly differe
 * [Ogre]
 
 ### BRIBERY AND CORRUPTION
-These teams are legendarily unscrupulous, and are known for their expert way of bending the rules to breaking point. They are also no strangers to the pressure put on the match officials in order to ply the to see things their way, either by blackmail, extortion, bribery, or any other innovative way they can think of to get the referee to turn a blind eye!
 
-Once per game, when they argue the call, they may re-roll the D6.
+Once per game, when a team with this special rule rolls a 1 to Argue the Call, they may re-roll the D6.
 
 * [Black Orc]
 * [Dwarf]
@@ -122,15 +120,14 @@ Once per game, when they argue the call, they may re-roll the D6.
 * [Underworld Denizens]
 
 ### FAVOURED OF...
-Those that follow the Chaos Gods are naturally drawn to those violent nature of Blood Bowl. Some teams will pay homage to a single Chaos God, whilst others will celebrate the Chaos Pantheon as a whole. Regardless, these teams are set on fulfilling their patron's wishes on the gridiron.
 
-Some teams may have a specific alignment (e.g., Favoured of Khorne), whilst others have a choice. If a team has a choice of alignments, it will have a listed in brackets following the special rule - for example, Favoured of (Khorne, Nurgle, Slaanesh or Tzeentch).
+Some teams may automatically have a specific alignment (e.g., Favoured of Khorne), whilst others may have a choice. If a team has a choice of alignment, it will be listed in brackets following the special rule - for example, Favoured of (Khorne, Nurgle, Slaanesh or Tzeentch).
 
-When creating a Team Draft List, a team with this special rule that has a choice must choose an alignment from the options given and cannot change it later.
+When creating a Team Draft List, a team with this special rule that has a choice must choose an alignment from the options given and cannot change it later on.
 
-Some Star Players will only be able to play for teams that have the Favoured of specific Chaos Gods. For example, a Star Player's profile may say they can play for teams with the Favoured of Khorne special rule. Such a Star Player could not play for any team with the Favoured of Nurgle, Slaanesh, etc. special rule.
+Some Star Players will only be able to play for teams that are Favoured of specific Chaos Gods. For example, a Star Player's profile may say they can play for teams with the Favoured of Khorne special rule. Such a Star Player could not therefore play for any team with the Favoured of Nurgle, Slaanesh, etc., special rule.
 
-If a team has a choice of any alignment, they can choose Undivided. Hashut, Khorne, Nurgle, Slaanesh, Tzeentch, Undivided.
+If a team has a choice of any alignment, they can choose any of the following: Hashut, Khorne, Nurgle, Slaanesh, Tzeentch, Undivided.
 
 * [Chaos Chosen]
 * [Chaos Dwarf]
@@ -141,19 +138,16 @@ If a team has a choice of any alignment, they can choose Undivided. Hashut, Khor
 
 ### LOW COST LINEMEN
 
-Some teams have so little regard for their linemen (often with good reason!) that they will rarely even bother to pay them. Instead, they will happily take on the most useless players to bolster their ranks, seeing as they are only there to make up the numbers anyway. This is just fine for such players, seeing as they will happily play for peanuts anyway and are just happy to be there!
-
 In League Play, when a team with this special rule calculates its Current Team Value, treat the Hiring Fee of any **Lineman** players on the team as 0 gold pieces. Any value increase is included as normal.
 
 * [Ogre]
 * [Snotling]
 
 ### MASTERS OF UNDEATH
-Broadly categorised as the 'undead'; these teams will often contain the recently deceased within their rosters as Necromancers may not even wait for the corpse of an opposed player to go cold before raising the corpse up, putting them in their team's colours, and getting them to hit the pitch to go up against their former team-mates!
 
-Once per game. If an opposition player with an ST of 4 or less that does not have the Stunty Trait suffers a Dead result when rolling on the [Casualty Table](./the_game_of_blood_bowl.md#casualty-table), a team with this special rule can Raise the Dead. If they do, they may immediately add a single Lineman player from their team's Team Roster to their Reserves for the remainder of the game.
+Once per game, if an opposition player with an ST of 4 or less that does not have the Stunty Trait suffers a Dead result when rolling on the [Casualty Table](./the_game_of_blood_bowl.md#casualty-table), a team with this special rule can Raise the Dead. If they do, they may immediately add a single Lineman player from their team's Team Roster to their Reserves Box. This may cause a team to temporarily have more than 16 players for the remainder of the game.
 
-During the Post-game Sequence, when hiring any new players to your team, you may permanently hire the new Lineman player to your team for free, so long as your Team Draft List doesn't already have 16 players on it. The player will still add its full value to the team's Team Value.
+During the Post-game Sequence, when hiring any new players to your team, you may permanently hire the new Lineman player to your team for free, so long as your Team Draft List doesn't already have 16 players on it, otherwise it will be lost. The player will still add its full value to the team's Team Value.
 
 * [Necromantic Horror]
 * [Shambling Undead]
@@ -161,22 +155,16 @@ During the Post-game Sequence, when hiring any new players to your team, you may
 * [Vampire]
 
 ### SWARMING
-These teams have rosters filled with numerous small-statured players that are always with no good, and keeping them off the pitch is easier than done.
 
-Trying to keep any eye on these little blighters is a near impossible task, and most referees will simply give up as these players will likely be squashed into the turf anyway!
-
-During the Start of Drive Sequence, after both teams have set up their players, a team with this special rule can set up an additional player on the pitch, D3 Lineman players following the usual rules for Reserves. This will allow this team to have more than the maximum of 11 players on the pitch.
+During the Start of Drive Sequence, after both teams have set up their players, a team with this special rule can set up an additional D3 **Lineman** players from their Reserves Box on the pitch, following all the usual rules for setting up players. This will allow this team to have more than the usual maximum of 11 players on the pitch.
 
 * [Snotling]
 
 ### TEAM CAPTAIN
-Some teams have naturally developed a hierarchy to their match day squads. There is a natural hierarchy playing their matches for so long that those who have wisdom to share, or have caused enough violence to have earned the respect of their team-mates - even if this is just so their team-mates don't end up on the wrong side of their bad side!
 
-Regardless, these teams still cling on to 'classic' sporting ideologies, and their more seasoned players will often lead bloodstained captain's armband! their iconic and often
+When drafting a Team Draft Roster for a team with this special rule, you may nominate any player on your starting roster (with the exception of a Big Guy) to be your Team Captain. A Team Captain immediately gains the Pro Skill without increasing their cost. Additionally, while your Team Captain is on the pitch, whenever you use a Team Re-roll you may roll a D6; on the roll of a natural 6 the Team Re-roll is free.
 
-When drafting a Team Draft Roster for a team with this special rule, you may nominate any player on your starting roster (with the exception of a Big Guy) to be your Team Captain. Captain. In addition, while the Pro Skill Captain is on the pitch, whenever you use a Team Re-roll you may re-roll a natural 6; the Team Re-roll is free.
-
-If setting up at the start of a Drive, a Team Captain can be fielded your Team Captain has suffered an injury that has reduced one of their characteristics. However, should your Team Captain ever be killed during a game, then you may appoint a new Team Captain at the end of the game.
+When setting up at the start of a Drive, you must choose to field your Team Captain if able. A Team Captain can only ever be fired from your roster if they have suffered an injury that has reduced one of their characteristics. However, should a Team Captain ever be killed during a game then you may appoint a new Team Captain at the end of the game.
 
 * [Human]
 * [Orc]
@@ -185,13 +173,13 @@ If setting up at the start of a Drive, a Team Captain can be fielded your Team C
 
 Not every team was created equal. Some teams are more challenging to Coach than others, either because of the player type and Skills available to the team, or simply because their background dictates they should be - after all, how much chance would a team of pint-sized, lazy Halflings have against a team of hulking, barbaric Chaos Chosen driven by a murderous rage?
 
-This is entirely intentional, and teams will be placed into one of four Tiers depending on how well they perform. This will give newer coaches a rough idea of how difficult a particular team is to play. Lower Tier teams will gain more Skill Points to spend on improving things to allow them to compete with the higher Tier teams.
+This is entirely intentional, and teams will be placed into one of four Tiers depending on how well they perform. This will give newer coaches a rough idea of how difficult a particular team will be to play. These Tiers are also used in Matched Play in order to help balance things out between the teams; lower Tier teams will gain more Skill Points to spend on improving things to allow them to compete with the higher Tier teams.
 
-The Tiers each team is in is constantly being assessed by the Blood Bowl Rules team so that we can ensure the game is as balanced and up to date as possible. You will find the most up-to-date Tier List as part of the Blood Bowl Designers' Commentary on warhammer-community.com.
+The Tiers each team is in is constantly being assessed by the Blood Bowl rules team so that we can ensure the game is as balanced and up to date as possible. You will find the most up-to-date Tier List as part of the Blood Bowl Designers' Commentary on warhammer-community.com.
 
 Below is a rough indication of what each Tier means:
 
 - Tier 1 is for the best performing teams in the game, those that have all the tools they need to take on any team and recover from mistakes easily.
 - Tier 2 is for those teams that can compete on their own merit, though don't quite have the same flexibility as those in Tier 1.
-- Tier 3 is for those teams that will require a bit more trickery and experience to perform well.
-- Tier 4 is reserved for the weakest (often most fun!) teams in Blood Bowl. Often these will be the 'Stunty' teams, ones where their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!
+- Tier 3 is for teams that will often be a bit trickier to play; those that will require a bit more thought and experience to perform well with.
+- Tier 4 is reserved for the weakest (but often most fun) teams in Blood Bowl. Often these will be the ‘Stunty' teams, ones where the majority of their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!

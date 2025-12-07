@@ -6,7 +6,7 @@
 | Qty  | Position                             | MA  | ST  | AG  | PA  | AV  | Skills                                                                                        | Primary | Secondary | Cost |
 | ---- | ------------------------------------ | --- | --- | --- | --- | --- | --------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Norse Raider *(Lineman, Human)*      | 6   | 3   | 3+  | 4+  | 8+  | • [Block]<br>• [Drunkard]<br>• [Thick Skull]<br>• [Unsteady]                                  | G       | A P S     | 50K  |
-| 0‑2  | Beer Boar *(Special, Animal)*        | 5   | 1   | 3+  | –   | 6+  | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                        |         | A         | 20K  |
+| 0‑2  | Beer Boar *(Special, Animal)*        | 5   | 1   | 3+  | -   | 6+  | • [Dodge]<br>• [No Ball]<br>• [Pick-me-up]<br>• [Stunty]<br>• [Titchy]                        |         | A         | 20K  |
 | 0‑2  | Norse Berserker *(Blitzer, Human)*   | 6   | 3   | 3+  | 5+  | 8+  | • [Block]<br>• [Frenzy]<br>• [Jump Up]                                                        | G S     | A P       | 90K  |
 | 0‑2  | Valkyrie *(Catcher, Human, Thrower)* | 7   | 3   | 3+  | 3+  | 8+  | • [Catch]<br>• [Dauntless]<br>• [Pass]<br>• [Strip Ball]                                      | A G P   | S         | 95K  |
 | 0‑2  | Ulfwerener *(Blocker, Human)*        | 6   | 4   | 4+  | 6+  | 9+  | • [Frenzy]<br>• [Unsteady]                                                                    | G S     | A         | 105K |
@@ -32,23 +32,23 @@ or
 
 ### Star Players
 
-* [Akhorne the Squirrel] – 80K
-* [Barik Farblast] – 80K
-* [Cindy Piewhistle] – 100K
-* [Puggy Baconbreath] – 130K
-* [Helmut Wulf] – 140K
-* [Grombrindal] – 170K
-* [Thorsson Stoutmead] – 170K
-* [Josef Bugman] – 180K
-* [Karla von Kill] – 210K
-* [Ivar Eriksson] – 215K
-* [The Mighty Zug] – 220K
-* [Grashnak Blackhoof] – 240K
-* [Skrorg Snowpelt] – 240K
-* [Grak and Crumbleberry] – 250K
-* [Lord Borak the Despoiler] – 270K
-* [Griff Oberwald] – 300K
-* [Morg 'n' Thorg] – 340K
+* [Akhorne the Squirrel] - 80K
+* [Barik Farblast] - 80K
+* [Cindy Piewhistle] - 100K
+* [Puggy Baconbreath] - 130K
+* [Helmut Wulf] - 140K
+* [Grombrindal] - 170K
+* [Thorsson Stoutmead] - 170K
+* [Josef Bugman] - 180K
+* [Karla von Kill] - 210K
+* [Ivar Eriksson] - 215K
+* [The Mighty Zug] - 220K
+* [Grashnak Blackhoof] - 240K
+* [Skrorg Snowpelt] - 240K
+* [Grak and Crumbleberry] - 250K
+* [Lord Borak the Despoiler] - 270K
+* [Griff Oberwald] - 300K
+* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

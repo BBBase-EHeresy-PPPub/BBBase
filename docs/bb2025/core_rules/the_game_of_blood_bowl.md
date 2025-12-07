@@ -340,13 +340,13 @@ Players may attempt to Rush a maximum of two times during their activation. If, 
 
 ## SECURE THE BALL ACTIONS!
 
-Sometimes, a cautious approach is best – especially when it comes to recovering the ball! Should a player find that the ball has come to a rest on the ground, and there are no opponents nearby, they may decide to safely pick it up rather than attempt to do so at speed and risk letting it slip through their fingers and cause a turnover.
+Sometimes, a cautious approach is best - especially when it comes to recovering the ball! Should a player find that the ball has come to a rest on the ground, and there are no opponents nearby, they may decide to safely pick it up rather than attempt to do so at speed and risk letting it slip through their fingers and cause a turnover.
 
 ### PERFORMING A SECURE THE BALL ACTION
 
 A player may only declare a Secure the Ball Action if the ball is loose on the ground and is not within 2 squares of any Standing opposition players that are not Distracted. A player that declares a Secure the Ball Action may first make a free Move Action, however, this Move Action must finish on a square containing a ball otherwise a Turnover is caused.
 
-When performing a Secure the Ball Action, the player must attempt to pick up the ball. A player attempting to pick up a ball as part of a Secure the Ball Action does not make an Agility Test; instead they roll a D6 and on a 2+ they will automatically pick up the ball and their activation immediately ends. On a 1, the player fails to pick up the ball and a Turnover is caused – the ball will then Bounce from the player's square.
+When performing a Secure the Ball Action, the player must attempt to pick up the ball. A player attempting to pick up a ball as part of a Secure the Ball Action does not make an Agility Test; instead they roll a D6 and on a 2+ they will automatically pick up the ball and their activation immediately ends. On a 1, the player fails to pick up the ball and a Turnover is caused - the ball will then Bounce from the player's square.
 
 ![](../media/core_rules/secure_the_ball_1.jpg)
 
@@ -577,7 +577,7 @@ If an Apothecary is used to Patch-up a player that has suffered a Casualty, then
 
 ## FOUL ACTIONS!
 
-It may come as a surprise to some people, but fouling is actually very much against the rules of Blood Bowl – not that it stops anyone of course! Numerous players over the years have risked the wrath of the referees all for the chance to put the boot into a particularly irritating opposition player in order to give their team a leg-up. In fact, many teams and players have made it their mission to perfect the art of fouling, and some have used this to propel their career forwards at the expense of those they leave writhing on the gridiron!
+It may come as a surprise to some people, but fouling is actually very much against the rules of Blood Bowl - not that it stops anyone of course! Numerous players over the years have risked the wrath of the referees all for the chance to put the boot into a particularly irritating opposition player in order to give their team a leg-up. In fact, many teams and players have made it their mission to perfect the art of fouling, and some have used this to propel their career forwards at the expense of those they leave writhing on the gridiron!
 
 Nowadays, fouling is not just a common occurrence but also an expected one amongst fans and pundits. So much so that the Referees and Ruleskeepers Guild (RARG) have actually provided guidelines to advise their members of the best ways to turn a blind eye to such devious antics on the pitch!
 
@@ -597,12 +597,12 @@ Regardless of the outcome, if during a Foul Action a natural double is rolled fo
 
 #### ARGUE THE CALL
 
-When a player is Sent-off for any reason, their Coach may attempt to Argue the Call – roll a D6 and refer to the table below:
+When a player is Sent-off for any reason, their Coach may attempt to Argue the Call - roll a D6 and refer to the table below:
 
 | D6 | RESULT |
 |----|--------|
 | 1 | **"YOU'RE OUTTA HERE!":** The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
-| 2–5 | **"I DON'T CARE!":** The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
+| 2-5 | **"I DON'T CARE!":** The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
 | 6 | **"WELL, WHEN YOU PUT IT LIKE THAT...":** You make some good points and the referee is swayed. The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
 
 *Continuing with our example, the Tomb Kings Blitzer makes an Armour Roll for the Bretonnian Squire they are fouling, rolling a 6 and a 3, which breaks their armour. They then make an Injury Roll and roll a double 2, causing the Tomb Kings Blitzer to be Sent-off and the Bretonnian Squire to be Stunned. The Tomb Kings Coach attempts to Argue the Call and rolls a 1, meaning that the Tomb Kings Blitzer is still Sent-off and the Coach cannot Argue the Call for the remainder of the game!*
@@ -832,7 +832,7 @@ Players that were Prone, Stunned or Distracted when they were thrown will automa
 
 ![](../media/core_rules/landing.jpg)
 
-***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 – a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
+***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 - a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
 
 #### LANDING IN AN OCCUPIED SQUARE  
 
