@@ -4,7 +4,7 @@ In this section we are going to explain how to build a roster for Matched Play. 
 
 ## DRAFTING A MATCHED PLAY TEAM!
 
-For the most part, this is exactly the same as drafting a team for League Play. You will still need to fill out a Team Draft List in the same way as described on page 86 using one of the usual Team Rosters. However, there are some important differences that you need to be aware of when drafting a Matched Play team.
+For the most part, this is exactly the same as drafting a team for League Play. You will still need to fill out a Team Draft List in the same way as described on [page 86](./drafting_a_blood_bowl_team.md#team-rosters) using one of the usual Team Rosters. However, there are some important differences that you need to be aware of when drafting a Matched Play team.
 
 ### TEAM DRAFT BUDGET
 
@@ -27,7 +27,8 @@ Coaches may spend as much or as little on Inducements as they wish, so long as t
 Some tournaments may decide to omit certain Inducements, or even create their own that are unique to their event, so it is always important to check to see what Inducements are eligible.
 
 ### TEAM TIERS
-In Matched Play, each of the Team Rosters is placed in one of four Tiers based on how good the team performs; Tier 1 contains the best performing teams, whilst Tier 4 contains the more challenging teams. Simply put, the better the Tier a team is in, the better they generally are. However, as a result, and as a way to balance things out between the two teams, the better a team's Tier, the less Skill Points they will receive in order to purchase Skills and Star Players to help them on the pitch. Skill Points are explained on page 112.
+
+In Matched Play, each of the Team Rosters is placed in one of four Tiers based on how good the team performs; Tier 1 contains the best performing teams, whilst Tier 4 contains the more challenging teams. Simply put, the better the Tier a team is in, the better they generally are. However, as a result, and as a way to balance things out between the two teams, the better a team's Tier, the less Skill Points they will receive in order to purchase Skills and Star Players to help them on the pitch. Skill Points are explained on [page 112](#skill-points).
 
 The Tiers each team is in is constantly being assessed so that we can ensure the game is as balanced and up to date as possible. You will find the most up-to-date Tier List as part of the Blood Bowl Designers' Commentary on warhammer-community.com.
 
@@ -45,7 +46,8 @@ What this means is that at the end of each game, a Matched Play team will make a
 If a team acquires additional players during the course of a game, such as those earned through the Plague Ridden Trait or the Masters of Undeath special rule, then those additional players will only be available until the end of the game in which they were earned, and will not be added to your Team Draft List at the end of the game.
 
 ### SKILL POINTS
-As mentioned on the previous page, in a Matched Play game, teams are given a number of Skill Points which they can use to spend on additional Skills or Star Players for their team. The amount of Skills Points a team receives will depend on the team's Tier, as listed below.
+
+As mentioned on the [previous page](#team-tiers), in a Matched Play game, teams are given a number of Skill Points which they can use to spend on additional Skills or Star Players for their team. The amount of Skills Points a team receives will depend on the team's Tier, as listed below.
 
 | TIER OF TEAM | NUMBER OF SKILL POINTS |
 |--------------|-------------------------|

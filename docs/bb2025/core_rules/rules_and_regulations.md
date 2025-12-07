@@ -200,11 +200,11 @@ This is how many gold pieces it will cost to hire this player to your Team Roste
 
 #### 5. MA - MOVE ALLOWANCE
 
-This is the number of squares the player can move during a Move Action. Move Actions are covered fully on page 54.
+This is the number of squares the player can move during a Move Action. Move Actions are covered fully on [page 54](./the_game_of_blood_bowl.md#move-actions).
 
 #### 6. ST - STRENGTH
 
-This is how physically strong the player is. The higher the value, the stronger the player is. Strength is used during a Block Action, which is detailed on page 60.
+This is how physically strong the player is. The higher the value, the stronger the player is. Strength is used during a Block Action, which is detailed on [page 60](./the_game_of_blood_bowl.md#block-actions).
 
 #### 7. AG - AGILITY
 
@@ -218,7 +218,7 @@ This is how good the player is at throwing the ball and is represented by a targ
 
 Armour Value represents how tough the player is, and is represented by a target number (e.g., 9+). This may be down to the protective gear the player wears, or their natural resilience to taking a hit - or a little bit of both!
 
-Sometimes the rules will call for an Armour Roll to be made against a player. In these instances, the opposing Coach will roll 2D6 and compare the value to the player's Armour Value. If the Armour Roll is failed, then nothing further happens: the player's armour has saved them this time. If the Armour Roll is successful, then the player's armour is 'broken' and they will risk injury. Injuries are explained on page 66.
+Sometimes the rules will call for an Armour Roll to be made against a player. In these instances, the opposing Coach will roll 2D6 and compare the value to the player's Armour Value. If the Armour Roll is failed, then nothing further happens: the player's armour has saved them this time. If the Armour Roll is successful, then the player's armour is 'broken' and they will risk injury. Injuries are explained on [page 66](./the_game_of_blood_bowl.md#risking-injury).
 
 Characteristics have a maximum and minimum value, and they can never be improved or reduced past the values shown below. Additionally, no Characteristic can ever be improved more than twice.
 
@@ -239,7 +239,7 @@ Traits are those innate things that simply cannot be taught and are inherent to 
 
 Over the course of a league, players may have the opportunity to gain new Skills to add to their repertoire. These sections show which type of Skills suit the player's strengths and are therefore easier to learn (Primary) and which will take that added time and effort to be taught (Secondary).
 
-Don't worry about these for now though as gaining new Skills will be covered later on page 97.
+Don't worry about these for now though as gaining new Skills will be covered later on [page 97](./league_play.md#new-skills).
 
 ## PLAYER STATUS!
 
@@ -253,7 +253,7 @@ Players that are up on their feet are referred to as Standing. A player that is 
 #### TACKLE ZONES
 When a player is Standing, they will have an amount of control over the area directly around them called their Tackle Zone. A player's Tackle Zone is the eight squares directly surrounding them as shown in the diagram below.
 
-A Standing player that loses their Tackle Zone for whatever reason is said to be Distracted (see page 39).
+A Standing player that loses their Tackle Zone for whatever reason is said to be Distracted (see [page 39](#distracted)).
 
 ![](../media/core_rules/tackle_zones.jpg)
 
@@ -278,7 +278,7 @@ If a player becomes Distracted during their activation, then their activation im
 Players that are not Standing will either be Prone or Stunned. Usually, this will occur as the result of the player tripping over when attempting to move, or if they are bashed to the ground by a particularly vicious opposition tackle. Additionally, any player that is Prone or Stunned will automatically lose its Tackle Zone whilst it remains Prone or Stunned.
 
 #### PRONE
-When a player is Prone, place a Prone Token beside them to show they are Prone. Whilst a player is Prone, they can do nothing until they stand up as described on page 54.
+When a player is Prone, place a Prone Token beside them to show they are Prone. Whilst a player is Prone, they can do nothing until they stand up as described on [page 54](./the_game_of_blood_bowl.md#standing-up).
 
 #### STUNNED
 When a player is Stunned, place a Stunned Token beside them to show they are Stunned. A Stunned player cannot be activated during their team's turn. At the end of each team's turn, any players on their team that started that turn Stunned will automatically roll over and become Prone instead - flip their Stunned Token over to become a Prone Token. This means that any player that became Stunned during the course of their team's turn will not roll over as they did not start their team's turn as Stunned - they must wait until the end of their team's next turn to roll over.
@@ -299,9 +299,9 @@ If a player is Placed Prone during their own activation then their activation im
 ### FALLS OVER
 Sometimes a player may Fall Over as they try to manoeuvre around the pitch. When a player Falls Over, it is self-inflicted.
 
-If a player on the active team Falls Over then a Turnover is caused. When a player Falls Over, place a Prone Token next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on page 66. If the player was holding the ball, it will Bounce from the square they are in.
+If a player on the active team Falls Over then a Turnover is caused. When a player Falls Over, place a Prone Token next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on [page 66](./the_game_of_blood_bowl.md#risking-injury). If the player was holding the ball, it will Bounce from the square they are in.
 
 ### KNOCKED DOWN
 Blood Bowl is a violent game, and players will often find themselves Knocked Down as a result of being blocked by an opponent, attempting to block an opponent who is bigger, tougher or luckier than they are, or by any number of other in-game effects such as spells, projectiles, or random events.
 
-If a player is Knocked Down during their team's turn, then a Turnover is caused. When a player is Knocked Down, place a Prone Marker next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on page 66. If the player was holding the ball, it will Bounce from the square they are in.
+If a player is Knocked Down during their team's turn, then a Turnover is caused. When a player is Knocked Down, place a Prone Marker next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on [page 66](./the_game_of_blood_bowl.md#risking-injury). If the player was holding the ball, it will Bounce from the square they are in.

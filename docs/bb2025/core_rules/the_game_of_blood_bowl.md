@@ -26,14 +26,14 @@ Instead, assume that both teams have an equal Fan Factor, the weather is always 
 
 ### PRE-GAME SEQUENCE
 
-With the game set up, the first thing that is required is to run through the Pre-game Sequence. There are five simple steps to the Pre-game Sequence, however, some of these are only relevant to League Play, which we will cover fully later on page 94, so you don't need to worry about these right now.
+With the game set up, the first thing that is required is to run through the Pre-game Sequence. There are five simple steps to the Pre-game Sequence, however, some of these are only relevant to League Play, which we will cover fully later on [page 94](./league_play.md), so you don't need to worry about these right now.
 
 The Pre-game Sequence is as follows:
 
 - **THE FANS:** Coaches determine how many of their team's fans have come to raucously cheer on their favourite team.
 - **THE WEATHER:** Blood Bowl is played come rain or shine, and coaches will need to determine what the weather is like when the game kicks off.
-- **TAKE ON JOURNEYMEN:** This step is only used in League Play, and so will be covered fully on page 94.
-- **INDUCEMENTS:** This step is only used in League Play, and so will be covered fully on page 94.
+- **TAKE ON JOURNEYMEN:** This step is only used in League Play, and so will be covered fully on [page 94](./league_play.md#take-on-journeymen).
+- **INDUCEMENTS:** This step is only used in League Play, and so will be covered fully on [page 94](./league_play.md#inducements)
 - **DETERMINE KICKING TEAM:** Coaches will roll off to determine who is the kicking team (defence) and who is the receiving team (offence).
 
 ### THE FANS
@@ -41,6 +41,7 @@ The Pre-game Sequence is as follows:
 Blood Bowl is incredibly popular in the Old World, and for any given game, scores of fans will flock to the various stadia to witness the grand spectacle. Some of these will be dedicated fans who have travelled far and wide to watch their favourite team play, whilst others are simply fair-weather fans who just go to watch whichever two teams happen to be playing in their local area and then pick one to cheer for on the day.
 
 #### FAN FACTOR
+
 The combination of Dedicated Fans and Fair-weather Fans that are cheering for a team make up the team's Fan Factor for the game.
 
 To work out your Fan Factor, you must first see how many Fair-weather Fans are cheering for your team by rolling a D3. Next, add the number of Fair-weather Fans to your Dedicated Fans Characteristic as found on your Team Roster (more on these later).
@@ -68,7 +69,7 @@ To determine what the weather is like at the start of the game, each Coach rolls
 
 The final thing to do before starting a game is to determine which team is kicking (the defence) and which team is receiving the ball (the offence). In a real game of Blood Bowl, this is done with a simple coin toss, which many fans, players and even the officials, see as a cue to start the violence!
 
-On the tabletop, this is represented through a simple roll-off (see page 33). The Coach who rolls highest decides which team is kicking and which team is receiving. Once this has been decided, you are ready to play a game of Blood Bowl!
+On the tabletop, this is represented through a simple roll-off (see [page 33](./rules_and_regulations.md#rolling-off)). The Coach who rolls highest decides which team is kicking and which team is receiving. Once this has been decided, you are ready to play a game of Blood Bowl!
 
 ## START OF A DRIVE!
 
@@ -182,45 +183,45 @@ What follows is the list of actions that a player may declare when activated, al
 
 #### MOVE ACTION
 
-Probably the most basic Action of them all, a Move Action allows a player to move around the board up to its Move Allowance. There is no limit to the number of players that can declare a Move Action each Turn. Move Actions are covered on page 54.
+Probably the most basic Action of them all, a Move Action allows a player to move around the board up to its Move Allowance. There is no limit to the number of players that can declare a Move Action each Turn. Move Actions are covered on [page 54](#move-actions).
 
 #### SECURE THE BALL ACTION
 
-A player may attempt to recover a loose ball safely. A player that declares a Secure the Ball Action may first make a free Move Action, however, this Move Action must end on the square containing a ball and the ball cannot be within 2 squares of any Standing opposition players (who are not Distracted). If this is not possible, a player cannot declare this Action. Only a single Secure the Ball Action can be declared each Turn. Players with the Big Guy keyword cannot declare this Action. Secure the Ball Actions are covered on page 59.
+A player may attempt to recover a loose ball safely. A player that declares a Secure the Ball Action may first make a free Move Action, however, this Move Action must end on the square containing a ball and the ball cannot be within 2 squares of any Standing opposition players (who are not Distracted). If this is not possible, a player cannot declare this Action. Only a single Secure the Ball Action can be declared each Turn. Players with the Big Guy keyword cannot declare this Action. Secure the Ball Actions are covered on [page 59](#secure-the-ball-actions).
 
 #### BLOCK ACTION
 
-When a player makes a Block Action, they are targeting an opposition player with an attack. A Block Action allows a Standing player to perform a Block against one Standing opposition player in an attempt to push them back, knock them down, or even cause an injury. There is no limit to the number of players that can declare a Block Action each Turn. Block Actions are covered on page 60.
+When a player makes a Block Action, they are targeting an opposition player with an attack. A Block Action allows a Standing player to perform a Block against one Standing opposition player in an attempt to push them back, knock them down, or even cause an injury. There is no limit to the number of players that can declare a Block Action each Turn. Block Actions are covered on [page 60](#block-actions).
 
 #### BLITZ ACTION
 
-Simply put, a Blitz Action combines a Move Action with a Block Action so any rules that interact with either of these Actions will also interact with them when they are used as part of a Blitz Action. Only a single Blitz Action can be declared each Turn. Blitz Actions are covered on page 64.
+Simply put, a Blitz Action combines a Move Action with a Block Action so any rules that interact with either of these Actions will also interact with them when they are used as part of a Blitz Action. Only a single Blitz Action can be declared each Turn. Blitz Actions are covered on [page 64](#blitz-actions).
 
 #### PASS ACTION
 
-The player may attempt to throw the ball to another player or part of the pitch. A player that declares a Pass Action may also make a free Move Action before making the pass, but may not continue moving after the pass has been made. Only a single Pass Action can be declared each Turn. Pass Actions are covered on [page 70](./the_game_of_blood_bowl.md#pass-actions).
+The player may attempt to throw the ball to another player or part of the pitch. A player that declares a Pass Action may also make a free Move Action before making the pass, but may not continue moving after the pass has been made. Only a single Pass Action can be declared each Turn. Pass Actions are covered on [page 70](#pass-actions).
 
 #### HAND-OFF ACTION
 
-A player may attempt to hand-off the ball to another Standing player on their team. A player that declares a Hand-off Action may also make a free Move Action before making the hand-off, but may not continue moving after the hand-off has been made. Only a single Hand-off Action can be declared each Turn. Hand-off Actions are covered on page 74.
+A player may attempt to hand-off the ball to another Standing player on their team. A player that declares a Hand-off Action may also make a free Move Action before making the hand-off, but may not continue moving after the hand-off has been made. Only a single Hand-off Action can be declared each Turn. Hand-off Actions are covered on [page 74](#hand-off-actions).
 
 #### THROW TEAM-MATE ACTION
 
-Some larger players have the ability to throw certain team-mates through the air, either to get the ball carrier up the field or to launch a 'willing' ally at the opposition. A player that declares a Throw Team-mate Action may also make a free Move Action before throwing their team-mate, but may not continue moving after the pass has been made. A player may only declare a Throw Team-mate Action if they have the Throw Team-mate Trait, and may only throw a team-mate that has the Right Stuff Trait. Only a single Throw Team-mate Action can be declared each Turn. Throw Team-mate Actions are covered on page 76.
+Some larger players have the ability to throw certain team-mates through the air, either to get the ball carrier up the field or to launch a 'willing' ally at the opposition. A player that declares a Throw Team-mate Action may also make a free Move Action before throwing their team-mate, but may not continue moving after the pass has been made. A player may only declare a Throw Team-mate Action if they have the Throw Team-mate Trait, and may only throw a team-mate that has the Right Stuff Trait. Only a single Throw Team-mate Action can be declared each Turn. Throw Team-mate Actions are covered on [page 76](#throw-team-mate-actions).
 
 #### FOUL ACTION
 
-It's not all good, clean fun in Blood Bowl; some players are prone to sticking the boot in when the ref isn't looking! A player that declares a Foul Action may also make a free Move Action before making the foul, but may not continue moving after the foul has been made. Only a single Foul Action can be declared each Turn. Foul Actions are covered on page 69.
+It's not all good, clean fun in Blood Bowl; some players are prone to sticking the boot in when the ref isn't looking! A player that declares a Foul Action may also make a free Move Action before making the foul, but may not continue moving after the foul has been made. Only a single Foul Action can be declared each Turn. Foul Actions are covered on [page 69](#foul-actions).
 
 #### SPECIAL ACTION
 
 There are many Skills and Traits that will provide a player with the option to declare a Special Action. Some Special Actions will also allow a player to make a free Move Action as part of the Special Action. Each Special Action will allow the player to perform a more unique action on the pitch, such as using a contraption of some sort, transfixing an opposition player where they stand, or even using a hidden blade to stab out at an opponent!
 
-These are all referred to as Special Actions and will be fully outlined in the Skill or Trait that allows them to be used. The full list of Skills and Traits and their descriptions can be found on pages 123-138.
+These are all referred to as Special Actions and will be fully outlined in the Skill or Trait that allows them to be used. The full list of Skills and Traits and their descriptions can be found on [pages 123-138](./skills_and_traits.md).
 
 #### FOREGO ACTIVATION
 
-Sometimes you may not wish to activate a player on your team, in which case they can declare they will forego their activation. In these instances, the player will not be activated, and so will not be subjected to any rules that take place at the start of or during their activation, with the exception of seeing if the Crowd Takes Action if the Player is deemed to be Stalling (see page 80). However, once a player has declared they will forego their activation, they cannot later be activated in the same turn.
+Sometimes you may not wish to activate a player on your team, in which case they can declare they will forego their activation. In these instances, the player will not be activated, and so will not be subjected to any rules that take place at the start of or during their activation, with the exception of seeing if the Crowd Takes Action if the Player is deemed to be Stalling (see [page 80](#stalling)). However, once a player has declared they will forego their activation, they cannot later be activated in the same turn.
 
 #### DECLARE VS PERFORM
 
@@ -321,10 +322,6 @@ Whenever a player voluntarily moves into a square containing the ball during the
 The roll to pick up the ball is always done after any rolls required to move into the square containing the ball, such as any rolls to Rush, Dodge or Jump over another player, but before any other rolls that may occur.
 
 If a player is ever involuntarily moved into a square containing the ball, such as being pushed, or outside their activation then they may not attempt to pick up the ball and it will Bounce; however, no Turnover will be caused.
-
-For example: This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman, though will need to Rush once in order to do so. The Bretonnian Knight Catcher rolls a 5 for their Rush attempt, which succeeds, and then rolls their Agility Test, scoring a 3 and successfully jumps over the Skeleton Lineman.
-
-For example: This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman. There are currently two opposition players Marking the Bretonnian Knight Catcher, and one opposition player Marking the square they are attempting to Jump into. As a result, the Bretonnian Knight Catcher will suffer a -2 modifier to the Agility Test, as there are more opposition players Marking the square they are attempting to Jump out of; they will not suffer any modifiers from the opposition players Marking the square they are jumping into in this instance. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 6, which succeeds even with the -2 modifier!
 
 ### RUSHING
 
@@ -444,9 +441,9 @@ If there is no unoccupied square for the Pushed Back player to be moved into the
 
 #### PUSHED INTO THE CROWD
 
-If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on page 68.
+If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on [page 68](#pushed-into-the-crowd).
 
-If a player that is holding the ball is Pushed into the Crowd, then the ball will be Thrown-in exactly as described on page 73. Additionally, if a player on the active team is Pushed into the Crowd then a Turnover is caused.
+If a player that is holding the ball is Pushed into the Crowd, then the ball will be Thrown-in exactly as described on [page 73](#throw-ins). Additionally, if a player on the active team is Pushed into the Crowd then a Turnover is caused.
 
 ![](../media/core_rules/pushed_into_the_crowd.jpg)
 
@@ -462,7 +459,7 @@ Sometimes you need a little more power behind a tackle, or the focus of your ire
 
 Simply put, a Blitz Action combines both a Move Action and a Block Action; however, only a single player may perform a Blitz Action each Turn. When a player declares a Blitz Action, they must also declare which opposition player is the intended target of the Block Action part of the Blitz Action. Players may not declare an opposition player as the intended target of the Block Action if they cannot reach the player at all with their Move Action (including any extra squares gained by attempting to Rush).
 
-When a player declares a Blitz Action, they may make a Move Action following all the normal rules for a Move Action as described on page 54. Additionally, if at any point during this Move Action they are adjacent to the opposition player they declared as their intended target, then they may perform a Block Action against them following all the normal rules for a Block Action, however, this Block Action will cost the player that declared the Blitz Action a point of Move Allowance.
+When a player declares a Blitz Action, they may make a Move Action following all the normal rules for a Move Action as described on [page 54](#move-actions). Additionally, if at any point during this Move Action they are adjacent to the opposition player they declared as their intended target, then they may perform a Block Action against them following all the normal rules for a Block Action, however, this Block Action will cost the player that declared the Blitz Action a point of Move Allowance.
 
 After the player has performed the Block Action, they can continue their Move Action using any remaining Move Allowance they have left, following all the normal rules for a Move Action.
 
@@ -480,7 +477,7 @@ Many Blood Bowl players sport an impressive number of scrapes and scars, each on
 
 ### RISKING INJURY
 
-Whenever an Armour Roll is made for a player, they risk the chance of an Injury. As described on page 37, if a player's armour is not broken then they will be fine and suffer no further effect. However, if the player's armour is broken then an Injury Roll must be made for them.
+Whenever an Armour Roll is made for a player, they risk the chance of an Injury. As described on [page 37](./rules_and_regulations.md#9-av---armour-value), if a player's armour is not broken then they will be fine and suffer no further effect. However, if the player's armour is broken then an Injury Roll must be made for them.
 
 #### INJURY ROLLS
 
@@ -585,7 +582,7 @@ Nowadays, fouling is not just a common occurrence but also an expected one among
 
 As mentioned earlier, a single player on the active team may declare a Foul Action each Turn. When a player declares a Foul Action they are first allowed to make a Move Action, though they cannot continue to move after the Foul Action has been committed. The player must finish their Move Action adjacent to a Prone or Stunned opposition player in order to perform the Foul Action.
 
-To perform the Foul Action, the player makes an Armour Roll (see page 37) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
+To perform the Foul Action, the player makes an Armour Roll (see [page 37](./rules_and_regulations.md#9-av---armour-value)) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
 
 ![](../media/core_rules/performing_a_foul_action.jpg)
 
@@ -623,7 +620,7 @@ When a player performs a Pass Action, they follow the following steps in order:
 4. Interceptions
 5. Resolve Pass Action
 
-The target square will fall into one of four sections on the Range Ruler (see page 26) as explained below:
+The target square will fall into one of four sections on the Range Ruler (see [page 26](./game_essentials.md#range-ruler)) as explained below:
 
 - I: Quick Pass
 - II: Short Pass
@@ -642,7 +639,7 @@ After the target square has been declared, you will need to measure the range to
 
 To measure the range, place the circle at the end of the Range Ruler over the centre of the square occupied by the player performing the Pass Action. The other end of the Range Ruler is positioned so that it covers the target square with the line running through the centre of the Range Ruler passing directly through the centre of the target square.
 
-The target square will fall into one of four sections on the Range Ruler (see page 26) as explained below:
+The target square will fall into one of four sections on the Range Ruler (see [page 26](./game_essentials.md#range-ruler)) as explained below:
 
 - **I:** Quick Pass  
 - **II:** Short Pass  
@@ -692,7 +689,7 @@ If the Agility Test is failed, then the Pass Action continues as normal. However
 
 #### RESOLVE PASS ACTION
 
-If the Pass Action did not result in a Fumbled Pass and was not Intercepted, then it needs to be resolved. The ball will land in the square determined by the result of the Pass Action as described previously. If the ball lands in an occupied square, then the player must attempt to Catch the ball as described on page 72. If the ball lands in an unoccupied square, then it will Bounce from that square.
+If the Pass Action did not result in a Fumbled Pass and was not Intercepted, then it needs to be resolved. The ball will land in the square determined by the result of the Pass Action as described previously. If the ball lands in an occupied square, then the player must attempt to Catch the ball as described on [page 72](#catching-the-ball). If the ball lands in an unoccupied square, then it will Bounce from that square.
 
 If no player on the active team catches the ball after a Pass Action, and the ball comes to a rest on the ground or in possession of an opposition player, then a Turnover is caused.
 
@@ -726,7 +723,7 @@ To resolve a Throw-in, position the Throw-in Template with the Blood Bowl logo o
 
 ![](../media/core_rules/throw_ins.jpg)
 
-Next, roll a D6 to determine the direction the crowd will throw the ball as determined by the Throw-in Template. The ball will then travel 2D6 squares in the direction of the Throw-in before landing, counting the square underneath the Blood Bowl logo of the Throw-in Template as the first square. If the ball lands in an occupied square then the player must attempt to Catch the ball as described on the previous page.
+Next, roll a D6 to determine the direction the crowd will throw the ball as determined by the Throw-in Template. The ball will then travel 2D6 squares in the direction of the Throw-in before landing, counting the square underneath the Blood Bowl logo of the Throw-in Template as the first square. If the ball lands in an occupied square then the player must attempt to Catch the ball as described on the [previous page](#catching-the-ball).
 
 If a Throw-in is required as the result of a Pass Action, then if after the Throw-in is resolved the ball comes to a rest on the ground or in possession of an opposition player, a Turnover is caused.
 
@@ -748,7 +745,7 @@ Though they are significantly less flashy than launching the ball high into the 
 
 During each Turn, a single player on the active team may declare a Hand-off Action in order to attempt to give the ball to another player. When a player declares a Hand-off Action they are first allowed to make a Move Action, though they cannot continue to move after the Hand-off Action has been attempted. A player does not have to be in possession of the ball to declare a Hand-off Action, and may attempt to pick up the ball as part of their Move Action.
 
-To perform a Hand-off action, the player that declared the Hand-off must finish their Move Action adjacent to a Standing team-mate who has not lost their Tackle Zone. The team-mate must then attempt to Catch the ball as described on page 72.
+To perform a Hand-off action, the player that declared the Hand-off must finish their Move Action adjacent to a Standing team-mate who has not lost their Tackle Zone. The team-mate must then attempt to Catch the ball as described on [page 72](#catching-the-ball).
 
 ## THROW TEAM-MATE ACTIONS!
 
@@ -914,13 +911,13 @@ The Drive comes to an end. Any effects that last until the end of a Drive will e
 
 ### RESTARTING THE GAME
 
-If there are still Turns to be played and the game hasn't come to an end, then another Drive will be played. Coaches will set up again as per the Start of Drive Sequence as described previously on page 47. If the Drive ended with a Touchdown, then the team that scored will become the kicking team (defence) and the other team will become the receiving team (offence).
+If there are still Turns to be played and the game hasn't come to an end, then another Drive will be played. Coaches will set up again as per the Start of Drive Sequence as described previously on [page 47](#start-of-drive-sequence). If the Drive ended with a Touchdown, then the team that scored will become the kicking team (defence) and the other team will become the receiving team (offence).
 
 If the Drive ended because of half-time, then the next half will begin with the team that began the game as the receiving team becoming the kicking team for this Drive.
 
 ### ENDING THE GAME
 
-If there are no more Turns to be played, then the final whistle is blown and the game comes to an end. During League Play, this is where teams will move on to the Post-game Sequence where players will advance, winnings will be earnt, and so on. We will cover all that later on page 95.
+If there are no more Turns to be played, then the final whistle is blown and the game comes to an end. During League Play, this is where teams will move on to the Post-game Sequence where players will advance, winnings will be earnt, and so on. We will cover all that later on [page 95](./league_play.md#post-game-sequence).
 
 #### WINNING THE GAME
 
@@ -932,7 +929,7 @@ Sometimes it may be important to have an actual winner of the game, such as in t
 
 In instances where it is vital to have a definitive winner, then should a game end in a draw, a period of Extra Time will be played. This is ideal for the likes of semi-finals, grand finals and other such games where one team needs to progress.
 
-If Extra Time is required, then an extra eight-Turn period will be played - Coaches will roll off to determine which team is kicking during Extra Time. Teams will set up again as per the Start of Drive Sequence on page 47; however, Team Re-rolls will not be replenished like they would be at half-time. Any Team Re-rolls not spent at the end of the game may carry over into Extra Time.
+If Extra Time is required, then an extra eight-Turn period will be played - Coaches will roll off to determine which team is kicking during Extra Time. Teams will set up again as per the Start of Drive Sequence on [page 47](#start-of-drive-sequence); however, Team Re-rolls will not be replenished like they would be at half-time. Any Team Re-rolls not spent at the end of the game may carry over into Extra Time.
 
 Extra Time is played exactly like a normal half. If at the end of Extra Time one team has scored more Touchdowns than their opponent, then they are the winner. Otherwise, if the result is still a draw, Penalties will be required.
 

@@ -4,9 +4,9 @@ Generally speaking, Skills are those abilities a player is able to learn through
 
 All players will have access to a number of Skill categories as outlined in their profile. Some of these will be listed under Primary, which are the Skills that come more naturally to the player in question, whilst others are listed under Secondary and are those that will take a greater investment of SPP for that player. Not every player will have access to every Skill category.
 
-How players gain new Skills in League play is explained on page 97.
+How players gain new Skills in League play is explained on [page 97](./league_play.md#new-skills).
 
-For example: A Tomb Kings Blitzer has G and S listed under Primary, and A and D under Secondary. This means they have access to General and Strength Skills as Primary, and Agility and Devious Skills as Secondary.
+***For example:** A Tomb Kings Blitzer has G and S listed under Primary, and A and D under Secondary. This means they have access to General and Strength Skills as Primary, and Agility and Devious Skills as Secondary.*
 
 Skills are denoted by a symbol showing which category they belong to - either Agility, Devious, General, Mutation, Passing or Strength. These symbols are shown below:
 
@@ -99,7 +99,7 @@ If a player tries to leave the Tackle Zone of multiple players with this Skill a
 
 #### DODGE (ACTIVE) ![](../media/core_rules/elite_skill_small.jpg)
 
-Once per Turn, this player may re-roll a single Agility Test when attempting to Dodge. Additionally, this Skill will impact the Stumble result when an opposition player performs a Block Action against this player, as described on page 62.
+Once per Turn, this player may re-roll a single Agility Test when attempting to Dodge. Additionally, this Skill will impact the Stumble result when an opposition player performs a Block Action against this player, as described on [page 62](./the_game_of_blood_bowl.md#stumble).
 
 #### DEFENSIVE (ACTIVE)
 
@@ -121,7 +121,7 @@ Additionally, a Prone player with this Skill can declare a Block Action whilst P
 #### LEAP (ACTIVE)
 
 During their Move Action, a player with this Skill can attempt to Leap over a single adjacent square regardless of what is in the square.
-Leaping works the same way as Jumping, as described on page 56, with the exception that the Leaping player may reduce the negative modifiers they would receive by Leaping by 1, to a minimum of -1.
+Leaping works the same way as Jumping, as described on [page 56](./the_game_of_blood_bowl.md#jumping-over-players), with the exception that the Leaping player may reduce the negative modifiers they would receive by Leaping by 1, to a minimum of -1.
 
 A player with this Skill cannot also have the Pogo Trait.
 
@@ -615,7 +615,7 @@ This Trait cannot be used against Big Guy players, or any player with the Decay,
 
 #### POGO (ACTIVE)
 
-During their movement, a player with this Trait can attempt to Pogo over a single adjacent square regardless of what is in the square. Pogoing works the same way as Jumping, as described on page 56, with the exception that the Pogoing player may ignore all negative modifiers they would receive by Jumping.
+During their movement, a player with this Trait can attempt to Pogo over a single adjacent square regardless of what is in the square. Pogoing works the same way as Jumping, as described on [page 56](./the_game_of_blood_bowl.md#jumping-over-players), with the exception that the Pogoing player may ignore all negative modifiers they would receive by Jumping.
 
 A player with this Trait cannot also have the Leap Skill.
 
@@ -679,7 +679,7 @@ A Rooted player will immediately stop being Rooted at the end of a Drive, or if 
 
 #### THROW TEAM-MATE (ACTIVE)
 
-This player may declare the Throw Team-mate Action as described on page 76.
+This player may declare the Throw Team-mate Action as described on [page 76](./the_game_of_blood_bowl.md#throw-team-mate-actions).
 
 #### TIMMM-BER! (PASSIVE)
 
