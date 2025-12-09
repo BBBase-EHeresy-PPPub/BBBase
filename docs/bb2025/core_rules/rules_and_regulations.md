@@ -56,32 +56,32 @@ Sometimes the rules will call for you to randomly select a player on either your
 ### ROLLING DICE
 The dice you roll will determine the outcome of your player's actions; whether they successfully pass the ball, tackle an opposition player, dodge past an opposition line, or all manner of other situations during the course of a game. The majority of actions will use ordinary six-sided dice (D6) or Block dice, though sometimes you will need to roll the likes of an eight-sided dice (D8) or sixteen-sided dice (D16).
 
-### 'COCKED' DICE
+#### 'COCKED' DICE
 Sometimes you will roll a dice and it won't land completely flat or, worse yet, it will roll off the table. In these situations, the dice should simply be rolled again to give a result that is completely flat. The likes of a dice tray are ideal for ensuring that dice roll flat. Coaches should also discuss what counts as a 'cocked' dice before the game starts.
 
-### SINGLE DICE ROLLS
+#### SINGLE DICE ROLLS
 Often, the rules will require you to roll a single dice, in which case it will say 'roll a D6', 'roll a D8' or 'roll a D16'. Sometimes you will be asked to 'roll a D3'; to do this, roll a D6 and half the value shown on the dice, rounding any fractions up.
 
-### MULTIPLE DICE ROLLS
+#### MULTIPLE DICE ROLLS
 Sometimes the rules will ask a Coach to roll '2D6'. This is a multiple dice roll and requires two D6s to be rolled and added together, to give a result between 2 and 12.
 
-### DICE POOLS
+#### DICE POOLS
 You may be required to roll multiple dice at once and select a single result from those rolled. For example, a Coach may need to roll two or three Block dice and pick a result. This is called a 'pool' of dice.
 
-### TARGET NUMBER ROLLS
+#### TARGET NUMBER ROLLS
 Often when making a dice roll, the rules will require you to roll a certain number followed by a +. This is a target number roll and shows the minimum score on the dice needed to succeed in that particular situation. For example, if a rule required you to roll a 3+, then any roll of a 3, 4, 5 or 6 would be successful.
 
-### MODIFYING DICE ROLLS
+#### MODIFYING DICE ROLLS
 Often rules will apply modifiers to the score on a dice, particularly when making a target number roll. When this is the case, roll the dice as normal and apply any modifiers to the score on the dice. For example, if a dice rolled a 4 and had a -1 modifier, then it would count as a 3, or if a dice rolled a 3 and had a +1 modifier, then it would count as a 4, and so on.
 
 It is important to note that the score on a D6 can never be modified to below 1 or to above 6, regardless of modifiers.
 
-### NATURAL ROLLS
+#### NATURAL ROLLS
 A natural roll is the actual number rolled on the dice regardless of any modifiers. Some rules will state that a natural X is needed to succeed in a specific situation or to trigger a special rule.
 
 Additionally, should a player roll a natural 1 for any action or test, then that will always be a failure regardless of modifiers. Conversely, should a player roll a natural 6 for any action or test, then that will always be a success even if the modifiers would make it seem impossible.
 
-### ROLLING OFF
+#### ROLLING OFF
 Sometimes the rules will call for Coaches to roll off against one another. In this situation, both Coaches will roll a single D6 (re-rolling any ties), with the Coach that rolled highest winning the roll-off.
 
 ### RE-ROLLS
@@ -95,10 +95,10 @@ In Blood Bowl there are occasions that will allow a Coach to re-roll one or more
 
 Re-rolls will usually come from one of two sources:
 
-### SKILL RE-ROLLS
+#### SKILL RE-ROLLS
 Some players will have Skills or Traits that allow them to re-roll dice in a specific situation. These will be outlined in the Skill's or Trait's description and will state which dice can be re-rolled and in what circumstances.
 
-### TEAM RE-ROLLS
+#### TEAM RE-ROLLS
 Blood Bowl teams will often have a number of Team Re-rolls at their disposal during the game, depending on how many they purchased for their roster. A team will always start the game with its full amount of Team Re-rolls and any used during the first half of a game will be replenished at half-time. This means that a team will always start each half of a game with its full complement of Team Re-rolls. Unused Team Re-rolls do not carry over to the next half or to the next fixture in League Play.
 
 There are some rules that govern how Team Re-rolls work:
@@ -135,14 +135,14 @@ When the rules call for something to Scatter, it will also have a number in brac
 ![](../media/core_rules/scatter.jpg)
 
 ### BOUNCING BALLS
-Blood Bowl balls are odd-shaped items at the best of times and prone to bouncing in random directions when they hit the pitch. When the ball hits the pitch, it will **Bounce**. When the rules tell you to Bounce the ball, it will Scatter (1) from its current location and come to a rest in the new square.
+Blood Bowl balls are odd-shaped items at the best of times and prone to bouncing in random directions when they hit the pitch. When the ball hits the pitch, it will Bounce. When the rules tell you to Bounce the ball, it will Scatter (1) from its current location and come to a rest in the new square.
 
 ### KEYWORDS
 Each type of player has a number of keywords associated with them found in their profile. These denote a number of things such as the player's race, position, and other important information.
 
-Some rules will contain words or phrases in **bold**; these will show which players are affected by a particular rule. For example, a player may have a Skill that affects *all Blitzer players*, in which case any player with the **Blitzer** keyword would be affected.
+Some rules will contain words or phrases in **bold**; these will show which players are affected by a particular rule. For example, a player may have a Skill that affects 'all **Blitzer** players', in which case any player with the **Blitzer** keyword would be affected.
 
-If a rule lists more than one keyword, then a player must have all the associated keywords to be affected. For example, if a rule affects *all Human Blitzer players*, then a player must have both the **Human** and the **Blitzer** keywords to be affected.
+If a rule lists more than one keyword, then a player must have all the associated keywords to be affected. For example, if a rule affects 'all **Human Blitzer** players', then a player must have both the **Human** and the **Blitzer** keywords to be affected.
 
 ### THE TURNOVER
 One of the most important mechanics in Blood Bowl is the Turnover. Over the course of a turn there are a number of unfortunate events that can occur to cut a team's turn short.
@@ -283,7 +283,7 @@ When a player is Prone, place a Prone Token beside them to show they are Prone. 
 #### STUNNED
 When a player is Stunned, place a Stunned Token beside them to show they are Stunned. A Stunned player cannot be activated during their team's turn. At the end of each team's turn, any players on their team that started that turn Stunned will automatically roll over and become Prone instead - flip their Stunned Token over to become a Prone Token. This means that any player that became Stunned during the course of their team's turn will not roll over as they did not start their team's turn as Stunned - they must wait until the end of their team's next turn to roll over.
 
-### DESIGNER'S NOTE: LYING DOWN MODELS
+#### DESIGNER'S NOTE: LYING DOWN MODELS
 In previous versions of the game we used to lie our players down on the pitch to denote being Prone or Stunned. Face-up players were Prone, and face-down players were Stunned. However, in Season 3, this has changed to using tokens. This means that regardless of how large and/or dynamic a model is, it is easy to tell where a miniature is and if they are Prone and Stunned. It also prevents damage to miniatures that Coaches had spent a lot of time and love painting.
 
 You may find that some veterans still lay their players down during a game out of habit. This is fine if they wish to do so, so long as they make it clear which square each player is in and what their status is.
@@ -291,17 +291,17 @@ You may find that some veterans still lay their players down during a game out o
 ### BECOMING PRONE OR STUNNED
 There are a number of ways that a player can become Prone or Stunned over the course of a game, though this will usually be due to being punched down by an opposition player or by falling over as they try to duck and weave through the opposition lines. There are three ways that a player can find themselves on the ground: Placed Prone, Falls Over or Knocked Down, each of which is described here.
 
-### PLACED PRONE
+#### PLACED PRONE
 When a player is Placed Prone they aren't at risk of being caused harm - sometimes it's the choice of the player who is Placed Prone. When a player is Placed Prone, put a Prone Token next to them.
 
 If a player is Placed Prone during their own activation then their activation immediately ends. If a player with the ball is Placed Prone then the ball will Bounce from the player's square; this will cause a Turnover if it was during the player's activation. When a player is Placed Prone, do not make an Armour Roll against them.
 
-### FALLS OVER
+#### FALLS OVER
 Sometimes a player may Fall Over as they try to manoeuvre around the pitch. When a player Falls Over, it is self-inflicted.
 
 If a player on the active team Falls Over then a Turnover is caused. When a player Falls Over, place a Prone Token next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on [page 66](./the_game_of_blood_bowl.md#risking-injury). If the player was holding the ball, it will Bounce from the square they are in.
 
-### KNOCKED DOWN
+#### KNOCKED DOWN
 Blood Bowl is a violent game, and players will often find themselves Knocked Down as a result of being blocked by an opponent, attempting to block an opponent who is bigger, tougher or luckier than they are, or by any number of other in-game effects such as spells, projectiles, or random events.
 
 If a player is Knocked Down during their team's turn, then a Turnover is caused. When a player is Knocked Down, place a Prone Marker next to them and then make an Armour Roll for the player. If the player's armour is broken then they will risk an injury as described on [page 66](./the_game_of_blood_bowl.md#risking-injury). If the player was holding the ball, it will Bounce from the square they are in.
