@@ -231,19 +231,19 @@ Wizards vary in cost, with some costing more than others. Here we provide the ru
 #### WIZARD: SPORTS-WIZARD
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-Sports-Wizards are there to entertain, using their array of magical powers to delight and amaze the fans. Fireballs will flash above the pitch, and occasionally a player may find themselves turned into a frog flash in red before inexplicably turning back when they least expect it!
+Sports-Wizards are there to entertain, using their array of magical powers to delight and amaze the fans. Fireballs will flash above the pitch, and occasionally a player may find themselves turned into a frog before inexplicably turning back when they least expect it - if they turn back at all that is!
 
 Once per game, a Sports-Wizard can cast one of the following two spells:
 
 **FIREBALL**
 
-At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1-3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
+At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1–3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
 
 Any Standing player that is hit by the fireball is immediately Knocked Down and a +1 modifier is applied to the Armour Roll. Any Prone or Stunned player that is hit by a fireball will immediately have an Armour Roll made against them, applying a +1 modifier to the Armour Roll. These modifiers must always be applied.
 
 **ZAP!**
 
-At the end of any Turn, before the next Turn begins, you may select any player on the pitch and roll a D6. If the roll on the D6 is less than the selected player's ST, or the roll is a natural 1, then the DG is equal to or higher than a Frog. If they were holding the ball then it will Bounce from their square.
+At the end of any Turn, before the next Turn begins, you may select any player on the pitch and roll a D6. If the roll on the D6 is less than the selected player's ST, or the roll is a natural 1, then nothing happens. If the roll on the D6 is equal to or higher than the selected player's ST, or the roll is a natural 6, then the player is turned into a Frog. If they were holding the ball then it will Bounce from their square.
 
 A Frog has the following profile:
 
