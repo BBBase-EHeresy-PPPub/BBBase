@@ -15,7 +15,7 @@
 * [Two Heads]
 * **Threatening Pass**
 
-Once per game, if Hakflem is adjacent to a team-mate who is in possession of the ball when he is activated, then Hakflem can take possession of the ball and move 1 square; the team-mate will immediately be Knocked Down. This will not cause a turnover even if the team-mate suffers a Casualty.
+Once per game, if Hakflem is adjacent to a team-mate who is in possession of the ball when he is activated, then Hakflem can choose to gain possession of the ball. If he does, then the team-mate will immediately be Knocked Down. This will not cause a Turnover even if the team-mate suffers a Casualty.
 
 ### Plays For
 

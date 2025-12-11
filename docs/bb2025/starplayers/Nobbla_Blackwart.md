@@ -4,7 +4,7 @@
 
 | 120K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 2  | 3+ | 4+ | 8+ |
+|      | 6  | 2  | 3+ | - | 8+ |
 
 *(Goblin, Special)*
 
@@ -18,7 +18,7 @@
 * [Stunty]
 * **Kick 'em While They're Down!**
 
-Once per game, Nobbla may use the Chainsaw Attack Special Action against a Prone or Stunned opposition player. If he does not use a Block Action and so Nobbla cannot be Sent-off when using this Special Action.
+Once per game, Nobbla may use the Chainsaw Attack Special Action against a Prone or Stunned opposition player. This does not count as a Foul Action and so Nobbla cannot be Sent-off when using this special rule.
 
 ### Plays For
 

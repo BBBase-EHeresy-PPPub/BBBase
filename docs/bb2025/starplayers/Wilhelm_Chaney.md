@@ -16,7 +16,7 @@
 * [Wrestle]
 * **Savage Mauling**
 
-Once per game, when Wilhelm makes an Injury Roll against an opposition player he has Knocked Down, he may choose to re-roll the result.
+Once per game, when Wilhelm makes an Injury Roll against an opposition player, he may choose to re-roll the result.
 
 ### Plays For
 

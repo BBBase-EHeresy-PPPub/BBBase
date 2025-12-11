@@ -4,7 +4,7 @@
 
 |  140K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 3  | 3+ | 4+ | 9+ |
+|      | 6  | 3  | 3+ | - | 9+ |
 
 *(Human, Special)*
 
@@ -16,7 +16,7 @@
 * [Stand Firm]
 * **Old Pro**
 
-Once per game, Helmut may use his Pro Skill to re-roll a single dice roll made as part of an Armour Roll.
+Once per game, Helmut may use his Pro Skill to re-roll a single dice rolled as part of an Armour Roll.
 
 ### Plays For
 

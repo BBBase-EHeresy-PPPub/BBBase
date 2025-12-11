@@ -4,7 +4,7 @@
 
 |   80K   | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 3+ | 4+ | 8+ |
+|      | 6  | 2  | 3+ | 3+ | 8+ |
 
 *(Goblin, Special)*
 
@@ -16,7 +16,7 @@
 * [Sneaky Git]
 * [Stunty]
 * **Kaboom!**
-Once per game, if an attempt to throw a bomb fails because it explodes in Dribblesnot's hands, you can choose for him to hold onto the bomb instead of attempting to throw it again.
+Once per game, if an opposition player catches a bomb thrown by Bomber, you can choose to have it explode rather than the opposition player immediately attempting to throw it again.
 
 ### Plays For
 

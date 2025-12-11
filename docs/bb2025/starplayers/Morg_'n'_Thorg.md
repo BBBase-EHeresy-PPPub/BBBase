@@ -21,7 +21,7 @@ Once per game, when Morg performs a Throw Team-mate Action, he may re-roll the P
 
 ### Plays For
 
-* [Any team except those from Sylvanian Spotlight]
+* Any team except those from [Sylvanian Spotlight]
 
 ### Accept to play for...
 

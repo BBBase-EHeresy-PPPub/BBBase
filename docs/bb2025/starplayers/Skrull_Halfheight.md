@@ -17,7 +17,7 @@
 * [Thick Skull]
 * **Strong Passing Game**
 
-Once per game, when Skrull performs a Pass Action he may modify the result of the Passing Ability Test by the target's S characteristic, to a maximum of 6.
+Once per game, when Skrull performs a Pass Action he may modify the result of the Passing Ability Test by the target's ST characteristic, to a maximum of 6.
 
 ### Plays For
 

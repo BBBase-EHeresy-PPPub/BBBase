@@ -41,7 +41,7 @@ Grak & Crumbleberry must be hired as a pair. Additionally, while Crumbleberry is
 
 ### Plays For
 
-* [Any Team]
+* Any Team
 
 ### Accept to play for...
 
