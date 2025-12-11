@@ -43,8 +43,6 @@ Below is a list of the common Inducements and their associated costs for easy re
 ### 0-3 PRAYERS TO NUFFLE
 **10,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-It is common for teams, coaches and fans to ask for divine intervention for a game of Blood Bowl, especially when their team is about to play against significantly superior opposition! Though this often has little impact, it turns out that a little bit of gold as an offering to Nuffle does actually seem to make it all the more likely that the prayers are listened to!
-
 For each Prayer to Nuffle a team purchases, roll a D16 (re-rolling any results a team has already rolled) and consult the Prayers to Nuffle Table opposite to see the effect that Nuffle has bestowed upon the team. Prayers to Nuffle last until the end of the game. If a Prayer to Nuffle requires players to be selected, then Star Players may never be selected under any circumstances.
 
 | D16 | RESULT |
@@ -70,21 +68,15 @@ For each Prayer to Nuffle a team purchases, roll a D16 (re-rolling any results a
 ### 0-5 PART-TIME ASSISTANT COACHES
 **20,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-Everyone's an expert; at least, that's what they'll tell you for small sums of gold to hire these so-called experts to share their wisdom and join the coaching staff for a particular game.
-
 For the duration of the game, increase your number of Assistant Coaches by 1 for each Part-time Assistant Coach purchased.
 
 ### 0-5 TEMP AGENCY CHEERLEADERS
 **5,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-Not every cheerleader is lucky enough to have a permanent place with a specific team; many young hopefuls will travel from stadium to stadium to cheer for the local teams in from the stands to find their big break.
-
 For the duration of the game, increase your number of Cheerleaders by 1 for each Temp Agency Cheerleader purchased.
 
 ### 0-1 TEAM MASCOT
 **25,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
-
-Team mascots are incredibly popular, with many fans delighted to see their whimsical antics up and down the touchline. No doubt dressed up in a ridiculous get-up, their unique blend of hilarious dance moves, slapstick comedy and utter mischief!
 
 A team with a Team Mascot gains an additional Team Re-roll for each half. However, whenever the team wishes to use this Team Re-roll, they must first roll a D6. On a 4+, the Team Re-roll may be used as normal. On a 1-3, the Team Re-roll is lost for this half. Another Team Re-roll can be used instead.
 
@@ -93,77 +85,57 @@ Additionally, a team with a Team Mascot can re-roll any rolls of a natural 1 whe
 ### 0-1 WEATHER MAGE
 **25,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-The weather is unpredictable at the best of times, and some stadium owners will pay good money to hire a mage that can control the weather - ensuring that fans are kept warm, dry and happy whilst also making sure that the weather is beneficial for their team on the pitch!
-
-Once per game, at the start of any of your Turns, you may immediately add +1 or -2 to the [Weather Table](./the_game_of_blood_bowl.md#weather-table). The resulting weather modifications are applied immediately and will last until the next time a Changing Weather result is rolled on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
+Once per game, at the start of any of your Turns, you may immediately make a roll on the [Weather Table](./the_game_of_blood_bowl.md#weather-table), applying a modifier of up to +2 or –2 to the roll. The resulting weather conditions are applied immediately and will last until the next time a Changing Weather result is rolled on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 ### 0-2 BLITZER'S BEST KEGS
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
-
-Nothing encourages a player to get back into the action quite like the promise of a nice cold pint of Blitzer's Best straight from the keg! Some players even claim their grubby mitts more on a pint of their favourite ale before heading back out onto the gridiron.
 
 For the duration of the game, for each Blitzer's Best Keg purchased, apply a +1 modifier to the roll whenever you are rolling to recover a Knocked-out player.
 
 ### 0-3 BRIBES (0-6 FOR TEAMS WITH THE BRIBERY AND CORRUPTION SPECIAL RULE)
 **100,000 GOLD PIECES (50,000 GOLD PIECES FOR TEAMS WITH THE BRIBERY AND CORRUPTION SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
-A bag of gold can turn a seemingly obvious foul into a nice, clean tackle - at least in the eyes of the referee! Cash is a great way to calm down an angry official and help them see things your way!
-
-When a player is Sent-off, after any attempt to Argue the Call has been made, you may use a Bribe so long as the player is not a Bribe is used, roll a D6. On a 2+, the player is not Sent-off (and no Turnover is caused). On a natural 1, the referee pockets the Bribe but sends the player off anyway - the player is still Sent-off and the Bribe is lost.
+When a player is Sent-off, after any attempt to Argue the Call has been made, you may use a Bribe so long as you are still able. When a Bribe is used, roll a D6. On a 2+, the player is not Sent-off (and no Turnover is caused). On a natural 1, the referee pockets the Bribe but sends the player off anyway – the player is still Sent-off and the Bribe is lost.
 
 ### 0-8 EXTRA TEAM TRAINING
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
-
-It can be hard enough to get an entire team together to train, let alone for any additional training sessions a Coach wants to have. If a Coach does want to hold additional training sessions, then they'll likely have to fork out some cash to incentivise their players to turn up.
 
 Each Extra Team Training grants an additional Team Re-roll for the duration of the game.
 
 ### 0-1 MORTUARY ASSISTANT
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE MASTERS OF UNDEATH SPECIAL RULE**
 
-Necromancers are never ones to turn down additional assistance with their morbid work. Luckily, there are often plenty of local mortuary assistants on standby ready to lend a helping hand when raising the undead.
-
 Once per game, a team that has purchased a Mortuary Assistant can use them to re-roll a failed Regeneration Roll for one of their players.
 
 ### 0-1 PLAGUE DOCTOR
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE FAVOURED OF NURGLE SPECIAL RULE**
-
-Plague Doctors are a common sight on the touchlines amongst the sideline staff of Nurgle-aligned teams, and are well-versed in the virulent strains that infect their players and how best to deal with them when necessary.
 
 Once per game, a team that has purchased a Plague Doctor can use them to re-roll a failed Regeneration Roll for one of their players. Alternatively, a team that has purchased a Plague Doctor can use them in the same manner as an Apothecary.
 
 ### 0-1 RIOTOUS ROOKIES
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM WITH THE LOW COST LINEMEN SPECIAL RULE**
 
-Some coaches will bolster their team's roster by hiring some lucky fans and offering them the chance at their big break in exchange for some small change, magic beans, or whatever trinkets the Coach happens to have on them at that time.
-
 After adding any Journeymen needed to bring the player count up to 11, a team that has purchased Riotous Rookies gains an additional 2D3+1 Journeymen for the game. These additional Journeymen may temporarily take the number of players on your Team Draft List above 16. These additional Journeymen are treated the same as regular Journeymen in every way and, unless they are hired after the game, will leave the team at the end of the game.
 
 ### 0-2 WANDERING APOTHECARY
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM THAT CAN HIRE AN APOTHECARY**
-
-Many members of the medical profession will ply their trade on a freelance basis, travelling between the various stadia to offer their services to teams in need of additional patching - for a fee of course.
 
 A team that has purchased a Wandering Apothecary can use them, once per game, in the same manner as a regular Apothecary.
 
 ### 0-1 HALFLING MASTER CHEF
 **300,000 GOLD PIECES (100,000 GOLD PIECES FOR HALFLING TEAMS), AVAILABLE TO ANY TEAM**
 
-Most teams will prepare exquisite spreads at both half-time, and full-time. The smell of freshly prepared food wafting across the pitch is just as likely to distract the opposition as it is to invigorate your own players.
-
-At the start of each half, before the Kick-off takes place, a team that has purchased a Halfling Master Chef may roll three D6s. For each 4+, the team gains an additional Team Re-roll for the half, and the opposition loses a Team Re-roll for the half. Team Re-rolls granted by Skills, Traits or other special rules cannot be lost this way.
+At the start of each half, before the Kick-off takes place, a team that has purchased a Halfling Master Chef may roll three D6s. For each roll of a 4+, the team gains an additional Team Re-roll for the half and the opposition loses a Team Re-roll for the half. Team Re-rolls granted by Skills, Traits or other special rules cannot be lost in this way.
 
 ### 0-1 BIASED REFEREE
 **PRICE VARIES**
 
-It's not just the players that can become stars; even the likes of referees can garner quite a following bias towards certain teams. Some teams will pay handsomely to ensure that all, having the ref on your payroll makes things significantly easier!
+Biased Referees vary in cost, with some costing more than others. Here we provide the rules and cost for a Dodgy League Rep, though other named Biased Referees may be available in other Blood Bowl publications. Other Biased Referees will have their own entry, which will list their cost, teams that can hire them, and special rules.
 
-Biased Referees vary in cost, with some costing more than others. Here we provide the rules and cost for a Dodgy League Rep, though other named Biased Referees may be available in other Blood Bowl publications, which will list their cost, teams that can hire them, and special rules.
+It is possible for both teams to hire the same named Biased Referee.
 
 #### BIASED REFEREE: DODGY LEAGUE REP
 **120,000 GOLD PIECES (80,000 GOLD PIECES FOR TEAMS WITH THE BRIBERY AND CORRUPTION SPECIAL RULE), AVAILABLE TO ANY TEAM**
-
-Whilst many referees are happy to accept bribes on a case by case basis, allowing them to take cash from both sides, some decide to offer their entire services to a specific team for the entire game!
 
 A team that has hired a Dodgy League Rep gains the following benefits:
 
@@ -178,14 +150,10 @@ When you attempt to Argue the Call, apply a +1 modifier to the roll. A roll of a
 ### 0-1 INFAMOUS COACHING STAFF
 **PRICE VARIES**
 
-Many coaching staff have become just as famous as the players they coach, becoming celebrities in their own right. Many of these coaching around staff have become world so offer their expertise to struggling teams.
-
-Infamous Coaching Staff vary in how they operate, with some costing more than others. Here we provide the rules and cost for Josef Bugman, though other Infamous Coaching Staff may be available in other Blood Bowl publications. Other Infamous Coaching Staff will have their own entry, which will list their cost, teams that can hire them, and special rules.
+Infamous Coaching Staff vary in how they operate, with some costing more than others. Here we provide the rules and cost for Josef Bugman, though other named Infamous Coaching Staff may be available in other Blood Bowl publications. Other Infamous Coaching Staff will have their own entry, which will list their cost, teams that can hire them, and special rules. It is possible for both teams to hire the same named Infamous Coaching Staff.
 
 #### INFAMOUS COACHING STAFF: JOSEF BUGMAN
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
-
-The name Bugman is synonymous with two things: Beer and Blood Bowl. In regards to the latter, Josef Bugman is well known on the coaching circuit, often turning up to coach teams who have signed a lucrative sponsorship with Bugman's XXXX - and bringing with him plenty of the good stuff!
 
 A team that has hired Josef Bugman gains the following benefits. Additionally, they cannot hire Josef Bugman as a Star Player.
 
@@ -195,55 +163,49 @@ For the duration of the game, apply a +1 modifier to the roll whenever you are r
 
 **DWARVEN WISDOM**
 
-Once per game, after Kick-off, a team that has hired Josef Bugman can remove D3 of their players from the pitch and set them up again following all of the usual restrictions.
+Once per game, after teams have been set up but before Kick-off, a team that has hired Josef Bugman can remove D3 of their players from the pitch and set them up again following all of the usual restrictions.
 
 ### 0-3 MERCENARY PLAYERS
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
-For every player comfortably rostered to a team, there are those who will gladly do the dirty work the rest of the team won't.
+Any team can hire Mercenary Players. These are players from your team’s Team Roster, though they will cost an additional 30,000 gold pieces to induce. For example, a Mercenary Human Lineman would cost 80,000 gold pieces – 50,000 for their initial cost, plus 30,000 for being a Mercenary.
 
-Any team can hire Mercenary Players. These are players from your team's Team Roster, though they will cost an additional 30,000 gold pieces. For example, a Mercenary Human Lineman would cost 80,000 gold pieces: 50,000 for their initial cost, plus 30,000 for being a Mercenary.
+Mercenary Players will still count as one of the type of player they are, so you can’t use Mercenary Players to increase the number of specific player types you can have on a team. However, players that are missing their next game do not count towards the total number of a player type on their team and so will not prevent a Mercenary Player of their player type.
 
-Mercenary Players will still count as one of the type of player they are, so you can't use Mercenary Players to increase a team, however players of specific player types you are missing your next game do not count towards the total number of a player type on their team and so will not prevent a Mercenary of their player type. Mercenary Players automatically gain the Loner (4+) Trait in addition to their usual Skills and Traits. Mercenary (4+) Trait Players may be given a single Primary Skill at a cost of 50,000 gold pieces. Unlike Journeymen, Mercenary Players cannot be hired during the Post-game Sequence.
+Mercenary Players automatically gain the Loner (4+) Trait in addition to their usual Skills and Traits. Mercenary Players may be given a single Primary Skill at a cost of 50,000 gold pieces. Unlike Journeymen, Mercenary Players cannot be hired during the Post-game Sequence.
 
 ### 0-2 STAR PLAYERS
 **PRICE VARIES, AVAILABLE TO VARIOUS TEAMS**
 
-Star Players are the very best players to grace Nuffle's sacred turf. Legends of the game that have given their all to the sport they've played. Many of these Star Players are celebrities in their own right, and can demand huge sums of money to play alongside other teams.
+A team may hire up to a maximum of two Star Players for a game. This cannot be used to take the number of players on a team above 16; however, players that are missing the next game do not count when working out the number of players a team has available.
 
-A team may hire up to a maximum of two Star Players for a game. This cannot be used to take the number of players a team has above 16; however, when working out the number of players a team has available.
+Star Players that must be hired as a pair only count as a single Star Player choice, but will still take up two individual spaces on a team’s Team Roster.
 
-Star Players that must be hired as a pair only count as a single Star Player choice, but will still take up two individual spaces on a team's Team Roster.
+It is possible for both teams to hire the same Star Player, in which case both teams can field the Star Player – one of them is simply just a very talented imposter!
 
-It is possible for both teams to hire the same Star Player in which case both teams can field the Star Player - one of them is simply just a very talented imposter!
+Star Players cannot earn Star Player Points, be awarded the MVP, can never gain Player Advancements and any Casualty Rolls made against them will automatically be waived at the end of the game – Star Players are wealthy enough to pay for the very best medical treatment and resurrection spells!
 
-Star Players cannot earn Star Player Points, be awarded MVPs, or have Casualty Rolls made against them automatically waived at the end of the game - Star Players are wealthy enough to pay for the very best medical treatment and insurance spells!
-
-The list of Star Players can be found on [pages 193-196](../starplayers/index.md). Each Star Player profile will explain which teams can hire them and how many gold pieces they will cost to hire. Additional Star Players can be found at warhammer-community.com.
+The list of available Star Players can be found on [pages 193-196](../starplayers/index.md). Each Star Player profile will explain which teams can hire them and how many gold pieces they will cost to hire. Additional Star Players can be found in the Star Players PDF which can be found at warhammer-community.com.
 
 ### 0-1 WIZARD
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
-The Colleges of Magic are huge fans of Blood Bowl, with many Wizards taking a direct interest in the sport to get involved and use their magical gifts to aid a particular team that has greased their palm with a few gold coins.
-
-Wizards vary in cost, with some costing more than others. Here we provide the rules and cost for a Sports-Wizard, though other Wizards will have their own entry which will list their cost, teams that can hire them, and special rules. It is possible for both teams to hire the same named Wizard.
+Wizards vary in cost, with some costing more than others. Here we provide the rules and cost for a Sports-Wizard, though other named Wizards may be available in other Blood Bowl publications. Other Wizards will have their own entry, which will list their cost, teams that can hire them, and special rules. It is possible for both teams to hire the same named Wizard.
 
 #### WIZARD: SPORTS-WIZARD
 **150,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
-
-Sports-Wizards are there to entertain, using their array of magical powers to delight and amaze the fans. Fireballs will flash above the pitch, and occasionally a player may find themselves turned into a frog flash in red before inexplicably turning back when they least expect it!
 
 Once per game, a Sports-Wizard can cast one of the following two spells:
 
 **FIREBALL**
 
-At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1-3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
+At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1–3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
 
 Any Standing player that is hit by the fireball is immediately Knocked Down and a +1 modifier is applied to the Armour Roll. Any Prone or Stunned player that is hit by a fireball will immediately have an Armour Roll made against them, applying a +1 modifier to the Armour Roll. These modifiers must always be applied.
 
 **ZAP!**
 
-At the end of any Turn, before the next Turn begins, you may select any player on the pitch and roll a D6. If the roll on the D6 is less than the selected player's ST, or the roll is a natural 1, then the DG is equal to or higher than a Frog. If they were holding the ball then it will Bounce from their square.
+At the end of any Turn, before the next Turn begins, you may select any player on the pitch and roll a D6. If the roll on the D6 is less than the selected player's ST, or the roll is a natural 1, then nothing happens. If the roll on the D6 is equal to or higher than the selected player's ST, or the roll is a natural 6, then the player is turned into a Frog. If they were holding the ball then it will Bounce from their square.
 
 A Frog has the following profile:
 
