@@ -168,9 +168,9 @@ Once per game, after teams have been set up but before Kick-off, a team that has
 ### 0-3 MERCENARY PLAYERS
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
-Any team can hire Mercenary Players. These are players from your team’s Team Roster, though they will cost an additional 30,000 gold pieces to induce. For example, a Mercenary Human Lineman would cost 80,000 gold pieces – 50,000 for their initial cost, plus 30,000 for being a Mercenary.
+Any team can hire Mercenary Players. These are players from your team's Team Roster, though they will cost an additional 30,000 gold pieces to induce. For example, a Mercenary Human Lineman would cost 80,000 gold pieces – 50,000 for their initial cost, plus 30,000 for being a Mercenary.
 
-Mercenary Players will still count as one of the type of player they are, so you can’t use Mercenary Players to increase the number of specific player types you can have on a team. However, players that are missing their next game do not count towards the total number of a player type on their team and so will not prevent a Mercenary Player of their player type.
+Mercenary Players will still count as one of the type of player they are, so you can't use Mercenary Players to increase the number of specific player types you can have on a team. However, players that are missing their next game do not count towards the total number of a player type on their team and so will not prevent a Mercenary Player of their player type.
 
 Mercenary Players automatically gain the Loner (4+) Trait in addition to their usual Skills and Traits. Mercenary Players may be given a single Primary Skill at a cost of 50,000 gold pieces. Unlike Journeymen, Mercenary Players cannot be hired during the Post-game Sequence.
 
@@ -179,7 +179,7 @@ Mercenary Players automatically gain the Loner (4+) Trait in addition to their u
 
 A team may hire up to a maximum of two Star Players for a game. This cannot be used to take the number of players on a team above 16; however, players that are missing the next game do not count when working out the number of players a team has available.
 
-Star Players that must be hired as a pair only count as a single Star Player choice, but will still take up two individual spaces on a team’s Team Roster.
+Star Players that must be hired as a pair only count as a single Star Player choice, but will still take up two individual spaces on a team's Team Roster.
 
 It is possible for both teams to hire the same Star Player, in which case both teams can field the Star Player – one of them is simply just a very talented imposter!
 

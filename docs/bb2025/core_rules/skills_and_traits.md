@@ -569,7 +569,7 @@ When a player performs a Hypnotic Gaze Special Action, they select a Standing op
 
 #### INSIGNIFICANT* (PASSIVE)
 
-When creating a Team Draft List, you may not include more team re-rolls with this Trait than players without this Trait.
+When creating a Team Draft List, you may not include more players with this Trait than players without this Trait.
 
 #### KICK TEAM-MATE (PASSIVE)
 
