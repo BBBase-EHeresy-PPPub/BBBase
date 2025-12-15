@@ -875,7 +875,7 @@ If a player who could score a Touchdown without rolling any dice, and therefore 
 
 If a player is Stalling at the end of their activation, there is a chance that the Crowd Takes Action and they may decide to pelt the player with food, drinks containers, rocks, or whatever else they manage to find lying around to show their displeasure.
 
-To determine if the Crowd Takes Action when a player is Stalling, roll a D6 at the end of the Stalling player's activation. If the score on the D6 is equal to or greater than the team's current Turn number, then the Stalling player is hit by some form of projectile thrown by the crowd and is immediately Knocked Down. This will cause a Turnover. This roll must still be taken if a Player Forges their Activation.
+To determine if the Crowd Takes Action when a player is Stalling, roll a D6 at the end of the Stalling player's activation. If the score on the D6 is equal to or greater than the team's current Turn number, then the Stalling player is hit by some form of projectile thrown by the crowd and is immediately Knocked Down. This will cause a Turnover. This roll must still be taken if a Player Forgoes their Activation.
 
 If a team's Turn ends before they can activate a player holding the ball who could score without having to roll a dice, then this will not count as Stalling as the player hasn't had the chance to activate.
 
