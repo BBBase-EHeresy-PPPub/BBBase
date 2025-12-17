@@ -10,7 +10,7 @@ How players gain new Skills in League play is explained on [page 97](./league_pl
 
 Skills are denoted by a symbol showing which category they belong to - either Agility, Devious, General, Mutation, Passing or Strength. These symbols are shown below:
 
-![](../media/core_rules/agility_skill.jpg) ***AGILITY SKILL*** 
+![](../media/core_rules/agility_skill.jpg) ***AGILITY SKILL***
 
 ![](../media/core_rules/devious_skill.jpg) ***DEVIOUS SKILL***
 

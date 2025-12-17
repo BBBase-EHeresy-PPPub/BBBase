@@ -401,7 +401,7 @@ When a player performs a Block Action, they will use a number of special Block D
 
 Block Dice are six-sided dice that feature five different icons instead of the usual numbers 1-6. Each of these icons represents a different outcome from the Block Action, from the player successfully flooring their opponent, to the target managing to hit back in retaliation! These icons and what they do are described below:
 
-#### ![](../media/core_rules/player_down.jpg) PLAYER DOWN 
+#### ![](../media/core_rules/player_down.jpg) PLAYER DOWN
 The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.
 
 
@@ -441,7 +441,7 @@ If there is no unoccupied square for the Pushed Back player to be moved into the
 
 #### PUSHED INTO THE CROWD
 
-If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on [page 68](#pushed-into-the-crowd).
+If a player is adjacent to a Sideline or within an End Zone when they are Pushed Back, and there are no unoccupied squares for them to be Pushed Back into, then they will be Pushed into the Crowd. A player that is Pushed into the Crowd will risk Injury by the Crowd, which is described on [page 68](#injury-by-the-crowd).
 
 If a player that is holding the ball is Pushed into the Crowd, then the ball will be Thrown-in exactly as described on [page 73](#throw-ins). Additionally, if a player on the active team is Pushed into the Crowd then a Turnover is caused.
 
@@ -641,9 +641,9 @@ To measure the range, place the circle at the end of the Range Ruler over the ce
 
 The target square will fall into one of four sections on the Range Ruler (see [page 26](./game_essentials.md#range-ruler)) as explained below:
 
-- **I:** Quick Pass  
-- **II:** Short Pass  
-- **III:** Long Pass  
+- **I:** Quick Pass
+- **II:** Short Pass
+- **III:** Long Pass
 - **IIII:** Long Bomb
 
 *This Bretonnian Thrower wishes to pass the ball to the Bretonnian Knight Catcher using a Pass Action. Using the Range Ruler we can determine that it would be a Short Pass.*
@@ -812,15 +812,15 @@ If the Passing Ability Test is failed, then the throw is a Subpar Throw. The thr
 #### FUMBLED THROW
 If the Passing Ability Test is a 1 after modifiers, or the roll is a natural 1, then it will be a Fumbled Throw. The thrown player is dropped and will Bounce from the throwing player's square and must attempt to land.
 
-### LANDING  
+### LANDING
 
 If, after the final square the thrown player will land in has been determined, they will land in an unoccupied square then they must attempt to land on their feet. To attempt to land, the thrown player must make an Agility Test and apply the following modifiers:
 
-- If the throw was a Subpar Throw, apply a -1 modifier.  
-- If the throw was a Fumbled Throw, apply a -1 modifier.  
+- If the throw was a Subpar Throw, apply a -1 modifier.
+- If the throw was a Fumbled Throw, apply a -1 modifier.
 - Apply a -1 modifier for each opposition player Marking the square the thrown player will land in.
 
-If the Agility Test is passed, or a natural 6 is rolled, then the thrown player successfully lands on their feet.  
+If the Agility Test is passed, or a natural 6 is rolled, then the thrown player successfully lands on their feet.
 If they have not yet been activated that Turn then they can still be activated.
 
 If the Agility Test is failed, or a natural 1 is rolled, then the thrown player will Fall Over; however, this will only cause a Turnover if the thrown player was holding the ball, otherwise no Turnover is caused.
@@ -831,7 +831,7 @@ Players that were Prone, Stunned or Distracted when they were thrown will automa
 
 ***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 - a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
 
-#### LANDING IN AN OCCUPIED SQUARE  
+#### LANDING IN AN OCCUPIED SQUARE
 
 If, after the final square the thrown player will land in has been determined they will land in an occupied square they will crash land. When a thrown player crash lands, the player in the occupied square is automatically Knocked Down even if they are already Prone or Stunned. The thrown player will then Bounce from the occupied square and will Fall Over; however, this will only cause a Turnover if the thrown player was holding the ball, otherwise no Turnover is caused.
 

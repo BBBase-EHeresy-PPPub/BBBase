@@ -24,19 +24,19 @@
 
 ### Star Players
 
-* [Rodney Roachbait] - 70K  
-* [Akhorne The Squirrell] - 80K  
-* [Cindy Piewhistle] - 100K  
-* [Swiftvine Glimmershard] - 110K  
-* [Puggy Baconbreath] - 130K  
-* [Willow Rosebark] - 160K  
-* [Rowana Forestfoot] - 160K  
-* [Rumbelow Sheepskin] - 170K  
-* [Grombrindal] - 170K  
-* [Maple Highgrove] - 210K  
-* [Grak and Crumbleberry] - 250K  
-* [Deeproot Strongbranch] - 280K  
-* [Jordell Freshbreeze] - 300K  
+* [Rodney Roachbait] - 70K
+* [Akhorne The Squirrell] - 80K
+* [Cindy Piewhistle] - 100K
+* [Swiftvine Glimmershard] - 110K
+* [Puggy Baconbreath] - 130K
+* [Willow Rosebark] - 160K
+* [Rowana Forestfoot] - 160K
+* [Rumbelow Sheepskin] - 170K
+* [Grombrindal] - 170K
+* [Maple Highgrove] - 210K
+* [Grak and Crumbleberry] - 250K
+* [Deeproot Strongbranch] - 280K
+* [Jordell Freshbreeze] - 300K
 * [Morg 'n' Thorg] - 340K
 
 ### Inducements

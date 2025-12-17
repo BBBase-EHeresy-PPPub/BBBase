@@ -85,7 +85,7 @@ Additionally, a team with a Team Mascot can re-roll any rolls of a natural 1 whe
 ### 0-1 WEATHER MAGE
 **25,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-Once per game, at the start of any of your Turns, you may immediately make a roll on the [Weather Table](./the_game_of_blood_bowl.md#weather-table), applying a modifier of up to +2 or –2 to the roll. The resulting weather conditions are applied immediately and will last until the next time a Changing Weather result is rolled on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
+Once per game, at the start of any of your Turns, you may immediately make a roll on the [Weather Table](./the_game_of_blood_bowl.md#weather-table), applying a modifier of up to +2 or -2 to the roll. The resulting weather conditions are applied immediately and will last until the next time a Changing Weather result is rolled on the [Kick-off Event Table](./the_game_of_blood_bowl.md#kick-off-event-table).
 
 ### 0-2 BLITZER'S BEST KEGS
 **50,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
@@ -95,7 +95,7 @@ For the duration of the game, for each Blitzer's Best Keg purchased, apply a +1 
 ### 0-3 BRIBES (0-6 FOR TEAMS WITH THE BRIBERY AND CORRUPTION SPECIAL RULE)
 **100,000 GOLD PIECES (50,000 GOLD PIECES FOR TEAMS WITH THE BRIBERY AND CORRUPTION SPECIAL RULE), AVAILABLE TO ANY TEAM**
 
-When a player is Sent-off, after any attempt to Argue the Call has been made, you may use a Bribe so long as you are still able. When a Bribe is used, roll a D6. On a 2+, the player is not Sent-off (and no Turnover is caused). On a natural 1, the referee pockets the Bribe but sends the player off anyway – the player is still Sent-off and the Bribe is lost.
+When a player is Sent-off, after any attempt to Argue the Call has been made, you may use a Bribe so long as you are still able. When a Bribe is used, roll a D6. On a 2+, the player is not Sent-off (and no Turnover is caused). On a natural 1, the referee pockets the Bribe but sends the player off anyway - the player is still Sent-off and the Bribe is lost.
 
 ### 0-8 EXTRA TEAM TRAINING
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
@@ -168,7 +168,7 @@ Once per game, after teams have been set up but before Kick-off, a team that has
 ### 0-3 MERCENARY PLAYERS
 **PRICE VARIES, AVAILABLE TO ANY TEAM**
 
-Any team can hire Mercenary Players. These are players from your team's Team Roster, though they will cost an additional 30,000 gold pieces to induce. For example, a Mercenary Human Lineman would cost 80,000 gold pieces – 50,000 for their initial cost, plus 30,000 for being a Mercenary.
+Any team can hire Mercenary Players. These are players from your team's Team Roster, though they will cost an additional 30,000 gold pieces to induce. For example, a Mercenary Human Lineman would cost 80,000 gold pieces - 50,000 for their initial cost, plus 30,000 for being a Mercenary.
 
 Mercenary Players will still count as one of the type of player they are, so you can't use Mercenary Players to increase the number of specific player types you can have on a team. However, players that are missing their next game do not count towards the total number of a player type on their team and so will not prevent a Mercenary Player of their player type.
 
@@ -181,9 +181,9 @@ A team may hire up to a maximum of two Star Players for a game. This cannot be u
 
 Star Players that must be hired as a pair only count as a single Star Player choice, but will still take up two individual spaces on a team's Team Roster.
 
-It is possible for both teams to hire the same Star Player, in which case both teams can field the Star Player – one of them is simply just a very talented imposter!
+It is possible for both teams to hire the same Star Player, in which case both teams can field the Star Player - one of them is simply just a very talented imposter!
 
-Star Players cannot earn Star Player Points, be awarded the MVP, can never gain Player Advancements and any Casualty Rolls made against them will automatically be waived at the end of the game – Star Players are wealthy enough to pay for the very best medical treatment and resurrection spells!
+Star Players cannot earn Star Player Points, be awarded the MVP, can never gain Player Advancements and any Casualty Rolls made against them will automatically be waived at the end of the game - Star Players are wealthy enough to pay for the very best medical treatment and resurrection spells!
 
 The list of available Star Players can be found on [pages 193-196](../starplayers/index.md). Each Star Player profile will explain which teams can hire them and how many gold pieces they will cost to hire. Additional Star Players can be found in the Star Players PDF which can be found at warhammer-community.com.
 
@@ -199,7 +199,7 @@ Once per game, a Sports-Wizard can cast one of the following two spells:
 
 **FIREBALL**
 
-At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1–3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
+At the end of any Turn, before the next Turn begins, you may select any square on the pitch. Roll a D6 for any player that is in or adjacent to the selected square. On a 1-3, they avoid the fireball and nothing happens. On a 4+, the player has been hit by the fireball.
 
 Any Standing player that is hit by the fireball is immediately Knocked Down and a +1 modifier is applied to the Armour Roll. Any Prone or Stunned player that is hit by a fireball will immediately have an Armour Roll made against them, applying a +1 modifier to the Armour Roll. These modifiers must always be applied.
 

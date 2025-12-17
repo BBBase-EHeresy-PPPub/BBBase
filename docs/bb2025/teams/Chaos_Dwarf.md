@@ -5,7 +5,7 @@
 
 | Qty  | Position                               | MA  | ST  | AG  | PA  | AV  | Skills                                                                          | Primary | Secondary | Cost |
 | ---- | -------------------------------------- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0‑16 | Hobgoblin Lineman *(Lineman, Goblin)*  | 6   | 3   | 3+  | 4+  | 8+  | —                                                                               | D       | A G S     | 40K  |
+| 0‑16 | Hobgoblin Lineman *(Lineman, Goblin)*  | 6   | 3   | 3+  | 4+  | 8+  | -                                                                               | D       | A G S     | 40K  |
 | 0‑2  | Sneaky Stabba *(Special, Goblin)*      | 6   | 3   | 3+  | 5+  | 8+  | • [Shadowing]<br>• [Stab]                                                       | D G     | A S       | 60K  |
 | 0‑4  | Chaos Dwarf Blocker *(Blocker, Dwarf)* | 4   | 3   | 4+  | 6+  | 10+ | • [Block]<br>• [Iron Hard Skin]<br>• [Thick Skull]                              | G S     | A D M     | 70K  |
 | 0‑2  | Flamesmith *(Special, Dwarf)*          | 5   | 3   | 4+  | 6+  | 10+ | • [Brawler]<br>• [Breathe Fire]<br>• [Disturbing Presence]<br>• [Thick Skull]   | G S     | A D M     | 80K  |
