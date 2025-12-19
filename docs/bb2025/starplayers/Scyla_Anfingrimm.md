@@ -17,7 +17,7 @@
 * [Unchannelled Fury]
 * **Fury of the Blood God**
 
-Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring a Block Action then, instead of applying the usual effects of Unchannelled Fury, Scyla may perform two Block Actions instead. The first Block Action must be performed, including the use of the Frenzy skill, before the second one is performed.
+Once per game, if Scyla rolls a 1 for his Unchannelled Fury roll after declaring a Block Action then, instead of applying the usual effects of Unchannelled Fury, Scyla may perform two Block Actions instead. The first Block Action must be fully resolved, including the use of the Frenzy Skill, before the second one is performed.
 
 ### Plays For
 

@@ -17,7 +17,7 @@
 * [Loner] (4+)
 * **Bounding Leap**
 
-Once per game, after declaring that she will Leap but before rolling any dice, Rowana may choose to use this special rule. If she does, Rowana suffers no negative modifiers for the Agility test to Leap and may choose to re-roll the result.
+Once per game, after declaring that she will Leap but before rolling any dice, Rowana may choose to use this special rule. If she does, Rowana suffers no negative modifiers for the Agility Test to Leap and may choose to re-roll the result.
 
 ### Plays For
 
