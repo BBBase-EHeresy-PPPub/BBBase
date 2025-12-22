@@ -17,7 +17,7 @@
 * [Stab]
 * **Sneakiest of the Lot**
 
-If your team includes the Black Gobbo, then you may declare two Foul Actions per team turn rather than only one. However, the second Foul Action must be declared by the Black Gobbo himself.
+If your team includes the Black Gobbo, then you may declare two Foul Actions per Turn rather than the usual one. However, one of these Foul Actions must be declared by the Black Gobbo himself.
 
 ### Plays For
 

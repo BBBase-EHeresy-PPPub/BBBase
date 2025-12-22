@@ -17,7 +17,7 @@
 * [Thick Skull]
 * **Vicious Vines**
 
-Once per half, when Maple declares a Block Action he may do so against an opposition player that is no more than 2 squares away following all the normal rules for performing a Block Action, though he may not follow-up.
+Once per half, when Maple declares a Block Action he may do so against an opposition player who is 2 squares away following all the normal rules for performing a Block Action, though he may not follow-up.
 
 ### Plays For
 

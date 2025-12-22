@@ -16,7 +16,7 @@
 * [Mighty Blow]
 * **Pump Up the Crowd**
 
-Once per game, when Skorgr causes an opposition player to be removed as a Casualty as the result of a Block Action, Skorgr's controlling coach gains one Team Re-roll until the end of the current Drive. If the Re-roll has not been used by the end of the Drive, it is lost.
+Once per game, when Skrorg causes an opposition player to be removed as a Casualty as the result of a Block Action, Skorgr's controlling coach gains one Team Re-roll until the end of the current Drive. If the Re-roll has not been used by the end of the Drive, it is lost.
 
 ### Plays For
 

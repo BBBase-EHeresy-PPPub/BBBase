@@ -14,7 +14,7 @@
 * [Unsteady]
 * **Crushing Blow**
 
-Once per game, when an opposition player is Knocked Down as the result of a Block Action performed by Zug, you may apply an additional +1 modifier to the Armour roll. This modifier may be applied after the initial Armour roll has been made.
+Once per game, when an opposition player is Knocked Down as the result of a Block Action performed by Zug, you may apply an additional +1 modifier to the Armour Roll. This modifier may be applied after the Armour Roll has been made.
 
 ### Plays For
 

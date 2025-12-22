@@ -17,7 +17,7 @@
 * [Unsteady]
 * **Putrid Regurgitation**
 
-Once per half, Bilerot may use the Projectile Vomit Special Action. This may still be used even if Bilerot has already performed a Block Action this turn.
+Once per half, Bilerot may use the Projectile Vomit Special Action. This may still be used even if Bilerot has already performed a Block Action this Turn
 
 ### Plays For
 

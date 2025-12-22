@@ -16,7 +16,7 @@
 * [Loner] (4+)
 * **Slashing Nails**
 
-Once per half, when Roxanna declares a Blitz Action, she gains the Claws skill until the end of her activation.
+Once per half, when Roxanna declares a Blitz Action, she gains the [Claws] Skill until the end of her activation.
 
 ### Plays For
 
