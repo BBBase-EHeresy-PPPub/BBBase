@@ -2,7 +2,7 @@
 
 ![](../media/starplayers/BomberDribblesnotLead.jpg)
 
-|   80K   | MA | ST | AG | PA | AV |
+|  80K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
 |      | 6  | 2  | 3+ | 3+ | 8+ |
 
@@ -13,7 +13,7 @@
 * [Dodge]
 * [Loner] (4+)
 * [Right Stuff]
-* [Sneaky Git]
+* [Secret Weapon]
 * [Stunty]
 * **Kaboom!**
 Once per game, if an opposition player catches a bomb thrown by Bomber, you can choose to have it explode rather than the opposition player immediately attempting to throw it again.

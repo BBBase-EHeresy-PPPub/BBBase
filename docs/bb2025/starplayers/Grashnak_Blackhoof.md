@@ -2,8 +2,8 @@
 
 ![](../media/starplayers/GrashnakBlackhoof.jpg)
 
-|  240K  | MA | ST | AG | PA | AV |
-| ---- | -- | -- | -- | -- | --- |
+| 240K | MA | ST | AG | PA | AV |
+| ---- | -- | -- | -- | -- | -- |
 |      | 6  | 6  | 4+ | 6+ | 9+ |
 
 *(Big Guy, Minotaur)*
@@ -15,8 +15,7 @@
 * [Thick Skull]
 * [Unchannelled Fury]
 * **Gored by the Bull**
-
-Once per game, when Grashnak performs a Block Action as part of a Blitz Action, he may make one additional Block Action against the opposition player regardless of their ST, to a maximum of three Block Actions total. If Grashnak performs a second Block Action due to the Frenzy Skill, the second Block Action will also benefit from this rule.
+Once per game, when Grashnak performs a Block Action as part of a Blitz Action, he may roll one additional Block Dice against the opposition player regardless of their ST, to a maximum of three Block Dice. If Grashnak performs a second Block Action due to the Frenzy Skill, the second Block Action will also benefit from this rule.
 
 ### Plays For
 
