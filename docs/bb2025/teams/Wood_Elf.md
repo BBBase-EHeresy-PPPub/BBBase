@@ -14,6 +14,9 @@
 ### League
 
 * [Elven Kingdoms League]
+
+or
+
 * [Woodland League]
 
 ### Staff
@@ -25,20 +28,29 @@
 
 ### Star Players
 
-* [Rodney Roachbait] - 70K
 * [Akhorne the Squirrel] - 80K
-* [Swiftvine Glimmershard] - 110K
-* [Gloriel Summerbloom] - 150K
-* [Willow Rosebark] - 150K
-* [Kiroth Krakeneye] - 160K
-* [Maple Highgrove] - 210K
-* [Eldril Sidewinder] - 220K
-* [Zolcath the Zoat] - 230K
 * [Grak and Crumbleberry] - 250K
 * [Jordell Freshbreeze] - 250K
-* [Roxanna Darknail] - 270K
-* [The Swift Twins] - 300K
 * [Morg 'n' Thorg] - 340K
+
+#### Elven Kingdoms League
+
+* [Gloriel Summerbloom] - 150K
+* [Kiroth Krakeneye] - 160K
+* [Eldril Sidewinder] - 220K
+* [Zolcath the Zoat] - 230K
+* [Roxanna Darknail] - 270K
+* [Jeremiah Kool] - 300K
+* [The Swift Twins] - 300K
+
+#### Woodland League
+
+* [Rodney Roachbait] - 70K
+* [Swiftvine Glimmershard] - 110K
+* [Willow Rosebark] - 150K
+* [Rowana Forestfoot] - 160K
+* [Maple Highgrove] - 210K
+* [Deeproot Strongbranch] - 280K
 
 ### Inducements
 

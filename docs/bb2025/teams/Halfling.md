@@ -13,6 +13,9 @@
 ### League
 
 * [Halfling Thimble Cup]
+
+or
+
 * [Woodland League]
 
 ### Staff
@@ -24,20 +27,26 @@
 
 ### Star Players
 
-* [Rodney Roachbait] - 70K
-* [Akhorne The Squirrell] - 80K
-* [Cindy Piewhistle] - 100K
-* [Swiftvine Glimmershard] - 110K
-* [Puggy Baconbreath] - 130K
-* [Willow Rosebark] - 160K
-* [Rowana Forestfoot] - 160K
-* [Rumbelow Sheepskin] - 170K
+* [Akhorne The Squirrel] - 80K
 * [Grombrindal] - 170K
-* [Maple Highgrove] - 210K
 * [Grak and Crumbleberry] - 250K
+* [Morg 'n' Thorg] - 340K
+
+#### Halfling Thimble Cup
+
+* [Cindy Piewhistle] - 100K
+* [Puggy Baconbreath] - 130K
+* [Rumbelow Sheepskin] - 170K
+
+#### Woodland League
+
+* [Rodney Roachbait] - 70K
+* [Swiftvine Glimmershard] - 110K
+* [Willow Rosebark] - 150K
+* [Rowana Forestfoot] - 160K
+* [Maple Highgrove] - 210K
 * [Deeproot Strongbranch] - 280K
 * [Jordell Freshbreeze] - 300K
-* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

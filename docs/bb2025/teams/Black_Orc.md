@@ -11,9 +11,10 @@
 
 ### League
 
+* [Badlands Brawl]
+
 ### Special Rules
 
-* [Badlands Brawl]
 * [Bribery and Corruption]
 * [Brawlin' Brutes]
 

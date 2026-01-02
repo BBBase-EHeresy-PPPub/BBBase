@@ -12,6 +12,9 @@
 ### League
 
 * [Badlands Brawl]
+
+or
+
 * [Worlds Edge Superleague]
 
 ### Special Rules
@@ -29,25 +32,31 @@
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
-* [Barik Farblast] - 80K
+* [Grak and Crumbleberry] - 250K
+* [Morg 'n' Thorg] - 340K
+
+#### Badlands Brawl
+
 * [Fungus the Loon] - 80K
 * [Bomber Dribblesnot] - 80K
 * [Nobbla Blackwart] - 120K
 * [Scrappa Sorehead] - 120K
 * [Rashnak Backstabber] - 130K
+* [The Black Gobbo] - 210K
+* [Ripper Bolgrot] - 250K
+* [Varag Ghoul-Chewer] - 260K
+* [H'thark the Unstoppable] - 300K
+
+#### Worlds Edge Superleague
+
+* [Barik Farblast] - 80K
 * [Skrull Halfheight] - 150K
 * [Grombrindal] - 170K
 * [Thorsson Stoutmead] - 170K
 * [Josef Bugman] - 180K
 * [Grim Ironjaw] - 190K
-* [The Black Gobbo] - 210K
 * [The Mighty Zug] - 220K
 * [Skrorg Snowpelt] - 240K
-* [Grak and Crumbleberry] - 250K
-* [Ripper Bolgrot] - 250K
-* [Varag Ghoul-Chewer] - 260K
-* [H'thark the Unstoppable] - 300K
-* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

@@ -35,7 +35,6 @@ or
 
 * [Akhorne the Squirrel] - 80K
 * [Grak and Crumbleberry] - 250K
-* [Varag Ghoul-Chewer] - 260K
 * [H'thark the Unstoppable] - 300K
 * [Morg 'n' Thorg] - 340K
 
@@ -48,6 +47,7 @@ or
 * [Rashnak Backstabber] - 130K
 * [The Black Gobbo] - 210K
 * [Ripper Bolgrot] - 250K
+* [Varag Ghoul-Chewer] - 260K
 
 #### Chaos Clash
 
