@@ -11,9 +11,12 @@
 | 0‑2  | Troll Slayer *(Special, Dwarf)*         | 5   | 3   | 4+  | 5+  | 9+  | • [Block]<br>• [Dauntless]<br>• [Frenzy]<br>• [Hatred] (Troll)<br>• [Thick Skull]                                                                 | G S     | D         | 95K  |
 | 0‑1  | Deathroller *(Big Guy, Dwarf, Special)* | 5   | 7   | 5+  | -   | 11+ | • [Break Tackle]<br>• [Dirty Player]<br>• [Juggernaut]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [No Ball]<br>• [Secret Weapon]<br>• [Stand Firm] | D S     | G         | 170K |
 
-### Special Rules
+### League
 
 * [Worlds Edge Superleague]
+
+### Special Rules
+
 * [Brawlin' Brutes]
 * [Bribery and Corruption]
 

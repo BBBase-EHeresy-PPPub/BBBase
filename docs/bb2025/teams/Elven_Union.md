@@ -10,7 +10,7 @@
 | 0‑2  | Elf Catcher *(Catcher, Elf)* | 8   | 3   | 2+  | 4+  | 8+  | • [Catch]<br>• [Diving Catch]<br>• [Nerves of Steel] | A G     | S         | 100K |
 | 0‑2  | Elf Blitzer *(Blitzer, Elf)* | 7   | 3   | 2+  | 3+  | 9+  | • [Block]<br>• [Sidestep]                            | A G     | P S       | 115K |
 
-### Special Rules
+### League
 
 * [Elven Kingdoms League]
 

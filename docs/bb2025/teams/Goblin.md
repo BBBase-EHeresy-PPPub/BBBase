@@ -14,10 +14,13 @@
 | 0‑1  | Pogoer *(Goblin, Special)*         | 7   | 2   | 3+  | 4+  | 8+  | • [Dodge]<br>• [Pogo]<br>• [Stunty]                                                                                          | A       | D G S     | 75K  |
 | 0‑2  | Trained Troll *(Big Guy, Troll)*   | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
-### Special Rules
+### League
 
 * [Badlands Brawl]
 * [Underworld Challenge]
+
+### Special Rules
+
 * [Bribery and Corruption]
 
 ### Staff

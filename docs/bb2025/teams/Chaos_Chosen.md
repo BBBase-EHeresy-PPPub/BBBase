@@ -11,10 +11,13 @@
 | 0‑1  | Ogre *(Big Guy, Ogre)*                 | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]                                                   | M S     | A G       | 140K |
 | 0‑1  | Minotaur *(Big Guy, Minotaur)*         | 5   | 5   | 4+  | 6+  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Unchannelled Fury]                                       | M S     | A G       | 150K |
 
+### League
+
+* [Chaos Clash]
+
 ### Special Rules
 
 * [Favoured of...]
-* [Chaos Clash]
 
 ### Staff
 

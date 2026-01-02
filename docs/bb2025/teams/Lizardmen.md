@@ -10,7 +10,7 @@
 | 0‑6  | Saurus Blocker *(Blocker, Lizardman)*  | 6   | 4   | 5+  | 6+  | 10+ | • [Juggernaut]<br>• [Unsteady]                                                               | G S     | A         | 90K  |
 | 0‑1  | Kroxigor *(Big Guy, Lizardman)*        | 6   | 5   | 5+  | 6+  | 10+ | • [Bone Head]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail]<br>• [Thick Skull] | S       | A G       | 140K |
 
-### Special Rules
+### League
 
 * [Lustrian Superleague]
 

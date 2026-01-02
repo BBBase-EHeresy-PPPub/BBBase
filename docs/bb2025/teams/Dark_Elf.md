@@ -11,7 +11,7 @@
 | 0‑2  | Dark Elf Blitzer *(Blitzer, Elf)*  | 7   | 3   | 2+  | 3+  | 9+  | • [Block]                                    | A G     | P S D     | 105K |
 | 0‑2  | Witch Elf *(Special, Elf)*         | 7   | 3   | 2+  | 4+  | 8+  | • [Dodge]<br>• [Frenzy]<br>• [Jump Up]       | A G     | S D       | 110K |
 
-### Special Rules
+### League
 
 * [Elven Kingdoms League]
 

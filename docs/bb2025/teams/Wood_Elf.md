@@ -11,7 +11,7 @@
 | 0‑2  | Wardancer *(Blitzer, Elf)*                | 8   | 3   | 2+  | 3+  | 8+  | • [Block]<br>• [Dodge]<br>• [Leap]                                                                                               | A G     | P S       | 130K |
 | 0‑1  | Loren Forest Treeman *(Big Guy, Treeman)* | 2   | 6   | 5+  | 5+  | 11+ | • [Loner] (4+)<br>• [Mighty Blow]<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G       | 120K |
 
-### Special Rules
+### League
 
 * [Elven Kingdoms League]
 * [Woodland League]

@@ -9,6 +9,8 @@
 | 0‑6  | Black Orc *(Blocker, Orc)*         | 4   | 4   | 4+  | 5+  | 10+ | • [Brawler]<br>• [Grab]                                                                                                      | G S     | A D       | 90K  |
 | 0‑1  | Trained Troll *(Big Guy, Troll)*   | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
+### League
+
 ### Special Rules
 
 * [Badlands Brawl]

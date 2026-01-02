@@ -9,10 +9,13 @@
 | 0‑5  | Ogre Blocker *(Big Guy, Blocker, Ogre)*     | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A D G P   | 140K |
 | 0‑1  | Ogre Runt Punter *(Big Guy, Ogre, Thrower)* | 5   | 5   | 4+  | 4+  | 10+ | • [Bone Head]<br>• [Kick Team-mate]<br>• [Mighty Blow]<br>• [Thick Skull]  | P S     | A D G     | 145K |
 
-### Special Rules
+### League
 
 * [Badlands Brawl]
 * [Worlds Edge Superleague]
+
+### Special Rules
+
 * [Brawlin' Brutes]
 * [Low Cost Linemen]
 

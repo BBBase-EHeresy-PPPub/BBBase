@@ -12,16 +12,17 @@
 | 0‑2  | Ulfwerener *(Blocker, Human)*        | 6   | 4   | 4+  | 6+  | 9+  | • [Frenzy]<br>• [Unsteady]                                                                    | G S     | A         | 105K |
 | 0‑1  | Yhetee *(Big Guy, Yhetee)*           | 5   | 5   | 4+  | 6+  | 9+  | • [Claws]<br>• [Disturbing Presence]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Unchannelled Fury] | S       | A G       | 140K |
 
-### Special Rules
-
-Choose one:
+### League
 
 * [Old World Classic]
 
 or
 
-* [Favoured of Khorne][Favoured of...]
 * [Chaos Clash]
+
+### Special Rules
+
+* [Favoured of Khorne][Favoured of...] (Chaos Clash)
 
 ### Staff
 
@@ -33,6 +34,11 @@ or
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
+* [Grak and Crumbleberry] - 250K
+* [Morg 'n' Thorg] - 340K
+
+#### Old World Classic
+
 * [Barik Farblast] - 80K
 * [Cindy Piewhistle] - 100K
 * [Puggy Baconbreath] - 130K
@@ -43,12 +49,15 @@ or
 * [Karla von Kill] - 210K
 * [Ivar Eriksson] - 215K
 * [The Mighty Zug] - 220K
-* [Grashnak Blackhoof] - 240K
 * [Skrorg Snowpelt] - 240K
-* [Grak and Crumbleberry] - 250K
-* [Lord Borak the Despoiler] - 270K
 * [Griff Oberwald] - 300K
-* [Morg 'n' Thorg] - 340K
+
+#### Chaos Clash
+
+* [Max Spleenripper] - 130K
+* [Scyla Anfingrimm] - 200K
+* [Grashnak Blackhoof] - 240K
+* [Lord Borak the Despoiler] - 270K
 
 ### Inducements
 

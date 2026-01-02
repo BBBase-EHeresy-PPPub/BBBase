@@ -12,9 +12,12 @@
 | 0‑2  | Pump Wagon *(Big Guy, Snotling, Special)* | 5   | 5   | 5+  | 6+  | 9+  | • [Dirty Player]<br>• [Juggernaut]<br>• [Mighty Blow]<br>• [Really Stupid]<br>• [Stand Firm]                                 | D S     | A G       | 100K |
 | 0‑2  | Trained Troll *(Big Guy, Troll)*          | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
-### Special Rules
+### League
 
 * [Underworld Challenge]
+
+### Special Rules
+
 * [Bribery and Corruption]
 * [Low Cost Linemen]
 * [Swarming]

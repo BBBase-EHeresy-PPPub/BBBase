@@ -10,9 +10,12 @@
 | 0‑4  | Bloater *(Blocker, Human)*    | 4   | 4   | 4+  | 6+  | 10+ | • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Plague Ridden]<br>• [Regeneration]<br>• [Stand Firm]<br>• [Unsteady]                                        | G M S   | A D       | 110K |
 | 0‑1  | Rotspawn *(Big Guy, Spawn)*   | 4   | 5   | 5+  | 6+  | 10+ | • [Disturbing Presence]<br>• [Foul Appearance]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Pick-me-up]<br>• [Plague Ridden]<br>• [Really Stupid]<br>• [Tentacles] | S       | G M D     | 140K |
 
-### Special Rules
+### League
 
 * [Chaos Clash]
+
+### Special Rules
+
 * [Favoured of Nurgle][Favoured of...]
 * [Brawlin' Brutes]
 

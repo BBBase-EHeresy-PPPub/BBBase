@@ -16,9 +16,12 @@
 | 0‑1  | Minotaur *(Big Guy, Minotaur)*            | 5   | 5   | 4+  | 6+  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Unchannelled Fury]                                       | S       | A G M     | 150K |
 | 0‑1  | Rat Ogre *(Big Guy, Skaven)*              | 6   | 5   | 4+  | 6+  | 9+  | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail]                                                  | S       | A G M     | 150K |
 
-### Special Rules
+### League
 
 * [Chaos Clash]
+
+### Special Rules
+
 * [Favoured of Khorne][Favoured of...]
 * [Favoured of Nurgle][Favoured of...]
 * [Favoured of Slaanesh][Favoured of...]

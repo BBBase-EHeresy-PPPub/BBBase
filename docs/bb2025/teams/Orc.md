@@ -12,9 +12,12 @@
 | 0‑2  | Big Un Blocker *(Blocker, Orc)*    | 5   | 4   | 4+  | 6+  | 10+ | • [Mighty Blow]<br>• [Taunt]<br>• [Thick Skull]<br>• [Unsteady]                                                                                | G S     | A D       | 95K  |
 | 0‑1  | Troll *(Big Guy, Troll)*           | 4   | 5   | 5+  | 5+  | 10+ | • [Always Hungry]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Projectile Vomit]<br>• [Really Stupid]<br>• [Regeneration]<br>• [Throw Team-mate] | S       | A G P     | 115K |
 
-### Special Rules
+### League
 
 * [Badlands Brawl]
+
+### Special Rules
+
 * [Brawlin' Brutes]
 * [Team Captain]
 

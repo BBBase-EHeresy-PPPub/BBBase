@@ -11,9 +11,12 @@
 | 0‑2  | Flesh Golem *(Blocker, Construct, Undead)*        | 4   | 4   | 4+  | 6+  | 10+ | • [Regeneration]<br>• [Stand Firm]<br>• [Thick Skull]<br>• [Unsteady]               | G S     | A D       | 110K |
 | 0‑2  | Werewolf *(Blitzer, Undead, Werewolf)*            | 8   | 3   | 3+  | 3+  | 9+  | • [Claws]<br>• [Frenzy]<br>• [Regeneration]                                         | A G     | D P S     | 120K |
 
-### Special Rules
+### League
 
 * [Sylvanian Spotlight]
+
+### Special Rules
+
 * [Masters of Undeath]
 
 ### Staff

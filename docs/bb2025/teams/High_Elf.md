@@ -10,7 +10,7 @@
 | 0‑4  | High Elf Catcher *(Catcher, Elf)* | 8   | 3   | 2+  | 3+  | 8+  | • [Catch]                                      | A G     | S         | 90K  |
 | 0‑2  | High Elf Blitzer *(Blitzer, Elf)* | 7   | 3   | 2+  | 4+  | 9+  | • [Block]                                      | A G     | P S       | 100K |
 
-### Special Rules
+### League
 
 * [Elven Kingdoms League]
 

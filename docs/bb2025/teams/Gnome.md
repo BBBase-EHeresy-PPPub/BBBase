@@ -12,7 +12,7 @@
 | 0‑2  | Altern Forest Treeman *(Big Guy, Treeman)* | 2   | 6   | 5+  | 5+  | 11+ | • [Mighty Blow]<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S       | A G P     | 120K |
 
 
-### Special Rules
+### League
 
 * [Halfling Thimble Cup]
 * [Woodland League]

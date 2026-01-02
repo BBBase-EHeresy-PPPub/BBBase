@@ -144,7 +144,7 @@ If the target player has the [Dodge] skill, this becomes Push Back. Otherwise, t
 Apply the Push Back result to the target player. The target player is then Knocked Down in the square they are now in by the player performing the Block Action.
 
 ### RISKING INJURY
-When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player - see [page 37](./rules_and_regulations.md#9-av---armour-value) for Armour Rolls.
+When a player is Knocked Down or Falls Over, they become Prone and risk injury. The opposing team's Coach makes an Armour roll against that player - see [page 37](./rules_and_regulations.md#9-av-armour-value) for Armour Rolls.
 
 #### INJURY ROLLS
 If the Armour Roll results in a player's armour being broken, the opposing team's Coach rolls 2D6 and consults the table below:

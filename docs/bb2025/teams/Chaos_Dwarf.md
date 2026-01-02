@@ -12,13 +12,16 @@
 | 0‑2  | Bull Centaur *(Blitzer, Dwarf)*        | 6   | 4   | 4+  | 6+  | 10+ | • [Sprint]<br>• [Sure Feet]<br>• [Thick Skull]<br>• [Unsteady]                  | G S     | A D M     | 130K |
 | 0‑1  | Minotaur *(Big Guy, Minotaur)*         | 5   | 5   | 4+  | 6+  | 9+  | • [Frenzy]<br>• [Horns]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Thick Skull] | M S     | A G       | 150K |
 
-### Special Rules
+### League
 
 * [Badlands Brawl]
 
 or
 
 * [Chaos Clash]
+
+### Special Rules
+
 * [Favoured of Hashut][Favoured of...]
 
 ### Staff
@@ -31,20 +34,26 @@ or
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
+* [Grak and Crumbleberry] - 250K
+* [Varag Ghoul-Chewer] - 260K
+* [H'thark the Unstoppable] - 300K
+* [Morg 'n' Thorg] - 340K
+
+#### Badlands Brawl
+
 * [Fungus the Loon] - 80K
 * [Bomber Dribblesnot] - 80K
 * [Nobbla Blackwart] - 120K
 * [Scrappa Sorehead] - 120K
 * [Rashnak Backstabber] - 130K
-* [Zzharg Madeye] - 130K
 * [The Black Gobbo] - 210K
-* [Grashnak Blackhoof] - 240K
-* [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K
-* [Varag Ghoul-Chewer] - 260K
+
+#### Chaos Clash
+
+* [Zzharg Madeye] - 130K
+* [Grashnak Blackhoof] - 240K
 * [Lord Borak the Despoiler] - 270K
-* [H'thark the Unstoppable] - 300K
-* [Morg 'n' Thorg] - 340K
 
 ### Inducements
 

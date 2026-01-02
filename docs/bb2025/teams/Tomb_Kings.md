@@ -10,9 +10,12 @@
 | 0‑2  | Tomb Kings Blitzer *(Blitzer, Human, Skeleton, Undead)* | 6   | 3   | 4+  | 5+  | 9+  | • [Block]<br>• [Regeneration]<br>• [Thick Skull]                  | G S     | A D       | 85K  |
 | 0‑4  | Tomb Guardian *(Big Guy, Blocker, Human, Undead)*       | 4   | 5   | 5+  | 6+  | 10+ | • [Brawler]<br>• [Decay]<br>• [Regeneration]                      | S       | A G       | 115K |
 
-### Special Rules
+### League
 
 * [Sylvanian Spotlight]
+
+### Special Rules
+
 * [Masters of Undeath]
 
 ### Staff

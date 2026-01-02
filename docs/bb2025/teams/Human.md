@@ -12,9 +12,12 @@
 | 0‑2  | Human Blitzer *(Blitzer, Human)*       | 7   | 3   | 3+  | 4+  | 9+  | • [Block]<br>• [Tackle]                                                                      | G S     | A D       | 85K  |
 | 0‑1  | Ogre *(Big Guy, Ogre)*                 | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate] | S       | A G       | 140K |
 
-### Special Rules
+### League
 
 * [Old World Classic]
+
+### Special Rules
+
 * [Team Captain]
 
 ### Staff

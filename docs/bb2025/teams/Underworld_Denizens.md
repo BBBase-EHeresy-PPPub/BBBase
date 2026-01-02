@@ -16,9 +16,12 @@
 
 \* An Underworld Denizens team may have a single Big Guy, chosen from the following.
 
-### Special Rules
+### League
 
 * [Underworld Challenge]
+
+### Special Rules
+
 * [Bribery and Corruption]
 
 ### Staff

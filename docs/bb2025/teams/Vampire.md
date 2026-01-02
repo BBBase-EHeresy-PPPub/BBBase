@@ -11,9 +11,13 @@
 | 0‑2  | Vampire Blitzer *(Blitzer, Undead, Vampire)* | 6   | 4   | 2+  | 4+  | 9+  | • [Bloodlust] (3+)<br>• [Hypnotic Gaze]<br>• [Juggernaut]<br>• [Regeneration]       | A G S   |           | 110K |
 | 0‑1  | Vargheist *(Big Guy, Undead, Vampire)*       | 5   | 5   | 4+  | 6+  | 10+ | • [Bloodlust] (3+)<br>• [Claws]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Regeneration] | S       | A G       | 150K |
 
-### Special Rules
+### League
 
 * [Sylvanian Spotlight]
+
+### Special Rules
+
+
 * [Masters of Undeath]
 
 ### Staff

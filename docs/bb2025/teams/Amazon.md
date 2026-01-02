@@ -10,7 +10,7 @@
 | 0‑2  | Piranha Warrior *(Blitzer, Human)* | 7   | 3   | 3+  | 4+  | 8+  | • [Dodge]<br>• [Hit and Run]<br>• [Jump Up]               | A G     | S         | 90K  |
 | 0‑2  | Jaguar Warrior *(Blocker, Human)*  | 6   | 4   | 3+  | 4+  | 9+  | • [Defensive]<br>• [Dodge]                                | G S     | A         | 110K |
 
-### Special Rules
+### League
 
 * [Lustrian Superleague]
 

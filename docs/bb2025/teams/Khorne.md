@@ -10,9 +10,12 @@
 | 0‑4  | Bloodseeker *(Blocker, Human)*        | 5   | 4   | 4+  | 6+  | 10+ | • [Frenzy]                                                                            | G M S   | A D       | 105K |
 | 0‑1  | Bloodspawn *(Big Guy, Spawn)*         | 5   | 5   | 4+  | 6+  | 9+  | • [Claws]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Unchannelled Fury] | M S     | A G       | 160K |
 
-### Special Rules
+### League
 
 * [Chaos Clash]
+
+### Special Rules
+
 * [Favoured of Khorne][Favoured of...]
 * [Brawlin' Brutes]
 

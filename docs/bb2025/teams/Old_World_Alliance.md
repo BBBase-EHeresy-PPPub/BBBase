@@ -17,7 +17,7 @@
 | 0‑1  | Ogre *(Big Guy, Ogre)*                     | 5   | 5   | 4+  | 5+  | 10+ | • [Bone Head]<br>• [Loner] (3+)<br>• [Mighty Blow]<br>• [Thick Skull]<br>• [Throw Team-mate]                                     | S       | A G       | 140K |
 | 0‑1  | Altern Forest Treeman *(Big Guy, Treeman)* | 2   | 5   | 5+  | 5+  | 11+ | • [Mighty Blow]<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S       | A G P     | 120K |
 
-### Special Rules
+### League
 
 * [Old World Classic]
 

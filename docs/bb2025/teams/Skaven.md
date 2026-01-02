@@ -11,7 +11,7 @@
 | 0‑2  | Skaven Blitzer *(Blitzer, Skaven)* | 8   | 3   | 3+  | 4+  | 9+  | • [Block]<br>• [Strip Ball]                                                                   | G S     | A D M     | 90K  |
 | 0‑1  | Rat Ogre *(Big Guy, Skaven)*       | 6   | 5   | 4+  | 6+  | 9+  | • [Animal Savagery]<br>• [Frenzy]<br>• [Loner] (4+)<br>• [Mighty Blow]<br>• [Prehensile Tail] | S       | A G M     | 150K |
 
-### Special Rules
+### League
 
 * [Underworld Challenge]
 

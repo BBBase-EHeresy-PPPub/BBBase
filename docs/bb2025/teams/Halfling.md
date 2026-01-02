@@ -10,7 +10,7 @@
 | 0‑2  | Halfling Catcher *(Catcher, Halfling)*    | 5   | 2   | 3+  | 4+  | 7+  | • [Catch]<br>• [Dodge]<br>• [Right Stuff]<br>• [Sprint]<br>• [Stunty]                                                            | A       | G S D     | 55K  |
 | 0‑2  | Athel Forest Treeman *(Big Guy, Treeman)* | 2   | 6   | 5+  | 5+  | 11+ | • [Mighty Blow]<br>• [Stand Firm]<br>• [Strong Arm]<br>• [Take Root]<br>• [Thick Skull]<br>• [Throw Team-mate]<br>• [Timmm-ber!] | S       | A G P D   | 120K |
 
-### Special Rules
+### League
 
 * [Halfling Thimble Cup]
 * [Woodland League]

@@ -10,7 +10,7 @@
 | 0‑2  | Bretonnian Knight Thrower *(Thrower, Human)* | 6   | 3   | 3+  | 3+  | 9+  | • [Dauntless]<br>• [Nerves of Steel]<br>• [Pass]  | G P     | A S       | 80K  |
 | 0‑2  | Grail Knight *(Blitzer, Human)*              | 7   | 3   | 3+  | 4+  | 10+ | • [Block]<br>• [Dauntless]<br>• [Steady Footing]  | G S     | A         | 95K  |
 
-### Special Rules
+### League
 
 * [Old World Classic]
 

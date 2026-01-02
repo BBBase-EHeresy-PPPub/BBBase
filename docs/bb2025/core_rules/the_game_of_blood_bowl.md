@@ -477,7 +477,7 @@ Many Blood Bowl players sport an impressive number of scrapes and scars, each on
 
 ### RISKING INJURY
 
-Whenever an Armour Roll is made for a player, they risk the chance of an Injury. As described on [page 37](./rules_and_regulations.md#9-av---armour-value), if a player's armour is not broken then they will be fine and suffer no further effect. However, if the player's armour is broken then an Injury Roll must be made for them.
+Whenever an Armour Roll is made for a player, they risk the chance of an Injury. As described on [page 37](./rules_and_regulations.md#9-av-armour-value), if a player's armour is not broken then they will be fine and suffer no further effect. However, if the player's armour is broken then an Injury Roll must be made for them.
 
 #### INJURY ROLLS
 
@@ -582,7 +582,7 @@ Nowadays, fouling is not just a common occurrence but also an expected one among
 
 As mentioned earlier, a single player on the active team may declare a Foul Action each Turn. When a player declares a Foul Action they are first allowed to make a Move Action, though they cannot continue to move after the Foul Action has been committed. The player must finish their Move Action adjacent to a Prone or Stunned opposition player in order to perform the Foul Action.
 
-To perform the Foul Action, the player makes an Armour Roll (see [page 37](./rules_and_regulations.md#9-av---armour-value)) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
+To perform the Foul Action, the player makes an Armour Roll (see [page 37](./rules_and_regulations.md#9-av-armour-value)) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
 
 ![](../media/core_rules/performing_a_foul_action.jpg)
 
