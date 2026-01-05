@@ -75,6 +75,7 @@ At the beginning of each half, gain one additional team re-roll.
 | 12     | **Violent Vibrations:** The residents of the Dark Lands are no strangers to earthquakes, but every now and then there are some so powerful they shake the foundation of Zharr-Naggrund! The kicking team's coach rolls a D3. That many randomly selected players on each team are immediately Placed Prone.                                                                                                                                                                                                     |
 
 ---
+
 ## Volcanic Lair Blood Bowl Pitch
 
 Chaos Dwarfs are well-known for their love of arid heat, being underground and Blood Bowl. That is why volcanoes make for such popular locations for the Chaos Dwarf teams to build their grand stadiums - carving the stands from the stone walls, redirecting bubbling lava flows towards the outskirts of the field to create atmospheric lighting and constructing large iron monuments to honour both Hashut and Nuffle. The *only* downside of choosing an active volcano as a stadium is ensuring that there is a strict evacuation procedure in place to protect the fans, should the molten pinnacle decide to erupt mid-match!
