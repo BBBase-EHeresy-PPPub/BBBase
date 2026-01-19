@@ -2,7 +2,7 @@
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/amazon_team.jpg)
+![](../media/blitz_bowl/amazon_team.jpg){ width=1000 height=732 }
 
 | POSITION                | MOVE | BLOCK | THROW | ARMOUR | ABILITY                   |
 | ----------------------- | ---- | ----- | ----- | ------ | ------------------------- |
@@ -25,7 +25,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/black_orc_team.jpg)
+![](../media/blitz_bowl/black_orc_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY           |
 | --------- | ---- | ----- | ----- | ------ | ----------------- |
@@ -42,7 +42,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/chaos_chosen_team.jpg)
+![](../media/blitz_bowl/chaos_chosen_team.jpg){ width=1000 height=732 }
 
 | PLAYER             | MOVE | BLOCK | THROW | ARMOUR | ABILITY             |
 | ------------------ | ---- | ----- | ----- | ------ | ------------------- |
@@ -59,7 +59,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/dark_elf_team.jpg)
+![](../media/blitz_bowl/dark_elf_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                        |
 | --------- | ---- | ----- | ----- | ------ | ------------------------------ |
@@ -82,7 +82,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/dwarf_team.jpg)
+![](../media/blitz_bowl/dwarf_team.jpg){ width=1000 height=732 }
 
 | POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |--------------|------|-------|-------|--------|------------------------|
@@ -105,7 +105,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/elven_union_team.jpg)
+![](../media/blitz_bowl/elven_union_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |-----------|------|-------|-------|--------|------------------------|
@@ -128,7 +128,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 8
 
-![](../media/blitz_bowl/gnome_team.jpg)
+![](../media/blitz_bowl/gnome_team.jpg){ width=1000 height=732 }
 
 | POSITION        | MOVE | BLOCK | THROW | ARMOUR | ABILITY          |
 |---------------|------|-------|-------|--------|------------------|
@@ -154,7 +154,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/goblin_team.jpg)
+![](../media/blitz_bowl/goblin_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY         |
 |-----------|------|-------|-------|--------|----------------|
@@ -173,7 +173,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/halfling_team.jpg)
+![](../media/blitz_bowl/halfling_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |-----------|------|-------|-------|--------|------------------------|
@@ -196,7 +196,7 @@ EMERGENCY RESERVES: 2
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/human_team.jpg)
+![](../media/blitz_bowl/human_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |-----------|------|-------|-------|--------|------------------------|
@@ -219,7 +219,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/imperial_nobility_team.jpg)
+![](../media/blitz_bowl/imperial_nobility_team.jpg){ width=1000 height=732 }
 
 | POSITION   | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |------------|------|-------|-------|--------|------------------------|
@@ -242,7 +242,7 @@ EMERGENCY RESERVES: 3
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/khorne_team.jpg)
+![](../media/blitz_bowl/khorne_team.jpg){ width=1000 height=732 }
 
 | POSITION    | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
 |------------|------|-------|-------|--------|--------------|
@@ -262,7 +262,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/lizardmen_team.jpg)
+![](../media/blitz_bowl/lizardmen_team.jpg){ width=1000 height=732 }
 
 | POSITION          | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |------------------|------|-------|-------|--------|------------------------|
@@ -282,7 +282,7 @@ EMERGENCY RESERVES: 5
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/necromantic_team.jpg)
+![](../media/blitz_bowl/necromantic_team.jpg){ width=1000 height=732 }
 
 | POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |--------------|------|-------|-------|--------|------------------------|
@@ -308,7 +308,7 @@ EMERGENCY RESERVES: 5
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/norse_team.jpg)
+![](../media/blitz_bowl/norse_team.jpg){ width=1000 height=732 }
 
 | POSITION    | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |------------|------|-------|-------|--------|------------------------|
@@ -334,7 +334,7 @@ EMERGENCY RESERVES: 3
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/nurgle_team.jpg)
+![](../media/blitz_bowl/nurgle_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
 |-----------|------|-------|-------|--------|--------------|
@@ -354,7 +354,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 8
 
-![](../media/blitz_bowl/ogre_team.jpg)
+![](../media/blitz_bowl/ogre_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY         |
 |-----------|------|-------|-------|--------|----------------|
@@ -373,7 +373,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/orc_team.jpg)
+![](../media/blitz_bowl/orc_team.jpg){ width=1000 height=732 }
 
 | POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |---------------|------|-------|-------|--------|------------------------|
@@ -396,7 +396,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/shambling_undead_team.jpg)
+![](../media/blitz_bowl/shambling_undead_team.jpg){ width=1000 height=732 }
 
 | POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |--------------|------|-------|-------|--------|------------------------|
@@ -421,7 +421,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/skaven_team.jpg)
+![](../media/blitz_bowl/skaven_team.jpg){ width=1000 height=732 }
 
 | POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |---------------|------|-------|-------|--------|------------------------|
@@ -444,7 +444,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 10
 
-![](../media/blitz_bowl/snotling_team.jpg)
+![](../media/blitz_bowl/snotling_team.jpg){ width=1000 height=732 }
 
 | POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |---------------|------|-------|-------|--------|------------------------|
@@ -470,7 +470,7 @@ EMERGENCY RESERVES: 5
 
 NUMBER OF PLAYERS: 7
 
-![](../media/blitz_bowl/vampire_team.jpg)
+![](../media/blitz_bowl/vampire_team.jpg){ width=1000 height=732 }
 
 | POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
 |-----------|------|-------|-------|--------|--------------|
@@ -491,7 +491,7 @@ EMERGENCY RESERVES: 4
 
 NUMBER OF PLAYERS: 6
 
-![](../media/blitz_bowl/wood_elf_team.jpg)
+![](../media/blitz_bowl/wood_elf_team.jpg){ width=1000 height=732 }
 
 | POSITION   | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
 |------------|------|-------|-------|--------|------------------------|

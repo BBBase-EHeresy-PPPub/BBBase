@@ -1,6 +1,6 @@
 # Nobbla Blackwart
 
-![](../media/starplayers/NobblaBlackwart.jpg)
+![](../media/starplayers/NobblaBlackwart.jpg){ width=600 height=620 }
 
 | 120K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

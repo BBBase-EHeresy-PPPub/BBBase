@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBTombKings.jpg)
+![](../media/teams/BBTombKings.jpg){ width=920 height=950 }
 
 ### Positionals
 

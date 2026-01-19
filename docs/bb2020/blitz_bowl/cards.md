@@ -5,7 +5,7 @@ search:
 
 ## Rookies to Watch
 
-![](../media/blitz_bowl/rookies_to_watch.jpg)
+![](../media/blitz_bowl/rookies_to_watch.jpg){ width=440 height=750 }
 
 If you are an experienced Blitz Bowl Coach and introducing someone new to the game, give them this card during set-up.
 

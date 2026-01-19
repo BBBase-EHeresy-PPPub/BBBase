@@ -1,6 +1,6 @@
 # Frank 'n' Stein
 
-![](../media/starplayers/FrankNSteinLead.jpg)
+![](../media/starplayers/FrankNSteinLead.jpg){ width=600 height=620 }
 
 | 250K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

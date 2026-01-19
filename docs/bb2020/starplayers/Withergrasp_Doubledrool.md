@@ -1,6 +1,6 @@
 # Withergrasp Doubledrool
 
-![](../media/starplayers/WithergraspDoubledrool1.jpg)
+![](../media/starplayers/WithergraspDoubledrool1.jpg){ width=600 height=620 }
 
 | 170K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

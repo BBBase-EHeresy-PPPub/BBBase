@@ -1,6 +1,6 @@
 # Estelle la Veneaux
 
-![](../media/starplayers/BBEstellelaVeneauxLead.jpg)
+![](../media/starplayers/BBEstellelaVeneauxLead.jpg){ width=600 height=620 }
 
 | 190K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

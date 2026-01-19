@@ -1,4 +1,4 @@
-![](../media/blitz_bowl/cover.jpg)
+![](../media/blitz_bowl/cover.jpg){ width=725 height=1000 }
 
 GREETINGS SPORTS FANS!
 
@@ -20,4 +20,4 @@ GREETINGS SPORTS FANS!
 
 "I never knew that, Bob. You learn something new every day! Anyway, the teams are heading into the pit; LET'S PLAY BLITZ BOWL!"
 
-![](../media/blitz_bowl/bob_and_jim.jpg)
+![](../media/blitz_bowl/bob_and_jim.jpg){ width=926 height=695 }

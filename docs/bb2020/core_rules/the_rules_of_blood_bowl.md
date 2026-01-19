@@ -360,7 +360,7 @@ A player that is Open does not need to Dodge to move from square to square. An O
 
 Once during their activation, a moving player can attempt to Jump over a single adjacent square that is occupied by a Prone or Stunned player, into an unoccupied square beyond. The squares the active player can attempt to Jump into will depend upon the direction in which they are moving, as shown in the diagrams below:
 
-![](../media/core_rules/jump_over.jpg)
+![](../media/core_rules/jump_over.jpg){ width=625 height=289 }
 
 Jumping over a square in this way uses Movement Allowance exactly as if the player had moved into and out of the square they are jumping over. To Jump over a square that contains a Prone or Stunned player, a player must test against their Agility as described on [page 29](../core_rules/rules_and_regulations.md#agility-tests):
 
@@ -425,7 +425,7 @@ Range is measured by placing the circle at the end of the range ruler over the c
 Any squares that are beyond the reach of the range ruler or that are intersected by the end of the range ruler are out of range and cannot be the target square.
 If the line between two range bands intersects the target square, it is considered to fall within the higher range band. If it is not clear which range band the target square falls into, refer to the Passing Range chart shown below:
 
-![](../media/core_rules/measuring_range.jpg)
+![](../media/core_rules/measuring_range.jpg){ width=463 height=416 }
 
 ### DECLARE TARGET SQUARE
 
@@ -475,7 +475,7 @@ To attempt to interfere with a pass, an opposition player must be:
 * Occupying a square that is between the square occupied by the player performing the Pass action and the square in which the ball will land.
 * In a square that is at least partially beneath the range ruler when placed as described above.
 
-![](../media/core_rules/passing_interference.jpg)
+![](../media/core_rules/passing_interference.jpg){ width=463 height=365 }
 
 If any opposition players are in a position to attempt to interfere with a pass, the coach of the opposing team nominates one to make the attempt and tests against their Agility, applying the following modifiers to represent the difficulty of attempting to snatch the ball from the air:
 
@@ -528,7 +528,7 @@ Should the ball leave the pitch at any time, the crowd will throw it back into p
 
 Should the ball leave the pitch again following an over-enthusiastic throw-in, repeat the above process.
 
-![](../media/core_rules/throw_in.jpg)
+![](../media/core_rules/throw_in.jpg){ width=463 height=291 }
 
 ### CORNER THROW-INS
 
@@ -565,7 +565,7 @@ When throwing a teammate, range is measured using the range ruler exactly as des
 
 Any squares that are beyond the reach of the range ruler or that are intersected by the end of the range ruler are out of range and cannot be the target square. If the line between the two range bands intersects the target square, the target square is considered to be within the higher range band. If it is not clear which range band the target square falls into, refer to the Throw Range chart shown below:
 
-![](../media/core_rules/throw_team-mate.jpg)
+![](../media/core_rules/throw_team-mate.jpg){ width=463 height=389 }
 
 ### DECLARE TARGET SQUARE
 
@@ -701,13 +701,13 @@ Once offensive and defensive assists have been worked out and the number of bloc
 
 #### PLAYER DOWN!
 
-![](../media/core_rules/dice_player_down.jpg)
+![](../media/core_rules/dice_player_down.jpg){ width=75 height=75 }
 
 Something has gone terribly wrong and the player performing the Block action has come off the worst. The active player is immediately Knocked Down by the player they were attempting to block!
 
 #### BOTH DOWN
 
-![](../media/core_rules/dice_both_down.jpg)
+![](../media/core_rules/dice_both_down.jpg){ width=75 height=75 }
 
 Neither player comes off particularly well. Both the active player and the target of the Block action are Knocked Down by one another.
 
@@ -715,19 +715,19 @@ If one of the players has the Block skill (as described on [page 76](../core_rul
 
 #### PUSH BACK
 
-![](../media/core_rules/dice_push_back.jpg)
+![](../media/core_rules/dice_push_back.jpg){ width=75 height=75 }
 
 The active player gives their opponent an almighty shove, forcing them backwards. The target of the Block action is pushed back one square by the active player. The active player may follow-up into the square vacated. Pushing other players is covered in more detail on [page 58](../core_rules/the_rules_of_blood_bowl.md#pushed-players).
 
 #### STUMBLE
 
-![](../media/core_rules/dice_stumble.jpg)
+![](../media/core_rules/dice_stumble.jpg){ width=75 height=75 }
 
 The target of the Block action attempts to avoid their aggressor. If the target of the Block action has the Dodge skill and chooses to use it (as described on [page 75](../core_rules/skills_and_traits.md#dodge)), they are able to avoid being hit and this result becomes a Push Back, as described above. Otherwise, this result becomes a POW!, as described below. In either case, the active player may follow-up into the square vacated.
 
 #### POW!
 
-![](../media/core_rules/dice_pow.jpg)
+![](../media/core_rules/dice_pow.jpg){ width=75 height=75 }
 
 The block is tremendously effective and the target keels over to land flat on their back! The target of the Block action is pushed back by the active player and is then Knocked Down in the square they have been moved into. The active player may follow up into the square vacated.
 
@@ -740,7 +740,7 @@ Note that when both players have the same Strength characteristic, only one bloc
 ### PUSHED PLAYERS
 
 The Push Back and POW! block dice results call for the target of a Block action to be 'pushed back'. A pushed back player is involuntarily moved one square away from the player performing the action. The pushed back player is moved into a square chosen by the coach of the player performing the action. The squares a pushed back player can be moved into will depend upon the direction from which the block came, as shown in the diagrams below:
-![](../media/core_rules/pushed_players.jpg)
+![](../media/core_rules/pushed_players.jpg){ width=463 height=538 }
 
 The square the pushed back player is moved into must be an unoccupied square. If this is not possible, the pushed back player will either be pushed into the crowd (see [opposite](#pushed-into-the-crowd)) or a chain-push will occur (see [opposite](#chain-pushes)). Note that only players can occupy a square, if a square contains only the ball or a trapdoor, it is unoccupied and a pushed back player may be moved into it. If a pushed back player is moved into a square that contains the ball, the ball will bounce. A player cannot attempt to pick up the ball when pushed back.
 
@@ -749,7 +749,7 @@ The square the pushed back player is moved into must be an unoccupied square. If
 If there are no unoccupied squares to move a pushed back player into, the player is moved into a square occupied by another player, causing a 'chain-push'. When a player is chain-pushed, they are pushed back themselves exactly as described above. The chain-pushed player is moved into a square chosen by the coach of the player performing the Block action. The squares a chain-pushed player can be moved into will depend upon the direction from which the push came, as shown in the diagrams previously.
 
 A player can be chain-pushed even if they are Prone or Stunned. A chain-push can cause a player from either team to be moved and may result in a player being pushed into the crowd.
-![](../media/core_rules/chain_pushes.jpg)
+![](../media/core_rules/chain_pushes.jpg){ width=462 height=418 }
 
 #### PUSHED INTO THE CROWD
 

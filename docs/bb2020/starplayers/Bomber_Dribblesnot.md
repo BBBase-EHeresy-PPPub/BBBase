@@ -1,6 +1,6 @@
 # Bomber Dribblesnot
 
-![](../media/starplayers/BomberDribblesnotLead.jpg)
+![](../media/starplayers/BomberDribblesnotLead.jpg){ width=600 height=620 }
 
 **MEGA-STAR**
 

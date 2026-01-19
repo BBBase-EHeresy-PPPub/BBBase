@@ -1,5 +1,5 @@
 # THE GAME OF BLOOD BOWL
-![](media/index/blood_bowl_set.jpg)
+![](media/index/blood_bowl_set.jpg){ width=1000 height=623 }
 
 Blood Bowl is undeniably the greatest game ever played. Not only is it the world's most popular game of fantasy football but, in the eyes of its legions of loyal followers the world over, t is a game like no other: tactical, challenging, emotional and, at times, outrageously funny!
 

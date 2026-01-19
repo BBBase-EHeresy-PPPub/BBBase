@@ -1,6 +1,6 @@
 # Fungus the Loon
 
-![](../media/starplayers/FungusTheLoon.jpg)
+![](../media/starplayers/FungusTheLoon.jpg){ width=600 height=620 }
 
 | 80K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

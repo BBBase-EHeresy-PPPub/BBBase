@@ -1,6 +1,6 @@
 # Scrappa Sorehead
 
-![](../media/starplayers/ScrappaSorehead01.jpg)
+![](../media/starplayers/ScrappaSorehead01.jpg){ width=600 height=620 }
 
 | 130K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -32,7 +32,7 @@ If both coaches agree, The Red Gobbo can be hired as a Star Player during Exhibi
 
 ## The Red Gobbo
 
-![](../media/spike_journal/TheRedGobbo.jpg)
+![](../media/spike_journal/TheRedGobbo.jpg){ width=600 height=620 }
 
 | 235K | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

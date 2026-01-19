@@ -1,6 +1,6 @@
 # Swiftvine Glimmershard
 
-![](../media/starplayers/SwiftvineGlimmershard.jpg)
+![](../media/starplayers/SwiftvineGlimmershard.jpg){ width=600 height=620 }
 
 | 110K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

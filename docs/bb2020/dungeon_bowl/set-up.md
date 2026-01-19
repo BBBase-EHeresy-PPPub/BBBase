@@ -20,7 +20,7 @@ When creating the dungeon, it should contain at least four corridor pieces, at l
 
 Whenever two Dungeon tiles are placed adjacent to each other, there should always be at least two squares connecting them. No Dungeon tiles should ever be connected by a single square - this simply wouldn't give enough room for the players to move through! Additionally, wherever two Dungeon tiles join together, place a Door token between them to show the doorway that connects the two tiles. These are always two squares wide, and should be placed as centrally as possible. It should also be noted that the doorways are always assumed to have the doors removed, and so are simply openings - the Magisterium thought traversing the dungeon would be difficult enough without having to constantly open and close doors!
 
-![](../media/dungeon_bowl/doors.jpg)
+![](../media/dungeon_bowl/doors.jpg){ width=751 height=372 }
 
 When both players are happy with how the dungeon is laid out, the two End Zones should be placed. These should be placed as far away from each other as possible within the dungeon.
 
@@ -40,7 +40,7 @@ Both coaches then place their teams in the dungeon and their re-roll markers ont
 
 Below are some examples of ways you could choose to lay out the dungeon. You can choose to use one of the layouts given here, or create your own using the rules on the [previous page](#setting-up-the-game).
 
-![](../media/dungeon_bowl/layout.jpg)
+![](../media/dungeon_bowl/layout.jpg){ width=1015 height=866 }
 
 ### PRE-GAME SEQUENCE
 
@@ -82,37 +82,37 @@ Here we present the rules for each of the unique rooms in Dungeon Bowl.
 
 ### THE ARMOURY
 
-![](../media/dungeon_bowl/armory.jpg)
+![](../media/dungeon_bowl/armory.jpg){ width=500 height=500 }
 
 Whenever an Armour roll is made for a player within the Armoury, an additional +1 modifier is added to the roll.
 
 ### THE BONE PIT
 
-![](../media/dungeon_bowl/bone_pit.jpg)
+![](../media/dungeon_bowl/bone_pit.jpg){ width=500 height=500 }
 
 Players that attempt to Throw, Catch or Hand-off the ball within the Bone Pit suffer a -1 modifier to the dice roll.
 
 ### THE CURSED ROOM
 
-![](../media/dungeon_bowl/cursed_room.jpg)
+![](../media/dungeon_bowl/cursed_room.jpg){ width=500 height=500 }
 
 Whilst a player is within the Cursed Room they may not use team re-rolls or a Skill or Trait that allows them to re-roll any number of dice.
 
 ### THE FLOODED ROOM
 
-![](../media/dungeon_bowl/flooded_room.jpg)
+![](../media/dungeon_bowl/flooded_room.jpg){ width=500 height=500 }
 
 Whilst within the Flooded Room, players that attempt to Rush will Fall Over on the roll of a 1 or a 2 rather than just a 1.
 
 ### THE FORGOTTEN JAIL
 
-![](../media/dungeon_bowl/forgotten_jail.jpg)
+![](../media/dungeon_bowl/forgotten_jail.jpg){ width=500 height=500 }
 
 Any player that begins their turn within the Forgotten Jail must roll a D6. On a 1 or 2, the player reduces their MA by 2 until the end of their activation.
 
 ### THE KITCHEN
 
-![](../media/dungeon_bowl/kitchen.jpg)
+![](../media/dungeon_bowl/kitchen.jpg){ width=500 height=500 }
 
 Any player that begins their activation within the Kitchen may perform the Throw Food special action instead of doing anything else for that turn:
 
@@ -120,13 +120,13 @@ Any player that begins their activation within the Kitchen may perform the Throw
 
 ### THE SEWER
 
-![](../media/dungeon_bowl/sewer.jpg)
+![](../media/dungeon_bowl/sewer.jpg){ width=500 height=500 }
 
 Players that enter the Sewer gain the Disturbing Presence trait until the start of their next activation.
 
 ### THE TREASURE-ROOM
 
-![](../media/dungeon_bowl/treasure_room.jpg)
+![](../media/dungeon_bowl/treasure_room.jpg){ width=500 height=500 }
 
 A player that begins their activation within the Treasure Room may perform the Gather Funds special action instead of doing anything else for that turn:
 
@@ -134,25 +134,25 @@ A player that begins their activation within the Treasure Room may perform the G
 
 ### THE CHAOTIC IDOL
 
-![](../media/dungeon_bowl/chaotic_idol.jpg)
+![](../media/dungeon_bowl/chaotic_idol.jpg){ width=1000 height=500 }
 
 The Chaotic Idol is a 2 square by 2 square impassable feature in this room that is treated as a wall. Additionally, if a player begins their activation within this room, roll a D6. On the roll of a 6, the player increases their ST by 1 for the duration of their activation.
 
 ### THE CRYPT
 
-![](../media/dungeon_bowl/crypt.jpg)
+![](../media/dungeon_bowl/crypt.jpg){ width=1000 height=500 }
 
 Crypt has two 1 square by 2 square impassable features in this 'at are treated as a wall, though they do not block Line of Sight. Additionally, if a player would be pushed into a Crypt then they are Knocked Down and any Armour roll made against them will have a +1 modifier.
 
 ### THE DRAGON YOUNGLING'S LAIR
 
-![](../media/dungeon_bowl/dragon_youngling.jpg)
+![](../media/dungeon_bowl/dragon_youngling.jpg){ width=1000 height=500 }
 
 The Dragon Youngling is a 2 square by 2 square impassable feature in this room that is treated as a wall, though it does not block Line of Sight. Additionally, any player that begins their activation within the Dragon Youngling's Lair must roll a D6. On a 5+ that player is immediately Knocked Down. This will only cause a Turnover if the player was holding the ball.
 
 ### THE FIERY CHASM
 
-![](../media/dungeon_bowl/fiery_chasm.jpg)
+![](../media/dungeon_bowl/fiery_chasm.jpg){ width=1000 height=500 }
 
 The Fiery Chasm is a 1 square by 4 square impassable feature in this room, though it does not block Line of Sight. It also has a rope bridge across it that takes up a single square; this can be crossed as normal.
 

@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBChaosRenegades.jpg)
+![](../media/teams/BBChaosRenegades.jpg){ width=920 height=950 }
 
 ### Positionals
 

@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/ScarcragSnivelersTeam01.jpg)
+![](../media/teams/ScarcragSnivelersTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

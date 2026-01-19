@@ -16,7 +16,7 @@ Each team in Blitz Bowl has a unique, double-sided Team Card that has all the in
 
 The front of each Team Card shows the miniatures that you will need for that team, allowing you to easily identify which Players you will need and what position they play. Most teams have six Players, though some may have more. Where there are multiple Players who have the same position on a team (e.g., Linemen), they are shown here too.
 
-![](../media/blitz_bowl/team_card.jpg)
+![](../media/blitz_bowl/team_card.jpg){ width=1000 height=371 }
 
 On the back of each Team Card are all the rules you need to play using that team.  
 
@@ -107,7 +107,7 @@ If a rule states that something needs to be 'within' a certain number of squares
 
 Challenge Cards have two sides; the red side showing the Challenge each team is trying to accomplish, and the blue side showing the Bonus Play a team will receive for completing the Challenge. The front of each Challenge Card shows the following:
 
-![](../media/blitz_bowl/challenge_card_1.jpg)
+![](../media/blitz_bowl/challenge_card_1.jpg){ width=326 height=573 }
 
 1. The name of the Challenge.  
 2. The conditions that must be met to claim the Challenge Card.  
@@ -115,7 +115,7 @@ Challenge Cards have two sides; the red side showing the Challenge each team is 
 
 The back of each Challenge Card is referred to as a Bonus Play Card, and shows the following:
 
-![](../media/blitz_bowl/challenge_card_2.jpg)
+![](../media/blitz_bowl/challenge_card_2.jpg){ width=375 height=593 }
 
 1. The name of the Bonus Play.  
 2. How the Bonus Play Card can be played.
@@ -142,25 +142,25 @@ During a game of Blitz Bowl, Players can either be Open, Marked, Prone or in Res
 
 **Open Players** – A Player who is standing and is not adjacent to any standing Opposition Players is Open. Each of the eight squares around a given square are said to be adjacent to them.
 
-![](../media/blitz_bowl/player_status_1.jpg)
+![](../media/blitz_bowl/player_status_1.jpg){ width=459 height=477 }
 
 *This Dwarf Lineman has no Opposition Players adjacent to them, and so is said to be Open.*
 
 **Marked Players** – A Player who is standing and is adjacent to an Opposition Player who is not Prone is said to be Marked. Players can Mark, and be Marked by, multiple Opposition Players at the same time. Marking has a number of effects, which will be explained later on.
 
-![](../media/blitz_bowl/player_status_2.jpg)
+![](../media/blitz_bowl/player_status_2.jpg){ width=461 height=477 }
 
 *This Dwarf Runner is adjacent to the Orc Blitzer. As such, both Players are Marking, and being Marked by, each other.*
 
 **Prone Players** – A Player who is laying on the ground is Prone. A Prone Player cannot Mark, or be Marked by, Opposition Players and is for all intents and purposes not an active participant in the game. For example, they cannot score Challenge Cards and do not affect the placement of Players returning to the pitch (see page 19). If a Player becomes Prone whilst holding a ball, it will immediately Bounce from that Player's square.
 
-![](../media/blitz_bowl/player_status_3.jpg)
+![](../media/blitz_bowl/player_status_3.jpg){ width=460 height=478 }
 
 *This Dwarf Lineman has been Knocked Down and has been laid down as a result. They are said to be Prone.*
 
 **Reserves Players** – Sometimes, a Player will find themselves placed in the Dugout. A Player in a team's Dugout is said to be in Reserves and will be waiting to return to the pitch.
 
-![](../media/blitz_bowl/player_status_4.jpg)
+![](../media/blitz_bowl/player_status_4.jpg){ width=303 height=579 }
 
 *This Orc Lineman is in their team's Dugout. They are in Reserves.*
 
@@ -168,7 +168,7 @@ During a game of Blitz Bowl, Players can either be Open, Marked, Prone or in Res
 
 During a game of Blitz Bowl, teams are awarded points by scoring Touchdowns and claiming Challenge Cards. Each team's score is tracked by the position of their team's Score Marker on the Score Track. Once a team's score reaches 10 points, their Team Coin is placed on the +10 space and their Score Marker is returned to the 0 space. The same happens when their team's score reaches 20 and 30.
 
-![](../media/blitz_bowl/scoring_points.jpg)
+![](../media/blitz_bowl/scoring_points.jpg){ width=1000 height=185 }
 
 *So, for example, a team with a score of 17 would have their Team Coin on the +10 space, and their Score Marker on the 7 space.*
 
@@ -240,13 +240,13 @@ Free Actions must be performed when they are granted and cannot be saved for lat
 
 *For example, during the Dwarf Coach's third Player Action, their Troll Slayer makes a Mark Action and moves adjacent to the Orc Coach's Thrower. Due to the Troll Slayer's Frenzied ability, they may make a free Block Action after making a Mark Action, which they can now do even though the Dwarf Coach has made three Player Actions during their turn, as the Block Action was a free Action. If this free Block Action would result in the Troll Slayer now fulfilling the criteria of a Challenge Card, the Dwarf Coach may then claim it.*
 
-![](../media/blitz_bowl/free_actions.jpg)
+![](../media/blitz_bowl/free_actions.jpg){ width=1000 height=511 }
 
 ### RUN ACTION
 
 When a Coach chooses a Player to make a Run Action, they may choose one of their Open Players and move them a number of squares up to their Move Value. A move can be made into any adjacent square that is not occupied by another Player (either standing or Prone) or blocked (see page 5), and the Player cannot move off the pitch. Additionally, during a Player's Run Action, they cannot move into any square that is adjacent to an Open or Marked Opposition Player, though they can move adjacent to Prone Opposition Players. Trapdoors do not block movement; though they can be quite hazardous as they fly open whenever a new ball enters play, and many a Player has disappeared down them never to be seen again – you have been warned!
 
-![](../media/blitz_bowl/run_action.jpg)
+![](../media/blitz_bowl/run_action.jpg){ width=461 height=652 }
 
 Here, the Orc Blitzer is making a dash across the pitch, running a total of 6 squares whilst making a Run Action. During their Run Action, the Orc Blitzer may not move into a square that is adjacent to either of the Dwarf Linemen.
 
@@ -266,7 +266,7 @@ If a Player takes possession of a ball, place it on their base to show they are 
 
 An Open Player can make a Mark Action. When a Player makes a Mark Action, they may move up to two squares as described under the Run Action; however, when a Player makes a Mark Action they must finish this move Marking an Opposition Player. A Player making a Mark Action can move adjacent to Open or Marked Opposition Players as they move, but must finish this move as soon as they do so.
 
-![](../media/blitz_bowl/mark_action.jpg)
+![](../media/blitz_bowl/mark_action.jpg){ width=460 height=379 }
 
 *The Dwarf Blitzer is making a Mark Action. They move two squares, finishing their move Marking the Orc Thrower.*
 
@@ -278,7 +278,7 @@ An Open Player can make a Mark Action. When a Player makes a Mark Action, they m
 
 An Open Player who is in possession of a ball can make a Throw Action to pass a ball to another Player from their team on the pitch. To make a Throw Action, pick a Team-mate that is in range of the throw. To see whether a Team-mate is in range, place the Throw Ruler so that the curved end is in line with the edge of the throwing Player's base, as shown in the diagram below. A Team-mate is in range if any part of the Throw Ruler can reach the centre of the square that the Team-mate is standing in; if the Team-mate is in the black section, it is a Short Throw ![](../media/blitz_bowl/short_throw.jpg), whilst if they are in the red section it is a Long Throw ![](../media/blitz_bowl/long_throw.jpg). A Throw Action can still be made if the Throw Ruler is touching any obstructions – they do not stop a Player from throwing a ball. A Player cannot make a Throw Action to a Prone Team-mate.
 
-![](../media/blitz_bowl/throw_action.jpg)
+![](../media/blitz_bowl/throw_action.jpg){ width=461 height=354 }
 
 *The Throw Ruler is placed in line with the Player's base. The grey shaded area is in short range whilst the red shaded area is within long range.*
 
@@ -300,7 +300,7 @@ When a ball Bounces, it is placed into an adjacent square. Roll a D8 and look at
 - If a ball Bounces into a square containing a Marked or Prone Player, it immediately Bounces again from the new square.
 - If a ball Bounces into an obstructed square or off the board, the ball will not Bounce in that direction. Instead, work clockwise around the Bounce Chart (from 1–8) until you reach a result which means the ball will Bounce into a square on the pitch that doesn't contain an obstruction. Use that result instead.
 
-![](../media/blitz_bowl/bouncing_ball.jpg)
+![](../media/blitz_bowl/bouncing_ball.jpg){ width=460 height=304 }
 
 *Here, a ball is forced to Bounce from the Dwarf Runner. A 7 is rolled on the Bounce Chart, however, this would take the ball into an obstructed square. Moving clockwise around the Bounce Chart, the next available square to place a ball is at 1 on the Bounce Chart (as 8 would also be an obstructed square) and so it is placed there instead.*
 
@@ -330,7 +330,7 @@ Below are the different symbols you will see on the Block Dice, and what they al
 
 - ![](../media/blitz_bowl/miss_block.jpg) **Miss:** The target is unaffected. Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
 
-![](../media/blitz_bowl/block_action.jpg)
+![](../media/blitz_bowl/block_action.jpg){ width=461 height=305 }
 
 *Here, the Dwarf Coach has rolled a Shove result on the Block Dice. This causes the Orc Lineman to be moved back one square, directly away from the Dwarf Lineman.*
 
@@ -342,7 +342,7 @@ When a Player is Injured, they are removed from the game board and placed in the
 
 If the target of a Block Action is also Marked by one or more Team-mates of the Player making the Block Action, the Block Action is Assisted. This means that the Coach rolls one Block Dice in addition to the number equal to their Player's Block Value, and then chooses which result to use.
 
-![](../media/blitz_bowl/assisting_a_block_action.jpg)
+![](../media/blitz_bowl/assisting_a_block_action.jpg){ width=424 height=375 }
 
 *The Orc Blitzer is making a Block Action against the Dwarf Lineman. As the Dwarf Lineman is also being Marked by the Orc Thrower, the Block Action is Assisted. The Orc Coach rolls two Block Dice – one for the Orc Blitzer's Block Value of 1, and one for the Block Action being Assisted.*
 

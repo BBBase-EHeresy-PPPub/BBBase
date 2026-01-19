@@ -1,6 +1,6 @@
 # Dribl and Drull
 
-![](../media/starplayers/DrullDrible2.jpg)
+![](../media/starplayers/DrullDrible2.jpg){ width=600 height=620 }
 
 **190K**
 

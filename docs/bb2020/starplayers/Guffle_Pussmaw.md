@@ -1,6 +1,6 @@
 # Guffle Pussmaw
 
-![](../media/starplayers/BBGuffle.jpg)
+![](../media/starplayers/BBGuffle.jpg){ width=620 height=600 }
 
 | 180K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

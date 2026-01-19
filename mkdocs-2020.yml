@@ -38,6 +38,7 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - pymdownx.tilde
+  - attr_list
   - pymdownx.snippets:
       base_path: includes/bb2020
       auto_append:

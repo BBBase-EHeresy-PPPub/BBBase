@@ -1,6 +1,6 @@
 # Varag Ghoul-Chewer
 
-![](../media/starplayers/VaragGhoulchewerUpdateLead.jpg)
+![](../media/starplayers/VaragGhoulchewerUpdateLead.jpg){ width=600 height=620 }
 
 | 280K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

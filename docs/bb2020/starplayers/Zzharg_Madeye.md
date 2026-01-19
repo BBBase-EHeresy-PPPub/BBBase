@@ -1,6 +1,6 @@
 # Zzharg Madeye
 
-![](../media/starplayers/BBZzhargMadeye01.jpg)
+![](../media/starplayers/BBZzhargMadeye01.jpg){ width=600 height=620 }
 
 | 130K  | MA | ST | AG | PA | AV |
 | ---   | --- | --- | --- | --- | --- |

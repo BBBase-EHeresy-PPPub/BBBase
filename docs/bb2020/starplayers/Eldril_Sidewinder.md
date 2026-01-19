@@ -1,6 +1,6 @@
 # Eldril Sidewinder
 
-![](../media/starplayers/BBEldrilSidewinder01.jpg)
+![](../media/starplayers/BBEldrilSidewinder01.jpg){ width=600 height=620 }
 
 | 230K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

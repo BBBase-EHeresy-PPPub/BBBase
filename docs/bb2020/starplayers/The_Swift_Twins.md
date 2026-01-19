@@ -1,6 +1,6 @@
 # The Swift Twins
 
-![](../media/starplayers/TheSwiftTwins01.jpg)
+![](../media/starplayers/TheSwiftTwins01.jpg){ width=600 height=620 }
 
 **340K**
 

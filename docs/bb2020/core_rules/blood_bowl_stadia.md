@@ -6,7 +6,7 @@ This section explains the layout of a Blood Bowl pitch, the sideline area, and d
 
 #### THE BLOOD BOWL PITCH
 
-![](../media/core_rules/pitch.jpg)
+![](../media/core_rules/pitch.jpg){ width=668 height=427 }
 
 A Blood Bowl pitch is split into several distinct sections and all share the same features:
 
@@ -21,7 +21,7 @@ Finally, the board itself is split into a grid of squares; 13 squares from Line 
 
 #### DUGOUTS
 
-![](../media/core_rules/dugout.jpg)
+![](../media/core_rules/dugout.jpg){ width=490 height=280 }
 
 Each team has its own dugout, a safe haven at pitch side where reserves can warm up, where the injured can be tended to and where important game information is tracked:
 
@@ -64,13 +64,13 @@ Blood Bowl also makes use of three unique templates. These are the 'Random Direc
 
 #### THE RANDOM DIRECTION TEMPLATE
 
-![](../media/core_rules/random_direction.jpg)
+![](../media/core_rules/random_direction.jpg){ width=463 height=462 }
 
 This template is used whenever the ball 'scatters', 'bounces' or 'deviates' (see [page 25](../core_rules/rules_and_regulations.md#deviate-scatter-or-bounce)), or when the rules call for a random direction to be determined for any other reason. Position the template as shown in the diagram below, with the centre of the template over the square the ball is within and roll a D8 to determine the direction.
 
 #### THE THROW-IN TEMPLATE
 
-![](../media/core_rules/throw_in.jpg)
+![](../media/core_rules/throw_in.jpg){ width=463 height=291 }
 
 If the ball ever leaves the pitch, the crowd will enthusiastically throw it back. Position the Throw-in template as shown in the diagram below, with the Blood Bowl logo over the last square the ball occupied before leaving the pitch and roll a D6 to determine the direction the ball travels in.
 
@@ -78,13 +78,13 @@ Throw-ins are covered in greater detail on [page 51](../core_rules/the_rules_of_
 
 #### CORNER THROW-INS
 
-![](../media/core_rules/corner_throw_in.jpg)
+![](../media/core_rules/corner_throw_in.jpg){ width=431 height=295 }
 
 Should the ball leave the pitch from a corner square, the direction of the throw-in is determined by placing the Random Direction template as shown in the diagram and rolling a D3.
 
 #### THE RANGE RULER
 
-![](../media/core_rules/range_ruler.jpg)
+![](../media/core_rules/range_ruler.jpg){ width=463 height=666 }
 
 This is used when a Pass or Throw Team-mate action is performed, both to determine range and, in the case of a Pass action, to determine if any opposition players can attempt to interfere with the pass.
 
@@ -92,7 +92,7 @@ Pass actions are covered in greater detail on [page 48](../core_rules/the_rules_
 
 ### BLOOD BOWL DICE
 
-![](../media/core_rules/dice.jpg)
+![](../media/core_rules/dice.jpg){ width=297 height=370 }
 
 The game of Blood Bowl uses four different types of dice to determine the outcome of various actions and events. These are often referred to as 'Nuffle's sacred cubes' in homage to the patron god of Blood Bowl. Interestingly (perhaps), not all of these dice are cubes!
 

@@ -15,13 +15,13 @@ Blood Bowl Sevens pitch shares many similarities with a standard Blood Bowl pitc
 
 Finally, the board itself is split into a grid of squares; seven squares from each Line of Scrimmage to each End Zone and six squares between each Line of Scrimmage, making the pitch 20 squares long in total, and 11 squares wide; two squares in each Wide Zone, seven squares across the Centre Field.
 
-![](../media/death_zone/sevens_pitch.jpg)
+![](../media/death_zone/sevens_pitch.jpg){ width=662 height=376 }
 
 ### DUGOUTS
 
 As with normal Blood Bowl, each team in a Blood Bowl Sevens game has its own dugout, a safe haven at pitch side where reserves can warm up, where the injured can be tended to and where important game information is tracked. The dugouts used for Blood Bowl Sevens are almost identical to normal dugouts, as described in the *Blood Bowl* rulebook, except for one important difference; on a Blood Bowl Sevens dugout, the turn and team re-roll trackers only go up to six, rather than the usual eight. This is because there are only six turns per half in a Blood Bowl Sevens game.
 
-![](../media/death_zone/sevens_dugouts.jpg)
+![](../media/death_zone/sevens_dugouts.jpg){ width=457 height=221 }
 
 1. The Reserves box.
 2. The Knocked-out box.

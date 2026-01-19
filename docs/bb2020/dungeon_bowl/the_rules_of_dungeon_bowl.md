@@ -60,7 +60,7 @@ If the test for accuracy is successful, the ball will ricochet from the target s
 
 The ball will then ricochet as shown in the diagrams below. It will then travel D6 squares in the direction indicated, and if not caught it will scatter once from the square where it ends up. If the ball hits another wall then it will ricochet off it. Any and all players that the ball passes over may attempt to catch the ball, in the order that the ball passes over them, counting as an inaccurate pass. Unless the ball is caught by a player on the active team, there will be a Turnover.
 
-![](../media/dungeon_bowl/throwing_the_ball_at_the_wall.jpg)
+![](../media/dungeon_bowl/throwing_the_ball_at_the_wall.jpg){ width=756 height=904 }
 
 ## Throwing other Players
 

@@ -2,7 +2,7 @@
 
 Set up the game board as shown below. Set up the Orc Thrower, Orc Blitzer, one Orc Lineman, and the Dwarf Blitzer on the game board. Give the Orc Thrower the ball by placing it on the Orc Thrower's base.
 
-![](../media/blitz_bowl/drill_1.jpg)
+![](../media/blitz_bowl/drill_1.jpg){ width=500 height=407 }
 
 *To run through each of the seven drills, you'll need the Team Cards for the Dwarf and Orc teams.*
 
@@ -20,7 +20,7 @@ As you can see, by carefully placing their Players, the Orc Coach has made it mo
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the first drill - [Controlling the Board](#drill-1-controlling-the-board).
 
-![](../media/blitz_bowl/drill_2.jpg)
+![](../media/blitz_bowl/drill_2.jpg){ width=500 height=407 }
 
 This drill demonstrates the **Mark Action**.
 
@@ -36,7 +36,7 @@ Whilst a Player is standing in a square that is adjacent to one or more Oppositi
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the second drill - [Getting Up Close](#drill-2-getting-up-close).
 
-![](../media/blitz_bowl/drill_3.jpg)
+![](../media/blitz_bowl/drill_3.jpg){ width=500 height=407 }
 
 This drill demonstrates the **Block Action**.
 
@@ -54,7 +54,7 @@ For this example, we will assume that the roll is (![](../media/blitz_bowl/shove
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the third drill - [Blocking Part 1](#drill-3-blocking-part-1).
 
-![](../media/blitz_bowl/drill_4.jpg)
+![](../media/blitz_bowl/drill_4.jpg){ width=500 height=407 }
 
 This drill goes into more detail on the **Block Action**.
 
@@ -70,7 +70,7 @@ Also, the Dwarf Coach must make an Armour Check by rolling a D6 and comparing it
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the fourth drill - [Blocking Part 2](#drill-4-blocking-part-2).
 
-![](../media/blitz_bowl/drill_5.jpg)
+![](../media/blitz_bowl/drill_5.jpg){ width=500 height=407 }
 
 The following two drills show how to make a **Throw Action** with a Player.
 
@@ -84,7 +84,7 @@ After the **Run Action**, the Orc Thrower will make a **Throw Action**. First, p
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the fifth drill - [Throwing the Ball Part 1](#drill-5-throwing-the-ball-part-1). Ensure that the Orc Thrower has the ball.
 
-![](../media/blitz_bowl/drill_6.jpg)
+![](../media/blitz_bowl/drill_6.jpg){ width=500 height=490 }
 
 This drill continues to show how to make a **Throw Action** with a Player.
 
@@ -100,7 +100,7 @@ Whenever the ball Bounces, roll a D8 and compare the result on the Bounce Chart 
 
 Set up the game board as shown below. This is roughly what the board should look like after you complete the sixth drill - [Throwing the Ball Part 2](#drill-6-throwing-the-ball-part-2), with the addition of two Dwarf Linemen and a Dwarf Blitzer. Ensure that the Orc Blitzer has the ball.
 
-![](../media/blitz_bowl/drill_7.jpg)
+![](../media/blitz_bowl/drill_7.jpg){ width=500 height=490 }
 
 This drill shows how to score a Touchdown.
 

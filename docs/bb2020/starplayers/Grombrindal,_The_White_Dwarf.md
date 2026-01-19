@@ -1,6 +1,6 @@
 # Grombrindal, The White Dwarf
 
-![](../media/starplayers/Grombrindal.jpg)
+![](../media/starplayers/Grombrindal.jpg){ width=600 height=620 }
 
 | 210K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/GreenfieldGrasshuggersTeam01.jpg)
+![](../media/teams/GreenfieldGrasshuggersTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

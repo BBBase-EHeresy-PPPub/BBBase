@@ -30,7 +30,7 @@ Unlike other players, a Giant occupies not one but four squares on the pitch. A 
 
 Additionally, the direction in which a Giant faces is important as, due to their immense size, a Giant's Tackle Zone does not extend to every square adjacent to the four squares they occupy. Like other players, the Tackle Zone of a Giant covers eight squares; those to the Giant's front and sides. A Giant's Tackle Zone does not extend to the four squares directly behind the Giant, as shown in the diagram below. The controlling player must make it clear to their opponent which direction the Giant is facing and where its rear lies. <span style="color: darkmagenta">Whenever a Giant finishes a Move action or follows up after a Block action, they may change their facing if they wish; though if done as part of following up after a Block action, they must still be Marking the player they made the Block action against if possible.</span>
 
-![](../media/death_zone/giants_base_size.jpg)
+![](../media/death_zone/giants_base_size.jpg){ width=464 height=464 }
 
 Finally, should any of the four squares occupied by a Giant's base be targeted by an in-game effect (such as a spell cast by a Wizard or by the effects of a Special Plays card), the player is considered to have been hit by the effect just as any other player would be.
 
@@ -40,7 +40,7 @@ When a Giant moves it does so just like any other player, moving a number of squ
 
 If any of the four squares a Giant occupies is within the Tackle Zone of an opposition player, the Giant is considered to be Marked by that player and must dodge to leave that square, just like any other player. If when dodging any part of a Giant's base moves into a square in which it is being Marked, apply a -1 modifier per player Marking them as normal.
 
-![](../media/death_zone/giants_movement.jpg)
+![](../media/death_zone/giants_movement.jpg){ width=460 height=260 }
 
 ***STEPPING OVER PRONE OR STUNNED PLAYERS:*** Unlike other players, a Giant is large enough to simply step over downed players that would block the path of other players. A Giant does not need to Jump Over a Prone or Stunned player; it may instead move freely over Prone or Stunned players if it has sufficient Movement Allowance to do so.
 
@@ -66,4 +66,4 @@ Giants do tend to get in the way of other teams' passing plays. When a Giant int
 
 As Giants occupy four squares rather than the usual one, the normal Random Direction template cannot be used for them. Instead, Giants use the Random Direction template shown below. To use this template, simply roll a D16 rather than a D8, re-rolling any rolls of 13 or above.
 
-![](../media/death_zone/giants_scatter.jpg)
+![](../media/death_zone/giants_scatter.jpg){ width=463 height=463 }

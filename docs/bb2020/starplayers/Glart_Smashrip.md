@@ -1,6 +1,6 @@
 # Glart Smashrip
 
-![](../media/starplayers/GlartSmashrip01.jpg)
+![](../media/starplayers/GlartSmashrip01.jpg){ width=600 height=620 }
 
 | 195 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

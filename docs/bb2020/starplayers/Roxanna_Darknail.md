@@ -1,6 +1,6 @@
 # Roxanna Darknail
 
-![](../media/starplayers/RoxannaDarknail01.jpg)
+![](../media/starplayers/RoxannaDarknail01.jpg){ width=600 height=620 }
 
 | 270K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

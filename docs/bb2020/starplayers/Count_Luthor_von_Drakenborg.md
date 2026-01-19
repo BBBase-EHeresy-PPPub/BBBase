@@ -1,6 +1,6 @@
 # Count Luthor von Drakenborg
 
-![](../media/starplayers/LuthorVonDrakenborg1.jpg)
+![](../media/starplayers/LuthorVonDrakenborg1.jpg){ width=600 height=620 }
 
 | 340K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | --- |

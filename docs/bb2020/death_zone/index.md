@@ -1,4 +1,4 @@
-![](../media/death_zone/cover.jpg)
+![](../media/death_zone/cover.jpg){ width=727 height=1000 }
 
 # GREETINGS SPORTS FANS!
 
@@ -38,4 +38,4 @@ On top of all this, coaches will find expanded rules for Mercenaries. These allo
 
 Finally, the rules for Blood Bowl Sevens allow coaches to explore the wonderful world of amateur sports. Played on a smaller pitch and with smaller teams, these rules modify Nuffle's great game, speeding up the action without losing any of the complexity coaches have come to know and love from Blood Bowl: the game of fantasy football!
 
-![](../media/death_zone/bob_and_jim.jpg)
+![](../media/death_zone/bob_and_jim.jpg){ width=685 height=497 }

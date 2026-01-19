@@ -1,6 +1,6 @@
 # Ivan 'the Animal' Deathshroud
 
-![](../media/starplayers/IvanAnimal1.jpg)
+![](../media/starplayers/IvanAnimal1.jpg){ width=600 height=620 }
 
 | 190K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |

@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/DoomlordsChaosTeam01.jpg)
+![](../media/teams/DoomlordsChaosTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

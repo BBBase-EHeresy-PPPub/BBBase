@@ -1,6 +1,6 @@
 # Hakflem Skuttlespike
 
-![](../media/starplayers/HakflemSkuttlespike01.jpg)
+![](../media/starplayers/HakflemSkuttlespike01.jpg){ width=600 height=620 }
 
 | <span style="color: darkmagenta">210K</span>  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

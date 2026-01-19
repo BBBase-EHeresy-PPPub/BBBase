@@ -1,6 +1,6 @@
 # Ivar Eriksson
 
-![](../media/starplayers/BBIvarErikssonLead.jpg)
+![](../media/starplayers/BBIvarErikssonLead.jpg){ width=600 height=620 }
 
 | 245 K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

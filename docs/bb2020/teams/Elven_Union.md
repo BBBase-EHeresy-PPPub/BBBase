@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/ElfheimEaglesTeam01.jpg)
+![](../media/teams/ElfheimEaglesTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

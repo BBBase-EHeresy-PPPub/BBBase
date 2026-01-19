@@ -1,6 +1,6 @@
 # Rowana Forestfoot
 
-![](../media/starplayers/RowanaForestfoot.jpg)
+![](../media/starplayers/RowanaForestfoot.jpg){ width=600 height=620 }
 
 | 160K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |

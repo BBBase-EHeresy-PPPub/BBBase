@@ -1,6 +1,6 @@
 # Skrorg Snowpelt
 
-![](../media/starplayers/SkrorgSnowpeltLead.jpg)
+![](../media/starplayers/SkrorgSnowpeltLead.jpg){ width=600 height=620 }
 
 | 250K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

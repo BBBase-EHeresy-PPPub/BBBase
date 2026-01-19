@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/ReiklandReaversTeam01.jpg)
+![](../media/teams/ReiklandReaversTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

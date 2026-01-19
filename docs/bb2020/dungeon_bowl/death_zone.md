@@ -1,10 +1,10 @@
-![](../media/dungeon_bowl/death_zone_cover.jpg)
+![](../media/dungeon_bowl/death_zone_cover.jpg){ width=720 height=1000 }
 
 ## COLLEGE OF LIFE TILES
 
 ### THE TUCK SHOP
 
-![](../media/dungeon_bowl/the_tuck_shop.jpg)
+![](../media/dungeon_bowl/the_tuck_shop.jpg){ width=500 height=500 }
 
 Any player who begins their activation within the Tuck Shop may choose to take the Tasty Snack Special action instead of doing anything else for that turn:
 
@@ -18,25 +18,25 @@ Any player who begins their activation within the Tuck Shop may choose to take t
 
 ### THE ROOT WALK
 
-![](../media/dungeon_bowl/the_root_walk.jpg)
+![](../media/dungeon_bowl/the_root_walk.jpg){ width=750 height=250 }
 
 Any player who ends their activation within the Root Walk must roll a D6. On a 2+, this player continues their activation as normal. On a 1, the player becomes entangled in the roots, and is unable to move. At the beginning of an entangled player's activation, before declaring which action they will perform, roll a D6. If the number is equal to or lower than their ST, they successfully break free of the roots and can act as normal. If they roll higher than their ST, or roll a natural 6, the player remains entangled and cannot move from the square they currently occupy for any reason, voluntarily or otherwise.
 
 ### TRANQUIL MEADOW
 
-![](../media/dungeon_bowl/tranquil_meadow.jpg)
+![](../media/dungeon_bowl/tranquil_meadow.jpg){ width=750 height=250 }
 
 Any player that begins their activation within the Tranquil Meadow increases their MA by 1 until the end of their activation.
 
 ### FUNGUS FARM
 
-![](../media/dungeon_bowl/fungus_farm.jpg)
+![](../media/dungeon_bowl/fungus_farm.jpg){ width=500 height=500 }
 
 Whenever a player ends their activation in the Fungus Farm, roll a D6. On a 2+, the player shrugs off the effect of the spores and is unaffected. On a 1, the player is Placed Prone; this will not cause a Turnover unless that player was also carrying the ball. Snotling, Goblin and Troll players ignore this effect - they are well accustomed to the spores thanks to their excessive consumption of mushrooms!
 
 ### FOUNTAIN OF YOUTH
 
-![](../media/dungeon_bowl/fountain_of_youth.jpg)
+![](../media/dungeon_bowl/fountain_of_youth.jpg){ width=500 height=500 }
 
 Any player who begins their activation within the Fountain of Youth tile may perform the Drink from the Fountain Special action instead of doing anything else for that turn:
 
@@ -49,13 +49,13 @@ Any player who begins their activation within the Fountain of Youth tile may per
 
 ### GLUTTONOUS GREENHOUSE
 
-![](../media/dungeon_bowl/gluttonous_greenhouse.jpg)
+![](../media/dungeon_bowl/gluttonous_greenhouse.jpg){ width=500 height=500 }
 
 At the end of each coach's team turn, before the next team turn begins, randomly select a player within the Gluttonous Greenhouse. Immediately make an Armour roll against that player.
 
 ### MALODOROUS MARSH
 
-![](../media/dungeon_bowl/malodorous_marsh.jpg)
+![](../media/dungeon_bowl/malodorous_marsh.jpg){ width=750 height=500 }
 
 While within the Malodorous Marsh, any player with a ST of 3 or less applies a -1 penalty to the roll when attempting to Dodge, Jump or Leap.
 
@@ -63,7 +63,7 @@ While within the Malodorous Marsh, any player with a ST of 3 or less applies a -
 
 ### WEREWOLF'S LAIR
 
-![](../media/dungeon_bowl/werewolfs_lair.jpg)
+![](../media/dungeon_bowl/werewolfs_lair.jpg){ width=500 height=500 }
 
 This room contains a Werewolf, who will fiercely defend its territory. The Werewolf is set up after both teams, and always begins the game on the square containing the dog house.
 
@@ -75,7 +75,7 @@ The Werewolf has MA8, ST3, the Claws Mutation and the Frenzy Skill.
 
 ### HALL OF BONES
 
-![](../media/dungeon_bowl/hall_of_bones.jpg)
+![](../media/dungeon_bowl/hall_of_bones.jpg){ width=750 height=250 }
 
 Any player who begins their activation within the Hall of Bones may choose to take the Skull Smash Special action, instead of doing anything else for that turn:
 
@@ -83,19 +83,19 @@ Any player who begins their activation within the Hall of Bones may choose to ta
 
 ### SWIRLING MISTS
 
-![](../media/dungeon_bowl/swirling_mists.jpg)
+![](../media/dungeon_bowl/swirling_mists.jpg){ width=750 height=250 }
 
 Any player attempting to Rush into a square within the Swirling Mists must apply a -1 modifier to the roll.
 
 ### GHOST JUNCTION
 
-![](../media/dungeon_bowl/ghost_junction.jpg)
+![](../media/dungeon_bowl/ghost_junction.jpg){ width=500 height=500 }
 
 If a player attempts to move into the Ghost Junction, they must roll a D6. On a 2+, they may continue their activation as normal. On a 1, that player cannot willingly enter the Ghost Junction this turn, but may continue to move the rest of their MA as normal. A player may be moved into the Ghost Junction as a result of a Push Back, chain-push or any effect that would move them against their will.
 
 ### NECROMANCER'S LABORATORY
 
-![](../media/dungeon_bowl/necromancers_laboratory.jpg)
+![](../media/dungeon_bowl/necromancers_laboratory.jpg){ width=500 height=500 }
 
 Any player who begins their activation within the Necromancer's Laboratory may choose to take the Under the Saw Special action, instead of doing anything else for that turn:
 
@@ -110,13 +110,13 @@ Any player who begins their activation within the Necromancer's Laboratory may c
 
 ### THE CORPSE CHASM
 
-![](../media/dungeon_bowl/the_corpse_chasm.jpg)
+![](../media/dungeon_bowl/the_corpse_chasm.jpg){ width=500 height=500 }
 
 While within the Corpse Chasm, if a Push Back result is applied during a Block action, the target of the Block must make an Agility test. If the test is failed, treat the result of the Block as a POW! instead.
 
 ### SPIKE PIT
 
-![](../media/dungeon_bowl/spike_pit.jpg)
+![](../media/dungeon_bowl/spike_pit.jpg){ width=750 height=500 }
 
 The Spike Pit is a 2 square by 2 square feature in this room. The Spike Pit can only be crossed by Jumping as described on page 37 of the *Dungeon Bowl Rulebook*, except that if they are successful they will land in an unoccupied square on another side of the pit. If the player fails the Agility test to Jump across the pit, they will Fall Over in the Spike Pit square closest to the target square. 
 

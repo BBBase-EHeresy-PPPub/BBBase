@@ -1,6 +1,6 @@
 # Boa Kon'ssstriktr
 
-![](../media/starplayers/BBBoaKonssstriktrLead.jpg)
+![](../media/starplayers/BBBoaKonssstriktrLead.jpg){ width=600 height=620 }
 
 | 200K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

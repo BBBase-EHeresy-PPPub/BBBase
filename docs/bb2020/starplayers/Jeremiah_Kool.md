@@ -1,6 +1,6 @@
 # Jeremiah Kool
 
-![](../media/starplayers/BBJeremiahKool.jpg)
+![](../media/starplayers/BBJeremiahKool.jpg){ width=600 height=620 }
 
 | 320K   | MA | ST | AG  | PA  | AV  |
 |--------|----|----|-----|-----|-----|

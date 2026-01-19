@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBAmazonTeamLead.jpg)
+![](../media/teams/BBAmazonTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 

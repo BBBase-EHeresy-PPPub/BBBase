@@ -1,6 +1,6 @@
 # Willow Rosebark
 
-![](../media/starplayers/BBWillowRosebark01.jpg)
+![](../media/starplayers/BBWillowRosebark01.jpg){ width=600 height=620 }
 
 | 150K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

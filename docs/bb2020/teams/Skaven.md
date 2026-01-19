@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBSkavenTeamLead.jpg)
+![](../media/teams/BBSkavenTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 

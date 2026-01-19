@@ -153,13 +153,13 @@ Players that are Standing when activated have the greatest freedom to move. Play
 
 ### THE TACKLE ZONE
 
-![](../media/core_rules/tackle_zone.jpg)
+![](../media/core_rules/tackle_zone.jpg){ width=465 height=717 }
 
 A Standing player exerts control over the squares around them. This is called their 'Tackle Zone' and covers all of the eight squares adjacent to a Standing player, as shown in the diagram.
 
 ### OPEN PLAYERS
 
-![](../media/core_rules/open_players.jpg)
+![](../media/core_rules/open_players.jpg){ width=465 height=268 }
 
 A player that is not being Marked, i.e., a player that is not within the Tackle Zone of any opposition players (as described [below](#marking-and-being-marked)), is said to be 'Open'. Open players can move freely and perform actions more easily, free from the interference of opposition players.
 
@@ -354,9 +354,9 @@ Once the game is over, this is also where the outcome is recorded along with win
 
 [[Download Team Draft List PDF]](../media/core_rules/team_draft_list.pdf)
 
-![](../media/core_rules/team_draft_list_1.jpg)
+![](../media/core_rules/team_draft_list_1.jpg){ width=1000 height=728 }
 
-![](../media/core_rules/team_draft_list_2.jpg)
+![](../media/core_rules/team_draft_list_2.jpg){ width=1000 height=727 }
 
 ### TEAM DRAFT BUDGET
 

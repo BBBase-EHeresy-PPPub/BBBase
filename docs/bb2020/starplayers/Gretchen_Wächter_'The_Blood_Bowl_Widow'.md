@@ -1,6 +1,6 @@
 # Gretchen Wächter 'The Blood Bowl Widow'
 
-![](../media/starplayers/BBS2GretchenWachterLead.jpg)
+![](../media/starplayers/BBS2GretchenWachterLead.jpg){ width=600 height=620 }
 
 | 260K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

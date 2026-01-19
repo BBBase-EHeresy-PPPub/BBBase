@@ -1,4 +1,4 @@
-![](../media/matched_play/cover.jpg)
+![](../media/matched_play/cover.jpg){ width=728 height=1000 }
 
 * "Greetings sports fans, and welcome to the Blood Bowl Matched Play Guide! I'm Jim Johnson and I'm accompanied once more by my celebrated co-host, the living legend, Bob Bifford!"
 
@@ -26,4 +26,4 @@
 
 * "Well, I suppose I can't blame you really, Bob! Anyway, that's enough from us Blood Bowl fans,- we'll see you next time."
 
-![](../media/matched_play/bob_and_jim.jpg)
+![](../media/matched_play/bob_and_jim.jpg){ width=1000 height=590 }

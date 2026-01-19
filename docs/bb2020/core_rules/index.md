@@ -1,4 +1,4 @@
-![](../media/core_rules/cover.jpg)
+![](../media/core_rules/cover.jpg){ width=727 height=1000 }
 
 # GREETINGS SPORTS FANS!
 
@@ -24,4 +24,4 @@ So, strap on your spiked helmet and ready your game face; practice is over and i
 
 * "Indeed, Bob. This game is sure to be one to remember!"
 
-![](../media/core_rules/bob_and_jim.jpg)
+![](../media/core_rules/bob_and_jim.jpg){ width=677 height=646 }

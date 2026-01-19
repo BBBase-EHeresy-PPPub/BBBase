@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/ChampionsofDeathTeam01.jpg)
+![](../media/teams/ChampionsofDeathTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 

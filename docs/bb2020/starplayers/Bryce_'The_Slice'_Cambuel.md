@@ -1,6 +1,6 @@
 # Bryce 'The Slice' Cambuel
 
-![](../media/starplayers/BryceSlice1.jpg)
+![](../media/starplayers/BryceSlice1.jpg){ width=600 height=620 }
 
 | 130K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

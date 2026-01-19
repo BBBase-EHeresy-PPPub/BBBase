@@ -1,4 +1,4 @@
-![](../media/dungeon_bowl/cover.jpg)
+![](../media/dungeon_bowl/cover.jpg){ width=753 height=1000 }
 
 Welcome to Dungeon Bowl: the game of fantasy football with a twist!
 
@@ -24,4 +24,4 @@ So, put down those textbooks, grab those helmets, sharpen that spiked armour, an
 
 * "Indeed, Jim. This is definitely going to be a game to remember!"
 
-![](../media/dungeon_bowl/bob_and_jim.jpg)
+![](../media/dungeon_bowl/bob_and_jim.jpg){ width=649 height=663 }

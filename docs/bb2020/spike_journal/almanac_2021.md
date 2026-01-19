@@ -258,13 +258,13 @@ As such there is an important clarification to make in regards to both offensive
 
 Players can only provide an offensive assist to players from their own team. They cannot provide offensive assists if an opposition player from one team is performing a Block action or Foul action against an opposition player from another opposing team - no matter how much they may want to!
 
-![](../media/spike_journal/almanac_assists_example_1.jpg)
+![](../media/spike_journal/almanac_assists_example_1.jpg){ width=305 height=331 }
 
 ***Example:** Here, the Dwarf Blitzer (College of Fire) is making a Block action against the Dark Elf Lineman (College of Shadows). The Dwarf Blocker Lineman may provide an offensive assist as it is on the same team as the Dwarf Blitzer. The Black Orc (College of Metal) may not provide an offensive assist as they are not from the same team as the Dwarf Blitzer.*
 
 Players can only provide a defensive assist when a player from their team is targeted by a Block action or Foul action. Players may not provide a defensive assist to an opposition player that is targeted by a Block action or Foul action by another opposition player from another opposition team.
 
-![](../media/spike_journal/almanac_assists_example_2.jpg)
+![](../media/spike_journal/almanac_assists_example_2.jpg){ width=305 height=335 }
 
 ***Example:** Here, the Dark Elf Lineman (College of Shadows) is making a Block action against the Dwarf Blitzer (College of Fire). The Dwarf Blocker Lineman may provide a defensive assist as it is on the same team as the Dwarf Blitzer. The Black Orc (College of Metal) may not provide a defensive assist as they are not from the same team as the Dwarf Blitzer.*
 
@@ -348,7 +348,7 @@ Here we present the rules for two unique Referees (one Elf and one Dwarf) you ca
 
 **Elnos Lawkeeper**
 
-![](../media/spike_journal/ElnosLawkeeperReferee.jpg)
+![](../media/spike_journal/ElnosLawkeeperReferee.jpg){ width=600 height=620 }
 
 | MA | ST | AG | PA | AV |
 | -- | -- | -- | -- | -- |
@@ -362,7 +362,7 @@ Here we present the rules for two unique Referees (one Elf and one Dwarf) you ca
 
 **Redkur Forgebeard**
 
-![](../media/spike_journal/RedkurForgebeardReferee.jpg)
+![](../media/spike_journal/RedkurForgebeardReferee.jpg){ width=600 height=620 }
 
 | MA | ST | AG | PA | AV |
 | -- | -- | -- | -- | -- |

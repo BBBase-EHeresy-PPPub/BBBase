@@ -1,6 +1,6 @@
 # 'Captain' Karina Von Riesz
 
-![](../media/starplayers/CptKarinaVonRiesz1.jpg)
+![](../media/starplayers/CptKarinaVonRiesz1.jpg){ width=600 height=620 }
 
 | 230K | MA | ST | AG | PA | AV |
 | ----- | -- | - | -- | -- | -- |

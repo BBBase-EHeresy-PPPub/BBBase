@@ -1,6 +1,6 @@
 # Bilerot Vomitflesh
 
-![](../media/starplayers/Bilerot1.jpg)
+![](../media/starplayers/Bilerot1.jpg){ width=600 height=620 }
 
 | 180K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

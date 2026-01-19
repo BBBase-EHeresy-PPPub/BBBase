@@ -2,7 +2,7 @@
 
 This is a variation on a standard Blood Bowl game with a unique Weather table, a new Inducement and a special rule designed to feel like a gridiron clash at this most frightful time of year.
 
-![](../media/spike_journal/team_selection.jpg)
+![](../media/spike_journal/team_selection.jpg){ width=600 height=304 }
 
 ### Team Selection
 

@@ -1,6 +1,6 @@
 # Karla Von Kill
 
-![](../media/starplayers/KarlaVonKill01.jpg)
+![](../media/starplayers/KarlaVonKill01.jpg){ width=600 height=620 }
 
 | 210K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

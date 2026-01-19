@@ -1,6 +1,6 @@
 There are many different variations of Blood Bowl played in the Old World, but perhaps the strangest is that of Dungeon Bowl. For years, Wizards and spellcasters have been embroiled in much debate about which of their Colleges of Magic is the greatest, and Dungeon Bowl is used as a different, yet exciting, way of attempting to settle the matter without involving the general population (who often end up worse off when Wizards cannot agree!).
 
-![](../media/dungeon_bowl/dungeon_bowl_set.jpg)
+![](../media/dungeon_bowl/dungeon_bowl_set.jpg){ width=1016 height=464 }
 
 To play a game of Dungeon Bowl, there are a few key items you will need. So, let's have a look at a game in progress and list the vital components you'll require to get you started.
 
@@ -32,54 +32,54 @@ There are four square tiles that feature special rooms on them. Each tile is dou
 
 ***THE ARMOURY***
 
-![](../media/dungeon_bowl/armory.jpg)
+![](../media/dungeon_bowl/armory.jpg){ width=500 height=500 }
 
 ***THE SEWER***
 
-![](../media/dungeon_bowl/sewer.jpg)
+![](../media/dungeon_bowl/sewer.jpg){ width=500 height=500 }
 
 ***THE KITCHEN***
 
-![](../media/dungeon_bowl/kitchen.jpg)
+![](../media/dungeon_bowl/kitchen.jpg){ width=500 height=500 }
 
 ***THE CURSED ROOM***
 
-![](../media/dungeon_bowl/cursed_room.jpg)
+![](../media/dungeon_bowl/cursed_room.jpg){ width=500 height=500 }
 
 ***THE FORGOTTEN JAIL***
 
-![](../media/dungeon_bowl/forgotten_jail.jpg)
+![](../media/dungeon_bowl/forgotten_jail.jpg){ width=500 height=500 }
 
 ***THE TREASURE ROOM***
 
-![](../media/dungeon_bowl/treasure_room.jpg)
+![](../media/dungeon_bowl/treasure_room.jpg){ width=500 height=500 }
 
 ***THE BONE PIT***
 
-![](../media/dungeon_bowl/bone_pit.jpg)
+![](../media/dungeon_bowl/bone_pit.jpg){ width=500 height=500 }
 
 ***THE FLOODED ROOM***
 
-![](../media/dungeon_bowl/flooded_room.jpg)
+![](../media/dungeon_bowl/flooded_room.jpg){ width=500 height=500 }
 
 #### LARGE ROOMS
 There are two large tiles that feature special rooms on them. Each tile is double-sided, giving four unique rectangular rooms. These are:
 
 ***CHAOTIC IDOL***
 
-![](../media/dungeon_bowl/chaotic_idol.jpg)
+![](../media/dungeon_bowl/chaotic_idol.jpg){ width=1000 height=500 }
 
 ***FIERY CHASM***
 
-![](../media/dungeon_bowl/fiery_chasm.jpg)
+![](../media/dungeon_bowl/fiery_chasm.jpg){ width=1000 height=500 }
 
 ***DRAGON YOUNGLING'S LAYER***
 
-![](../media/dungeon_bowl/dragon_youngling.jpg)
+![](../media/dungeon_bowl/dragon_youngling.jpg){ width=1000 height=500 }
 
 ***THE CRYPT***
 
-![](../media/dungeon_bowl/crypt.jpg)
+![](../media/dungeon_bowl/crypt.jpg){ width=1000 height=500 }
 
 #### DID YOU KNOW?
 
@@ -121,7 +121,7 @@ Dungeon Bowl also makes use of three unique templates. These are the 'Random Dir
 
 Should the ball hit the corner of the dungeon, the direction of the bounce is determined by placing the Random Direction template as shown in the diagram and rolling a D3.
 
-![](../media/dungeon_bowl/corner_bounce.jpg)
+![](../media/dungeon_bowl/corner_bounce.jpg){ width=508 height=429 }
 
 #### THE RICOCHET TEMPLATE
 
@@ -129,7 +129,7 @@ If the ball ever hits the wall of the dungeon, it will bourn off it in a random 
 
 Bouncing off the wall is covered in greater detail on [page 43](./the_rules_of_dungeon_bowl.md#throwing-the-ball-at-the-wall).
 
-![](../media/dungeon_bowl/ricochet_template.jpg)
+![](../media/dungeon_bowl/ricochet_template.jpg){ width=507 height=370 }
 
 #### THE RANGE RULER
 

@@ -1,6 +1,6 @@
 # Mighty Zug
 
-![](../media/starplayers/MightyZug01.jpg)
+![](../media/starplayers/MightyZug01.jpg){ width=600 height=620 }
 
 | 220K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

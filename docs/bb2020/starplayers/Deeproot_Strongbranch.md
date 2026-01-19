@@ -1,6 +1,6 @@
 # Deeproot Strongbranch
 
-![](../media/starplayers/DeeprootStrongbranch01.jpg)
+![](../media/starplayers/DeeprootStrongbranch01.jpg){ width=600 height=620 }
 
 | 280K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

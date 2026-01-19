@@ -1,6 +1,6 @@
 # Griff Oberwald
 
-![](../media/starplayers/BBGriffOberwaldLead.jpg)
+![](../media/starplayers/BBGriffOberwaldLead.jpg){ width=600 height=620 }
 
 **MEGA-STAR**
 

@@ -1,6 +1,6 @@
 # Kiroth Krakeneye
 
-![](../media/starplayers/KirothKrakeneye1.jpg)
+![](../media/starplayers/KirothKrakeneye1.jpg){ width=600 height=620 }
 
 | 160K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

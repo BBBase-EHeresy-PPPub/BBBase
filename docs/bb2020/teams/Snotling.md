@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/CrudCreekNosepickersLead.jpg)
+![](../media/teams/CrudCreekNosepickersLead.jpg){ width=920 height=950 }
 
 ### Positionals
 

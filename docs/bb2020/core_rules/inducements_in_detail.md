@@ -191,7 +191,7 @@ There are too many (In)Famous Coaching Staff to list here, and most are only ava
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 
-![](../media/starplayers/BBJosephBugman01.jpg)
+![](../media/starplayers/BBJosephBugman01.jpg){ width=600 height=620 }
 
 The name Josef Bugman is synonymous with Blood Bowl. With numerous sponsorship deals across the Old World, stocks of Bugman's XXXXXX can be found in most Blood Bowl stadia; the amber liquid making sure the crowd is suitably rowdy by kick-off. When Bugman turns up to a game in-person it is a spectacle to behold! As he enters the stadium he greets the cheering crowd. In his wake Dwarf cheerleaders dance through the crowd with beer cannon, whilst the Bugman's Blimp flies overhead dropping flagons of finee ale into the upraised hands of the spectators.
 

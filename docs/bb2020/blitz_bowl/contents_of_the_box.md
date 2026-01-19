@@ -8,13 +8,13 @@ Each player is a coach in charge of a team competing against their opponent to s
 
 Aside from this rules booklet, Blitz Bowl contains the following contents:
 
-![](../media/blitz_bowl/contents_1.jpg)
+![](../media/blitz_bowl/contents_1.jpg){ width=1000 height=161 }
 
-![](../media/blitz_bowl/contents_2.jpg)
+![](../media/blitz_bowl/contents_2.jpg){ width=1000 height=156 }
 
-![](../media/blitz_bowl/contents_3.jpg)
+![](../media/blitz_bowl/contents_3.jpg){ width=1000 height=523 }
 
-![](../media/blitz_bowl/contents_4.jpg)
+![](../media/blitz_bowl/contents_4.jpg){ width=686 height=874 }
 
 The game board contains the playing area, known as the pitch, which is divided into squares.  
 Each side of the game board also contains some special features as described here:

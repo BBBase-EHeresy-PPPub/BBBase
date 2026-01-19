@@ -1,6 +1,6 @@
 # Jordell Freshbreeze
 
-![](../media/starplayers/BBJordellFreshbreeze01.jpg)
+![](../media/starplayers/BBJordellFreshbreeze01.jpg){ width=606 height=626 }
 
 | 250K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

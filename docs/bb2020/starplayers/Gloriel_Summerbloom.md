@@ -1,6 +1,6 @@
 # Gloriel Summerbloom
 
-![](../media/starplayers/GSummerbloom01.jpg)
+![](../media/starplayers/GSummerbloom01.jpg){ width=600 height=620 }
 
 | 150K  | MA | ST | AG | PA | AV |
 | --- | --- | --- | --- | --- | --- |

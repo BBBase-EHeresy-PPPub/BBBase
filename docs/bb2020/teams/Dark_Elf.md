@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/NaggarothNightwings01.jpg)
+![](../media/teams/NaggarothNightwings01.jpg){ width=920 height=950 }
 
 ### Positionals
 

@@ -1,6 +1,6 @@
 # Barik Farblast
 
-![](../media/starplayers/BBBarikFarblastLead.jpg)
+![](../media/starplayers/BBBarikFarblastLead.jpg){ width=600 height=620 }
 
 | 80K | MA | ST | AG | PA | AV |    |
 | ---- | -- | - | -- | -- | -- | -- |

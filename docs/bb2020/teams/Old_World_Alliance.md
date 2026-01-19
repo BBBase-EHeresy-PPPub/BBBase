@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/OldWorldAlliance2.jpg)
+![](../media/teams/OldWorldAlliance2.jpg){ width=920 height=950 }
 
 ### Positionals
 
