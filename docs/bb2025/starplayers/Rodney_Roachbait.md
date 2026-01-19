@@ -1,6 +1,6 @@
 # Rodney Roachbait
 
-![](../media/starplayers/BBRodneyRoachbait01.jpg)
+![](../media/starplayers/BBRodneyRoachbait01.jpg){ width=600 height=620 }
 
 |   70K   | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

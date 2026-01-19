@@ -125,14 +125,14 @@ When something Deviates, roll a D6 and a D8. The object will move a number of sq
 
 *Here the ball is Deviating and a D6 and a D8 are rolled. The ball will then move 3 squares (as determined by the D6) in direction 7 (as determined by the D8).*
 
-![](../media/core_rules/deviate.jpg)
+![](../media/core_rules/deviate.jpg){ width=370 height=408 }
 
 #### SCATTER
 When the rules call for something to Scatter, it will also have a number in brackets afterwards, e.g., Scatter (3). When something Scatters, roll a D8 a number of times equal to the number in brackets, one at a time. After each roll, move the object to the corresponding square as determined by the Random Direction Template before making the next roll (if any). After the object has been Scattered the correct number of times, it will be placed in the final square and any effects that occur will take place (such as a player attempting to Catch a Scattered ball, for example).
 
 *Here, the ball is required to Scatter (3) from its current location. The first D8 roll is a 3, the second D8 rolls an 8, and the third D8 rolls a 5 meaning the ball will Scatter as shown below before ending in the final square.*
 
-![](../media/core_rules/scatter.jpg)
+![](../media/core_rules/scatter.jpg){ width=370 height=202 }
 
 ### BOUNCING BALLS
 Blood Bowl balls are odd-shaped items at the best of times and prone to bouncing in random directions when they hit the pitch. When the ball hits the pitch, it will Bounce. When the rules tell you to Bounce the ball, it will Scatter (1) from its current location and come to a rest in the new square.
@@ -180,7 +180,7 @@ Blood Bowl players are of noble stock; stoically playing Nuffle's great game wit
 
 Each player has a series of Characteristics, Skills and Traits that collectively make up a player's profile. This collection of letters, numbers and words may seem confusing at first, but we are going to take you through what it all means - that way you'll be able to understand them all in no time!
 
-![](../media/core_rules/player_profile.jpg)
+![](../media/core_rules/player_profile.jpg){ width=404 height=541 }
 
 #### 1. PLAYER'S NAME
 
@@ -255,7 +255,7 @@ When a player is Standing, they will have an amount of control over the area dir
 
 A Standing player that loses their Tackle Zone for whatever reason is said to be Distracted (see [page 39](#distracted)).
 
-![](../media/core_rules/tackle_zones.jpg)
+![](../media/core_rules/tackle_zones.jpg){ width=369 height=534 }
 
 #### MARKED AND BEING MARKED
 Players will use their Tackle Zone to interfere with opposition players. If a player has any opposition players in their Tackle Zone, regardless of the status of the opposition player, then they are said to be Marking that player. Conversely, if a player is within the Tackle Zone of an opposing player, then they are said to be Marked by that player. This will usually mean that a player that is Marking an opposing Standing player will also be Marked by that player as well.
@@ -265,7 +265,7 @@ Standing players will automatically be Marking all opposition players within the
 #### OPEN PLAYERS
 A Standing player that is not being Marked by an opposition is referred to as an Open player. Open players are able to perform Actions easier without direct interference from opposition players.
 
-![](../media/core_rules/open_players.jpg)
+![](../media/core_rules/open_players.jpg){ width=370 height=414 }
 
 ### DISTRACTED
 During the course of a game, there may be situations where a Standing player becomes Distracted. This could be due to the Skill or Trait of the player or an opposition player, a special rule, or all manner of other in-game effects. A player that is Distracted does not have a Tackle Zone and should have a Distracted token placed next to it as a reminder for both Coaches.

@@ -1,6 +1,6 @@
 # Glotl Stop
 
-![](../media/starplayers/BBGlotlStopLead.jpg)
+![](../media/starplayers/BBGlotlStopLead.jpg){ width=600 height=620 }
 
 |  260K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBNecromanticTeamLead.jpg)
+![](../media/teams/BBNecromanticTeamLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

@@ -1,4 +1,4 @@
-![](../media/core_rules/the_teams.jpg)
+![](../media/core_rules/the_teams.jpg){ width=750 height=1000 }
 
 Over the following pages, we present you with the Team Rosters for all the teams currently available to play in Blood Bowl. Each Team Roster will have a section of information detailing the background and context of the team, as well as the names of some of the most famous teams of that type.
 

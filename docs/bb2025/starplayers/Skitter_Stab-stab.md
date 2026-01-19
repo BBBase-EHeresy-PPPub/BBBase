@@ -1,6 +1,6 @@
 # Skitter Stab-Stab
 
-![](../media/starplayers/SkitterStabStab1.jpg)
+![](../media/starplayers/SkitterStabStab1.jpg){ width=600 height=620 }
 
 |  170K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

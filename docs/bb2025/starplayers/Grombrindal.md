@@ -1,6 +1,6 @@
 # Grombrindal
 
-![](../media/starplayers/Grombrindal.jpg)
+![](../media/starplayers/Grombrindal.jpg){ width=600 height=620 }
 
 |  170K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

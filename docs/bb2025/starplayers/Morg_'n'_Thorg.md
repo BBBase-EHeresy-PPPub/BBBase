@@ -1,6 +1,6 @@
 # Morg 'n' Thorg
 
-![](../media/starplayers/MorgnThorg01.jpg)
+![](../media/starplayers/MorgnThorg01.jpg){ width=600 height=620 }
 
 |  340K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

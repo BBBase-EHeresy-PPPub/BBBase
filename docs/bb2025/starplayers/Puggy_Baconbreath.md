@@ -1,6 +1,6 @@
 # Puggy Baconbreath
 
-![](../media/starplayers/PuggyBaconbreath.jpg)
+![](../media/starplayers/PuggyBaconbreath.jpg){ width=600 height=620 }
 
 |  130K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

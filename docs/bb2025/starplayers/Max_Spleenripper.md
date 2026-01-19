@@ -1,6 +1,6 @@
 # Max Spleenripper
 
-![](../media/starplayers/BBMaxSpleenripperLead.jpg)
+![](../media/starplayers/BBMaxSpleenripperLead.jpg){ width=600 height=620 }
 
 | 130K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

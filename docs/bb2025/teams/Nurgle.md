@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/BBNurglesRottersTeam01.jpg)
+![](../media/teams/BBNurglesRottersTeam01.jpg){ width=918 height=948 }
 
 ### Positionals
 

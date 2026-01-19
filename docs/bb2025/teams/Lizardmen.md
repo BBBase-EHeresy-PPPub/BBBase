@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBS2LizardmenTeamLead.jpg)
+![](../media/teams/BBS2LizardmenTeamLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

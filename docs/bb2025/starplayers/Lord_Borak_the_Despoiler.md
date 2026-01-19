@@ -1,6 +1,6 @@
 # Lord Borak the Despoiler
 
-![](../media/starplayers/LordBoraktheDespoiler01.jpg)
+![](../media/starplayers/LordBoraktheDespoiler01.jpg){ width=600 height=620 }
 
 |  270K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

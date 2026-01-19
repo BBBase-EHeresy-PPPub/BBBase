@@ -1,6 +1,6 @@
 # Cindy Piewhistle
 
-![](../media/starplayers/CindyPiewhistle01.jpg)
+![](../media/starplayers/CindyPiewhistle01.jpg){ width=600 height=620 }
 
 |  100K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

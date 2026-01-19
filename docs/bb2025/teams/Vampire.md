@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBDrakfangThirsters02.jpg)
+![](../media/teams/BBDrakfangThirsters02.jpg){ width=918 height=948 }
 
 ### Positionals
 

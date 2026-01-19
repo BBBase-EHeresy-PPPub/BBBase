@@ -1,6 +1,6 @@
 # Grak and Crumbleberry
 
-![](../media/starplayers/GrakCrumbleberry11hw.jpg)
+![](../media/starplayers/GrakCrumbleberry11hw.jpg){ width=600 height=620 }
 
 **250K**
 

@@ -1,6 +1,6 @@
 # Rashnak Backstabber
 
-![](../media/starplayers/BBRashnakBackstabber.jpg)
+![](../media/starplayers/BBRashnakBackstabber.jpg){ width=620 height=600 }
 
 | 130K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

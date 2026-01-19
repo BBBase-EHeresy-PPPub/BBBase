@@ -1,6 +1,6 @@
 # Skrull Halfheight
 
-![](../media/starplayers/BBSkrullHalfheightLead.jpg)
+![](../media/starplayers/BBSkrullHalfheightLead.jpg){ width=600 height=620 }
 
 | 150K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

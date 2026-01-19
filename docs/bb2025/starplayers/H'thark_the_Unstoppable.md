@@ -1,6 +1,6 @@
 # H'thark the Unstoppable
 
-![](../media/starplayers/BBHtharkTheUnstoppable01.jpg)
+![](../media/starplayers/BBHtharkTheUnstoppable01.jpg){ width=600 height=620 }
 
 |  300K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

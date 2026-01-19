@@ -1,6 +1,6 @@
 # GREETINGS SPORTS FANS!
 
-![](../media/core_rules/cover.jpg)
+![](../media/core_rules/cover.jpg){ width=736 height=1000 }
 
 Welcome to Season 3 of Blood Bowl, the game of fantasy football! In Blood Bowl you take on the role of Coach of your very own team, leading 11 spike-adorned, blood-crazed, and frankly insane, maniacs onto the pitch in an attempt to defeat your rivals in a clash of sporting glory! Victory and violence is the name of the game and if you're lucky, you may find yourself showered with fame, fortune and fan adulation along the way.
 
@@ -22,4 +22,4 @@ But don't just take our word for it - let's hear what two bonafide legends of th
 
 **LET'S PLAY BLOOD BOWL!**
 
-![](../media/core_rules/bob_and_jim.jpg)
+![](../media/core_rules/bob_and_jim.jpg){ width=616 height=462 }

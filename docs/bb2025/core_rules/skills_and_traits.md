@@ -493,7 +493,7 @@ If this player is Knocked Down, Falls Over or Placed Prone for any reason, immed
 
 A player with this Trait cannot have any of the following Skills: Diving Tackle, Eye Gouge, Frenzy, Grab, Hit & Run, Leap, Multiple Block, On the Ball, Shadowing, Steady Footing.
 
-![](../media/core_rules/ball_and_chain.jpg)
+![](../media/core_rules/ball_and_chain.jpg){ width=370 height=282 }
 
 ***For example:** The Fanatic has the Ball & Chain Trait and has declared a Ball & Chain Special Action. They place the Throw-in Template facing the opposition Coach's End Zone and roll a D6, rolling a 1 and moving into the space as shown. They then wish to move again and point the Throw-in Template towards the Sideline on the top of the pitch on the diagram, this time rolling a 3 and moving as shown. As this moves the Fanatic into a square containing an Opposition player, they will immediately perform a Block Action against them - resulting in a POW! in this instance. For the Fanatic's final point of MA, they place the Throw-in Template facing the Opposition Coach's End Zone once more, and this time roll a 5. This results in the Fanatic moving into the square of a Prone Opposition player, and so they immediately Push Back the player and make an Armour Roll for them. If the Fanatic wishes to try to continue moving, they must attempt to Rush.*
 
@@ -517,7 +517,7 @@ Any Standing player that is hit by the explosion is immediately Knocked Down. Ad
 
 If a player successfully Catches or Intercepts a thrown bomb, the player that caught the bomb must immediately throw it again, following all the same rules for making a Throw Bomb Special Action as described above.
 
-![](../media/core_rules/bombardier.jpg)
+![](../media/core_rules/bombardier.jpg){ width=370 height=322 }
 
 *Here,* this Bomma has declared a Throw Bomb Special Action, and has declared the square containing the Bretonnian Squire as the target square a Short Pass. The Bomma makes the Passing Ability Test, rolling a 5 and resulting in an Accurate Pass. As there are no opposition players underneath the Range Ruler, there is no attempt to Intercept the bomb and the bomb lands in the Bretonnian Squire's square and they must try to Catch it.
 

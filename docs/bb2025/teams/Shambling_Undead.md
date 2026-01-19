@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBChampionsofDeathTeam01.jpg)
+![](../media/teams/BBChampionsofDeathTeam01.jpg){ width=918 height=948 }
 
 ### Positionals
 

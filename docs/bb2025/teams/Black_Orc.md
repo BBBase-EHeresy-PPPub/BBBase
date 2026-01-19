@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/BBBlackOrcTeamLead.jpg)
+![](../media/teams/BBBlackOrcTeamLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

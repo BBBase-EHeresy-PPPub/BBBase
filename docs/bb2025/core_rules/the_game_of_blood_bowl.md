@@ -263,7 +263,7 @@ When a player performs a Move Action, they can move around the pitch a number of
 
 Players are never obliged to use their full Move Allowance, and may move zero squares if they wish. Players can never voluntarily move off the pitch.
 
-![](../media/core_rules/move_actions.jpg)
+![](../media/core_rules/move_actions.jpg){ width=758 height=523 }
 
 Here, the Bretonnian Knight Catcher is making a Move Action. As they have an MA of 7, they can move up to 7 squares in any direction. In this example, the Bretonnian Knight Catcher doesn't need to make any rolls to Dodge as they are not moving out of an opposition player's Tackle Zone at any point.
 
@@ -285,11 +285,11 @@ If there are no opposition players Marking the square a player is attempting to 
 
 Some Skills or Traits may apply additional modifiers to a player attempting to Dodge.
 
-![](../media/core_rules/dodging_1.jpg)
+![](../media/core_rules/dodging_1.jpg){ width=370 height=482 }
 
 ***For example:** This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into isn't Marked by any opposition players, there are no modifiers to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 5, succeeding in the test and successfully Dodges away.*
 
-![](../media/core_rules/dodging_2.jpg)
+![](../media/core_rules/dodging_2.jpg){ width=370 height=581 }
 
 ***For example:** This Bretonnian Knight Catcher wishes to Dodge away from this Skeleton Lineman. As the square the Bretonnian Knight Catcher wishes to move into is Marked by the Tomb Guardian, there is a -1 modifier to its Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 3, which fails due to the -1 modifier for Dodging into a square Marked by the Tomb Guardian. The Bretonnian Knight Catcher is moved into the square they attempted to Dodge into and then Falls Over.*
 
@@ -297,21 +297,21 @@ Some Skills or Traits may apply additional modifiers to a player attempting to D
 
 When performing a Move Action, a player may attempt to Jump over players that are Prone or Stunned and into an unoccupied square beyond. A player that attempts to Jump over another player in this manner may attempt to Jump into an unoccupied square that is adjacent to the Prone or Stunned player they are attempting to Jump over, but is not already adjacent to the jumping player. The diagrams below show a Bretonnian Knight Catcher attempting to Jump over a Skeleton Lineman from two different angles. The orange squares are eligible squares to Jump into, whilst the blue ones are not.
 
-![](../media/core_rules/jumping_over_players_1.jpg)
+![](../media/core_rules/jumping_over_players_1.jpg){ width=464 height=703 }
 
 When a player attempts to Jump over another player in this manner, they must make an Agility Test before moving over the downed player. The jumping player will suffer a negative modifier equal to the number of opposition players Marking the square they are currently in, or the number of opposition players Marking the square they are jumping into, whichever is higher. If the Agility Test is passed, place the jumping player Standing in the target square; they may continue their activation as normal. If the test is failed, place the jumping player in the target square where they will Fall Over and their activation immediately ends. If a natural 1 is rolled for the Agility Test, the player will instead Fall Over in the square they are in and their activation immediately ends.  Some Skills or Traits may apply additional modifiers to a player attempting to Jump over other players.
 
 When a player attempts to Jump over another player in this manner, they must make an Agility Test before moving over the downed player. The jumping player will suffer a negative modifier equal to the number of opposition players Marking the square they are currently in, or the number of opposition players Marking the square they are jumping into, whichever is higher.
 
-![](../media/core_rules/jumping_over_players_2.jpg)
+![](../media/core_rules/jumping_over_players_2.jpg){ width=370 height=552 }
 
 ***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman. As there are no opposition players Marking the Bretonnian Knight Catcher, or the square they are attempting to Jump into, there are no modifiers to the Agility Test. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 4, successfully Jumping over the Skeleton Lineman.*
 
-![](../media/core_rules/jumping_over_players_3.jpg)
+![](../media/core_rules/jumping_over_players_3.jpg){ width=370 height=331 }
 
 ***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman, though will need to Rush once in order to do so. The Bretonnian Knight Catcher rolls a 5 for their Rush attempt, which succeeds, and then rolls their Agility Test, scoring a 3 and successfully jumps over the Skeleton Lineman.*
 
-![](../media/core_rules/jumping_over_players_4.jpg)
+![](../media/core_rules/jumping_over_players_4.jpg){ width=370 height=353 }
 
 ***For example:** This Bretonnian Knight Catcher wishes to Jump over this Prone Skeleton Lineman. There are currently two opposition players Marking the Bretonnian Knight Catcher, and one opposition player Marking the square they are attempting to Jump into. As a result, the Bretonnian Knight Catcher will suffer a -2 modifier to the Agility Test, as there are more opposition players Marking the square they are attempting to Jump out of; they will not suffer any modifiers from the opposition players Marking the square they are jumping into in this instance. The Bretonnian Knight Catcher has an AG of 3+ and rolls a 6, which succeeds even with the -2 modifier!*
 
@@ -331,7 +331,7 @@ When a player wishes to Rush, move the player into the square they wish to Rush 
 
 Players may attempt to Rush a maximum of two times during their activation. If, when a player attempts to Rush, there would be multiple rolls for moving into the square, such as having to Dodge, then the roll for attempt to Rush will always come first.
 
-![](../media/core_rules/rushing.jpg)
+![](../media/core_rules/rushing.jpg){ width=370 height=311 }
 
 *Here, the Bretonnian Squire has already used their Move Allowance of 6, but wishes to try to Rush so they can Mark the Tomb Kings Blitzer. They Rush one square and roll a 5, which is a success. They then decide to try to Rush again to move adjacent to the Tomb Kings Blitzer; however, a 1 is rolled and the Bretonnian Squire Falls Over in the square they were trying to Rush into.*
 
@@ -345,11 +345,11 @@ A player may only declare a Secure the Ball Action if the ball is loose on the g
 
 When performing a Secure the Ball Action, the player must attempt to pick up the ball. A player attempting to pick up a ball as part of a Secure the Ball Action does not make an Agility Test; instead they roll a D6 and on a 2+ they will automatically pick up the ball and their activation immediately ends. On a 1, the player fails to pick up the ball and a Turnover is caused - the ball will then Bounce from the player's square.
 
-![](../media/core_rules/secure_the_ball_1.jpg)
+![](../media/core_rules/secure_the_ball_1.jpg){ width=370 height=414 }
 
 ***For example:** The Bretonnian Knight Catcher wants to declare a Secure the Ball Action. As there are no Standing opposition players within 2 squares of the ball, they can Move into the square containing the ball and attempt to pick it up on a 2+. Their activation then ends.*
 
-![](../media/core_rules/secure_the_ball_2.jpg)
+![](../media/core_rules/secure_the_ball_2.jpg){ width=370 height=523 }
 
 *This time, the Bretonnian Knight Catcher wants to declare a Secure the Ball Action; however, there is an opposing Skeleton Lineman within 2 squares of the ball. As a result, the Bretonnian Knight Catcher cannot declare a Secure the Ball Action at this time.*
 
@@ -379,7 +379,7 @@ There are two types of Assist: Offensive and Defensive.
 
 An Offensive Assist is when another player on the active team is able to Assist the player performing the Block Action. For each Offensive Assist the player performing the Block Action receives they gain a +1 modifier to their Strength Characteristic for the duration of the Block Action. For a player to be able to provide an Offensive Assist, they must be Marking the target of the Block Action and must not be Marked by any other opposition player.
 
-![](../media/core_rules/offensive_assists.jpg)
+![](../media/core_rules/offensive_assists.jpg){ width=370 height=450 }
 
 ***For example:** This Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Skeleton Lineman can provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other opposition players, granting a +1 modifier to the Tomb Kings player's Strength. The Tomb Guardian cannot provide an Offensive Assist as although they are Marking the Bretonnian Squire, they are also Marked by the Grail Knight, and so cannot Assist.*
 
@@ -387,11 +387,11 @@ An Offensive Assist is when another player on the active team is able to Assist 
 
 A Defensive Assist is when another player on the inactive team is able to Assist the target of the Block Action. For each Defensive Assist the target of the Block Action receives, they gain a +1 modifier to their Strength Characteristic for the duration of the Block Action. For a player to be able to provide an Defensive Assist, they must be Marking the player performing the Block Action and must not be Marked by any other opposition player.
 
-![](../media/core_rules/defensive_assists_1.jpg)
+![](../media/core_rules/defensive_assists_1.jpg){ width=370 height=211 }
 
 ***For example:** The Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. The Grail Knight may not provide a Defensive Assist as, although they are Marking the Tomb Kings Blitzer, they are also being Marked by the Skeleton Lineman. However, the Bretonnian Knight Thrower may provide a Defensive Assist as they are also Marking the Tomb Kings Blitzer and are not Marked by any other opposition players, granting a +1 modifier to the Bretonnian Squire's ST.*
 
-![](../media/core_rules/defensive_assists_2.jpg)
+![](../media/core_rules/defensive_assists_2.jpg){ width=370 height=212 }
 
 ***For example:** Here, the Tomb Kings Blitzer has declared a Block Action against the Bretonnian Squire. Neither the Skeleton Lineman or the Grail Knight may provide Assists as, although they are each Marking the relevant players, they are also both Marking each other. The Bretonnian Knight Thrower may also not provide a Defensive Assist as they are currently being Marked by the Tomb Guardian. However, the Tomb Kings Thrower may provide an Offensive Assist as they are Marking the Bretonnian Squire and are not Marked by any other player, granting a +1 modifier to the Tomb Kings Blitzer and giving them the advantage in the Block Action.*
 
@@ -425,9 +425,9 @@ When a Block Action is made, it is always the Coach of the player performing the
 
 When a player is Pushed Back, usually as a result of the Push Back or POW results from a Block Action, they will be Pushed Back one square away from the player that performed the Block Action so that they are in an adjacent square that is not adjacent to the player that performed the Block Action. The squares that a player can be Pushed into will depend on the direction of the Push, as shown in the diagrams below:
 
-![](../media/core_rules/pushed_players_1.jpg)
+![](../media/core_rules/pushed_players_1.jpg){ width=372 height=201 }
 
-![](../media/core_rules/pushed_players_2.jpg)
+![](../media/core_rules/pushed_players_2.jpg){ width=372 height=221 }
 
 The square the Pushed Back player is moved into is chosen by the Coach of the player performing the Block Action, though they must choose an unoccupied square if there is one. If a player is Pushed Back onto the ball, it will automatically Bounce though no Turnover is caused.
 
@@ -437,7 +437,7 @@ Sometimes there will be no unoccupied squares to move the Pushed Back player int
 
 If there is no unoccupied square for the Pushed Back player to be moved into then they will be Pushed Back into a square containing another player, which will cause a Chain Push. The player that was originally Pushed Back will be Pushed as normal, and the player occupying the square the originally Pushed player has been Pushed Back into will be themselves Pushed Back as if they had been Pushed Back by the player who is now occupying their square. When a Chain Push occurs, the Coach of the player performing the original Block Action will choose the direction of all Pushes within the Chain Push. A player can still be Chain Pushed even if they are Prone or Stunned. Below are two diagrams showing examples of a Chain Push:
 
-![](../media/core_rules/chain_pushes.jpg)
+![](../media/core_rules/chain_pushes.jpg){ width=370 height=462 }
 
 #### PUSHED INTO THE CROWD
 
@@ -445,7 +445,7 @@ If a player is adjacent to a Sideline or within an End Zone when they are Pushed
 
 If a player that is holding the ball is Pushed into the Crowd, then the ball will be Thrown-in exactly as described on [page 73](#throw-ins). Additionally, if a player on the active team is Pushed into the Crowd then a Turnover is caused.
 
-![](../media/core_rules/pushed_into_the_crowd.jpg)
+![](../media/core_rules/pushed_into_the_crowd.jpg){ width=370 height=461 }
 
 ### FOLLOW-UP
 
@@ -584,7 +584,7 @@ As mentioned earlier, a single player on the active team may declare a Foul Acti
 
 To perform the Foul Action, the player makes an Armour Roll (see [page 37](./rules_and_regulations.md#9-av-armour-value)) for the target of the Foul Action. Offensive and Defensive Assists will also apply to a Foul Action in the same manner as a Block Action. When making the Armour Roll, the player making the Foul Action may apply a +1 modifier for each Offensive Assist, and apply a -1 modifier for each Defensive Assist.
 
-![](../media/core_rules/performing_a_foul_action.jpg)
+![](../media/core_rules/performing_a_foul_action.jpg){ width=370 height=293 }
 
 ***For example:** The Tomb Kings Blitzer has declared a Foul Action and has finished their Move Action adjacent to the Bretonnian Squire. They make an Armour Roll for the Bretonnian Squire, applying a +1 modifier for the Skeleton Lineman who is providing an Offensive Assist. As the Tomb Guardian is being Marked by the Grail Knight, they cannot provide an Offensive Assist.*
 
@@ -627,7 +627,7 @@ The target square will fall into one of four sections on the Range Ruler (see [p
 - III: Long Pass
 - IIII: Long Bomb
 
-![](../media/core_rules/measure_range_1.jpg)
+![](../media/core_rules/measure_range_1.jpg){ width=370 height=373 }
 
 #### DECLARE TARGET SQUARE
 
@@ -652,7 +652,7 @@ If the target square sits partially within two sections (i.e., the line between 
 
 If it is not clear exactly which type of pass is required, then you can use the Passing Range Chart opposite to make sure you get it right.
 
-![](../media/core_rules/test_for_accurancy_1.jpg)
+![](../media/core_rules/test_for_accurancy_1.jpg){ width=370 height=362 }
 
 #### TEST FOR ACCURACY
 
@@ -707,11 +707,11 @@ If the Agility Test is passed, or a natural 6 is rolled, the player successfully
 
 If a Prone or Stunned player, or a player that is Distracted, is required to Catch a ball, they will automatically fail the Agility Test and the ball will Bounce.
 
-![](../media/core_rules/catching_the_ball_1.jpg)
+![](../media/core_rules/catching_the_ball_1.jpg){ width=370 height=252 }
 
 ***For example:** The Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Knight Catcher. After using the Range Ruler, it is determined that this is a Short Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -1 modifier for making a Short Pass, and rolls a 5 - an Accurate Pass! However, the Tomb Kings Blitzer is underneath the Range Ruler for the Pass Action and so now gets to attempt to Intercept. Fortunately, the Tomb Kings Blitzer rolls a 2 for their Agility Test and fails to Intercept. The Bretonnian Knight Catcher must now attempt to Catch the ball by making an Agility Test, for which they roll a 4 and successfully manages to Catch the ball.*
 
-![](../media/core_rules/catching_the_ball_2.jpg)
+![](../media/core_rules/catching_the_ball_2.jpg){ width=370 height=671 }
 
 ***For example:** This Bretonnian Knight Thrower is attempting a Pass Action to the Bretonnian Squire. After using the Range Ruler, it is determined that this is a Long Pass. The Bretonnian Knight Thrower makes a Passing Ability Test, applying a -2 modifier for making a Long Pass, and rolls a 6 - another Accurate Pass! As the Tomb Kings Blitzer is not underneath the Range Ruler for the Pass Action, they do not get to attempt to Intercept. The Bretonnian Squire must now attempt to Catch the ball by making an Agility Test; however, they roll a 1 and fail to Catch the ball, causing it to Bounce from their square and causing a Turnover.*
 
@@ -721,7 +721,7 @@ Should the ball leave the pitch at any time, the crowd will throw it back into p
 
 To resolve a Throw-in, position the Throw-in Template with the Blood Bowl logo over the last square the ball occupied before it left the pitch as shown below.
 
-![](../media/core_rules/throw_ins.jpg)
+![](../media/core_rules/throw_ins.jpg){ width=370 height=290 }
 
 Next, roll a D6 to determine the direction the crowd will throw the ball as determined by the Throw-in Template. The ball will then travel 2D6 squares in the direction of the Throw-in before landing, counting the square underneath the Blood Bowl logo of the Throw-in Template as the first square. If the ball lands in an occupied square then the player must attempt to Catch the ball as described on the [previous page](#catching-the-ball).
 
@@ -733,7 +733,7 @@ Should the ball leave the pitch again following a Throw-in, simply repeat the pr
 
 Should the ball leave the pitch from a corner square, position the Random Direction Template as shown in the diagram below and roll a D3 to determine the direction of the Throw-in.
 
-![](../media/core_rules/corner_throw_ins.jpg)
+![](../media/core_rules/corner_throw_ins.jpg){ width=370 height=381 }
 
 ## HAND-OFF ACTIONS!
 
@@ -781,7 +781,7 @@ The target square will fall into one of two sections on the Range Ruler as expla
 - I: Quick Throw
 - II: Short Throw
 
-![](../media/core_rules/measure_range_2.jpg)
+![](../media/core_rules/measure_range_2.jpg){ width=370 height=422 }
 
 *This Treeman wishes to throw the Gnome Lineman using a Throw Team-mate Action. Using the Range Ruler we can determine that it would be a Short Throw.*
 
@@ -789,7 +789,7 @@ If the target square sits partially within two sections (i.e., the line between 
 
 If it is not clear exactly which type of throw is required, then you can use the Throw Team-mate Range Chart opposite to make sure you get it right.
 
-![](../media/core_rules/test_for_accurancy_2.jpg)
+![](../media/core_rules/test_for_accurancy_2.jpg){ width=370 height=322 }
 
 #### TEST FOR ACCURACY
 
@@ -827,7 +827,7 @@ If the Agility Test is failed, or a natural 1 is rolled, then the thrown player 
 
 Players that were Prone, Stunned or Distracted when they were thrown will automatically fail the Agility Test to land.
 
-![](../media/core_rules/landing.jpg)
+![](../media/core_rules/landing.jpg){ width=370 height=313 }
 
 ***For example:** The Treeman is attempting a Throw Team-mate Action and has picked up their Gnome team-mate. After using the Range Ruler it is determined that this is a Short Throw. The Treeman makes a Passing Ability Test, applying a -1 modifier for making a Short Throw, and rolls a 5 - a Superb Throw! The Gnome will now Scatter (3) from their target square, rolling a 5, a 3 and a 2. They must now attempt to land safely by making an Agility Test. The Gnome rolls a 3, which is a success as there are no modifiers in this instance. The Gnome lands on their feet, and can activate later in the Turn if they have not already done so.*
 
@@ -837,7 +837,7 @@ If, after the final square the thrown player will land in has been determined th
 
 If after the Bounce the thrown player lands in another occupied square, repeat the above process.
 
-![](../media/core_rules/landing_in_an_occupied_space.jpg)
+![](../media/core_rules/landing_in_an_occupied_space.jpg){ width=370 height=634 }
 
 ***For example:** After Scattering as part of a Throw Team-mate Action, this Gnome has landed in the same square as the Tomb Kings Lineman. The Tomb Kings Lineman is immediately Knocked Down and the Gnome will Bounce from their square, rolling a 6. The Gnome is then placed in the corresponding square and then Falls Over. If this square was also occupied, this process would then need to be repeated.*
 

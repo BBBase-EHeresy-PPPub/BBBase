@@ -1,6 +1,6 @@
 # Gretchen Wächter
 
-![](../media/starplayers/BBS2GretchenWachterLead.jpg)
+![](../media/starplayers/BBS2GretchenWachterLead.jpg){ width=600 height=620 }
 
 |  180K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

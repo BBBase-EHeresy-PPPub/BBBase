@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBHighElves.jpg)
+![](../media/teams/BBHighElves.jpg){ width=920 height=950 }
 
 ### Positionals
 

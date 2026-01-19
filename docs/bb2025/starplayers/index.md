@@ -6,7 +6,7 @@ Star players come in all manner of shapes and sizes, and each have their own are
 
 ## STAR PLAYERS LIST!
 
-![](../media/core_rules/starplayers.jpg)
+![](../media/core_rules/starplayers.jpg){ width=1000 height=558 }
 
 Over the following pages, we will present some of the Star Players currently available in the game of Blood Bowl. Each is a player that has carved their name in the annals of Blood Bowl, be it through jaw-dropping feats of athleticism or infamous moments of unscrupulous behaviour! More Star Players can be found in the Star Players PDF on warhammer-community.com, and some may appear in future Blood Bowl publications.
 

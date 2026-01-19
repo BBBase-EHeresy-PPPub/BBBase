@@ -1,6 +1,6 @@
 # Helmut Wulf
 
-![](../media/starplayers/HelmutWulf01.jpg)
+![](../media/starplayers/HelmutWulf01.jpg){ width=600 height=620 }
 
 |  140K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

@@ -1,6 +1,6 @@
 # Grashnak Blackhoof
 
-![](../media/starplayers/GrashnakBlackhoof.jpg)
+![](../media/starplayers/GrashnakBlackhoof.jpg){ width=600 height=620 }
 
 | 240K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

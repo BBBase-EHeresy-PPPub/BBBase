@@ -1,5 +1,5 @@
 ﻿**TIER 4**
-![](../media/teams/BBCrudCreekNosepickersLead.jpg)
+![](../media/teams/BBCrudCreekNosepickersLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

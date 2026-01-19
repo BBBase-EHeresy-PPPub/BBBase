@@ -1,5 +1,5 @@
 ﻿**TIER 4**
-![](../media/teams/BBFireMountainGutbusters01.jpg)
+![](../media/teams/BBFireMountainGutbusters01.jpg){ width=918 height=948 }
 
 ### Positionals
 

@@ -1,5 +1,5 @@
 ﻿**TIER 3**
-![](../media/teams/BBKhorneTeamLead.jpg)
+![](../media/teams/BBKhorneTeamLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

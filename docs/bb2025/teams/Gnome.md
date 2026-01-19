@@ -1,5 +1,5 @@
 ﻿**TIER 4**
-![](../media/teams/BBGnomeTeam02.jpg)
+![](../media/teams/BBGnomeTeam02.jpg){ width=918 height=948 }
 
 ### Positionals
 

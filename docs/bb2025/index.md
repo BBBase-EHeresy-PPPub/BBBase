@@ -1,6 +1,6 @@
 # PLAYING BLOOD BOWL
 
-![](media/core_rules/blood_bowl_set.jpg)
+![](media/core_rules/blood_bowl_set.jpg){ width=1000 height=511 }
 
 Blood Bowl is, without a doubt, the greatest game ever played in the Old World - just ask any of its legions of fans who will animatedly tell anyone who will listen just how good it is! Tactical, challenging and outrageously funny, Blood Bowl is a fantasy football game like no other, that will keep coaches coming back for more.
 

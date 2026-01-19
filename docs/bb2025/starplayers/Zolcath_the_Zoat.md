@@ -1,6 +1,6 @@
 # Zolcath the Zoat
 
-![](../media/starplayers/ZolcathZoatLead.jpg)
+![](../media/starplayers/ZolcathZoatLead.jpg){ width=600 height=620 }
 
 | 220K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

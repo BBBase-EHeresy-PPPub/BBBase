@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBUnderworldDenizens2.jpg)
+![](../media/teams/BBUnderworldDenizens2.jpg){ width=918 height=948 }
 
 ### Positionals
 

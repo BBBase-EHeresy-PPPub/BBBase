@@ -1,6 +1,6 @@
 # Rumbelow Sheepskin
 
-![](../media/starplayers/RumbelowSheepskinLead.jpg)
+![](../media/starplayers/RumbelowSheepskinLead.jpg){ width=600 height=620 }
 
 |  170K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBChaosDwarfTeam01.jpg)
+![](../media/teams/BBChaosDwarfTeam01.jpg){ width=918 height=948 }
 
 ### Positionals
 

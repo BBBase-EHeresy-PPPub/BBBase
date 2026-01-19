@@ -1,6 +1,6 @@
 # Kreek Rustgouger
 
-![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg)
+![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg){ width=600 height=620 }
 
 |  180K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

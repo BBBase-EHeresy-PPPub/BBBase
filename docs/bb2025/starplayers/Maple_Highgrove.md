@@ -1,6 +1,6 @@
 # Maple Highgrove
 
-![](../media/starplayers/MapleHighgrove.jpg)
+![](../media/starplayers/MapleHighgrove.jpg){ width=600 height=620 }
 
 | 210K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

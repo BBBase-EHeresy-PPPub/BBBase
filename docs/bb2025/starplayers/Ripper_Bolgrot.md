@@ -1,6 +1,6 @@
 # Ripper Bolgrot
 
-![](../media/starplayers/RipperBolgrot1.jpg)
+![](../media/starplayers/RipperBolgrot1.jpg){ width=600 height=620 }
 
 |  250K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

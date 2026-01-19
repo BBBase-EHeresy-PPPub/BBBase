@@ -1,5 +1,5 @@
 ﻿**TIER 2**
-![](../media/teams/BBBretonnianTeam.jpg)
+![](../media/teams/BBBretonnianTeam.jpg){ width=918 height=948 }
 
 ### Positionals
 

@@ -1,6 +1,6 @@
 # Akhorne The Squirrel
 
-![](../media/starplayers/AkhorneTheSquirrel.jpg)
+![](../media/starplayers/AkhorneTheSquirrel.jpg){ width=600 height=620 }
 
 |   80K   | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

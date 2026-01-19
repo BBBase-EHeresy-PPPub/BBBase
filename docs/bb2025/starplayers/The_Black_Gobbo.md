@@ -1,6 +1,6 @@
 # The Black Gobbo
 
-![](../media/starplayers/BlackGobbo01.jpg)
+![](../media/starplayers/BlackGobbo01.jpg){ width=620 height=620 }
 
 |  210K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBNorseTeamLead.jpg)
+![](../media/teams/BBNorseTeamLead.jpg){ width=918 height=948 }
 
 ### Positionals
 

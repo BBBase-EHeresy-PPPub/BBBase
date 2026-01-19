@@ -1,6 +1,6 @@
 # Grim Ironjaw
 
-![](../media/starplayers/GrimIronjaw01.jpg)
+![](../media/starplayers/GrimIronjaw01.jpg){ width=600 height=620 }
 
 |  190K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

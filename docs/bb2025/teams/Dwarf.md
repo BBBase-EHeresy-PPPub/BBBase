@@ -1,5 +1,5 @@
 ﻿**TIER 1**
-![](../media/teams/BBDwarfGiants01.jpg)
+![](../media/teams/BBDwarfGiants01.jpg){ width=918 height=948 }
 
 ### Positionals
 

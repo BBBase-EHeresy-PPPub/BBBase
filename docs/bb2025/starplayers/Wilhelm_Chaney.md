@@ -1,6 +1,6 @@
 # Wilhelm Chaney
 
-![](../media/starplayers/BBWilhelmChaneyLead.jpg)
+![](../media/starplayers/BBWilhelmChaneyLead.jpg){ width=600 height=620 }
 
 | 220K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |

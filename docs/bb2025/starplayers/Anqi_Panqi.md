@@ -1,6 +1,6 @@
 # Anqi Panqi
 
-![](../media/starplayers/BBAnqiPanqi.jpg)
+![](../media/starplayers/BBAnqiPanqi.jpg){ width=620 height=600 }
 
 |  190K  | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |

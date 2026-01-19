@@ -1,6 +1,6 @@
 # Scyla Anfingrimm
 
-![](../media/starplayers/BBScylaAnfinngrimmLead.jpg)
+![](../media/starplayers/BBScylaAnfinngrimmLead.jpg){ width=600 height=620 }
 
 | 200K | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
