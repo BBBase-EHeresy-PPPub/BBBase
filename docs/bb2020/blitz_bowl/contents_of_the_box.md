@@ -24,4 +24,4 @@ Each side of the game board also contains some special features as described her
 3. Blocked Squares that are delineated by a red border.  
 4. Score Track.  
 5. Bounce Chart.  
-6. Challenge Card Tableau - one space for the Challenge Deck (marked ![](../media/blitz_bowl/cards_1.jpg)), one space for discarded Challenge Cards (marked ![](../media/blitz_bowl/cards_2.jpg)), and three for active Challenge Cards (marked 1, 2, 3).
+6. Challenge Card Tableau - one space for the Challenge Deck (marked ![](../media/blitz_bowl/cards_1.jpg){ width=30 height=19 }), one space for discarded Challenge Cards (marked ![](../media/blitz_bowl/cards_2.jpg){ width=46 height=19 }), and three for active Challenge Cards (marked 1, 2, 3).

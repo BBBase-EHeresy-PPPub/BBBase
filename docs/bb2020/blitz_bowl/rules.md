@@ -182,7 +182,7 @@ To set up a game of Blitz Bowl, follow the steps outlined below:
 
 3. The Coaches then decide who will use each team. If you are playing straight out of the box, then the Coach who won the toss may choose which of the two teams – either Dwarfs or Orcs – they control, with the other Coach taking control of the other. If you are using the other teams available in Blitz Bowl, simply tell your opponent which team you are using. In either case, place your team's Team Card in front of you with the Players' profiles and abilities side face-up so it can be easily referenced.
 
-4. Shuffle the 26 Challenge Cards and place them with the Bonus Play side face-down next to the space marked with the (![](../media/blitz_bowl/cards_1.jpg)) icon. Then, deal the top three Challenge Cards, challenge side up, into the Active Challenge Card spaces – the top card is dealt to the '1', the second card is dealt to the '2', and the third card is dealt to the '3'.
+4. Shuffle the 26 Challenge Cards and place them with the Bonus Play side face-down next to the space marked with the (![](../media/blitz_bowl/cards_1.jpg){ width=30 height=19 }) icon. Then, deal the top three Challenge Cards, challenge side up, into the Active Challenge Card spaces – the top card is dealt to the '1', the second card is dealt to the '2', and the third card is dealt to the '3'.
 
 5. The Coach that lost the toss then sets up their Players in their End Zone; the other Coach then does the same. When setting up their Players, the Coach may choose which of the squares in their End Zone each Player is placed in. Each square can only have one Player in it.
 
@@ -192,7 +192,7 @@ To set up a game of Blitz Bowl, follow the steps outlined below:
 
 ***Important:** When placing a ball during the set-up of the game, you do not roll to see where a ball will Bounce to (see page 17). Additionally, the colour and shape of a ball does not matter; a ball does not belong to either team.*
 
-[![](../media/blitz_bowl/setting_up_the_game_small.jpg)](../media/blitz_bowl/setting_up_the_game.jpg)
+[![](../media/blitz_bowl/setting_up_the_game_small.jpg){ width=1000 height=333 }](../media/blitz_bowl/setting_up_the_game.jpg)
 
 ## PLAYING THE GAME
 
@@ -276,7 +276,7 @@ An Open Player can make a Mark Action. When a Player makes a Mark Action, they m
 
 ### THROW ACTION
 
-An Open Player who is in possession of a ball can make a Throw Action to pass a ball to another Player from their team on the pitch. To make a Throw Action, pick a Team-mate that is in range of the throw. To see whether a Team-mate is in range, place the Throw Ruler so that the curved end is in line with the edge of the throwing Player's base, as shown in the diagram below. A Team-mate is in range if any part of the Throw Ruler can reach the centre of the square that the Team-mate is standing in; if the Team-mate is in the black section, it is a Short Throw ![](../media/blitz_bowl/short_throw.jpg), whilst if they are in the red section it is a Long Throw ![](../media/blitz_bowl/long_throw.jpg). A Throw Action can still be made if the Throw Ruler is touching any obstructions – they do not stop a Player from throwing a ball. A Player cannot make a Throw Action to a Prone Team-mate.
+An Open Player who is in possession of a ball can make a Throw Action to pass a ball to another Player from their team on the pitch. To make a Throw Action, pick a Team-mate that is in range of the throw. To see whether a Team-mate is in range, place the Throw Ruler so that the curved end is in line with the edge of the throwing Player's base, as shown in the diagram below. A Team-mate is in range if any part of the Throw Ruler can reach the centre of the square that the Team-mate is standing in; if the Team-mate is in the black section, it is a Short Throw ![](../media/blitz_bowl/short_throw.jpg){ width=35 height=35 }, whilst if they are in the red section it is a Long Throw ![](../media/blitz_bowl/long_throw.jpg){ width=35 height=35 }. A Throw Action can still be made if the Throw Ruler is touching any obstructions – they do not stop a Player from throwing a ball. A Player cannot make a Throw Action to a Prone Team-mate.
 
 ![](../media/blitz_bowl/throw_action.jpg){ width=461 height=354 }
 
@@ -320,15 +320,15 @@ Below are the different symbols you will see on the Block Dice, and what they al
 
 ### BLOCK DICE RESULTS
 
-- ![](../media/blitz_bowl/smash_block.jpg) **Smash:** The target is Knocked Down. A Knocked Down Player is placed Prone in the square they are in, and if they are carrying a ball it immediately Bounces. Then, the Knocked Down Player's Coach must make an Armour Check for the Player. If the Armour Check succeeds, the Player remains Prone. If the Armour Check fails, the Player is Injured.
+- ![](../media/blitz_bowl/smash_block.jpg){ width=70 height=70 } **Smash:** The target is Knocked Down. A Knocked Down Player is placed Prone in the square they are in, and if they are carrying a ball it immediately Bounces. Then, the Knocked Down Player's Coach must make an Armour Check for the Player. If the Armour Check succeeds, the Player remains Prone. If the Armour Check fails, the Player is Injured.
 
-- ![](../media/blitz_bowl/kerrunch_block.jpg) **Kerunch!:** The target is Knocked Down (see Smash). If an Armour Check is made, subtract 1 from the result, to a minimum of 1.
+- ![](../media/blitz_bowl/kerrunch_block.jpg){ width=70 height=70 } **Kerunch!:** The target is Knocked Down (see Smash). If an Armour Check is made, subtract 1 from the result, to a minimum of 1.
 
-- ![](../media/blitz_bowl/shove_block.jpg) **Shove:** The target is pushed one square directly away from the Player making the Block Action, if possible. The Player making the Block Action can then choose to make a follow-up move into the square the target left. If it is not possible to push the target directly away from the Player making the Block Action because this would take the target into an occupied or blocked square, or off the board, then the target is instead Knocked Down (see Smash).
+- ![](../media/blitz_bowl/shove_block.jpg){ width=70 height=70 } **Shove:** The target is pushed one square directly away from the Player making the Block Action, if possible. The Player making the Block Action can then choose to make a follow-up move into the square the target left. If it is not possible to push the target directly away from the Player making the Block Action because this would take the target into an occupied or blocked square, or off the board, then the target is instead Knocked Down (see Smash).
 
-- ![](../media/blitz_bowl/tackle_block.jpg) **Tackle:** The target is Knocked Down (see Smash). Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
+- ![](../media/blitz_bowl/tackle_block.jpg){ width=70 height=70 } **Tackle:** The target is Knocked Down (see Smash). Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
 
-- ![](../media/blitz_bowl/miss_block.jpg) **Miss:** The target is unaffected. Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
+- ![](../media/blitz_bowl/miss_block.jpg){ width=70 height=70 } **Miss:** The target is unaffected. Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
 
 ![](../media/blitz_bowl/block_action.jpg){ width=461 height=305 }
 
@@ -486,13 +486,13 @@ An Open Player who is adjacent to a Prone Opposition Player can make a Foul Acti
 
 **FOUL RESULTS**
 
-- ![](../media/blitz_bowl/miss_block_small.jpg) **Spotted!**: The target Player is unaffected. Additionally, the Player making the Foul Action is spotted by the referee and ejected from the game. Place the Player in their team's Dugout: they are now a Reserves Player.
+- ![](../media/blitz_bowl/miss_block_small.jpg){ width=35 height=35 } **Spotted!**: The target Player is unaffected. Additionally, the Player making the Foul Action is spotted by the referee and ejected from the game. Place the Player in their team's Dugout: they are now a Reserves Player.
 
-- ![](../media/blitz_bowl/tackle_block_small.jpg) **Take That!**: The target Player is Injured. Additionally, the Player making the Foul Action is spotted committing the Foul Action (see Spotted!).
+- ![](../media/blitz_bowl/tackle_block_small.jpg){ width=35 height=35 } **Take That!**: The target Player is Injured. Additionally, the Player making the Foul Action is spotted committing the Foul Action (see Spotted!).
 
-- ![](../media/blitz_bowl/shove_block_small.jpg) **Slipped!**: The target Player is unaffected. Additionally, the Player that made the Foul Action cannot make any more Actions, including Free Actions, this turn.
+- ![](../media/blitz_bowl/shove_block_small.jpg){ width=35 height=35 } **Slipped!**: The target Player is unaffected. Additionally, the Player that made the Foul Action cannot make any more Actions, including Free Actions, this turn.
 
-- ![](../media/blitz_bowl/smash_block_small.jpg) ![](../media/blitz_bowl/kerrunch_block_small.jpg) **Got Them!**: The target Player is Injured. Place the target Player in their team's Dugout: they are now a Reserves Player.
+- ![](../media/blitz_bowl/smash_block_small.jpg){ width=35 height=35 } ![](../media/blitz_bowl/kerrunch_block_small.jpg){ width=35 height=35 } **Got Them!**: The target Player is Injured. Place the target Player in their team's Dugout: they are now a Reserves Player.
 
 ### THROW TEAM-MATE ACTION
 
@@ -727,12 +727,12 @@ Though most teams do, not all teams have only six Players. Some have more, with 
 
 ### BLOCK RESULTS
 
-- ![](../media/blitz_bowl/miss_block.jpg) **Miss**: The target is unaffected. Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
+- ![](../media/blitz_bowl/miss_block.jpg){ width=70 height=70 } **Miss**: The target is unaffected. Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
 
-- ![](../media/blitz_bowl/tackle_block.jpg) **Tackle**: The target is Knocked Down (see Smash). Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
+- ![](../media/blitz_bowl/tackle_block.jpg){ width=70 height=70 } **Tackle**: The target is Knocked Down (see Smash). Additionally, the Player making the Block Action cannot make any more Actions, including Free Actions, this turn.
 
-- ![](../media/blitz_bowl/kerrunch_block.jpg) **Kerrunch!**: The target is Knocked Down (see Smash). Additionally, when the resulting Armour Check is made, subtract 1 from the result, to a minimum of 1.
+- ![](../media/blitz_bowl/kerrunch_block.jpg){ width=70 height=70 } **Kerrunch!**: The target is Knocked Down (see Smash). Additionally, when the resulting Armour Check is made, subtract 1 from the result, to a minimum of 1.
 
-- ![](../media/blitz_bowl/smash_block.jpg) **Smash**: The target is Knocked Down. A Knocked Down Player is placed Prone in the square they are in, and if they are carrying a ball it immediately Bounces. Then, the Knocked Down Player's Coach must make an Armour Check for the Player. If the Armour Check succeeds, the Player remains Prone. If the Armour Check fails, the Player is Injured.
+- ![](../media/blitz_bowl/smash_block.jpg){ width=70 height=70 } **Smash**: The target is Knocked Down. A Knocked Down Player is placed Prone in the square they are in, and if they are carrying a ball it immediately Bounces. Then, the Knocked Down Player's Coach must make an Armour Check for the Player. If the Armour Check succeeds, the Player remains Prone. If the Armour Check fails, the Player is Injured.
 
-- ![](../media/blitz_bowl/shove_block.jpg) **Shove**: The target is pushed one square directly away from the Player making the Block Action, if possible. The Player making the Block Action can then choose to make a follow-up move into the square the target left. If it is not possible to push the target directly away from the Player making the Block Action because this would take the target into an occupied or blocked square, or off the board, then the target is instead Knocked Down (see Smash).
+- ![](../media/blitz_bowl/shove_block.jpg){ width=70 height=70 } **Shove**: The target is pushed one square directly away from the Player making the Block Action, if possible. The Player making the Block Action can then choose to make a follow-up move into the square the target left. If it is not possible to push the target directly away from the Player making the Block Action because this would take the target into an occupied or blocked square, or off the board, then the target is instead Knocked Down (see Smash).

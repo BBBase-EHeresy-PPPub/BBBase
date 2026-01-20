@@ -46,7 +46,7 @@ A **Sidestep Action** is a move of a single square, and after that move the Play
 
 A Player can make a Block Action against any standing Opposition Player next to them, so the Dwarf Blitzer targets the Orc Thrower. When a Player makes a **Block Action**, roll a number of Block Dice equal to their Block value - in this case, the Dwarf Blitzer rolls one Block Dice.
 
-For this example, we will assume that the roll is (![](../media/blitz_bowl/shove_block_small.jpg)), which is the Shove result. To resolve this result, the Orc Thrower is moved directly away from the Dwarf Blitzer by one space. The Dwarf Blitzer has the option to move into the space the Orc Thrower was in, and chooses to do so. This is called following up.
+For this example, we will assume that the roll is (![](../media/blitz_bowl/shove_block_small.jpg){ width=35 height=35 }), which is the Shove result. To resolve this result, the Orc Thrower is moved directly away from the Dwarf Blitzer by one space. The Dwarf Blitzer has the option to move into the space the Orc Thrower was in, and chooses to do so. This is called following up.
 
 ---
 
@@ -60,7 +60,7 @@ This drill goes into more detail on the **Block Action**.
 
 In a game of Blitz Bowl, each Coach takes it in turn to make three Actions with their Players. As the Coach of the Dwarf team has made three Actions - Run, Mark, and Block - it is now the Orc Coach's turn.
 
-The Orc Thrower will start things off with a **Block Action** targeting the Dwarf Blitzer. The Orc Thrower rolls one Block Dice; for this example, we will assume that the roll is (![](../media/blitz_bowl/smash_block_small.jpg)), which knocks the Dwarf Blitzer down! Lay the Dwarf Blitzer down in their square - they are now Prone, so the Orc Thrower is no longer Marked.
+The Orc Thrower will start things off with a **Block Action** targeting the Dwarf Blitzer. The Orc Thrower rolls one Block Dice; for this example, we will assume that the roll is (![](../media/blitz_bowl/smash_block_small.jpg){ width=35 height=35 }), which knocks the Dwarf Blitzer down! Lay the Dwarf Blitzer down in their square - they are now Prone, so the Orc Thrower is no longer Marked.
 
 Also, the Dwarf Coach must make an Armour Check by rolling a D6 and comparing it to the Dwarf Blitzer's Armour Value. If the result is lower than the Dwarf Blitzer's Armour Value, then they are Injured and removed from the board! Otherwise, they stay Prone, and will have to make a Stand Up Action to rise to their feet. For the purposes of the following drill, we will assume the Dwarf Blitzer is Injured.
 
@@ -76,7 +76,7 @@ The following two drills show how to make a **Throw Action** with a Player.
 
 Now that the Orc Thrower is no longer Marked, they can make a **Throw Action**. However, the Orc Blitzer and Orc Lineman are difficult to throw to - they are either behind an obstruction (outlined in red) or they are quite far away. To make the throw easier, the Orc Thrower will first make a Run Action, as you learned in drill 1. Do this now, but for the purposes of this drill, do not move the Orc Thrower next to an Orc Player.
 
-After the **Run Action**, the Orc Thrower will make a **Throw Action**. First, place the Throw Ruler so that the curved end is in line with the Orc Thrower's base. If the Throw Ruler reaches the centre of a square containing a Team-mate, the ball can be thrown to that Team-mate. See if you can end the **Run Action** in such a way that both Orc Players can potentially be thrown to, with the Short Throw (![](../media/blitz_bowl/short_throw.jpg)) section of the Throw Ruler reaching the centre of both Orc Players' squares. Now pick a viable Team-mate for the ball to be thrown to and move on to the next drill.
+After the **Run Action**, the Orc Thrower will make a **Throw Action**. First, place the Throw Ruler so that the curved end is in line with the Orc Thrower's base. If the Throw Ruler reaches the centre of a square containing a Team-mate, the ball can be thrown to that Team-mate. See if you can end the **Run Action** in such a way that both Orc Players can potentially be thrown to, with the Short Throw (![](../media/blitz_bowl/short_throw.jpg){ width=35 height=35 }) section of the Throw Ruler reaching the centre of both Orc Players' squares. Now pick a viable Team-mate for the ball to be thrown to and move on to the next drill.
 
 ---
 

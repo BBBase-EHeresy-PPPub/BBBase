@@ -401,20 +401,20 @@ When a player performs a Block Action, they will use a number of special Block D
 
 Block Dice are six-sided dice that feature five different icons instead of the usual numbers 1-6. Each of these icons represents a different outcome from the Block Action, from the player successfully flooring their opponent, to the target managing to hit back in retaliation! These icons and what they do are described below:
 
-#### ![](../media/core_rules/player_down.jpg) PLAYER DOWN
+#### ![](../media/core_rules/player_down.jpg){ width=75 height=75 } PLAYER DOWN
 The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.
 
 
-#### ![](../media/core_rules/both_down.jpg) BOTH DOWN
+#### ![](../media/core_rules/both_down.jpg){ width=75 height=75 } BOTH DOWN
 Both players find themselves hitting the deck after an almighty collision. Both the player that performed the Block Action and the target player are Knocked Down by each other in the squares they are in as if they had both performed a Block Action.
 
-#### ![](../media/core_rules/push_back.jpg) PUSH BACK
+#### ![](../media/core_rules/push_back.jpg){ width=75 height=75 } PUSH BACK
 The player gives their opponent a mighty shove, forcing them backwards. The target player is Pushed Back one square by the player performing the Block Action as described as follows. The player that performed the Block Action may choose to Follow-up, in which case they move into the square vacated by the Pushed player.
 
-#### ![](../media/core_rules/stumble.jpg) STUMBLE
+#### ![](../media/core_rules/stumble.jpg){ width=75 height=75 } STUMBLE
 The target does their best to avoid being clobbered by their attacker. If the target player has the Dodge Skill, then this result becomes Push Back as described above. Otherwise, this result becomes POW as described below.
 
-#### ![](../media/core_rules/pow.jpg) POW
+#### ![](../media/core_rules/pow.jpg){ width=75 height=75 } POW
 The target is knocked flying and ends up hitting the dirt with great force. Apply the Push Back result to the player as described above. Additionally, after the Push Back result has been applied, the target player is immediately Knocked Down by the player performing the Block Action in the square they are now in.
 
 ### SELECT AND APPLY RESULT
