@@ -115,7 +115,7 @@ Should a player successfully Intercept a Pass Action made by an opposition playe
 
 If a player is Knocked Down as a result of a Block Action and suffers a Casualty, regardless of which player performed the Block Action, then the player that knocked them down is said to have caused a Casualty. A player that causes a Casualty will gain 2 SPP.
 
-A player will still gain the 2 SPP even if both players were Knocked Down and suffer a Casualty, and will still gain the 2 SPP even if the Casualty is recovered by any means - such as an Apothecary or the Regeneration Trait. Casualties caused by other methods, such as Secret Actions or by Injury by the Crowd do not generate SPP.
+A player will still gain the 2 SPP even if both players were Knocked Down and suffer a Casualty, and will still gain the 2 SPP even if the Casualty is recovered by any means - such as an Apothecary or the Regeneration Trait. Casualties caused by other methods, such as Special Actions or by Injury by the Crowd do not generate SPP.
 
 #### TOUCHDOWN
 

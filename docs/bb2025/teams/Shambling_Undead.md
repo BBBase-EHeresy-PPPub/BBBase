@@ -23,7 +23,6 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Apothecary] - 50K
 * [Re-roll] - 70K
 
 ### Star Players
