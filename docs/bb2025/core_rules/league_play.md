@@ -231,8 +231,8 @@ Following each League Fixture, if a team has at least 100,000 gold pieces in its
 | 2  | Crisis Averted               | Minor Incident               | Minor Incident               | Major Incident               | Major Incident               | Major Incident         |
 | 3  | Crisis Averted               | Crisis Averted               | Minor Incident               | Minor Incident               | Minor Incident               | Major Incident         |
 | 4  | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Minor Incident               | Minor Incident         |
-| 5  | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted         |
-| 6  | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Minor Incident         |
+| 5  | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Minor Incident         |
+| 6  | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted               | Crisis Averted         |
 
 ### CRISIS AVERTED
 
