@@ -13,7 +13,7 @@
 * [Loner] (4+)
 * [Prehensile Tail]
 * [Two Heads]
-* **Threatening Pass**
+* **Treacherous**
 
 Once per game, if Hakflem is adjacent to a team-mate who is in possession of the ball when he is activated, then Hakflem can choose to gain possession of the ball. If he does, then the team-mate will immediately be Knocked Down. This will not cause a Turnover even if the team-mate suffers a Casualty.
 
