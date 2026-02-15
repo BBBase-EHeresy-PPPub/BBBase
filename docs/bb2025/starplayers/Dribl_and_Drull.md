@@ -15,7 +15,7 @@
 * [Dirty Player]
 * [Dodge]
 * [Loner] (4+)
-* [Quick Flail]
+* [Quick Foul]
 * [Sidestep]
 * [Sneaky Git]
 * [Stunty]
