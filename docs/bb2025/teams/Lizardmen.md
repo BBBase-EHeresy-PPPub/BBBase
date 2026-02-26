@@ -26,8 +26,8 @@
 * [Estelle la Veneaux] - 190K
 * [Anqi Panqi] - 190K
 * [Karla von Kill] - 210K
+* [Zolcath the Zoat] - 220K
 * [Dribl and Drull] - 230K
-* [Zolcath the Zoat] - 230K
 * [Grak and Crumbleberry] - 250K
 * [Glotl Stop] - 260K
 * [Morg 'n' Thorg] - 340K
