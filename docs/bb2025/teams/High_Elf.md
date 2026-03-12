@@ -5,10 +5,10 @@
 
 | Qty  | Position                                | MA | ST | AG | PA | AV | Skills                                            | Primary | Secondary | Cost |
 |------|------------------------------------------|----|----|----|----|----|--------------------------------------------------|--------|-----------|------|
-| 0-16 | High Elf Lineman *(Lineman, Elf)*        | 6  | 3  | 2+ | 3+ | 9+ |                                                  | A G    | S         | 65K  |
-| 0-2  | Phoenix Warrior *(Thrower, Elf)*         | 6  | 3  | 2+ | 2+ | 9+ | • [Cloud Burster]<br>• [Pass]<br>• [Safe Pass]   | A G P  | S         | 90K  |
-| 0-2  | Dragon Prince *(Blitzer, Elf, Runner)*   | 8  | 3  | 2+ | 4+ | 9+ | • [Block]<br>• [My Ball]<br>• [Steady Footing]   | A G    | S         | 110K |
-| 0-2  | White Lion *(Blitzer, Elf)*              | 7  | 3  | 2+ | 3+ | 9+ | • [Claws]<br>• [Wrestle]                         | A G    | P S       | 110K |
+| 0‑16 | High Elf Lineman *(Lineman, Elf)*        | 6  | 3  | 2+ | 3+ | 9+ |                                                  | A G    | S         | 65K  |
+| 0‑2  | Phoenix Warrior *(Thrower, Elf)*         | 6  | 3  | 2+ | 2+ | 9+ | • [Cloud Burster]<br>• [Pass]<br>• [Safe Pass]   | A G P  | S         | 90K  |
+| 0‑2  | Dragon Prince *(Blitzer, Elf, Runner)*   | 8  | 3  | 2+ | 4+ | 9+ | • [Block]<br>• [My Ball]<br>• [Steady Footing]   | A G    | S         | 110K |
+| 0‑2  | White Lion *(Blitzer, Elf)*              | 7  | 3  | 2+ | 3+ | 9+ | • [Claws]<br>• [Wrestle]                         | A G    | P S       | 110K |
 
 ### League
 
