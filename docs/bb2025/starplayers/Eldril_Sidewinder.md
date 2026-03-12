@@ -22,7 +22,6 @@ Once per half, Eldril may re-roll the dice when performing a Hypnotic Gaze Speci
 
 * [Elven Kingdoms League]
 
-
 ### Accept to play for...
 
 * [Dark Elf]

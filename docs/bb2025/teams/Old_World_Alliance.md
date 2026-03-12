@@ -47,7 +47,6 @@
 * [Griff Oberwald] - 300K
 * [Morg 'n' Thorg] - 340K
 
-
 ### Inducements
 
 * [Temp Agency Cheerleader] - 5K

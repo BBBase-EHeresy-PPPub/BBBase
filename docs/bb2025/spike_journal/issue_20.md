@@ -52,7 +52,6 @@ Once per game, at the start of their team turn, a team that has purchased a Cano
 | 11 | **Sandstorm:** Punishing winds have stirred up a sandstorm that has cut visibility and driven the referee inside. No Pass or Throw Team-mate Actions can be performed, and no player may attempt to Rush. In addition, players cannot be Sent-off for committing a Foul, even if they roll a natural double on either the Armour Roll or the Injury Roll. |
 | 12 | **Scarab Swarm:** The acrobatic scarab swarms brought by the local Liche Priests have got loose and they're hungry for flesh. Whenever a player's armour is broken, apply a +1 modifier to the Injury Roll. |
 
-
 ### Nehekharan Kick-off Event Table
 
 | 2D6  | Result |

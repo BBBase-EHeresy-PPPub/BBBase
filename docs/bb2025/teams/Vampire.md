@@ -17,7 +17,6 @@
 
 ### Special Rules
 
-
 * [Masters of Undeath]
 
 ### Staff

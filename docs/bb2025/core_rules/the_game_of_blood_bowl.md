@@ -406,7 +406,6 @@ Block Dice are six-sided dice that feature five different icons instead of the u
 #### ![](../media/core_rules/player_down.jpg){ width=75 height=75 } PLAYER DOWN
 The player performing the Block Action is immediately Knocked Down by the target player as if the target player had performed a Block Action.
 
-
 #### ![](../media/core_rules/both_down.jpg){ width=75 height=75 } BOTH DOWN
 Both players find themselves hitting the deck after an almighty collision. Both the player that performed the Block Action and the target player are Knocked Down by each other in the squares they are in as if they had both performed a Block Action.
 

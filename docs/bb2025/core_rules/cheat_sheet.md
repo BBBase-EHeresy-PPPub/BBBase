@@ -120,7 +120,6 @@ A common way of modifying a player's Strength during Block Actions is through As
 * Blocking players gain a +1 Strength modifier for each player of the same team who is Marking the target of the Block Action and is not Marked by another opposing player.
 * The target of a Block gains a +1 Strength modifier for each player of the same team who is Marking the player performing the Block Action and is not Marked by another opposing player.
 
-
 ### BLOCK DICE
 
 **PLAYER DOWN**

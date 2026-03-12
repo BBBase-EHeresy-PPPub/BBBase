@@ -64,7 +64,6 @@ For each Prayer to Nuffle a team purchases, roll a D16 (re-rolling any results a
 | 15 | **Under Scrutiny:** Any opposition player that performs a Foul Action will automatically be Sent-off if they break armour, regardless of whether a natural double is rolled. |
 | 16 | **Intensive Training:** Randomly select one player on your team that is playing this game. The selected player gains a single Primary Skill of your choice for the duration of the game. |
 
-
 ### 0-5 PART-TIME ASSISTANT COACHES
 **20,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
 

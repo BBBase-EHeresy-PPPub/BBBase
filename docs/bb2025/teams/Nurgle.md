@@ -36,7 +36,6 @@
 * [Lord Borak the Despoiler] - 270K
 * [Morg 'n' Thorg] - 340K
 
-
 ### Inducements
 
 * [Temp Agency Cheerleader] - 5K

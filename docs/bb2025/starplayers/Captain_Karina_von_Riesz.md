@@ -20,7 +20,6 @@ Once per game, when Karina fails a Bloodlust roll, she may choose to bite an opp
 
 * [Sylvanian Spotlight]
 
-
 ### Accept to play for...
 
 * [Necromantic Horror]
