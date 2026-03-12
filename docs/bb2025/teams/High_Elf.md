@@ -1,14 +1,14 @@
-﻿**TIER 1**
+﻿**TIER ?**
 ![](../media/teams/BBHighElves.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                          | MA  | ST  | AG  | PA  | AV  | Skills                                         | Primary | Secondary | Cost |
-| ---- | --------------------------------- | --- | --- | --- | --- | --- | ---------------------------------------------- | ------- | --------- | ---- |
-| 0‑16 | High Elf Lineman *(Lineman, Elf)* | 6   | 3   | 2+  | 3+  | 9+  |                                                | A G     | P S       | 65K  |
-| 0‑2  | High Elf Thrower *(Thrower, Elf)* | 6   | 3   | 2+  | 2+  | 9+  | • [Cloud Burster]<br>• [Pass]<br>• [Safe Pass] | A G P   | S         | 100K |
-| 0‑4  | High Elf Catcher *(Catcher, Elf)* | 8   | 3   | 2+  | 3+  | 8+  | • [Catch]                                      | A G     | S         | 90K  |
-| 0‑2  | High Elf Blitzer *(Blitzer, Elf)* | 7   | 3   | 2+  | 4+  | 9+  | • [Block]                                      | A G     | P S       | 100K |
+| Qty  | Position                                | MA | ST | AG | PA | AV | Skills                                            | Primary | Secondary | Cost |
+|------|------------------------------------------|----|----|----|----|----|--------------------------------------------------|--------|-----------|------|
+| 0-16 | High Elf Lineman *(Lineman, Elf)*        | 6  | 3  | 2+ | 3+ | 9+ |                                                  | A G    | S         | 65K  |
+| 0-2  | Phoenix Warrior *(Thrower, Elf)*         | 6  | 3  | 2+ | 2+ | 9+ | • [Cloud Burster]<br>• [Pass]<br>• [Safe Pass]   | A G P  | S         | 90K  |
+| 0-2  | Dragon Prince *(Blitzer, Elf, Runner)*   | 8  | 3  | 2+ | 4+ | 9+ | • [Block]<br>• [My Ball]<br>• [Steady Footing]   | A G    | S         | 110K |
+| 0-2  | White Lion *(Blitzer, Elf)*              | 7  | 3  | 2+ | 3+ | 9+ | • [Claws]<br>• [Wrestle]                         | A G    | P S       | 110K |
 
 ### League
 
@@ -34,7 +34,6 @@
 * [The Swift Twins] - 300K
 * [Jeremiah Kool] - 300K
 * [Morg 'n' Thorg] - 340K
-
 
 ### Inducements
 
