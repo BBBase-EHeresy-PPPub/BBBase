@@ -57,6 +57,7 @@ When the NAF collapsed, Blood Bowl struggled in the Old World. That was until th
 * [Bretonnian]
 * [Human]
 * [Imperial Nobility]
+* [Norse]
 * [Old World Alliance]
 
 ### ![](../media/core_rules/sylvanian_spotlight.jpg){ width=100 height=100 } SYLVANIAN SPOTLIGHT
