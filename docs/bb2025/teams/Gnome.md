@@ -29,7 +29,6 @@ or
 ### Star Players
 
 * [Akhorne The Squirrel] - 80K
-* [Grombrindal] - 170K
 * [Grak and Crumbleberry] - 250K
 * [Morg 'n' Thorg] - 340K
 
@@ -37,6 +36,7 @@ or
 
 * [Cindy Piewhistle] - 100K
 * [Puggy Baconbreath] - 130K
+* [Grombrindal] - 170K
 * [Rumbelow Sheepskin] - 170K
 
 #### Woodland League
