@@ -34,6 +34,7 @@ or
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
+* [Zzharg Madeye] - 130K
 * [Grak and Crumbleberry] - 250K
 * [H'thark the Unstoppable] - 300K
 * [Morg 'n' Thorg] - 340K
@@ -51,7 +52,6 @@ or
 
 #### Chaos Clash
 
-* [Zzharg Madeye] - 130K
 * [Grashnak Blackhoof] - 240K
 * [Lord Borak the Despoiler] - 270K
 
