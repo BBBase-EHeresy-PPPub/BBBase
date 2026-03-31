@@ -40,15 +40,21 @@
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
-* [Max Spleenripper] - 130K
-* [Guffle Pusmaw] - 150K
-* [Withergrasp Doubledrool] - 170K
-* [Bilerot Vomitflesh] - 180K
-* [Scyla Anfingrimm] - 200K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Lord Borak the Despoiler] - 270K
 * [Morg 'n' Thorg] - 340K
+
+#### Favoured of Khorne
+
+* [Max Spleenripper] - 130K
+* [Scyla Anfingrimm] - 200K
+
+#### Favoured of Nurgle
+
+* [Guffle Pusmaw] - 150K
+* [Withergrasp Doubledrool] - 170K
+* [Bilerot Vomitflesh] - 180K
 
 ### Inducements
 

@@ -46,7 +46,7 @@ or
 * [Rowana Forestfoot] - 160K
 * [Maple Highgrove] - 210K
 * [Deeproot Strongbranch] - 280K
-* [Jordell Freshbreeze] - 300K
+* [Jordell Freshbreeze] - 280K
 
 ### Inducements
 

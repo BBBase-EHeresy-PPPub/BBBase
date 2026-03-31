@@ -30,7 +30,7 @@ or
 
 * [Akhorne the Squirrel] - 80K
 * [Grak and Crumbleberry] - 250K
-* [Jordell Freshbreeze] - 250K
+* [Jordell Freshbreeze] - 280K
 * [Morg 'n' Thorg] - 340K
 
 #### Elven Kingdoms League
