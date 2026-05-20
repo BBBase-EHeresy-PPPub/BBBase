@@ -63,7 +63,7 @@ Below is the full list of the different Skills and the categories they are in. W
 
 Generally speaking, Traits are those abilities that can't be learnt or taught, but unique aspects of the wonderful menagerie of players that take to the Blood Bowl pitch. It is important to know when a player is able to use their Traits during the course of a game. Much like for Skills, each Trait will be defined as either Active or Passive.
 
-An Active Trait can be used by a player at any time, so long as they are Standing and are not Distracted. If an Active Trait can be used by a player that is Prone, Stunned or Distracted, then it will be stated in that Trait's description.
+An Active Trait can be used by a player at any time, so long as they are Standing and are not Distracted. If an Active Trait can be used by a player that is Prone, Stunned or Distracted, then it will be stated in that Trait's description. <span style="color: darkmagenta">If an Active Trait allows a player to declare a Special Action, then they may still declare the Special Action whilst Prone, so long as the Special Action allows them to first make a free Move Action to use the Special Action.</span>
 
 A Passive Trait is one that is always in effect, regardless of the status of the player or if they are Distracted.
 
@@ -480,7 +480,7 @@ When this player is activated, the only action they can declare is a Ball & Chai
 
 When a player performs a Ball & Chain Special Action, position the Throw-in Template over this player so it faces one of the two End Zones or either Sideline. Then roll a D6 and move this player into the square as indicated by the Throw-in Template.
 
-A player that moves in this manner does not have to make an Agility Test to Dodge away from another player's Tackle Zone; they will automatically pass. Opposition players cannot use the Shadowing or Tentacles Skills against a player performing a Ball & Chain Action.
+A player that moves in this manner does not have to make an Agility Test to Dodge away from another player's Tackle Zone; they will automatically pass. Opposition players cannot use the Shadowing or Tentacles Skills against a player performing a Ball & Chain Action. <span style="color: darkmagenta">A player performing a Ball & Chain Action cannot be prevented from moving by the Chomped condition.</span>
 
 - If this move takes this player off the pitch, they will risk Injury by the Crowd.
 - If this move takes this player into a square containing a Standing player (from either team) they will automatically perform a Block Action against that player; this Block Action will ignore the Foul Appearance Skill. If this player is a team-mate, then this player's Coach will choose which result to apply after the Block Dice have been rolled.

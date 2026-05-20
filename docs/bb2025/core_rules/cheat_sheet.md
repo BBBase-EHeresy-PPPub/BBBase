@@ -50,7 +50,7 @@ A Turnover is caused if:
 * A player on the active team attempts a Pass Action and Fumbles the ball.
 * A player on the active team attempts to catch the ball following a Pass Action or a Hand-off Action and fails, resulting in it coming to rest on the ground. If the ball Bounces from the player who failed to Catch it directly into a square containing a player from the active team who successfully Catches the ball, no Turnover is caused.
 * A player on the active team attempts a Pass Action and no player on the active team successfully Catches the ball, resulting in the ball hitting the ground and Bouncing or coming to rest on the ground.
-* A player on the inactive team ends up in possession of the ball following an attempted Pass Action or by successfully Intercepting the ball.
+* ~~A player on the inactive team ends up in possession of the ball following an attempted Pass Action or by successfully Intercepting the ball.~~ <span style="color: darkmagenta">A player on the inactive team ends up in possession of the ball following an attempted Pass Action or Hand-off Action, or by successfully Intercepting the ball.</span>
 * A player on the active team that is in possession of the ball is thrown by a team-mate and fails to land safely, lands in the crowd, or is eaten.
 * A player on the active team is Sent-off for committing a Foul Action.
 * A Touchdown is scored.

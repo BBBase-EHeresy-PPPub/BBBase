@@ -74,7 +74,9 @@ Often when making a dice roll, the rules will require you to roll a certain numb
 #### MODIFYING DICE ROLLS
 Often rules will apply modifiers to the score on a dice, particularly when making a target number roll. When this is the case, roll the dice as normal and apply any modifiers to the score on the dice. For example, if a dice rolled a 4 and had a -1 modifier, then it would count as a 3, or if a dice rolled a 3 and had a +1 modifier, then it would count as a 4, and so on.
 
-It is important to note that the score on a D6 can never be modified to below 1 or to above 6, regardless of modifiers.
+~~It is important to note that the score on a D6 can never be modified to below 1 or to above 6, regardless of modifiers.~~
+
+<span style="color: darkmagenta">It is important to note that the score on a D6 can never be modified to above 6, regardless of modifiers.</span>
 
 #### NATURAL ROLLS
 A natural roll is the actual number rolled on the dice regardless of any modifiers. Some rules will state that a natural X is needed to succeed in a specific situation or to trigger a special rule.
@@ -156,7 +158,7 @@ A Turnover will be caused if:
 - A player on the active team attempts a Pass Action and Fumbles the ball.
 - A player on the active team attempts to Catch the ball following a Pass Action or a Hand-off Action and fails, resulting in it coming to a rest on the ground - if the ball Bounces from the player that failed to Catch the ball directly into a square containing a player from the active team who successfully Catches the ball, no Turnover is caused.
 - A player on the active team attempts a Pass Action and no player on the active team successfully Catches the ball, resulting in the ball hitting the ground and Bouncing or coming to a rest on the ground.
-- A player on the inactive team ends up in possession of the ball following an attempted Pass Action or by successfully Intercepting the ball.
+- ~~A player on the inactive team ends up in possession of the ball following an attempted Pass Action or by successfully Intercepting the ball.~~ <span style="color: darkmagenta">A player on the inactive team ends up in possession of the ball following an attempted Pass Action or Hand-off Action, or by successfully Intercepting the ball.</span>
 - A player on the active team that is in possession of the ball is thrown by a team-mate and fails to land safely, lands in the crowd, or is eaten.
 - A player on the active team is Sent-off for committing a Foul Action.
 - If a Touchdown is scored.
