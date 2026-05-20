@@ -14,7 +14,7 @@ The Cursed Skull Goblet is open to all comers. Coaches participating may use any
 
 **Dark Patrons**
 
-At the start of the Cursed Skull Goblet, each team must decide which of the Chaos gods they will choose as their patron for the upcoming competition. A team may choose Khorne, Nurgle, Tzeentch, Slaanesh or Chaos Undivided to worship. A team with the 'Favoured of…' special rule must select the Chaos god they are favoured of.
+At the start of the Cursed Skull Goblet, each team must decide which of the Chaos gods they will choose as their patron for the upcoming competition. A team may choose Khorne, Nurgle, Tzeentch, Slaanesh or Chaos Undivided to worship. A team with the 'Favoured of...' special rule must select the Chaos god they are favoured of.
 
 Each Chaos god gives its own benefits to the teams that choose them as their patron. These benefits are listed below:
 

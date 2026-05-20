@@ -130,7 +130,7 @@ Whenever an Armour roll is made for a player within the Spike Pit feature, an ad
 
 This is especially true for smaller companies, as getting their adverts into a Blood Bowl ad reel can be a costly endeavour. However, when the local Dungeon Bowl team needs to raise funds for some extra equipment (*or to pay off their last lost bet - Ed*), there is plenty of opportunity for both fledgling companies and well-established brands to plaster the new gear with logos and slogans. Some sponsors' contributions go beyond new equipment and coffers full of coins, providing teams with all sorts of additional 'game aids': from dusty old maps that contain hidden secrets, to thunderously explosive chests that are sure to make any game go out with a bang!
 
-### DUNGEON BOWL, BROUGHT TO YOU BY…
+### DUNGEON BOWL, BROUGHT TO YOU BY...
 
 Sponsors are an optional rule that can be incorporated into a Dungeon Bowl League by the league commissioner, or used in exhibition play to add some additional variety to your Dungeon Bowl games. If these optional rules are used, then at the beginning of the season when coaches set up their team Draft list to the league commissioner, they'll need to select a Sponsor that they are going to represent for the season. Coaches will have the choice of: Cragfall's Catacomb Cartography, Farblast & Sons Ordnance Solutions, Dr Brauer's Prototype Portals, Crystal Ball Sportscasting, Lightninseeds, or Air Oberwald. A Sponsor may be selected by any number of teams, but if you are playing a smaller league with 4-6 coaches, you might want to try randomly assigning a Sponsor to each team, or coming up with a strategy system to allow your coaches sole rights to a Sponsor!
 

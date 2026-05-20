@@ -1,6 +1,6 @@
 ## Amazonian Temple Leagues 'By the Goddesses!'
 
-The Amazonian Temple Leagues allow the various temple-cities from across Lustria to pit their strength and skill against one another. In ages past, Amazonian warriors would test their might and valour in ritual combat or open battle. Nowadays, things are far more civilised (well, kind of… - Ed) as these heroic contests now take place on the Blood Bowl pitch. The dedication and devotion that the Amazons put into their training moulds them into some of the most well-practiced players to grace Nuffle's sacred game, turning their matches into thrilling spectacles for all fans of the sport.
+The Amazonian Temple Leagues allow the various temple-cities from across Lustria to pit their strength and skill against one another. In ages past, Amazonian warriors would test their might and valour in ritual combat or open battle. Nowadays, things are far more civilised (well, kind of... - Ed) as these heroic contests now take place on the Blood Bowl pitch. The dedication and devotion that the Amazons put into their training moulds them into some of the most well-practiced players to grace Nuffle's sacred game, turning their matches into thrilling spectacles for all fans of the sport.
 
 ### The Jungle Bowl
 

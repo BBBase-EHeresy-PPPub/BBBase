@@ -35,7 +35,7 @@ Once per game, at the start of their team turn, a team that has purchased a Cano
 
 | D6 | Result |
 |----|--------|
-| 1 | **Unholy Curse:** It seems that was a bad jar… Randomly select two of your players on the pitch. For the duration of the Drive, those players reduce their MA and AV by 1. |
+| 1 | **Unholy Curse:** It seems that was a bad jar... Randomly select two of your players on the pitch. For the duration of the Drive, those players reduce their MA and AV by 1. |
 | 2 | **Blessing of Ptra:** The holy light of Ptra shines from this jar. Randomly select two of your players on the pitch. For the duration of the Drive, those players gain the [Disturbing Presence] Skill. |
 | 3 | **Blessing of Basth:** The jar contains offerings to Basth, goddess of grace, and her blessing is swift in coming. Choose one of your players on the pitch. Once during the Drive, when that player fails a Dodge Roll, you may choose to pass it instead. |
 | 4 | **Blessing of Qu'aph:** A veil of shadows seeps from the jar, a blessing from the god of subtlety. Randomly select one of your players on the pitch. For the duration of the Drive, that player gains the [Trickster] Trait. |
