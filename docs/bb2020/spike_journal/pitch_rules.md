@@ -58,7 +58,7 @@ If both players agree, they can use this table in place of the Weather table in 
 |------|-----------------------------------------------------------------------------------------------------------------------------|
 | 2    | **Bubbling up from Below:** The players are aghast as viscous liquid begins to seep up from below. Whether this is a natural phenomenon, the result of sabotage or a dire warning that stadia have no place being built above sewage pipes, it's definitely not pleasant! All players on the pitch subtract 1 from their MA. |
 | 3    | **Gloomy:**    The torches are in need of replacing, and the shadows are growing long. All Long pass and Long bomb Pass actions suffer an additional -1 modifier. Additionally, when a player attempts to Rush for a second or subsequent time during their activation, apply an additional -1 modifier. |
-| 4‑10 | **Perfect Conditions (well, almost):** The light of the sun might be missing, but the conditions are almost perfect for Blood Bowl. |
+| 4-10 | **Perfect Conditions (well, almost):** The light of the sun might be missing, but the conditions are almost perfect for Blood Bowl. |
 | 11   | **Thermal Geysers:** Vapour begins to whistle up from cracks in the ground, followed by forceful gouts of roiling steam. If a player on your team Falls Over or is Knocked Down, roll a D6. On a roll of 1, they crack open a thermal geyser. That player is immediately catapulted through the air. Immediately treat that player as being thrown (as if they had the Right Stuff trait) by another player (with the Throw Team-mate trait), and treat the quality of the throw as terrible. |
 | 12   | **Seismic Activity:** "Uh oh... was that a tremor?" Roll a D6 at the end of each team turn, adding 1 to the result for each player on the pitch with a Strength of 5 or more. On a roll of 6+, rocks tumble down from up above. Both coaches roll-off. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. That player is struck by a falling rock and Knocked Down. If the roll-off results in a tie, do not roll again. Instead, both coaches must randomly select a player to be struck by a falling rock. |
 
@@ -96,9 +96,9 @@ The Goblin pitch has two sides - one flooded, the other relatively dry. At the s
 
 | 2D6 | Result                                                                                                            |
 |------|-------------------------------------------------------------------------------------------------------------------|
-| 2‑5  | **Dazzling Sun:** The sun has come out but it is dazzling the players, who had grown accustomed to the gloom. A -1 modifier applies to all Passing Ability tests. |
-| 6‑8  | **Light Drizzle:** It's raining, but not enough to affect the game. If the board is on its Dry side, roll a D6 at the end of each drive. On a result of 5 or 6, flip the board to the Flooded side before setting up for the next drive. |
-| 9‑12 | **Brisk Downpour:** The heavens have opened! A -1 modifier applies to all attempts to Catch, Intercept or Pick-up the ball. In addition, if the board is currently on its Dry side, roll a D6 at the end of each drive. On a result of 3 or more, flip the board to the Flooded side before setting up for the next drive. |
+| 2-5  | **Dazzling Sun:** The sun has come out but it is dazzling the players, who had grown accustomed to the gloom. A -1 modifier applies to all Passing Ability tests. |
+| 6-8  | **Light Drizzle:** It's raining, but not enough to affect the game. If the board is on its Dry side, roll a D6 at the end of each drive. On a result of 5 or 6, flip the board to the Flooded side before setting up for the next drive. |
+| 9-12 | **Brisk Downpour:** The heavens have opened! A -1 modifier applies to all attempts to Catch, Intercept or Pick-up the ball. In addition, if the board is currently on its Dry side, roll a D6 at the end of each drive. On a result of 3 or more, flip the board to the Flooded side before setting up for the next drive. |
 
 If the board is flipped to its Flooded side, the following rules are in play for the remainder of the game:
 
@@ -167,7 +167,7 @@ Grandfather Nurgle is a god of fecundity. Wherever his followers travel, a grues
 
 **Using the Nurgle's Garden Pitch in Your Blood Bowl Games**
 
-The Nurgle's Garden pitch has two sides—one representing the pitch in a hibernating and sedate state, the other far more vigorous as strange flora and fauna bursts forth! If both players agree, the following rules can be used to represent the unusual conditions.
+The Nurgle's Garden pitch has two sides - one representing the pitch in a hibernating and sedate state, the other far more vigorous as strange flora and fauna bursts forth! If both players agree, the following rules can be used to represent the unusual conditions.
 
 The Hibernating Garden side of the pitch is used during the first half of the game. If, during the first half, a player on either team is removed as a Casualty for any reason, maggoty worms and daemonic plants awaken and burst from the loamy earth. Should this happen, at half time, turn the pitch over so that the Blooming Garden side is showing. For the duration of the second half, there is no need to roll for Weather; the weather conditions in effect will be 11 (Pouring Rain), due to the trillions of maggots that erupt from the earth, covering the ball and making it harder to handle.
 
@@ -189,11 +189,11 @@ The Ogre Mega-Maul pitch has two sides - one depicting the pitch in fair weather
 
 The desert side of the pitch is used during the first half of the game, subjecting the players to the blinding light of the sun and the savage bite of chill winds laden with desert sands. Do not roll on the Weather table at the start of the game. Instead, the following weather conditions will be in effect for the duration of the first drive:
 
-**STRONG WINDS**: Immediately roll on the Random Direction template to determine the direction of the wind and make a note of the result. During kick-offs and inaccurate passes, the ball scatters D3 squares in this direction before normal scatter rolls are made.
+**STRONG WINDS:** Immediately roll on the Random Direction template to determine the direction of the wind and make a note of the result. During kick-offs and inaccurate passes, the ball scatters D3 squares in this direction before normal scatter rolls are made.
 
 If a Changing Weather result is rolled during any kick-off, do not roll on the Weather table, instead, a sudden blizzard descends with the following effects - turn the board over to the Sudden Blizzard side:
 
-**SUDDEN BLIZZARD**: Visibility is low, it's slippery underfoot and it's impossible to spot tripping hazards, making it very difficult indeed to block effectively. Whenever a player makes a Blitz action, their ST is reduced by 1 for the duration of that action. Additionally, whenever a player is Knocked Down, add 1 to the result of the Armour roll.
+**SUDDEN BLIZZARD:** Visibility is low, it's slippery underfoot and it's impossible to spot tripping hazards, making it very difficult indeed to block effectively. Whenever a player makes a Blitz action, their ST is reduced by 1 for the duration of that action. Additionally, whenever a player is Knocked Down, add 1 to the result of the Armour roll.
 
 Should another Changing Weather result be rolled, roll as normal on the Weather table.
 

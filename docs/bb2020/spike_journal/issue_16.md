@@ -1,10 +1,10 @@
-## VAMPIRE NOBLE LEAGUES 'RAISING THE STAKES!'
+## Vampire Noble Leagues 'Raising the Stakes!'
 
 Spending their nights indulging in the honourable sport of Blood Bowl has become a common pastime for many of the aristocratic Vampire families across Sylvania. Rather than engaging in high society cloak and dagger gossip, a large number of the nocturnal nobles now resolve their petty (*and some more serious - Ed*) grievances on the gridiron instead; either stepping onto the field themselves alongside a team they own or manage, or inviting teams to play on their behalf.
 
 ### The Crimson Chalice Challenge
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised, number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Crimson Chalice Challenge differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised, number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Crimson Chalice Challenge differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -33,9 +33,7 @@ All Inducements should be allowed in the Crimson Chalice Challenge. Additionally
 
 #### 0-1 Wandering Haemomancer
 
-**(150,000 Gold Pieces)**
-
-**Available to Any Team:**
+**(150,000 gold pieces) Available to any team**
 
 Once per game, a Wandering Haemomancer can cast one of the two spells listed below at the end of either player's team turn, before the next one begins:
 
@@ -53,7 +51,7 @@ Once per game, a Wandering Haemomancer can cast one of the two spells listed bel
 
 Teams that manage to secure victory in the Crimson Chalice Challenge receive handsome rewards from the Vampire nobles who sponsor the event. The top placed teams of the Crimson Chalice Challenge are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the **Blood Bowl rulebook**, as well as an additional 20,000 gold pieces.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the Blood Bowl rulebook, as well as an additional 20,000 gold pieces.
 
 **The Crimson Chalice:** At the start of each game, randomly select a player on your team that is eligible to play in the game. The chosen player gains the Frenzy and Juggernaut skills until the end of the game.
 
@@ -63,7 +61,7 @@ Teams that manage to secure victory in the Crimson Chalice Challenge receive han
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Voracious Fans!:** I pity anyone who ends up in the crowd tonight - those fans are looking more than a little peckish! Whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
 | 3   | **Blood-slicked Floor:** Well, it looks as if one of the servants has spilled a tray of drinks onto the field. I hope they get a wet floor sign out before anyone slips! Players attempting to Rush suffer a -1 penalty to the roll. |
-| 4‑10| **A Perfect Host:** The game's benevolent benefactor has made sure that both fans and players have everything they need for the game ahead, making for perfect conditions for Blood Bowl! |
+| 4-10 | **A Perfect Host:** The game's benevolent benefactor has made sure that both fans and players have everything they need for the game ahead, making for perfect conditions for Blood Bowl! |
 | 11  | **Howling Gale:** A powerful gust of wind has blown open the windows and exterior doors, making passing near-impossible until they can be closed again. Until the end of the current drive, only Quick passes and Short passes may be attempted. Additionally, at the beginning of the next drive, before Step 2 of the Start of Drive Sequence, roll again on the Creepy Castle Weather table as the windows and doors have been secured against the wind... for now. |
 | 12  | **Deafening Downpour:** The sound of the rain hammering on the windows has drowned out all but the loudest of the coach's instructions. Whenever a player wishes to use a team re-roll, they must first roll a D6. On a 2+, the coach's manic yelling can be made out and the re-roll may be used as normal. On a 1, the thunderous sound of the rain makes it impossible to communicate and the re-roll may not be used, but is not lost. |
 

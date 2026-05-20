@@ -4,9 +4,9 @@ The Chaos Dwarfs have never been shy of running their own, independent competiti
 
 Here at *Spike! Journal*, we pride ourselves on showcasing the most action packed Blood Bowl news we can find. So, we sent out reporters to the ash-covered wastes of the Dark Lands in the hopes of finding some gold-standard games or, at the very least, some violent gridiron-based action!
 
-### THE DARK LANDS DERBY
+### The Dark Lands Derby
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Dark Lands Derby differs from a normal season, however, in a few key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Dark Lands Derby differs from a normal season, however, in a few key aspects.
 
 **Open to All**
 
@@ -24,7 +24,7 @@ All Inducements should be allowed in the Dark Lands Derby. Additionally, if the 
 
 #### 0-1 Chaos Dwarf Sorcerer
 
-**(150,000 Gold Pieces) Available To Any Team**
+**(150,000 gold pieces) Available to any team**
 
 Once per game, a Chaos Dwarf Sorcerer may cast one of the two spells listed below at the end of either player's team turn, before the next one begins:
 
@@ -42,26 +42,26 @@ Target up to two standing opposition players anywhere on the pitch and roll a D6
 
 Teams that manage to win a league in the despicable Dark Lands are well compensated with gems, precious metals and coin aplenty. The top placed teams of The Dark Lands Derby are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
 **The Obsidian Ziggurat Trophy:** In addition to their cash prize, the winner will receive the opulent **Obsidian Ziggurat Trophy**. This enormous, gem-encrusted monolith is one of the largest trophies in Blood Bowl - its glittering form visible from across the stadium, reminding its keepers of just what they can accomplish when they knuckle down and play their best! The team that holds the Obsidian Ziggurat Trophy gains the following ability:
 
 At the beginning of each half, gain one additional team re-roll.
 
-### ASH WASTELAND WEATHER TABLE
+### Ash Wasteland Weather Table
 
-| **2D6** | **RESULT**                                                                                                                                                          |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2D6 | Result |
+|-----|--------|
 | 2          | **Ash Cloud:** A thick cloud of grey ash has washed over the field and killed the visibility! Players may not perform Pass actions. Players will not be Sent-off for rolling a double when performing a Foul action. Even an honest referee would struggle to see underhanded play in these conditions! |
 | 3          | **Volcanic Fallout:** The local volcano has started spitting flaming rocks from its summit, forcing players to keep an eye on the burning projectiles as well as their opponents! At the end of every team turn, roll a D6. On a 1, a randomly selected player on the active team is bludgeoned by a falling rock and is immediately Knocked Down. |
-| 4‑10       | **Calm and Clear:** The Dark Lands appear to have pressed pause on its seismic activity and volatile weather, creating perfect conditions for Blood Bowl!                        |
+| 4-10       | **Calm and Clear:** The Dark Lands appear to have pressed pause on its seismic activity and volatile weather, creating perfect conditions for Blood Bowl!                        |
 | 11         | **Choking Smog:** The industrial mining operations of the Chaos Dwarfs have massively reduced the already poor air quality in the region, making breathing even more difficult. While this weather condition is in effect, players may not Rush. |
 | 12         | **Tectonic Tremors:** Local seismic activity is causing the ground to rumble and shake, making footing treacherous at best. At the end of every team turn, roll a D6 for each Standing player on the active team currently on the pitch. On a 1, that player loses their balance and is Placed Prone. |
 
-### The Dark Lands Kick-Off Event
+### The Dark Lands Kick-off Event
 
-| **2D6** | **RESULT**                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2D6 | Result |
+|-----|--------|
 | 2      | **Unobservant Officials:** With the referee's attention elsewhere during kick-off, a couple of Hobgoblins make a bid for glory and charge onto the gridiron! Both coaches immediately gain a Hobgoblin Lineman for the duration of the drive. This can mean that teams have more than 11 players on the pitch for this drive. These Hobgoblin Linemen can be placed anywhere in their team's half, but not in either of the Wide Zones. At the end of the drive, remove the Hobgoblin Linemen from play as the referee ejects them from the game. |
 | 3      | **Boiling Geyser:** The liquid within this geyser has been heated to boiling point and periodically blasts scalding hot water across the field! Both coaches roll a D6. The coaches who rolls the lowest, or both coaches in the case of a tie, randomly selects one of their players from among those on the field and immediately makes an Armour roll (and subsequent Injury roll, if necessary) against them, as they are showered in boiling water!                                                                                     |
 | 4      | **Lava Pools:** A flare in seismic activity has caused lava to bubble up through a number of cracks in the field - yet another reason not to hit the dirt! Until the end of the drive, whenever a player is Knocked Down, apply a +1 modifier to the Armour roll.                                                                                                                                                                                                                                          |

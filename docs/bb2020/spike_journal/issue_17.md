@@ -1,10 +1,10 @@
-## GNOME GARDEN LEAGUES 'NO PLACE LIKE GNOME!'
+## Gnome Garden Leagues 'No Place Like Gnome!'
 
 As it turns out, Gnomes have actually been playing Blood Bowl for a lot longer than most races have given them credit for - albeit their own unique brand of the game that focuses mainly on their more magical talents. Illusions and trickery are actively encouraged in the Gnome Garden Leagues, making the games played within the cloaked Gnomish lands a spectacular sight (*if very unorthodox - Ed*) for any fan that isn't a stickler for the rules - after all, there's no business like Gnome business!
 
 ### The Fey Forest Cup
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Fey Forest Cup differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Fey Forest Cup differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -26,9 +26,9 @@ All Inducements should be allowed in the Fey Forest Cup; in fact, they should be
 
 #### 0-1 Healing Spites
 
-**(50,000 Gold Pieces)**
+**(50,000 gold pieces) Available to any team**
 
-**Available to Any Team:** Not all Spites are full of, well, spite. Some of them are actually friendly creatures who will help wake up players if an opponent has taken roughhousing too far, or they have tripped over a stray root and gone tumbling into the turf!
+Not all Spites are full of, well, spite. Some of them are actually friendly creatures who will help wake up players if an opponent has taken roughhousing too far, or they have tripped over a stray root and gone tumbling into the turf!
 
 A team that has hired Healing Spites may re-roll any rolls of a 1 when rolling to recover KO'd players at the end of each drive.
 
@@ -36,7 +36,7 @@ A team that has hired Healing Spites may re-roll any rolls of a 1 when rolling t
 
 Teams that manage to secure victory in the Fey Forest Cup receive a modest sum of gold (and gemstones!) for their efforts. The top placed teams of the Fey Forest Cup are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
 **The Fey Forest Cup:** In addition to their cash prize, the winner will receive the Fey Forest Cup. This delightful-looking trophy is imbued with strange mystical power that brings good fortune to whoever holds it. The team that holds the Fey Forest Cup gains the following ability:
 
@@ -48,7 +48,7 @@ Whenever your team uses a Team Re-Roll, roll a D6. On a 6, the Team Re-Roll is f
 |-----|-----------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Powerful Gale:** The winds have picked up and are battering the trees with reckless abandon, causing branches to fall and making the passing game all but impossible! Players may not attempt Pass actions. Additionally, any player that ends their activation in a Wide Zone must roll a D6. On a 1, a falling branch hits them and they are immediately Knocked Down. This will not cause a turnover unless the player was carrying the ball. |
 | 3   | **Spring Showers:** While the rain isn't heavy, and is more of a light drizzle, when combined with the leaves on the forest floor it makes it rather hard for players to keep their footing if they are moving too quickly! Players attempting to Rush suffer a -1 penalty to the roll. |
-| 4‑10| **All Is Calm:** The air is still, the weather is nice, and the birds are chirping in the trees; it's a perfect day for some Blood Bowl! |
+| 4-10 | **All Is Calm:** The air is still, the weather is nice, and the birds are chirping in the trees; it's a perfect day for some Blood Bowl! |
 | 11  | **Bright Sunlight:** It's a beautiful day, though the sun is filtering through the tree branches and making it hard to see properly for anyone caught in its warmth. Any players that attempt a Pass action must apply an additional -1 modifier to the Passing Ability test. |
 | 12  | **Summer Scorcher:** It's really rather hot for the time of year, and some of the players simply can't cope with the heat and may decide to have a quick rest. Whenever a player attempts to stand up, they must first roll a D6. On a 1, the player is taking a quick breather, may not stand up, and their activation immediately ends. |
 

@@ -4,7 +4,7 @@ The Amazonian Temple Leagues allow the various temple-cities from across Lustria
 
 ### The Jungle Bowl
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played, and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Jungle Bowl differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played, and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part and what is best for everyone participating. The Jungle Bowl differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -29,21 +29,23 @@ The following table is used to represent the unique impact that the local inhabi
 
 All Inducements should be allowed in the Jungle Bowl. Additionally, if the league commissioner wishes, the following new Inducement may be added:
 
-#### 0-1 Ancient Artefact (50,000 Gold Pieces)
+#### 0-1 Ancient Artefact
 
-**Available to Any Team:** Once per game, at the start of any friendly team turn, the head coach of a team with an Ancient Artefact can attempt to harness whatever power might be stored within the treasure. They then roll a D6 and consult the chart below:
+**(50,000 gold pieces) Available to any team**
+
+Once per game, at the start of any friendly team turn, the head coach of a team with an Ancient Artefact can attempt to harness whatever power might be stored within the treasure. They then roll a D6 and consult the chart below:
 
 | D6 | Result                                                                                                                         |
 |----|-------------------------------------------------------------------------------------------------------------------------------|
 | 1  | The item carries a curse or similarly foul incantation. Randomly select a player on your team from among those on the pitch. The selected player is immediately placed in the Knocked-out box of their team's dugout; this will not cause a turnover, even if that player has the ball. |
-| 2‑5| This item is little more than a trinket, but a seemingly lucky one at that! The team immediately gains a team re-roll until the end of the current half. |
-| 6  | This artefact clearly possesses a powerful healing aura. Choose one player in either your Knocked-out box or Casualty box (with the exception of a player that is Dead or Sent-off). The chosen player immediately wakes up and is placed in the Reserves box. If there are no players in either your Knocked-out box or Casualty box, treat the roll as a 2‑5 instead. (*You'd think a near-death experience would earn anyone a nice panini in the end, but Blood Bowl stars are rarely the brightest sparks! - Ed*) |
+| 2-5 | This item is little more than a trinket, but a seemingly lucky one at that! The team immediately gains a team re-roll until the end of the current half. |
+| 6  | This artefact clearly possesses a powerful healing aura. Choose one player in either your Knocked-out box or Casualty box (with the exception of a player that is Dead or Sent-off). The chosen player immediately wakes up and is placed in the Reserves box. If there are no players in either your Knocked-out box or Casualty box, treat the roll as a 2-5 instead. (*You'd think a near-death experience would earn anyone a nice panini in the end, but Blood Bowl stars are rarely the brightest sparks! - Ed*) |
 
 ### Many Glorious Prizes!
 
 Teams that manage to win a league in Lustria are well rewarded with ancient gold from long-forgotten temples, as well as a stunning trophy! The top placed teams of the Jungle Bowl are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
 **The Jungle Bowl Cup:** In addition to their cash prize, the winner will receive the mysterious Jungle Bowl Cup. Like many relics from the continent of Lustria, its origins are long forgotten, but it is said that some who drink from the cup in celebration are gifted with swiftness and agility rivaling that of the Amazonian goddess, Rigg. The team that holds the Jungle Bowl Cup gains the following ability:
 
@@ -55,7 +57,7 @@ At the start of each game, randomly select a player on your team that is eligibl
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Tropical Storm:** A typhoon has made its way into the area, bending trees and disrupting the match with a powerful gale. While this weather condition is in effect, ignore Step 2 of the Start of Drive sequence - it is not possible for a kick-off to be resolved and a touchback is automatically caused instead. Additionally, while this weather condition is in effect, no Pass actions or Throw Team-mate actions can be performed. |
 | 3   | **Sudden Downpour:** The heavens have opened! The players are soaked to the bone and the ball is very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick-up the ball, or to attempt to interfere with a pass. Additionally, the poor visibility means that only Quick and Short passes can be attempted. |
-| 4‑10| **Cool Breeze:** A gentle wind has stifled the humidity for the time being; it's perfect weather for Blood Bowl!                                                                    |
+| 4-10 | **Cool Breeze:** A gentle wind has stifled the humidity for the time being; it's perfect weather for Blood Bowl!                                                                    |
 | 11  | **Sunny Spell:** The sun is shining and it's playing havoc on the passing game! Apply a -1 modifier every time a player tests against their Passing Ability.                         |
 | 12  | **Hellish Humidity:** The heat and humidity is really starting to get to some of the players; they are dropping like Halflings after a picnic! At the end of every team turn, roll a D6. On a roll of 1, a single randomly selected player on the active team succumbs to the oppressive heat and is Placed Prone. |
 
@@ -73,7 +75,7 @@ At the start of each game, randomly select a player on your team that is eligibl
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                        |
 | 10  | **Scattered Debris:** The broken, uneven ground makes it particularly punishing for any players thrown to the ground! Until the end of the drive, whenever a player is Knocked Down, apply a +1 modifier to the Armour roll. |
 | 11  | **Rapid Growth:** Vines swiftly sprout across the field with unnatural speed and purpose, tangling up the players! All players have their MA reduced by 1 for the duration of the drive. |
-| 12  | **Divine Intervention:** The combination of a temple-side pitch and a cracking game has clearly attracted the attention of a deity - maybe the goddess Rigg, or perhaps even the mighty Nuffle! Each coach may roll twice on the Prayers to Nuffle table, applying all of the results as described on page 38 of the **Blood Bowl rulebook**. |
+| 12  | **Divine Intervention:** The combination of a temple-side pitch and a cracking game has clearly attracted the attention of a deity - maybe the goddess Rigg, or perhaps even the mighty Nuffle! Each coach may roll twice on the Prayers to Nuffle table, applying all of the results as described on page 38 of the Blood Bowl rulebook. |
 
 ---
 

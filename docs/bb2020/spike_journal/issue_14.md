@@ -1,4 +1,4 @@
-## Northern Leagues For Glory and Ale!
+## Northern Leagues for Glory and Ale!
 
 Populated by teams of powerful Norscans, and anyone else crazy enough to sail to the cold wastes, the Northern League is a tough test for any team wanting to prove themselves as one of the best. With the brutal, unforgiving weather, not to mention the brutal, unforgiving playstyle of most of the teams, only the most hardy and rugged of players can hope to survive a season in the Northern Leagues in one piece!
 
@@ -8,7 +8,7 @@ We found that the games 'up north' were often a guarantee of two things: plenty 
 
 ### The Icebowl
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played, and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Icebowl differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised - number of teams, how many divisions there are, how many rounds are played, and so forth - should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Icebowl differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -50,24 +50,24 @@ All Inducements should be allowed in the Icebowl. Additionally, if the league co
 
 #### 0-1 Norscan Seer
 
-**(50,000 Gold Pieces)**
+**(50,000 gold pieces) Available to any team**
 
-**Available to any team:** Some of the more superstitious folk in Norsca believe that the wise and ancient sages of the north interpret the word of Nuffle through the casting of bones or the reading of rune stones.
+Some of the more superstitious folk in Norsca believe that the wise and ancient sages of the north interpret the word of Nuffle through the casting of bones or the reading of rune stones.
 
 Immediately after step 6 of the pre-game sequence, a team that has hired a Norscan Seer may ask them to read the runes; they then roll a D6 and consult the chart below:
 
 | D6 | Result                                                                                                        |
 |----|---------------------------------------------------------------------------------------------------------------|
 | 1  | **The Portents read Doom!** The team immediately loses one team re-roll.                                      |
-| 2‑3| **The Portents are Clouded, much like the Weather.** You may immediately change the weather to any result on the Weather table. |
-| 4‑5| **Nuffle is Watching...** You may immediately roll once on the Prayers to Nuffle table.                       |
+| 2-3 | **The Portents are Clouded, much like the Weather.** You may immediately change the weather to any result on the Weather table. |
+| 4-5 | **Nuffle is Watching...** You may immediately roll once on the Prayers to Nuffle table.                       |
 | 6  | **Nuffle Smiles on us this day!** Randomly select one player on your team that is available to play during the drive, and that does not have the Loner (X+) trait. Until the end of the game, that player gains a single Primary skill of your choice. |
 
 ### Many Glorious Prizes!
 
 Any team able to come out on top in the Icebowl will be remembered in songs and sagas for years to come, and the party that follows the final of the Icebowl is often as anticipated as the final itself! The top placed teams of the Icebowl are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
 **The Icebowl Chalice:** In addition to their cash prize, the winner will receive the stunning Icebowl Chalice, which doubles as not only a glorious prize, but also a wonderful drinking vessel! Having such a splendid receptacle to party with would encourage any team to let their hair down a little and enjoy themselves - and you know what they say, a team that parties together, wins together! The team that holds the Icebowl Chalice gains the following ability at the start of each game:
 
@@ -83,7 +83,7 @@ To represent the unique conditions teams must face in the Icebowl, the following
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Wind Chill:** The biting wind is enough to force some players to hide from the freezing cold in the dugout! At the end of step 1 of the Start of Drive sequence, both coaches roll a D6. The team that scores the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has had enough of the dreadful wind. Immediately place the selected player in the Reserves box to warm up. |
 | 3   | **Freezing Fog:** The weather is so cold it's causing players' fingers to go numb, which makes catching the ball difficult indeed! Apply a -1 modifier every time a player makes an AG test when attempting to catch the ball, pick up the ball, or to interfere with a Pass action. |
-| 4‑10| **Clear and Calm:** The frequently dangerous climate is unusually calm and warm (for Norsca at least!), making it perfect (*ish - Ed*) Blood Bowl weather. |
+| 4-10 | **Clear and Calm:** The frequently dangerous climate is unusually calm and warm (for Norsca at least!), making it perfect (*ish - Ed*) Blood Bowl weather. |
 | 11  | **Hail Shower:** At the start of each team's turn, roll a D6. On a 1, randomly select one player on the pitch from the active team. This player is struck by an unusually large hailstone; make an Armour roll for this player. If the Armour roll is successful, do not make an Injury roll; the player is instead automatically Stunned. This will not cause a Turnover, even if the player with the ball is Knocked Down. |
 | 12  | **White-out:** It's snowing so heavily that it's near impossible for the players to see anything at all! Players may not perform Pass actions. Additionally, a player may not declare a Blitz action against an opposing player who is more than three squares away from them. |
 
@@ -115,11 +115,11 @@ There are very few grand stadia in Norsca, with most of the Blood Bowl pitches b
 
 The Frozen Lake pitch has two sides - one depicting the pitch in fair weather, with the lake covered in a thick sheet of ice. The other side depicts the pitch after some disaster or another has caused the ice to break apart, exposing the frigid waters below. If both coaches agree, the following rules can be used to represent the unusual conditions:
 
-**Frozen Surface**: At the start of the game, the waters of the lake are as solid as astrogranite. The surface is difficult to find traction on but, once a player does, coming to a stop can be a problem! Players may attempt to Rush one additional time. However, players must apply a -1 modifier to the roll on each Rush attempt after the first.
+**Frozen Surface:** At the start of the game, the waters of the lake are as solid as astrogranite. The surface is difficult to find traction on but, once a player does, coming to a stop can be a problem! Players may attempt to Rush one additional time. However, players must apply a -1 modifier to the roll on each Rush attempt after the first.
 
 Additionally, at the end of each drive, before removing any models, count up the total number of Prone players on the pitch. If the total between both teams is five or more, flip the board over to the Fragmented Surface side.
 
-**Fragmented Surface**: All those players hitting the deck have caused a chain reaction of cracks and fissures. The players are going to need to keep their balance to ensure they don't fall over on the uneven surface! Players suffer an additional -1 modifier on Agility tests when they attempt to Dodge, Leap, Jump or land after being thrown.
+**Fragmented Surface:** All those players hitting the deck have caused a chain reaction of cracks and fissures. The players are going to need to keep their balance to ensure they don't fall over on the uneven surface! Players suffer an additional -1 modifier on Agility tests when they attempt to Dodge, Leap, Jump or land after being thrown.
 
 ---
 

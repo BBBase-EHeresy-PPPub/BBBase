@@ -1,4 +1,4 @@
-## ALL-STAR GAMES
+## All-Star Games
 
 **LEGENDS OF THE GAME**
 
@@ -10,7 +10,7 @@ This is the perfect excuse for coaches to field their favourite Star Players all
 
 Over the next few pages we explain everything you need to know to start playing your very own All-Star Games. From drafting your rosters of Star Players to any extra rules that are required when playing an All-Star Game. There are also two set rosters of Star Players to use to recreate the inaugural Cabalvision All-Star Spectacular from the year 2500. Enjoy!
 
-### ALL-STAR ROSTERS
+### All-Star Rosters
 
 The most important thing that coaches need to sort out before they begin an All-Star Game is who gets to use which Star Players. After all, a Star Player can only play for one team at a time; they may be exceptional players but even they can't be in two places at once!
 
@@ -52,7 +52,7 @@ As an All-Star roster is not put together using gold pieces, there are certain e
 
 Finally, and most importantly, we have re-rolls. Both teams in an All-Star Game automatically start with three team re-rolls at the start of each half.
 
-### RULES DIFFERENCES
+### Rules Differences
 
 To help a game using only Star Players run smoothly, and to add to the fun of this unique type of game, there are a few rules differences between an All-Star game and a regular game of Blood Bowl.
 
@@ -86,11 +86,11 @@ As an All-Star game is simply an exhibition match, albeit a very important and l
 
 ---
 
-## OPTIONAL LEAGUE RULES
+## Optional League Rules
 
 **LONG TERM CONTRACTS**
 
-### SIGNING ON
+### Signing On
 
 **Contracts.** The huge scrolls of paper that detail a player's commitment to a team (and filled with microscopic small print, of course!) and outlines all the perks, benefits and added little extras they receive for performing well - and, on occasion, the measures taken should they underperform. Good performances on the pitch will often result in a much more lucrative deal being struck at the end of the season as the team strives to retain the services of their very best players. Though should the player fail to live up to expectations then they may soon find themselves cut from the team and looking for a new employer before the next season kicks off!
 
@@ -102,9 +102,9 @@ This section of *Spike! Presents 2021 Almanac!* outlines an additional way coach
 
 Over the next few pages, we outline exactly how this works, detailing how coaches go about selecting their Star Players, how this affects things such as Team Value, what happens in subsequent seasons, and any other slight rules tweaks that are needed when using these rules for hiring Star Players in your leagues.
 
-### DRAFTING YOUR TEAMS
+### Drafting Your Teams
 
-As with any other standard league, the first thing that each coach needs to do is draft their starting roster. This follows all the normal rules for drafting a Blood Bowl team as laid out on pages 30-35 of the **Blood Bowl rulebook.** Coaches have 1,000,000 gold pieces to spend on players, Sideline Staff, team re-rolls and so forth.
+As with any other standard league, the first thing that each coach needs to do is draft their starting roster. This follows all the normal rules for drafting a Blood Bowl team as laid out on pages 30-35 of the Blood Bowl rulebook. Coaches have 1,000,000 gold pieces to spend on players, Sideline Staff, team re-rolls and so forth.
 
 Once all coaches have written and submitted their team rosters, it is time to sign some Star Players!
 
@@ -130,7 +130,7 @@ Not every Star Player will be fortunate enough to be signed for the entire seaso
 
 Star Players that were not signed to any team are still eligible to be hired by any team as Inducements in the usual way. To make it clear to all coaches which Star Players are able to be hired as Inducements, the League Commissioner should have a list of these Star Players that is easily accessible to all coaches.
 
-### RULES DIFFERENCES
+### Rules Differences
 
 Signing Star Players in this way is rather different to the usual ways in which coaches would go about adding these famous players to their teams. As such there are a few small differences to leagues that use these optional rules for Star Players, designed for all coaches to get the best out of their favourite Star Players and the rest of their teams as well.
 
@@ -146,9 +146,9 @@ This means that Star Players will always be able to play at their best, and will
 
 As normal when playing with a Star Player on your team, Star Players themselves do not gain Star Player Points like normal players do. As such, they cannot gain new Skills or characteristic improvements, or be awarded the MVP award for a game, during the course of a season.
 
-### SUBSEQUENT SEASONS
+### Subsequent Seasons
 
-At the end of the season, all the Star Player's contracts will expire and coaches must remove them from their respective rosters. The next step is for all coaches to re-draft their teams ready for the new season as per the rules for re-drafting teams found on pages 99-100 of the **Blood Bowl rulebook.** Additionally, any new coaches that wish to join the league must draft their roster as normal at this point.
+At the end of the season, all the Star Player's contracts will expire and coaches must remove them from their respective rosters. The next step is for all coaches to re-draft their teams ready for the new season as per the rules for re-drafting teams found on pages 99-100 of the Blood Bowl rulebook. Additionally, any new coaches that wish to join the league must draft their roster as normal at this point.
 
 The next stage is for teams to sign a Star Player for the new season. This works slightly differently to how it did in the previous season; essentially, the lower down the league a team finished in the previous season, the earlier they get the chance to pick a Star Player for the upcoming season.
 
@@ -183,9 +183,9 @@ In subsequent seasons, if a team signs the same Star Player as it did in the pre
 
 ---
 
-## MULTI-PLAYER DUNGEON BOWL
+## Multi-player Dungeon Bowl
 
-### MULTI-PLAYER MAYHEM
+### Multi-player Mayhem
 
 **Dungeon Bowl** is, by its very nature, a chaotic experience at the best of times! Teams of hopeful varsity players scurrying around an underground dungeon, avoiding its various dangerous rooms and booby traps in search of the all-important game ball - and causing as much carnage along the way, of course! This unique variation on Nuffle's sacred game has long been used by the eight Colleges of Magic as a way of settling disagreements between the college Magisters, or simply as a way for colleges to earn a bit more gold by placing expensive wagers on the outcomes.
 
@@ -197,7 +197,7 @@ This section allows coaches to combine multiple sets of Dungeon Bowl in order to
 
 Over the next few pages we are going to explain everything you need to know to begin playing Multi-player Dungeon Bowl. From setting up a larger dungeon, to how a team wins when there are four End Zones to consider, and any other tweaks that are needed to make your games of Multi-player Dungeon Bowl run as smoothly as possible.
 
-### SETTING UP THE DUNGEON
+### Setting Up the Dungeon
 
 As you might expect, there are a few changes to how to go about setting up the dungeon when playing a multi-player game. After all, there are four teams rather than two!
 
@@ -216,13 +216,13 @@ When all players are happy with how the dungeon is laid out, the four End Zones 
 
 Players are free to set up their dungeon however they wish, though if you are struggling for ideas then we have provided a few example layouts for you on the next page that you can use to quickly set up your games.
 
-### WINNING THE GAME
+### Winning the Game
 
 Much like a standard game of Dungeon Bowl, the objective here is to traverse the dungeon, locate the game ball hidden in one of the six Chests, and then score that all-important touchdown to seal the win. However, there is the question of where teams need to score that touchdown with the fact that there are now four End Zones rather than the usual two.
 
 In a game of Multi-player Dungeon Bowl, a team can score the game-winning touchdown in any of the three opposing team's End Zones. This may end up with multiple teams trying to score a touchdown in the same End Zone; this is fine, and in fact adds to the urgency and excitement of the game!
 
-### CHESTS AND PORTALS
+### Chests and Portals
 
 After the dungeon has been set up, the Chests and Portals need to be placed just like in a standard game. In a two-player game, coaches simply alternate placing Chests then Portals until they have all been placed on the board. However, this doesn't quite work when there are four players.
 
@@ -238,7 +238,7 @@ This will result in each coach placing three items; either two Chests and one Po
 
 *Continuing with our example, Xavier will place the first Chest, followed by Nicolas, Jay, Rob and then Xavier and Nicolas again. Portal 1 will be placed by Jay, Portal 2 by Rob, Portal 3 by Xavier, Portal 4 by Nicolas, Portal 5 by Jay and Portal 6 by Rob.*
 
-### TURN ORDER
+### Turn Order
 
 In a two-player game of Dungeon Bowl, the teams simply alternate turns. However, this doesn't quite work for a four-player game and so a new system is needed when playing Multi-player Dungeon Bowl.
 
@@ -250,7 +250,7 @@ After each coach has had one team turn, the game turn comes to an end and the ne
 
 ***For example:** In the first game turn Rob rolls a 6, Jay rolls a 4, Xavier rolls a 3, and Nicolas rolls a 1. This means that for this game turn the order each coach takes their team turn is Rob, Jay, Xavier, Nicolas. In the second game turn, Rob and Xavier roll a 4, Jay rolls a 2 and Nicolas rolls a 6. As Rob and Xavier both rolled a 4, they must re-roll; this time Rob rolls a 5 and Xavier rolls a 3. This means that the order each coach takes their team turn this time is Nicolas, Rob, Xavier, Jay.*
 
-### OFFENSIVE AND DEFENSIVE ASSISTS
+### Offensive and Defensive Assists
 
 Whilst all the players from all the opposition teams are considered opposition players, it is important to note that they are still not going to help each other out - after all, every team is the opposition to every other team!
 
@@ -268,7 +268,7 @@ Players can only provide a defensive assist when a player from their team is tar
 
 ***Example:** Here, the Dark Elf Lineman (College of Shadows) is making a Block action against the Dwarf Blitzer (College of Fire). The Dwarf Blocker Lineman may provide a defensive assist as it is on the same team as the Dwarf Blitzer. The Black Orc (College of Metal) may not provide a defensive assist as they are not from the same team as the Dwarf Blitzer.*
 
-### DIFFERENT NUMBERS OF TEAMS
+### Different Numbers of Teams
 
 Whilst the rules provided in this section are for playing a four-player game of Multi-player Dungeon Bowl, there is no reason that you can't do this with three, five, six, or even more teams if you wish. Be warned though, more teams in the dungeon will mean that the game will become even more chaotic and unpredictable!
 
@@ -276,13 +276,13 @@ If you do decide to change the number of teams then you will need to slightly tw
 
 ---
 
-## RED CARDS & RULEKEEPERS
+## Red Cards & Rulekeepers
 
 Referees. Depending on your particular stance, they're either the stalwart and noble lawkeepers of the sacred rules of Nuffle or a monumental pain in the backside who can't help sticking their nose in whenever a player 'gets a bit rough'. Blood Bowl Referees have the thankless task of trying to keep the game within their own loose interpretation of the rules (some Refs have looser interpretations than others, of course) before it inevitably descends into the usual mix of violence, bloodshed and sheer madness. Poor Refs!
 
 As the ultimate arbiters on the Blood Bowl pitch, Referees have the last say when it comes to sending off misbehaving players. Here we present new rules for using Blood Bowl Referee models in your own games. Lace up your boots and prepare for kick-off!
 
-### REFEREE RULES
+### Referee Rules
 
 The rules presented in this article are designed to give coaches an alternative way to represent the various Referees and officials that oversee a game of Blood Bowl. If you decide to use the rules presented here, then the rules for being Sent-off for committing a Foul action (as per page 63 of the *Blood Bowl* rulebook) will be replaced by an alternative version found later in this article.
 
@@ -317,10 +317,10 @@ Whenever a player makes a Foul action, they will not be Sent-off if they roll a 
 | **Squares to the Referee** | **Score to be Sent-off** |
 | :--------------------------------: | :------------------------------: |
 | 1                                | 2+                             |
-| 2‑3                             | 3+                             |
-| 4‑5                             | 4+                             |
-| 6‑7                             | 5+                             |
-| 8‑9                             | 6+                             |
+| 2-3                             | 3+                             |
+| 4-5                             | 4+                             |
+| 6-7                             | 5+                             |
+| 8-9                             | 6+                             |
 
 If the Foul action was committed 10 or more squares away from the Referee, then the player will not be Sent-off at all - the Referee is clearly too preoccupied with what is going on around them!
 
@@ -338,7 +338,7 @@ If a Referee is pushed into the crowd, then they do not risk Injury by the Crowd
 
 Whilst a Referee is off the pitch, Stunned, KO'd or removed as a Casualty, players cannot be Sent-off for any reason until the Referee is back on the pitch. This may even mean that players with the Secret Weapon trait are not Sent-off at the end of a drive!
 
-### REFEREE PROFILES
+### Referee Profiles
 
 Much like Star Players, some Referees have become synonymous with the game of Blood Bowl and can be just as well known as some players for their antics or sometimes 'questionable' refereeing style.
 

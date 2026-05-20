@@ -6,7 +6,7 @@ Sending a few reporters to find out what goes on in the Northern Wastes, we enco
 
 ### The Cursed Skull Goblet
 
-This is a variation on a standard Blood Bowl league season, as described in the **Blood Bowl rulebook**. How the league itself is organised, the number of teams in it, how many divisions there are, how many rounds are played and so forth should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Cursed Skull Goblet differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised, the number of teams in it, how many divisions there are, how many rounds are played and so forth should all be decided upon by the league commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Cursed Skull Goblet differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -34,23 +34,23 @@ All Inducements should be allowed in the Cursed Skull Goblet. Additionally, if t
 
 #### 0-1 Chaos Totem
 
-**(50,000 Gold Pieces)**
+**(50,000 gold pieces) Available to any team**
 
-**Available to any team:** Some coaches will carry trinkets or tokens in reverence to the Dark Gods, and some are imbued with malevolent powers.
+Some coaches will carry trinkets or tokens in reverence to the Dark Gods, and some are imbued with malevolent powers.
 
 Once per game, at the start of any friendly team turn, the head coach of a team with a Chaos Totem can use it to pray to the Dark Gods; they then roll a D6 and consult the chart below:
 
 | D6 | Result                                                                                               |
 |----|------------------------------------------------------------------------------------------------------|
 | 1  | The gods are angered by the coach's insolence, and curses the team's fortunes. The team immediately loses a team re-roll. |
-| 2‑5| The gods answer the coach, bringing havoc to the opposition. Randomly select an opposition player on the pitch. The selected player is immediately Knocked Down; make an Armour roll as normal. |
+| 2-5 | The gods answer the coach, bringing havoc to the opposition. Randomly select an opposition player on the pitch. The selected player is immediately Knocked Down; make an Armour roll as normal. |
 | 6  | The gods decide to bestow their blessing upon the team, in their own unique way. Randomly select a friendly player on the pitch. The selected player immediately gains one of the following Mutations skills of your choice for the remainder of the game: Claws, Disturbing Presence, Horns, Iron Hard Skin, Tentacles. |
 
 ### Many Glorious Prizes!
 
 Teams that manage to win a league in the Northern Wastes are rewarded well, which often includes gaining the boons and blessings of the Chaos gods. The top placed teams of the Cursed Skull Goblet are rewarded as follows:
 
-**Glittering Prizes:** As usual, the teams that finish 1st, 2nd and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
 **The Cursed Skull Goblet:** In addition to their cash prize, the winner will receive the coveted, if slightly menacing, Cursed Skull Goblet. As well as being able to parade this prestigious trophy around, the goblet itself seems to contain some mysterious powers that can curse opposition players. The team that holds the Cursed Skull Goblet gains the following ability at the start of each game:
 
@@ -66,7 +66,7 @@ To represent the unique conditions teams must face in Khornate stadia, the follo
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Khorne's Fury:** Khorne has become incensed that there is not enough carnage to stem his bloodlust, and he demands more bloodshed. To fuel his rage, Khorne plants his wrath within his chosen vessels on the pitch - though it comes with a cost to the players. Randomly select two players from each team. Those players gain +1 to their Strength characteristic and the Frenzy skill until a different result is rolled on the Weather table. When a different result is rolled, these players immediately roll on the Injury table. |
 | 3   | **Losing Patience:** The insufficient spilling of blood, at least in his eyes, is beginning to draw the ire of Khorne - which brings its own risks. At the end of each drive, randomly select one player on the pitch. Immediately make an Armour roll, and an Injury roll if necessary, for that player. |
-| 4‑10| **All Is Calm:** Khorne is content to simply watch the game without intervening, making it perfect Blood Bowl weather.                                                              |
+| 4-10 | **All Is Calm:** Khorne is content to simply watch the game without intervening, making it perfect Blood Bowl weather.                                                              |
 | 11  | **Red Mist:** A red mist descends upon the pitch, coating the players in a thin veil of blood and making visibility increasingly worse. Players making a Pass action may not perform a Long pass or a Long bomb. |
 | 12  | **Crimson Downpour:** So impressed with the display of violence, Khorne causes the heavens to rain crimson down upon those on the pitch, drenching them in gallons of blood and making it slippery underfoot. Players attempting to Rush will fail on the roll of a 1 or 2. Additionally, if a player suffers a Push result from a Block, roll a D6. On the roll of a 1, the player is KO'd after the push is made. |
 
@@ -142,11 +142,11 @@ The stadia of Khornate teams are more than simply pitches to play Blood Bowl on;
 
 The Altar of Khorne pitch has two sides. One depicts the playing surface in fair weather, with all manner of skulls adorning it, while the other side depicts the playing surface after Khorne has rained blood down upon both pitch and players. If both coaches agree, the following rules can be used to represent the unusual conditions:
 
-**Skull-Strewn Surface**: At the start of the game, all is quiet. Khorne is ready to enjoy his favourite pastime - witnessing the untold carnage of a game of Blood Bowl! The brass Khornate symbols and skulls embedded in the pitch begin to get into the heads of the players, making them feel a fury rising within them. After a player declares a Block action or Blitz action, but before any Block dice are rolled, roll a D6. On the roll of a 5+, increase the blocking player's Strength by 1 for the duration of the action.
+**Skull-Strewn Surface:** At the start of the game, all is quiet. Khorne is ready to enjoy his favourite pastime - witnessing the untold carnage of a game of Blood Bowl! The brass Khornate symbols and skulls embedded in the pitch begin to get into the heads of the players, making them feel a fury rising within them. After a player declares a Block action or Blitz action, but before any Block dice are rolled, roll a D6. On the roll of a 5+, increase the blocking player's Strength by 1 for the duration of the action.
 
 Additionally, at the end of each drive, count up the total number of Casualties that have been caused. If the total between both teams is 3 or more, flip the pitch over to the Bloodslick side.
 
-**Bloodslick**: Khorne is satisfied by the violence on display, showing he is pleased by such carnage by raining blood down upon the pitch. This makes the pitch treacherous, place, and a player can easily lose their footing. Whenever a player suffers the Push Back result as a result of a Block action, roll a D6. On the roll of a 1, that player is immediately Knocked Down after being pushed.
+**Bloodslick:** Khorne is satisfied by the violence on display, showing he is pleased by such carnage by raining blood down upon the pitch. This makes the pitch treacherous, place, and a player can easily lose their footing. Whenever a player suffers the Push Back result as a result of a Block action, roll a D6. On the roll of a 1, that player is immediately Knocked Down after being pushed.
 
 ---
 

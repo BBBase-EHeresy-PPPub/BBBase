@@ -22,7 +22,7 @@ Coaches will need to create a team of any budget that the players agree upon, us
 |-----|--------|
 | 2 | **Ravenous Spectators:** Whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
 | 3 | **Spooky Mist:** Players making a Pass action may not perform a Long pass or a Long bomb. |
-| 4‑10 | **Danse Macabre:** Whenever a player uses the Regeneration Trait, they receive a +1 modifier to the roll. |
+| 4-10 | **Danse Macabre:** Whenever a player uses the Regeneration Trait, they receive a +1 modifier to the roll. |
 | 11 | **Sudden Downpour:** Players must apply a -1 modifier to the roll when attempting to Rush. |
 | 12 | **Lightning:** At the end of every team turn, roll a D6. On a roll of 1, a single randomly selected player in the active team is struck by lightning and immediately Knocked Down. When a player is Knocked Down by lightning, you may apply a +1 modifier to either the Armour roll or Injury roll. This modifier may be applied after the roll has been made. |
 
@@ -38,7 +38,7 @@ Coaches will need to create a team of any budget that the players agree upon, us
 
 #### Halloween Candy
 
-**50,000 gold pieces, Available to any team**
+**(50,000 gold pieces) Available to any team**
 
 A bag filled with Halloween candy brings a joy like no other, especially when you've stolen it from a group of frightened Halflings!
 

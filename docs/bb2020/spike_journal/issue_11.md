@@ -5,7 +5,7 @@ are played, well, at night. Commissioners of the Sylvanian Night-time Leagues sa
 
 ### The Spooky Skull Cup
 
-This is a variation on a standard Blood Bowl league season, as described in **The Blood Bowl rulebook**. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the League Commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Spooky Skull Cup differs from a normal season, however, in a couple of key aspects.
+This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the League Commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Spooky Skull Cup differs from a normal season, however, in a couple of key aspects.
 
 **Open to All**
 
@@ -15,9 +15,11 @@ The Spooky Skull Cup is open to all-comers. Coaches participating may use any te
 
 All Inducements, at the League Commissioner's discretion, can be used in the Spooky Skull Cup. Additionally, teams taking part in the Spooky Skull Cup have access to a new Inducement (again, at the League Commissioner's discretion):
 
-#### 0-1 End Zone Spirits (50,000 Gold Pieces)
+#### 0-1 End Zone Spirits
 
-**Available to any team:** The team convinces some malign spirits to aid them in their game, attempting to grasp the legs of any player attempting to move into the End Zone to score!
+**(50,000 gold pieces) Available to any team**
+
+The team convinces some malign spirits to aid them in their game, attempting to grasp the legs of any player attempting to move into the End Zone to score!
 
 Whenever a player from the opposing team moves into your team's End Zone, they must roll a D6. On a 2+, nothing happens. On the roll of a 1, the spirits manage to grab the player's legs and bring them crashing to the turf. The model **Falls Over**; if they were in possession of the ball, no touchdown is scored.
 
@@ -25,9 +27,9 @@ Whenever a player from the opposing team moves into your team's End Zone, they m
 
 Teams that manage to win a league in Sylvania are rewarded well, which includes a promise that the Undead will not eat them (this season!). The top placed teams of the Spooky Skull Cup are rewarded as follows:
 
-**Glittering Prizes**: As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the **Blood Bowl rulebook**.
+**Glittering Prizes:** As usual, the teams that finish 1st, 2nd, and 3rd receive gold pieces as described in the Blood Bowl rulebook.
 
-**The Spooky Skull Cup**: In addition to their cash prize, the winner will receive the coveted, if somewhat gruesome looking, Spooky Skull Cup. As well as being able to parade this prestigious trophy around, the very presence of the cup is enough to strike fear into even the bravest of opponents. The team that holds the Spooky Skull Cup gains the following ability:
+**The Spooky Skull Cup:** In addition to their cash prize, the winner will receive the coveted, if somewhat gruesome looking, Spooky Skull Cup. As well as being able to parade this prestigious trophy around, the very presence of the cup is enough to strike fear into even the bravest of opponents. The team that holds the Spooky Skull Cup gains the following ability:
 
 At the start of each game, roll a D6. On a 4+, your opponent loses a single re-roll for the duration of the game.
 
@@ -41,7 +43,7 @@ To represent the unique conditions teams must face in Sylvania, the following We
 |-----|--------------------------------------------------------------------------------------------------------------------------------------|
 | 2   | **Thunderstorm:** The rain lashes down furiously, and overhead a freak thunderstorm threatens to cause havoc on the pitch. Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. Additionally, at the start of each team's turn, roll a D6. On a 1, randomly select one player on the pitch from the active team. This player is hit by lightning; make an Injury roll for this player. If this causes a Casualty, it will always be treated as a Badly Hurt result. This will not cause a turnover, even if it hits a player with the ball. |
 | 3   | **Pouring Rain:** A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. |
-| 4‑10| **Still Night:** It may be dark and eerily quiet in Sylvania, but otherwise it is perfect Blood Bowl weather.                                                            |
+| 4-10 | **Still Night:** It may be dark and eerily quiet in Sylvania, but otherwise it is perfect Blood Bowl weather.                                                            |
 | 11  | **Thick Fog:** Fog descends on the pitch, making it hard to see past a certain point. Players making a Pass action may not perform a Long pass or a Long bomb.           |
 | 12  | **Can't see the Hand in Front of your Face:** The fog is so thick that it is all but impossible for a player to see themselves, let alone their team-mates or opponents! Players may not make Pass actions. Additionally, a player may not declare a Blitz action against an opposing model that is more than three squares away from it. |
 
@@ -78,7 +80,7 @@ The coach then rolls a D6 to see what happens to the dead player:
 | 1  | **"Hah! Suckers!"** The Necromancer never had any intention of raising the player from the dead, and has instead made off with the money! The player remains dead, and you lose the 50,000 gold pieces. |
 | 2  | **"There was nothing I could do":** The Necromancer has been unable to raise the player; they were too badly damaged. The money paid is refunded to the team's treasury.                     |
 | 3  | **"It may cost a little bit more":** The Necromancer has successfully raised the player, however, they are demanding an extra 20,000 gold pieces for their services. If the 20,000 gold pieces is paid then the player is raised as described below, otherwise the player is not raised and the money spent is lost. |
-| 4‑6| **"They Live!"** The Necromancer has successfully raised the player from the dead, they may be added back to your roster and will gain the Regeneration trait. However, the player gains the Loner (3+) trait and reduces their Agility by 1 (e.g., a player with an Agility of 2+ would reduce it to 3+) to a maximum of 5+. |
+| 4-6 | **"They Live!"** The Necromancer has successfully raised the player from the dead, they may be added back to your roster and will gain the Regeneration trait. However, the player gains the Loner (3+) trait and reduces their Agility by 1 (e.g., a player with an Agility of 2+ would reduce it to 3+) to a maximum of 5+. |
 
 ---
 
@@ -130,7 +132,7 @@ At the start of the game, roll a D6 to see which type of brain was used to craft
 
 ## 0-1 (In)Famous Coaching Staff Inducement: Professor Frönkëlheim
 
-**130,000 Gold Pieces, Available to any team with the "Sylvanian Spotlight" special rule**
+**(130,000 gold pieces) Available to any team with the "Sylvanian Spotlight" special rule**
 
 **"Have you thought about an Upgrade?"**
 
@@ -141,14 +143,14 @@ Until the end of this game, each selected player gains a single randomly selecte
 | D6 | Result                                                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **The experiment proves a bit of a failure, really:** The player immediately loses the Skill. In addition, the player must miss the next game, exactly as if they had suffered a Casualty table result of 7-9, Seriously Hurt, during this game. |
-| 2‑5 | **The experiment proved only a short-lived success:** The player immediately loses the Skill.                                                       |
+| 2-5 | **The experiment proved only a short-lived success:** The player immediately loses the Skill.                                                       |
 | 6  | **The professor's experiments have proven a success!** The player retains the Skill without having to pay any SPP (note that you must adjust their Current Value accordingly, as if they had randomly selected a Secondary skill). |
 
 ---
 
 ## 0-1 Wizard Inducement: Wicked Witch
 
-**150,000 Gold Pieces, Available to any team with either the 'Old World Classic', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules**
+**(150,000 gold pieces) Available to any team with either the 'Old World Classic', 'Sylvanian Spotlight' or 'Underworld Challenge' special rules**
 
 Once per game, a Wicked Witch may cast one of the following spells:
 

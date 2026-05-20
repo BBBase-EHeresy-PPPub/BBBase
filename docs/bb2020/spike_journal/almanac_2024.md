@@ -28,7 +28,7 @@ The Chaos Cup is open to all comers. Coaches participating may use any team they
 |------|--------------------|
 | 2  | **Crimson Downpour:** Khorne is thrilled at the egregious violence both teams are inflicting upon one another, showering the combatants on the field in a sanguine rain as a mark of his approval. Players suffer a -1 penalty to the dice roll when attempting to Rush. Additionally, if a player suffers a Push Back result from a Block, roll a D6. On the roll of a 1, the Player is Knocked Down after the push is made. |
 | 3  | **Blinding Spores:** Grandfather Nurgle is always keen to show his love to his favourite teams, usually displaying his affection by coating the field in a cloud of vision-reducing spores. Players performing a Pass action may not perform a Long pass or Long bomb. |
-| 4‑10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening - for now... The conditions are perfect for a championship Blood Bowl match! |
+| 4-10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening - for now... The conditions are perfect for a championship Blood Bowl match! |
 | 11 | **Binding Tentacles:** The Lord of Excess knows how to have fun and one of his favourite tricks is to spawn writhing tentacles on the field to restrain and inhibit players as they advance down the field. While this weather condition is in effect, all players on the pitch subtract 1 from their MA (to a minimum of 1). |
 | 12 | **Warpfire Barrage:** Tzeentch has grown bored of the current gamestate and has decided to add a little excitement by shooting comets of Warpfire from the sky! While this weather condition is in effect, at the end of each team turn, before the next one begins, the active team's coach randomly selects a player on their team from among those on the field and rolls a D6. On a roll of 1, make an Armour roll, and subsequent Injury roll if necessary, against the selected player. |
 
@@ -50,9 +50,11 @@ The Chaos Cup is open to all comers. Coaches participating may use any team they
 
 ### Chaos Cup Inducements
 
-#### 0-1 Mark of Chaos (50,000 Gold Pieces)
+#### 0-1 Mark of Chaos
 
-**Available to any team:** Any team that participates in the Chaos Cup will have some taint of Chaos somewhere amongst their roster, no matter how small. Some of these corrupted souls have been known to embrace their destiny and mark themselves as disciples of the dark gods, opening themselves up to the gifts of their divine patrons.
+**(50,000 gold pieces) Available to any team**
+
+Any team that participates in the Chaos Cup will have some taint of Chaos somewhere amongst their roster, no matter how small. Some of these corrupted souls have been known to embrace their destiny and mark themselves as disciples of the dark gods, opening themselves up to the gifts of their divine patrons.
 
 At the beginning of the game, before step 1 of the Start of Drive sequence, choose one of the Marks listed below:
 

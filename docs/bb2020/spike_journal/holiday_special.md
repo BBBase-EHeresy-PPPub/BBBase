@@ -1,4 +1,4 @@
-## EXHIBITION GAME SPECIAL RULES
+## Exhibition Game Special Rules
 
 This Exhibition Game uses a standard Blood Bowl pitch with additional special rules and alternate victory conditions. Teams are built using the standard rules for Exhibition Games found in the Blood Bowl rulebook. When setting up the pitch, players take it in turns to place up to five Gingerbread Houses each on the pitch; these occupy one or more squares and are covered by the special rules described later.
 
@@ -24,7 +24,7 @@ In addition, roll a D6 for each Snowgrot within 3 squares of the square in which
 
 At the end of the game, the team that has destroyed the most Snowgrots is the winner.
 
-### USING THE RED GOBBO
+### Using the Red Gobbo
 
 If both coaches agree, The Red Gobbo can be hired as a Star Player during Exhibition Play. He cannot be used in either League Play or Matched Play.
 
@@ -59,9 +59,9 @@ Any team
 
 ---
 
-## NEW SKILL
+## New Skill
 
-**THROW SNOWBALL**
+**Throw Snowball**
 
 During this Exhibition Match, all players gain the Throw Snowball skill.
 
@@ -86,11 +86,11 @@ If a natural 1 is rolled for the Passing Ability test, the player performing thi
 
 | 2D6 | Weather Condition |
 |-----|-------------------|
-| 2   | **Squigalanche**: At the start of each team's turn, roll a D6. On a 1, randomly select one player from the active team. That player is bitten by a rampant squig; make an Armour roll. If passed, make an Injury roll as normal. This does **not** cause a Turnover, even if the player with the ball is Knocked Down. |
-| 3   | **Frozen Snow**: When a player Falls Over or is Knocked Down, the opposing coach applies a +1 modifier when making an Armour roll against them. |
-| 4‑10| **Perfect(ish) Conditions**: No additional effect. |
-| 11  | **Cold Snap**: At the start of each team's turn, the coach randomly selects a player on the pitch. That player's MA is reduced to 0 until the end of the turn (they may still Rush as normal). |
-| 12  | **Blizzard**: Apply a -1 modifier each time a player attempts to Rush an extra square. Only Quick and Short passes may be attempted. |
+| 2   | **Squigalanche:** At the start of each team's turn, roll a D6. On a 1, randomly select one player from the active team. That player is bitten by a rampant squig; make an Armour roll. If passed, make an Injury roll as normal. This does **not** cause a Turnover, even if the player with the ball is Knocked Down. |
+| 3   | **Frozen Snow:** When a player Falls Over or is Knocked Down, the opposing coach applies a +1 modifier when making an Armour roll against them. |
+| 4-10 | **Perfect(ish) Conditions:** No additional effect. |
+| 11  | **Cold Snap:** At the start of each team's turn, the coach randomly selects a player on the pitch. That player's MA is reduced to 0 until the end of the turn (they may still Rush as normal). |
+| 12  | **Blizzard:** Apply a -1 modifier each time a player attempts to Rush an extra square. Only Quick and Short passes may be attempted. |
 
 ---
 
@@ -100,9 +100,9 @@ If a natural 1 is rolled for the Passing Ability test, the player performing thi
 
 | 2D6 | Result |
 |-----|--------|
-| 2‑7 | **Stunned**: The player is immediately Stunned and laid face-down on the pitch. |
-| 8‑9 | **KO'd**: The player is removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, KO'd players may recover as per the Blood Bowl rulebook (p.66). |
-| 10+ | **Switch!**: *As decreed by the Red Gobbo and his rulez*, the injured player must **switch sides**. Remove them from play and place them in the Reserves box of the opposing team. They count as part of that team's roster for the rest of the game (even above 16 players). |
+| 2-7 | **Stunned:** The player is immediately Stunned and laid face-down on the pitch. |
+| 8-9 | **KO'd:** The player is removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, KO'd players may recover as per the Blood Bowl rulebook (p.66). |
+| 10+ | **Switch!:** *As decreed by the Red Gobbo and his rulez*, the injured player must **switch sides**. Remove them from play and place them in the Reserves box of the opposing team. They count as part of that team's roster for the rest of the game (even above 16 players). |
 
 ---
 
@@ -110,14 +110,14 @@ If a natural 1 is rolled for the Passing Ability test, the player performing thi
 
 | 2D6 | Kick-off Event |
 |-----|----------------|
-| 2 | **The More the Merrier!**: The kicking team's Coach rolls a D3 then, starting with the kicking team, each Coach may choose to remove up to that many extra players from their Reserves box and set them up on the pitch, even if this takes the number of players above 11. These players may not be placed on the Line of Scrimmage or in a Wide Zone. |
-| 3 | **It's a Miracle!**: All players in a team's Knocked-out box suddenly recover and are immediately placed in the Reserve box. If a team has fewer than 11 players on the pitch for this drive, the Coach may place players from their Reserves box onto the field to make up the difference. Players placed this way may be placed anywhere in their team's half, but not in either of the Wide Zones. |
-| 4 | **Avalanche**: Randomly determine one of the two Wide Zones. All players in that Wide Zone are placed Prone and become Stunned. |
-| 5 | **Hold On a Minute!**: The kicking team's Coach rolls a D3 then each Coach randomly selects that many of their players on the pitch. These players switch to the opposing team — for all intents and purposes, they are part of the opposing team's roster for the remainder of the game. Remove the players from the pitch then, starting with the kicking team, the Coach sets up the players on the pitch, following all normal set-up rules. |
-| 6 | **Cheering Villagers**: Apply the Cheering Fans result as normal. |
-| 7 | **Motivational Speeches**: Apply the Brilliant Coaching result as normal. |
-| 8 | **Snow Business**: Make a new roll on the Winter Wonderland Weather Table. If the result is 'Perfect(ish) Conditions', the ball will scatter before landing. |
-| 9 | **Flash Unfreeze**: Apply the Quick Snap result as normal. |
-| 10 | **Get 'em**: Apply the Blitz result as normal. |
-| 11 | **Roaming Yhetees**: Both coaches immediately gain a Yhetee for the duration of the drive. Teams can exceed 11 players for this drive. Yhetees can be placed anywhere in their team's half but not in the Wide Zones. At the end of the drive, the Yhetees wander back into the forest. |
-| 12 | **Snowball Surprise**: Both Coaches roll a D6. The Coach with the highest roll, or both if tied, chooses one of their players on the pitch. Chosen players gain the [Bombardier] skill for the remainder of the Drive. |
+| 2 | **The More the Merrier!:** The kicking team's Coach rolls a D3 then, starting with the kicking team, each Coach may choose to remove up to that many extra players from their Reserves box and set them up on the pitch, even if this takes the number of players above 11. These players may not be placed on the Line of Scrimmage or in a Wide Zone. |
+| 3 | **It's a Miracle!:** All players in a team's Knocked-out box suddenly recover and are immediately placed in the Reserve box. If a team has fewer than 11 players on the pitch for this drive, the Coach may place players from their Reserves box onto the field to make up the difference. Players placed this way may be placed anywhere in their team's half, but not in either of the Wide Zones. |
+| 4 | **Avalanche:** Randomly determine one of the two Wide Zones. All players in that Wide Zone are placed Prone and become Stunned. |
+| 5 | **Hold On a Minute!:** The kicking team's Coach rolls a D3 then each Coach randomly selects that many of their players on the pitch. These players switch to the opposing team - for all intents and purposes, they are part of the opposing team's roster for the remainder of the game. Remove the players from the pitch then, starting with the kicking team, the Coach sets up the players on the pitch, following all normal set-up rules. |
+| 6 | **Cheering Villagers:** Apply the Cheering Fans result as normal. |
+| 7 | **Motivational Speeches:** Apply the Brilliant Coaching result as normal. |
+| 8 | **Snow Business:** Make a new roll on the Winter Wonderland Weather Table. If the result is 'Perfect(ish) Conditions', the ball will scatter before landing. |
+| 9 | **Flash Unfreeze:** Apply the Quick Snap result as normal. |
+| 10 | **Get 'em:** Apply the Blitz result as normal. |
+| 11 | **Roaming Yhetees:** Both coaches immediately gain a Yhetee for the duration of the drive. Teams can exceed 11 players for this drive. Yhetees can be placed anywhere in their team's half but not in the Wide Zones. At the end of the drive, the Yhetees wander back into the forest. |
+| 12 | **Snowball Surprise:** Both Coaches roll a D6. The Coach with the highest roll, or both if tied, chooses one of their players on the pitch. Chosen players gain the [Bombardier] skill for the remainder of the Drive. |
