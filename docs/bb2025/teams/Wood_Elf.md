@@ -5,7 +5,7 @@
 
 | Qty  | Position                                  | MA  | ST  | AG  | PA  | AV  | Skills                                                                                                                           | Primary | Secondary | Cost |
 | ---- | ----------------------------------------- | --- | --- | --- | --- | --- | -------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
-| 0‑16 | Wood Elf Lineman *(Lineman, Elf)*         | 7   | 3   | 2+  | 4+  | 8+  |                                                                                                                                  | A G     | S         | 65K  |
+| 0‑16 | Wood Elf Lineman *(Lineman, Elf)*         | 7   | 3   | 2+  | 3+  | 8+  |                                                                                                                                  | A G     | S         | 65K  |
 | 0‑2  | Wood Elf Thrower *(Thrower, Elf)*         | 7   | 3   | 2+  | 2+  | 8+  | • [Pass]<br>• [Safe Pair of Hands]                                                                                               | A G P   | S         | 85K  |
 | 0‑2  | Wood Elf Catcher *(Catcher, Elf)*         | 8   | 2   | 2+  | 3+  | 8+  | • [Catch]<br>• [Dodge]<br>• [Sprint]                                                                                             | A G     | P S       | 90K  |
 | 0‑2  | Wardancer *(Blitzer, Elf)*                | 8   | 3   | 2+  | 3+  | 8+  | • [Block]<br>• [Dodge]<br>• [Leap]                                                                                               | A G     | P S       | 130K |

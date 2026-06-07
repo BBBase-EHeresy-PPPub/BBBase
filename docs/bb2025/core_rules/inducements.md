@@ -210,6 +210,6 @@ A Frog has the following profile:
 
 | FROG (FROG, SPECIAL) | MA | ST | AG | PA | AV      | Skills & Traits                  |
 |----------------------|----|----|----|----|---------|----------------------------------|
-|                      | 5  | 1  | 2+ | 5+ | 9+ | [Dodge], [Leap], [No Ball], [Stunty], [Titchy], [Very Long Legs] |
+|                      | 5  | 1  | 2+ | -  | 5+ | [Dodge], [Leap], [No Ball], [Stunty], [Titchy], [Very Long Legs] |
 
 If a Frog suffers a Casualty, do not make a Casualty Roll for them. Instead, they will automatically suffer the Badly Hurt result. An Apothecary cannot be used on a Frog. At the end of the current Drive, the player turned into a Frog will return to normal with no ill effects and be put in the Reserves Box ready for the next Drive.
