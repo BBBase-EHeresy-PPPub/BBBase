@@ -334,7 +334,7 @@ Before the Season begins, the League Commissioner should make it clear how many 
 
 The qualifying teams should be the best performing teams in terms of League Points taken equally from all Divisions. For example, if there are four Divisions and eight teams qualify, then it would be the top two teams from each Division. If there are three Divisions and eight teams qualify, then the top two teams from each Division, plus the two best third-placed teams, will qualify.
 
-It is also important for the League Commissioner to outline from the start what tiebreakers will be used to separate teams that are on equal League Points, and in what order. The likes of Touchdown Difference, Touchdowns Scored and Casualties Caused are the traditional tiebreakers, but League Commissioners are free t
+It is also important for the League Commissioner to outline from the start what tiebreakers will be used to separate teams that are on equal League Points, and in what order. The likes of Touchdown Difference, Touchdowns Scored and Casualties Caused are the traditional tiebreakers, but League Commissioners are free to have whichever ones they choose so long as it is clear to all Coaches.
 
 ### PLAY-OFFS
 Once all League Fixtures have been played, and qualification has been sorted out, it is time for the Play-offs to begin. The League Commissioner organises the qualifying teams into their match-ups, making sure no team is drawn against another team from the same Division.
