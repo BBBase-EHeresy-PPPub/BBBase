@@ -7,7 +7,7 @@ default_version="bb2025"
 mkdir -p "$pages_root"
 
 for pattern in CNAME google*.html yandex*.html; do
-  for source_file in ./$pattern; do
+  for source_file in overrides/$pattern; do
     if [ -f "$source_file" ]; then
       cp "$source_file" "$pages_root"/
     fi
