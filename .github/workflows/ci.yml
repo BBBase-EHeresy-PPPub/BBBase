@@ -35,9 +35,14 @@ jobs:
 
       - name: Build versions
         run: |
+          mike delete --all --config-file mkdocs-2025.yml --branch gh-pages --ignore-remote-status
           mike deploy --config-file mkdocs-2020.yml bb2020
           mike deploy --config-file mkdocs-2025.yml bb2025
-          mike set-default bb2025
+          mike set-default --config-file mkdocs-2025.yml bb2025
+          git -C gh-pages reset --hard gh-pages
+          sh .github/pages-root-files.sh
+          git -C gh-pages add -A
+          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Restore Pages root files"
 
       - name: Push gh-pages
         run: git -C gh-pages push origin gh-pages

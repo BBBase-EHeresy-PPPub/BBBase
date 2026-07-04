@@ -2,37 +2,27 @@
 
 **Requirements**
 
--   Python installed on your system\
-
--   Install dependencies:
-
-    ``` sh
-    pip install mkdocs
-    pip install mkdocs-material
-    ```
-
-**Running Blood Bowl 2025**
-
-Start the local server:
-
-``` sh
-mkdocs serve --config-file .\mkdocs-2025.yml
-```
-
-The site will run at: **http://localhost:8000/**
-
-**Running Blood Bowl 2020**
-
-Start the local server:
-
-``` sh
-mkdocs serve --config-file .\mkdocs-2020.yml
+```sh
+pip install mkdocs-material mike
 ```
 
 **Running Both Versions**
 
-Use the provided script:
-
-``` sh
+```bat
 start_both.bat
+```
+
+Local URLs:
+
+```text
+http://127.0.0.1:8000/        - Blood Bowl 2025 default
+http://127.0.0.1:8000/bb2020/ - Blood Bowl 2020
+http://127.0.0.1:8000/bb2025/ - Blood Bowl 2025
+```
+
+**Running One Version**
+
+```sh
+mkdocs serve --config-file mkdocs-2025.yml
+mkdocs serve --config-file mkdocs-2020.yml
 ```
