@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Prepare gh-pages
         run: |
@@ -26,7 +26,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: 3.x
 
@@ -42,7 +42,7 @@ jobs:
           git -C gh-pages reset --hard gh-pages
           sh .github/pages-root-files.sh
           git -C gh-pages add -A
-          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Restore Pages root files"
+          git -C gh-pages diff --cached --quiet || git -C gh-pages commit -m "Sync GitHub Pages root files"
 
       - name: Push gh-pages
         run: git -C gh-pages push origin gh-pages
