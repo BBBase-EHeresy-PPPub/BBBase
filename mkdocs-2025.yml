@@ -22,11 +22,17 @@ theme:
     - navigation.top
     - versioning
 
+plugins:
+  - search
+
 extra:
   generator: false
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/search-result-navigation.js
 markdown_extensions:
   - md_in_html
   - tables
