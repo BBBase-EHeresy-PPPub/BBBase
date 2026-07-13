@@ -832,3 +832,29 @@ This card expires at the end of this drive.
 Whilst this card is in play, every player on the opposing team that does not have the Loner (X) trait gains the Loner (2+) trait.
 
 ---
+
+## White Dwarf
+
+### GLORIOUS GIFTS
+
+**TIMING**
+
+Play this card during the pre-game sequence, after step 5 but before step 6.
+
+**DURATION**
+
+This card expires at the end of this game.
+
+**EFFECT**
+
+When you play this card, select a player on your team, roll a D6 and apply the corresponding effect until this card expires.
+
+On a 1, the selected player has opened a brand new pair of socks – Woo. This card has no additional effect.
+
+On a 2-3, the selected player gains a Primary Skill of your choice.
+
+On a 4-5, the selected player gains a Primary Skill, Secondary Skill or a Trait of your choice.
+
+On a 6, the selected player may improve their MA, ST, AG or PA by 1.
+
+---
