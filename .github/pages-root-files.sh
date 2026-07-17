@@ -14,7 +14,7 @@ for pattern in CNAME google*.html yandex*.html; do
   done
 done
 
-for root_file in overrides/robots.txt overrides/sitemap.xml "$pages_root/$default_version/404.html"; do
+for root_file in overrides/robots.txt "$pages_root/$default_version/404.html"; do
   if [ -f "$root_file" ]; then
     cp "$root_file" "$pages_root"/
   fi

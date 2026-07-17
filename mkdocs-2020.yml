@@ -1,4 +1,5 @@
 site_name: Blood Bowl Base
+site_url: https://bloodbowlbase.ru/bb2020/
 docs_dir: docs/bb2020
 
 theme:
