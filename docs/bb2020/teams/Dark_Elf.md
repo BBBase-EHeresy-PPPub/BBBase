@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/NaggarothNightwings01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position         | MA | ST | AG | PA  | AR | Skills                                | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | Ar | Skills                                | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | -- | ------------------------------------- | ------- | --------- | ---- |
 | 0‑12 | Dark Elf Lineman | 6 | 3 | 2+ | 4+ | 9+ |                                       | A G    | S         | 70K  |
 | 0‑2  | Runner           | 7 | 3 | 2+ | 3+ | 8+ | • [Dump-Off]                            | A G P   | S         | 80K  |

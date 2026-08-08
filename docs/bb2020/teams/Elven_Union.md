@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/ElfheimEaglesTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position | MA | ST | AG | PA  | AR | Skills                        | Primary | Secondary | Cost |
+| Qty  | Position | MA | ST | AG | PA  | Ar | Skills                        | Primary | Secondary | Cost |
 | ---- | -------- | - | - | -- | -- | -- | ----------------------------- | ------- | --------- | ---- |
 | 0‑12 | Lineman  | 6 | 3 | 2+ | 4+ | 8+ |                               | A G    | S         | 60K  |
 | 0‑2  | Thrower  | 6 | 3 | 2+ | 2+ | 8+ | • [Pass]                        | A G P   | S         | 75K  |

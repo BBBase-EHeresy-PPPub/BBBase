@@ -26,26 +26,26 @@ The Chaos Cup is open to all comers. Coaches participating may use any team they
 
 | 2D6  | Result |
 |------|--------------------|
-| 2  | **Crimson Downpour:** Khorne is thrilled at the egregious violence both teams are inflicting upon one another, showering the combatants on the field in a sanguine rain as a mark of his approval. Players suffer a -1 penalty to the dice roll when attempting to Rush. Additionally, if a player suffers a Push Back result from a Block, roll a D6. On the roll of a 1, the Player is Knocked Down after the push is made. |
-| 3  | **Blinding Spores:** Grandfather Nurgle is always keen to show his love to his favourite teams, usually displaying his affection by coating the field in a cloud of vision-reducing spores. Players performing a Pass action may not perform a Long pass or Long bomb. |
-| 4-10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening - for now... The conditions are perfect for a championship Blood Bowl match! |
-| 11 | **Binding Tentacles:** The Lord of Excess knows how to have fun and one of his favourite tricks is to spawn writhing tentacles on the field to restrain and inhibit players as they advance down the field. While this weather condition is in effect, all players on the pitch subtract 1 from their MA (to a minimum of 1). |
-| 12 | **Warpfire Barrage:** Tzeentch has grown bored of the current gamestate and has decided to add a little excitement by shooting comets of Warpfire from the sky! While this weather condition is in effect, at the end of each team turn, before the next one begins, the active team's coach randomly selects a player on their team from among those on the field and rolls a D6. On a roll of 1, make an Armour roll, and subsequent Injury roll if necessary, against the selected player. |
+| 2  | **Crimson Downpour:** Players suffer a -1 penalty to the dice roll when attempting to Rush. Additionally, if a player suffers a Push Back result from a Block, roll a D6. On the roll of a 1, the Player is Knocked Down after the push is made. |
+| 3  | **Blinding Spores:** Players performing a Pass action may not perform a Long pass or Long bomb. |
+| 4‑10 | **Calm Before the Storm:** The skies are calm and the Chaos gods are content to enjoy the game without intervening - for now... The conditions are perfect for a championship Blood Bowl match! |
+| 11 | **Binding Tentacles:** While this weather condition is in effect, all players on the pitch subtract 1 from their MA (to a minimum of 1). |
+| 12 | **Warpfire Barrage:** While this weather condition is in effect, at the end of each team turn, before the next one begins, the active team's coach randomly selects a player on their team from among those on the field and rolls a D6. On a roll of 1, make an Armour roll, and subsequent Injury roll if necessary, against the selected player. |
 
 ### Chaos Cup Kick-Off Table
 
 | 2D6  | Result |
 |------|--------------------|
-| 2  | **Chaotic Intervention:** The Chaos Gods have long believed they should be the ones in charge of what is and isn't allowed in games, not referees! Until the beginning of the next drive, players from both teams cannot be Sent-off for committing a Foul action or due to the Secret Weapon Trait. |
-| 3  | **Zealous Cultists:** The sidelines of the Chaos Cup are riddled with excitable cultists who are more than happy to kick, punch or even stab players unfortunate enough to end up in the crowd. Until the end of the current drive, whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
-| 4  | **Idols of Torment:** Dark effigies and statues dedicated to the dark gods line the edge of the field, observing the match with unblinking eyes; a distracting reminder that the gods themselves might be watching the game! Players in either Wide Zone suffer a -1 modifier to Passing Ability tests when performing a Pass action or Throw Team-mate action. |
+| 2  | **Chaotic Intervention:** Until the beginning of the next drive, players from both teams cannot be Sent-off for committing a Foul action or due to the [Secret Weapon] Trait. |
+| 3  | **Zealous Cultists:** Until the end of the current drive, whenever a player is pushed into, or lands in, the crowd, apply a +1 modifier to the Injury roll. |
+| 4  | **Idols of Torment:** Players in either Wide Zone suffer a -1 modifier to Passing Ability tests when performing a Pass action or Throw Team-mate action. |
 | 5  | **Solid Defence:** Apply the Solid Defence result as normal. |
 | 6  | **Cheering Fans:** Apply the Cheering Fans result as normal. |
 | 7  | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal. |
 | 8  | **Changing Weather:** Make a new roll on the Chaos Cup Weather table and apply that result. If the result is Calm Before the Storm as a result of the roll, the ball will scatter before landing. |
 | 9  | **Quick Snap:** Apply the Quick Snap result as normal. |
-| 10 | **Devious Doppelgangers:** It would appear that some of the players are not quite themselves! Both coaches randomly select one player on their team from among those on the pitch. The selected players gain the Loner (4+) trait until the end of the current drive, at which point the real player is discovered bound and gagged in the locker room and the imposter is chased away! |
-| 11 | **Quick off the Mark:** The players are eager to get going and waiting for the referee's whistle requires far too much patience! Starting with the Kicking team's coach, both coaches may select one Open player on their team and move them one square. |
+| 10 | **Devious Doppelgangers:** Both coaches randomly select one player on their team from among those on the pitch. The selected players gain the [Loner] (4+) trait until the end of the current drive, at which point the real player is discovered bound and gagged in the locker room and the imposter is chased away! |
+| 11 | **Quick off the Mark:** Starting with the Kicking team's coach, both coaches may select one Open player on their team and move them one square. |
 | 12 | **Favour of the Gods:** While receiving a boon from the Chaos gods doesn't always result in a desirable outcome, there is no disputing how effective these gifts can be on the gridiron! Both coaches randomly select a player on their team from among those on the pitch. The selected players gain a Mutation of their controlling coach's choice until the end of the game. |
 
 ### Chaos Cup Inducements
@@ -72,12 +72,12 @@ Whenever a player gains an advancement, roll a D6. On a roll of 6, the player ha
 
 | D6  | Result |
 |------|--------------------|
-| 1  | **Blessing of the Horned Rat:** The advancing player immediately gains one of the following Skills: [Horns], [Prehensile Tail] or [Extra Arms]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
-| 2  | **Blessing of Hashut:** The advancing player immediately gains one of the following Skills: [Iron Hard Skin], [Horns] or [Foul Appearance]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
-| 3  | **Blessing of Khorne:** The advancing player immediately gains one of the following Skills: [Claws], [Horns] or [Two Heads]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
-| 4  | **Blessing of Nurgle:** The advancing player immediately gains one of the following Skills: [Disturbing Presence], [Foul Appearance] or [Monstrous Mouth]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
-| 5  | **Blessing of Tzeentch:** The advancing player immediately gains one of the following Skills: [Two Heads], [Extra Arms] or [Disturbing Presence]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
-| 6  | **Blessing of Slaanesh:** The advancing player immediately gains one of the following Skills: [Tentacles], [Very Long Legs] or [Prehensile Tail]. If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 1  | **Blessing of the Horned Rat:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 2  | **Blessing of Hashut:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 3  | **Blessing of Khorne:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 4  | **Blessing of Nurgle:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 5  | **Blessing of Tzeentch:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
+| 6  | **Blessing of Slaanesh:** If a player already has all of these Skills or could only choose a Skill they cannot use, re-roll the D6. |
 
 ### Many Glorious Prizes!
 

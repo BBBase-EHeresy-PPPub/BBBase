@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/ReiklandReaversTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position         | MA | ST | AG | PA  | AR  | Skills                                                                                               | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | Ar  | Skills                                                                                               | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Human Lineman    | 6 | 3 | 3+ | 4+ | 9+  |                                                                                                      | G       | A S       | 50K  |
 | 0‑2  | Thrower          | 6 | 3 | 3+ | 2+ | 9+  | • [Pass]<br /> • [Sure Hands]                                                                          | G P     | A S       | 80K  |

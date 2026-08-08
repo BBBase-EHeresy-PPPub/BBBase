@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBSkavenTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position               | MA | ST | AG | PA | AR | Skills                                                                                                  | Primary | Secondary | Cost |
+| Qty  | Position               | MA | ST | AG | PA | Ar | Skills                                                                                                  | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | - | -- | ------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Skaven Clanrat Lineman | 7 | 3 | 3+ | 4+ | 8+  |                                                                                                         | G       | A M S     | 50K  |
 | 0‑2  | Thrower                | 7 | 3 | 3+ | 2+ | 8+  | • [Pass]<br /> • [Sure Hands]                                                                              | G P     | A M S     | 85K  |

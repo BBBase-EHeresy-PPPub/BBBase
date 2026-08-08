@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/BlackOrcTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position               | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                     | Primary | Secondary | Cost |
+| Qty  | Position               | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                                     | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑12 | Goblin Bruiser Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty] <br /> • [Thick Skull]                                                                                           | A       | G P S      | 45K  |
 | 0‑6  | Black Orc              | 4 | 4 | 4+ | 5+ | 10+ | • [Brawler]<br /> • [Grab]                                                                                                                                     | G S     | A P       | 90K  |

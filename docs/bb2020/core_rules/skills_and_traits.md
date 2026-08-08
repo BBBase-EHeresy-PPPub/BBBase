@@ -34,7 +34,7 @@ Players that are Standing and have not lost their Tackle Zone can use their Skil
 |  4‑6  |   5   | [Sprint]             | [Tackle]            | [Two Heads]             | [Running Pass]    | [Strong Arm]       |
 |  4‑6  |   6   | [Sure Feet]          | [Wrestle]           | [Very Long Legs]        | [Safe Pass]       | [Thick Skull]      |
 
-| TRAITS            |                |                  |                     |
+| Traits            |                |                  |                     |
 | ----------------- | -------------- | ---------------- | ------------------- |
 | [Animal Savagery]\* | [Decay]\*        | [Projectile Vomit] | [Swarming]            |
 | [Animosity]\*       | [Hypnotic Gaze]  | [Really Stupid]\*  | [Swoop]               |

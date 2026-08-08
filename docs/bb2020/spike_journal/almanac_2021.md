@@ -290,7 +290,7 @@ The rules presented in this article are designed to give coaches an alternative 
 
 When using these rules, coaches will need to choose which Referee they are going to use. This should be agreed on by both players or rolled for randomly. At the end of this article, you will find rules for two unique Referees, Redkur Forgebeard and Elnos Lawkeeper, each with their own set of characteristics, Skills, Traits and special rules. However, if you wish to use a generic Referee in your game, then use the following characteristics instead:
 
-| **Characteristic** | **MA** | **ST** | **AG** | **PA** | **AV** |
+| Characteristic | MA | ST | AG | PA | AV |
 | ------------------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Referee                  | 5            | 2            | 3+           | -           | 8+           |
 
@@ -314,13 +314,13 @@ As we mentioned earlier, being Sent-off for committing a Foul action works sligh
 
 Whenever a player makes a Foul action, they will not be Sent-off if they roll a double for the Armour roll or a double for the Injury roll. Instead, after the Foul action has been made, count the number of squares between the player committing the Foul action and the Referee, and roll a D6. The chart below states what score on the D6 will result in the player being Sent-off by the Referee. As you might expect, the closer the Foul was to the Referee, the more likely the player will be Sent-off!
 
-| **Squares to the Referee** | **Score to be Sent-off** |
+| Squares to the Referee | Score to be Sent-off |
 | :--------------------------------: | :------------------------------: |
 | 1                                | 2+                             |
-| 2-3                             | 3+                             |
-| 4-5                             | 4+                             |
-| 6-7                             | 5+                             |
-| 8-9                             | 6+                             |
+| 2‑3                             | 3+                             |
+| 4‑5                             | 4+                             |
+| 6‑7                             | 5+                             |
+| 8‑9                             | 6+                             |
 
 If the Foul action was committed 10 or more squares away from the Referee, then the player will not be Sent-off at all - the Referee is clearly too preoccupied with what is going on around them!
 

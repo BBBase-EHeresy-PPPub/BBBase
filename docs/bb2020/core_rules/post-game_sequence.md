@@ -100,7 +100,7 @@ At the end of the game, each coach randomly selects one player from their team (
 
 If, once the MVP is determined and each player's tally of SPP has been counted up, a player has sufficient SPP, they can spend them to gain an advancement. The SPP cost of each  advancement is shown on the table below. The more experienced a player is, the more SPP each new advancement they gain will cost. A player is not obliged to spend their SPP until they have enough to randomly select a characteristic improvement, at which point they must spend some or all of their SPP:
 
-| ADVANCEMENTS TABLE                | Randomly select a Primary skill | Choose a Primary skill or randomly select a Secondary skill | Choose a Secondary skill | Randomly select a characteristic improvement |
+| Advancements Table                | Randomly select a Primary skill | Choose a Primary skill or randomly select a Secondary skill | Choose a Secondary skill | Randomly select a characteristic improvement |
 | --------------------------------- | ------------------------------- | ----------------------------------------------------------- | ------------------------ | -------------------------------------------- |
 | Experienced (first advancement)   | 3 SPP                           | 6 SPP                                                       | 12 SPP                   | 18 SPP                                       |
 | Veteran (second advancement)      | 4 SPP                           | 8 SPP                                                       | 14 SPP                   | 20 SPP                                       |
@@ -125,7 +125,7 @@ Rather than spend SPP on a new Skill, a player may spend SPP to improve a charac
 
 **CHARACTERISTIC IMPROVEMENT TABLE**
 
-| D16  | RESULT                                           |
+| D16  | Result                                           |
 | -------- | ------------------------------------------------ |
 | 1‑7  | Improve either MA or AV by 1 (or choose a Secondary skill).    |
 | 8‑13 | Improve either MA, PA, or AV by 1 (or choose a Secondary skill). |

@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/OldWorldAlliance2.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                     | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                         | Primary | Secondary | Cost |
+| Qty  | Position                     | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                                         | Primary | Secondary | Cost |
 | ---- | ---------------------------- | - | - | -- | -- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑12 | Old World Human Lineman      | 6 | 3 | 3+ | 4+ | 9+  |                                                                                                                                                                | G       | A S       | 50K  |
 | 0‑1  | Old World Human Thrower      | 6 | 3 | 3+ | 3+ | 9+  | • [Animosity] (Dwarfs and Halflings)<br /> • [Pass] <br /> • [Sure Hands]                                                                                           | G P     | A S       | 80K  |

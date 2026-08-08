@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/KhorneTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                   | MA | ST | AG | PA  | AR  | Skills                                                                                                              | Primary | Secondary | Cost |
+| Qty  | Position                   | MA | ST | AG | PA  | Ar  | Skills                                                                                                              | Primary | Secondary | Cost |
 | ---- | -------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Bloodborn Marauder Lineman | 6 | 3 | 3+ | 4+ | 8+  | • [Frenzy]                                                                                                        | G M     | A S       | 50K  |
 | 0‑4  | Khorngor                   | 6 | 3 | 3+ | 4+ | 9+  | • [Horns]<br /> • [Juggernaut]                                                                                  | G M S   | A P       | 70K  |

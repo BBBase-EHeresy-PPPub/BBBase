@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBAtherlornAvengersTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position             | MA | ST | AG | PA  | AR  | Skills                                                                                                                                     | Primary | Secondary | Cost |
+| Qty  | Position             | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                     | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0‑12 | Wood Elf Lineman     | 7 | 3 | 2+ | 4+ | 8+  |                                                                                                                                            | A G     | S         | 70K  |
 | 0‑2  | Thrower              | 7 | 3 | 2+ | 2+ | 8+  | • [Pass]                                                                                                                                     | A G P   | S         | 95K  |

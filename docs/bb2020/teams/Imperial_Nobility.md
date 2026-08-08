@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/BBImperialNobilityTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                  | MA | ST | AG | PA  | AR  | Skills                                                                                                 | Primary | Secondary | Cost |
+| Qty  | Position                  | MA | ST | AG | PA  | Ar  | Skills                                                                                                 | Primary | Secondary | Cost |
 | ---- | ------------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0‑12 | Imperial Retainer Lineman | 6 | 3 | 4+ | 4+ | 8+  | • [Fend]                                                                                                 | G       | A S       | 45K  |
 | 0‑2  | Imperial Thrower          | 6 | 3 | 3+ | 3+ | 9+  | • [Pass]<br /> • [Running Pass]                                                                   | G P     | A S       | 75K  |

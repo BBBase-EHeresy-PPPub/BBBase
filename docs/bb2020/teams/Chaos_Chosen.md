@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/DoomlordsChaosTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                | MA | ST | AG | PA  | AR  | Skills                                                                                                                                            | Primary | Secondary | Cost |
+| Qty  | Position                | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                            | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Beastman Runner Lineman | 6 | 3 | 3+ | 4+ | 9+  | • [Horns]                                                                                                                                           | G M S   | A P       | 60K  |
 | 0‑4  | Chosen Blocker          | 5 | 4 | 3+ | 5+ | 10+ |                                                                                                                                                   | G M S  | A         | 100K |

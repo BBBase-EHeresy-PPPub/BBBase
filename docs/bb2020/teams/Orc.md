@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/BBOrcTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position        | MA | ST | AG | PA | AR | Skills                                                                                                                                                       | Primary | Secondary | Cost |
+| Qty  | Position        | MA | ST | AG | PA | Ar | Skills                                                                                                                                                       | Primary | Secondary | Cost |
 | ---- | --------------- | - | - | -- | - | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0‑16 | Orc Lineman     | 5 | 3 | 3+ | 4+ | 10+ | • [Animosity] (Orc Linemen)                                                                                                                                    | G       | A S       | 50K  |
 | 0‑2  | Thrower         | 5 | 3 | 3+ | 3+ | 9+  | • [Animosity] (All)<br /> • [Pass] <br /> • [Sure Hands]                                                                                                          | G P     | A S       | 65K  |

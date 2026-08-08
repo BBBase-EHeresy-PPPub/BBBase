@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBAmazonTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                | MA | ST | AG | PA  | AR | Skills                                 | Primary | Secondary | Cost |
+| Qty  | Position                | MA | ST | AG | PA  | Ar | Skills                                 | Primary | Secondary | Cost |
 | ---- | ----------------------- | - | - | -- | -- | -- | -------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Eagle Warrior Linewoman | 6 | 3 | 3+ | 4+ | 8+ | • [Dodge]                                | G       | A S      | 50K  |
 | 0‑2  | Python Warrior Thrower  | 6 | 3 | 3+ | 3+ | 8+ | • [Dodge]<br />• [On the Ball]<br />• [Pass]<br />• [Safe Pass] | G P    | A S      | 80K  |

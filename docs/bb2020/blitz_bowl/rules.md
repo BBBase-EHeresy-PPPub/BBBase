@@ -201,10 +201,10 @@ On their turn, each Coach works through the following game sequence:
 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1) Pre-Turn Sequence**\*<br />A. Refresh Challenge Cards step <br />B. No Ball in Play step <br />C. Emergency Reserves step | **1) Pre-Turn Sequence**\*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
-| **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     | **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     |
-| **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      | **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      |
-| **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      | **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      |
+| **1) Pre-Turn Sequence:** \*<br />A. Refresh Challenge Cards step <br />B. No Ball in Play step <br />C. Emergency Reserves step | **1) Pre-Turn Sequence:** \*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
+| **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     | **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     |
+| **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      | **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      |
+| **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      | **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      |
 
 **Important**
 
@@ -226,7 +226,7 @@ They could, however, make another Action with their Blitzer, such as a Mark Acti
 
 The Actions that a Player can make are dependent on their current Player Status, as shown in the table below:
 
-| **Open Players** | **Marked Players** | **Prone Players** | **Reserves Players** |
+| Open Players | Marked Players | Prone Players | Reserves Players |
 |------------------|--------------------|-------------------|----------------------|
 | Run Action       | Block Action       | Stand Up Action   | Reserves Action      |
 | Mark Action      | Sidestep Action    |                   |                      |
@@ -523,14 +523,14 @@ When setting up the game, before the Coach that won the toss chooses which pitch
 
 | D8 | Blitz Bowl Arena                  | Regional Rule |
 |----|-----------------------------------|----------------|
-| 1  | **Great Moot Bake-off Tent** *(Halfling Thimble Cup)* | Subtract 1 from the Emergency Reserves Value of both teams (for example, 4 becomes 3). |
-| 2  | **Sewer Pipe Stadium** *(Underworld Challenge)* | When a Player makes a Reserves Action, they can choose a Trapdoor to be placed on instead of a square in their team's End Zone. If there is a ball on the chosen Trapdoor, it is removed from the pitch. If there is a Player on the chosen Trapdoor, that Player is immediately Injured. |
-| 3  | **The Bone Pit** *(Sylvanian Spotlight)* | After a Player makes a Reserves Action, they may make a free Run Action. This includes any free Reserves Actions such as those triggered through the Emergency Reserves rule. |
-| 4  | **Glittering Coliseum** *(Elven Kingdoms League)* | Do not subtract 1 from the Throw Check when making a Long Throw. |
-| 5  | **Coliseum of Chaos** *(Chaos Clash)* | If a Player is not able to be pushed back as a result of a Shove during a Block Action, it becomes a Kerunch! instead of a Smash. |
-| 6  | **Badlands Fighting Pit** *(Badlands Brawl)* | Assisted Block Actions roll two additional Block Dice instead of one (to a maximum of three Block Dice). |
-| 7  | **Mountain Summit Stadium** *(Worlds Edge Superleague)* | Teams only need to be 8 or more points ahead of the opposing team in order to win a Sudden Death Victory. |
-| 8  | **Overgrown Arena** *(Lustrian Superleague)* | Block Actions that target a Player that is adjacent to a Trapdoor count as Assisted. |
+| 1  | **Great Moot Bake-off Tent** (Halfling Thimble Cup) | Subtract 1 from the Emergency Reserves Value of both teams (for example, 4 becomes 3). |
+| 2  | **Sewer Pipe Stadium** (Underworld Challenge) | When a Player makes a Reserves Action, they can choose a Trapdoor to be placed on instead of a square in their team's End Zone. If there is a ball on the chosen Trapdoor, it is removed from the pitch. If there is a Player on the chosen Trapdoor, that Player is immediately Injured. |
+| 3  | **The Bone Pit** (Sylvanian Spotlight) | After a Player makes a Reserves Action, they may make a free Run Action. This includes any free Reserves Actions such as those triggered through the Emergency Reserves rule. |
+| 4  | **Glittering Coliseum** (Elven Kingdoms League) | Do not subtract 1 from the Throw Check when making a Long Throw. |
+| 5  | **Coliseum of Chaos** (Chaos Clash) | If a Player is not able to be pushed back as a result of a Shove during a Block Action, it becomes a Kerunch! instead of a Smash. |
+| 6  | **Badlands Fighting Pit** (Badlands Brawl) | Assisted Block Actions roll two additional Block Dice instead of one (to a maximum of three Block Dice). |
+| 7  | **Mountain Summit Stadium** (Worlds Edge Superleague) | Teams only need to be 8 or more points ahead of the opposing team in order to win a Sudden Death Victory. |
+| 8  | **Overgrown Arena** (Lustrian Superleague) | Block Actions that target a Player that is adjacent to a Trapdoor count as Assisted. |
 
 ## BLITZ BOWL BALLS
 
@@ -714,10 +714,10 @@ Though most teams do, not all teams have only six Players. Some have more, with 
 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1) Pre-Turn Sequence**\*<br />A. Refresh Challenge Cards step <br />B. No Ball in Play step <br />C. Emergency Reserves step | **1) Pre-Turn Sequence**\*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
-| **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     | **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     |
-| **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      | **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      |
-| **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      | **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      |
+| **1) Pre-Turn Sequence:** \*<br />A. Refresh Challenge Cards step <br />B. No Ball in Play step <br />C. Emergency Reserves step | **1) Pre-Turn Sequence:** \*<br />a. Refresh Challenge Cards step <br />b. No Ball in Play step <br />c. Emergency Reserves step |
+| **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     | **2) Player Action 1** <br />• Claim Challenge Card step\**                                                                                     |
+| **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      | **3) Player Action 2** <br />• Claim Challenge Card step\**                                                                                      |
+| **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      | **4) Player Action 3** <br />• Claim Challenge Card step\**                                                                                      |
 
 **Important**
 

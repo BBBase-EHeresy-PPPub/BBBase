@@ -10,7 +10,7 @@ Once a Match Event has been triggered, it comes into effect immediately. After a
 
 **MATCH EVENTS TABLE**
 
-| D8 | D6 | MATCH EVENT       |
+| D8 | D6 | Match Event       |
 | --- | -- | ----------------------- |
 | 1‑2 | 1 | \*Pop\*         |
 | 1‑2 | 2 | Enthusiastic Apothecary |
@@ -96,7 +96,7 @@ During each team turn, the Streaker is considered to be an opposition player in 
 
 |     | MA | ST | AG | PA | AV |
 | -------- | -- | -- | --- | -- | -- |
-| Streaker | D3 | 3 | N/A | - | 6+ |
+| Streaker | D3 | 3 | N/a | - | 6+ |
 
 Skills & Traits: [Dodge], [No Hands]
 

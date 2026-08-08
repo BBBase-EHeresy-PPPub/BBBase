@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBHighElves.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position | MA | ST | AG | PA  | AR | Skills                                                      | Primary | Secondary | Cost |
+| Qty  | Position | MA | ST | AG | PA  | Ar | Skills                                                      | Primary | Secondary | Cost |
 | ---- | -------- | - | - | -- | -- | -- | ----------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Lineman  | 6 | 3 | 2+ | 4+ | 9+ |                                                             | A G     | P S       | 70K  |
 | 0‑4  | Catcher  | 8 | 3 | 2+ | 5+ | 8+ | • [Catch]                                                 | A G     | S         | 90K  |

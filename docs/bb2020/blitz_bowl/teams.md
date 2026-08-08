@@ -4,12 +4,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/amazon_team.jpg){ width=1000 height=732 }
 
-| POSITION                | MOVE | BLOCK | THROW | ARMOUR | ABILITY                   |
+| Position                | Move | Block | Throw | Armour | Ability                   |
 | ----------------------- | ---- | ----- | ----- | ------ | ------------------------- |
-| EAGLE WARRIOR LINEWOMAN | 6    | 1     | 4+    | 4+     |                           |
-| PYTHON WARRIOR THROWER  | 6    | 1     | 3+    | 4+     | **Handling Skills** |
-| PIRANHA WARRIOR BLITZER | 7    | 1     | 4+    | 4+     | **Hit and Run**     |
-| JAGUAR WARRIOR BLOCKER  | 6    | 2     | 4+    | 3+     | **Defensive**       |
+| Eagle Warrior Linewoman | 6    | 1     | 4+    | 4+     |                           |
+| Python Warrior Thrower  | 6    | 1     | 3+    | 4+     | Handling Skills |
+| Piranha Warrior Blitzer | 7    | 1     | 4+    | 4+     | Hit and Run     |
+| Jaguar Warrior Blocker  | 6    | 2     | 4+    | 3+     | Defensive       |
 
 EMERGENCY RESERVES: 4
 
@@ -27,10 +27,10 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/black_orc_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY           |
+| Position  | Move | Block | Throw | Armour | Ability           |
 | --------- | ---- | ----- | ----- | ------ | ----------------- |
-| GOBLIN    | 6    | 1     | 4+    | 6+     | **Elusive** |
-| BLACK ORC | 4    | 2     | 5+    | 2+     |                   |
+| Goblin    | 6    | 1     | 4+    | 6+     | Elusive |
+| Black Orc | 4    | 2     | 5+    | 2+     |                   |
 
 EMERGENCY RESERVES: 4
 
@@ -44,10 +44,10 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/chaos_chosen_team.jpg){ width=1000 height=732 }
 
-| PLAYER             | MOVE | BLOCK | THROW | ARMOUR | ABILITY             |
+| Player             | Move | Block | Throw | Armour | Ability             |
 | ------------------ | ---- | ----- | ----- | ------ | ------------------- |
-| BEASTMAN (4)       | 6    | 1     | 4+    | 4+     | **Head-butt** |
-| CHOSEN BLOCKER (2) | 5    | 2     | 5+    | 2+     |                     |
+| Beastman (4)       | 6    | 1     | 4+    | 4+     | Head-butt |
+| Chosen Blocker (2) | 5    | 2     | 5+    | 2+     |                     |
 
 EMERGENCY RESERVES: 4
 
@@ -61,12 +61,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/dark_elf_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                        |
+| Position  | Move | Block | Throw | Armour | Ability                        |
 | --------- | ---- | ----- | ----- | ------ | ------------------------------ |
-| LINEMAN   | 6    | 1     | 4+    | 3+     |                                |
-| RUNNER    | 7    | 1     | 3+    | 4+     | **Dump-off**             |
-| BLITZER   | 7    | 1     | 4+    | 3+     | **Offensive Specialist** |
-| WITCH ELF | 7    | 1     | 5+    | 4+     | **Frenzied**             |
+| Lineman   | 6    | 1     | 4+    | 3+     |                                |
+| Runner    | 7    | 1     | 3+    | 4+     | Dump-off             |
+| Blitzer   | 7    | 1     | 4+    | 3+     | Offensive Specialist |
+| Witch Elf | 7    | 1     | 5+    | 4+     | Frenzied             |
 
 EMERGENCY RESERVES: 4
 
@@ -84,12 +84,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/dwarf_team.jpg){ width=1000 height=732 }
 
-| POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position      | Move | Block | Throw | Armour | Ability                |
 |--------------|------|-------|-------|--------|------------------------|
-| LINEMAN      | 4    | 1     | 5+    | 2+     |                        |
-| RUNNER       | 6    | 1     | 4+    | 3+     | **Safe Hands**         |
-| BLITZER      | 5    | 1     | 4+    | 2+     | **Offensive Specialist** |
-| TROLL SLAYER | 5    | 1     | 6+    | 4+     | **Frenzied**           |
+| Lineman      | 4    | 1     | 5+    | 2+     |                        |
+| Runner       | 6    | 1     | 4+    | 3+     | Safe Hands         |
+| Blitzer      | 5    | 1     | 4+    | 2+     | Offensive Specialist |
+| Troll Slayer | 5    | 1     | 6+    | 4+     | Frenzied           |
 
 EMERGENCY RESERVES: 4
 
@@ -107,12 +107,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/elven_union_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position  | Move | Block | Throw | Armour | Ability                |
 |-----------|------|-------|-------|--------|------------------------|
-| LINEMAN   | 6    | 1     | 3+    | 4+     |                        |
-| THROWER   | 6    | 1     | 2+    | 4+     | **Expert Passer**      |
-| CATCHER   | 8    | 1     | 3+    | 5+     | **Catcher's Instincts** |
-| BLITZER   | 7    | 1     | 3+    | 3+     | **Offensive Specialist** |
+| Lineman   | 6    | 1     | 3+    | 4+     |                        |
+| Thrower   | 6    | 1     | 2+    | 4+     | Expert Passer      |
+| Catcher   | 8    | 1     | 3+    | 5+     | Catcher's Instincts |
+| Blitzer   | 7    | 1     | 3+    | 3+     | Offensive Specialist |
 
 EMERGENCY RESERVES: 4
 
@@ -130,13 +130,13 @@ NUMBER OF PLAYERS: 8
 
 ![](../media/blitz_bowl/gnome_team.jpg){ width=1000 height=732 }
 
-| POSITION        | MOVE | BLOCK | THROW | ARMOUR | ABILITY          |
+| Position        | Move | Block | Throw | Armour | Ability          |
 |---------------|------|-------|-------|--------|------------------|
-| LINEMAN      | 5    | 1     | 4+    | 6+     |                  |
-| ILLUSIONIST  | 5    | 1     | 3+    | 6+     | **Dump-off**      |
-| BEASTMASTER  | 5    | 1     | 4+    | 4+     | **Woodland Aid**  |
-| WOODLAND FOX | 7    | 1     | 6+    | 6+     | **Lithe Creature** |
-| TREEMAN      | 2    | 2     | 5+    | 2+     | **Hulking Brute** |
+| Lineman      | 5    | 1     | 4+    | 6+     |                  |
+| Illusionist  | 5    | 1     | 3+    | 6+     | Dump-off      |
+| Beastmaster  | 5    | 1     | 4+    | 4+     | Woodland Aid  |
+| Woodland Fox | 7    | 1     | 6+    | 6+     | Lithe Creature |
+| Treeman      | 2    | 2     | 5+    | 2+     | Hulking Brute |
 
 EMERGENCY RESERVES: 4
 
@@ -156,10 +156,10 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/goblin_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY         |
+| Position  | Move | Block | Throw | Armour | Ability         |
 |-----------|------|-------|-------|--------|----------------|
-| GOBLIN    | 6    | 1     | 4+    | 6+     | **Elusive**    |
-| TROLL     | 4    | 2     | 5+    | 2+     | **Hulking Brute** |
+| Goblin    | 6    | 1     | 4+    | 6+     | Elusive    |
+| Troll     | 4    | 2     | 5+    | 2+     | Hulking Brute |
 
 EMERGENCY RESERVES: 4
 
@@ -175,12 +175,12 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/halfling_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position  | Move | Block | Throw | Armour | Ability                |
 |-----------|------|-------|-------|--------|------------------------|
-| LINEMAN   | 5    | 1     | 4+    | 6+     |                        |
-| CATCHER   | 5    | 1     | 4+    | 6+     | **Catcher's Instincts** |
-| HEFTY     | 5    | 1     | 4+    | 4+     | **Stand Firm**         |
-| TREEMAN   | 2    | 2     | 5+    | 2+     | **Hulking Brute**      |
+| Lineman   | 5    | 1     | 4+    | 6+     |                        |
+| Catcher   | 5    | 1     | 4+    | 6+     | Catcher's Instincts |
+| Hefty     | 5    | 1     | 4+    | 4+     | Stand Firm         |
+| Treeman   | 2    | 2     | 5+    | 2+     | Hulking Brute      |
 
 EMERGENCY RESERVES: 2
 
@@ -198,12 +198,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/human_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position  | Move | Block | Throw | Armour | Ability                |
 |-----------|------|-------|-------|--------|------------------------|
-| LINEMAN   | 6    | 1     | 4+    | 3+     |                        |
-| THROWER   | 6    | 1     | 3+    | 3+     | **Handling Skills**    |
-| CATCHER   | 8    | 1     | 4+    | 5+     | **Catcher's Instincts** |
-| BLITZER   | 7    | 1     | 4+    | 3+     | **Offensive Specialist** |
+| Lineman   | 6    | 1     | 4+    | 3+     |                        |
+| Thrower   | 6    | 1     | 3+    | 3+     | Handling Skills    |
+| Catcher   | 8    | 1     | 4+    | 5+     | Catcher's Instincts |
+| Blitzer   | 7    | 1     | 4+    | 3+     | Offensive Specialist |
 
 EMERGENCY RESERVES: 4
 
@@ -221,12 +221,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/imperial_nobility_team.jpg){ width=1000 height=732 }
 
-| POSITION   | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position   | Move | Block | Throw | Armour | Ability                |
 |------------|------|-------|-------|--------|------------------------|
-| LINEMAN    | 6    | 1     | 4+    | 5+     |                        |
-| THROWER    | 6    | 1     | 3+    | 4+     | **Running Pass**       |
-| BODYGUARD  | 6    | 1     | 5+    | 3+     | **Stand Firm**         |
-| BLITZER    | 7    | 1     | 4+    | 3+     | **Offensive Specialist** |
+| Lineman    | 6    | 1     | 4+    | 5+     |                        |
+| Thrower    | 6    | 1     | 3+    | 4+     | Running Pass       |
+| Bodyguard  | 6    | 1     | 5+    | 3+     | Stand Firm         |
+| Blitzer    | 7    | 1     | 4+    | 3+     | Offensive Specialist |
 
 EMERGENCY RESERVES: 3
 
@@ -244,11 +244,11 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/khorne_team.jpg){ width=1000 height=732 }
 
-| POSITION    | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
+| Position    | Move | Block | Throw | Armour | Ability      |
 |------------|------|-------|-------|--------|--------------|
-| MARAUDER   | 6    | 1     | 4+    | 4+     |              |
-| KHORNGOR   | 6    | 1     | 4+    | 4+     | **Head-butt** |
-| BLOODSEEKER | 5    | 2     | 6+    | 3+     | **Enforcer**  |
+| Marauder   | 6    | 1     | 4+    | 4+     |              |
+| Khorngor   | 6    | 1     | 4+    | 4+     | Head-butt |
+| Bloodseeker | 5    | 2     | 6+    | 3+     | Enforcer  |
 
 EMERGENCY RESERVES: 4
 
@@ -264,11 +264,11 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/lizardmen_team.jpg){ width=1000 height=732 }
 
-| POSITION          | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position          | Move | Block | Throw | Armour | Ability                |
 |------------------|------|-------|-------|--------|------------------------|
-| SKINK           | 8    | 1     | 4+    | 6+     | **Safe Hands**         |
-| CHAMELEON SKINK | 7    | 1     | 3+    | 6+     | **Catcher's Instincts** |
-| SAURUS BLOCKER  | 6    | 2     | 6+    | 2+     |                        |
+| Skink           | 8    | 1     | 4+    | 6+     | Safe Hands         |
+| Chameleon Skink | 7    | 1     | 3+    | 6+     | Catcher's Instincts |
+| Saurus Blocker  | 6    | 2     | 6+    | 2+     |                        |
 
 EMERGENCY RESERVES: 5
 
@@ -284,13 +284,13 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/necromantic_team.jpg){ width=1000 height=732 }
 
-| POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position      | Move | Block | Throw | Armour | Ability                |
 |--------------|------|-------|-------|--------|------------------------|
-| ZOMBIE       | 4    | 1     | 6+    | 3+     |                        |
-| GHOUL        | 7    | 1     | 4+    | 4+     | **Safe Hands**         |
-| WRAITH       | 6    | 1     | -     | 3+     | **Ethereal**           |
-| WEREWOLF     | 8    | 1     | 4+    | 3+     | **Violent**            |
-| FLESH GOLEM  | 4    | 2     | 6+    | 2+     | **Stand Firm**         |
+| Zombie       | 4    | 1     | 6+    | 3+     |                        |
+| Ghoul        | 7    | 1     | 4+    | 4+     | Safe Hands         |
+| Wraith       | 6    | 1     | -     | 3+     | Ethereal           |
+| Werewolf     | 8    | 1     | 4+    | 3+     | Violent            |
+| Flesh Golem  | 4    | 2     | 6+    | 2+     | Stand Firm         |
 
 EMERGENCY RESERVES: 5
 
@@ -310,13 +310,13 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/norse_team.jpg){ width=1000 height=732 }
 
-| POSITION    | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position    | Move | Block | Throw | Armour | Ability                |
 |------------|------|-------|-------|--------|------------------------|
-| LINEMAN    | 6    | 1     | 4+    | 4+     |                        |
-| BEER BOAR  | 5    | 1     | -     | 6+     | **Pick-me-up**         |
-| BERSERKER  | 6    | 1     | 4+    | 4+     | **Offensive Specialist** |
-| VALKYRIE   | 7    | 1     | 3+    | 4+     | **Safe Hands**         |
-| ULFWERENER | 6    | 2     | 6+    | 3+     | **Frenzied**           |
+| Lineman    | 6    | 1     | 4+    | 4+     |                        |
+| Beer Boar  | 5    | 1     | -     | 6+     | Pick-me-up         |
+| Berserker  | 6    | 1     | 4+    | 4+     | Offensive Specialist |
+| Valkyrie   | 7    | 1     | 3+    | 4+     | Safe Hands         |
+| Ulfwerener | 6    | 2     | 6+    | 3+     | Frenzied           |
 
 EMERGENCY RESERVES: 3
 
@@ -336,11 +336,11 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/nurgle_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
+| Position  | Move | Block | Throw | Armour | Ability      |
 |-----------|------|-------|-------|--------|--------------|
-| LINEMAN   | 5    | 1     | 6+    | 4+     |              |
-| PESTIGOR  | 6    | 1     | 4+    | 3+     | **Head-butt** |
-| BLOATER   | 4    | 2     | 6+    | 3+     | **Stand Firm** |
+| Lineman   | 5    | 1     | 6+    | 4+     |              |
+| Pestigor  | 6    | 1     | 4+    | 3+     | Head-butt |
+| Bloater   | 4    | 2     | 6+    | 3+     | Stand Firm |
 
 EMERGENCY RESERVES: 4
 
@@ -356,10 +356,10 @@ NUMBER OF PLAYERS: 8
 
 ![](../media/blitz_bowl/ogre_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY         |
+| Position  | Move | Block | Throw | Armour | Ability         |
 |-----------|------|-------|-------|--------|----------------|
-| GNOBLAR   | 5    | 1     | 5+    | 6+     | **Titchy**     |
-| OGRE      | 5    | 2     | 5+    | 2+     | **Hulking Brute** |
+| Gnoblar   | 5    | 1     | 5+    | 6+     | Titchy     |
+| Ogre      | 5    | 2     | 5+    | 2+     | Hulking Brute |
 
 EMERGENCY RESERVES: 4
 
@@ -375,12 +375,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/orc_team.jpg){ width=1000 height=732 }
 
-| POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position       | Move | Block | Throw | Armour | Ability                |
 |---------------|------|-------|-------|--------|------------------------|
-| LINEMAN       | 5    | 1     | 4+    | 3+     |                        |
-| THROWER       | 5    | 1     | 3+    | 3+     | **Handling Skills**    |
-| BLITZER       | 6    | 1     | 4+    | 2+     | **Offensive Specialist** |
-| BIG UN BLOCKER | 5    | 2     | 6+    | 2+     | **Mighty Blow**        |
+| Lineman       | 5    | 1     | 4+    | 3+     |                        |
+| Thrower       | 5    | 1     | 3+    | 3+     | Handling Skills    |
+| Blitzer       | 6    | 1     | 4+    | 2+     | Offensive Specialist |
+| Big Un Blocker | 5    | 2     | 6+    | 2+     | Mighty Blow        |
 
 EMERGENCY RESERVES: 4
 
@@ -398,13 +398,13 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/shambling_undead_team.jpg){ width=1000 height=732 }
 
-| POSITION      | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position      | Move | Block | Throw | Armour | Ability                |
 |--------------|------|-------|-------|--------|------------------------|
-| ZOMBIE       | 4    | 1     | 6+    | 3+     |                        |
-| SKELETON     | 5    | 1     | 6+    | 4+     | **Regenerate**         |
-| GHOUL        | 7    | 1     | 4+    | 4+     | **Safe Hands**         |
-| WIGHT        | 6    | 1     | 5+    | 3+     | **Offensive Specialist** |
-| MUMMY        | 3    | 2     | 6+    | 2+     | **Mighty Blow**        |
+| Zombie       | 4    | 1     | 6+    | 3+     |                        |
+| Skeleton     | 5    | 1     | 6+    | 4+     | Regenerate         |
+| Ghoul        | 7    | 1     | 4+    | 4+     | Safe Hands         |
+| Wight        | 6    | 1     | 5+    | 3+     | Offensive Specialist |
+| Mummy        | 3    | 2     | 6+    | 2+     | Mighty Blow        |
 
 EMERGENCY RESERVES: 4
 
@@ -423,12 +423,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/skaven_team.jpg){ width=1000 height=732 }
 
-| POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position       | Move | Block | Throw | Armour | Ability                |
 |---------------|------|-------|-------|--------|------------------------|
-| LINEMAN       | 7    | 1     | 4+    | 4+     |                        |
-| THROWER       | 7    | 1     | 3+    | 4+     | **Handling Skills**    |
-| BLITZER       | 7    | 1     | 5+    | 3+     | **Offensive Specialist** |
-| GUTTER RUNNER | 9    | 1     | 4+    | 5+     | **Safe Hands**         |
+| Lineman       | 7    | 1     | 4+    | 4+     |                        |
+| Thrower       | 7    | 1     | 3+    | 4+     | Handling Skills    |
+| Blitzer       | 7    | 1     | 5+    | 3+     | Offensive Specialist |
+| Gutter Runner | 9    | 1     | 4+    | 5+     | Safe Hands         |
 
 EMERGENCY RESERVES: 4
 
@@ -446,13 +446,13 @@ NUMBER OF PLAYERS: 10
 
 ![](../media/blitz_bowl/snotling_team.jpg){ width=1000 height=732 }
 
-| POSITION       | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position       | Move | Block | Throw | Armour | Ability                |
 |---------------|------|-------|-------|--------|------------------------|
-| SNOTLING      | 5    | 1     | 5+    | -      | **Insignificant**      |
-| FUNGUS FLINGA | 5    | 1     | 4+    | -      | **Bomber**             |
-| FUN-HOPPA     | 6    | 1     | 5+    | -      | **Leap**               |
-| STILTY RUNNA  | 7    | 1     | 5+    | -      |                        |
-| PUMP WAGON    | D6   | 3     | -     | 3+     | **War Machine**        |
+| Snotling      | 5    | 1     | 5+    | -      | Insignificant      |
+| Fungus Flinga | 5    | 1     | 4+    | -      | Bomber             |
+| Fun-Hoppa     | 6    | 1     | 5+    | -      | Leap               |
+| Stilty Runna  | 7    | 1     | 5+    | -      |                        |
+| Pump Wagon    | D6   | 3     | -     | 3+     | War Machine        |
 
 EMERGENCY RESERVES: 5
 
@@ -472,12 +472,12 @@ NUMBER OF PLAYERS: 7
 
 ![](../media/blitz_bowl/vampire_team.jpg){ width=1000 height=732 }
 
-| POSITION  | MOVE | BLOCK | THROW | ARMOUR | ABILITY      |
+| Position  | Move | Block | Throw | Armour | Ability      |
 |-----------|------|-------|-------|--------|--------------|
-| THRALL    | 6    | 1     | 5+    | 6+     | **Minion**   |
-| RUNNER    | 8    | 1     | 4+    | 3+     | **Bloodlust** |
-| THROWER   | 6    | 2     | 2+    | 3+     | **Bloodlust** |
-| BLITZER   | 6    | 2     | 5+    | 3+     | **Bloodlust** |
+| Thrall    | 6    | 1     | 5+    | 6+     | Minion   |
+| Runner    | 8    | 1     | 4+    | 3+     | Bloodlust |
+| Thrower   | 6    | 2     | 2+    | 3+     | Bloodlust |
+| Blitzer   | 6    | 2     | 5+    | 3+     | Bloodlust |
 
 EMERGENCY RESERVES: 4
 
@@ -493,12 +493,12 @@ NUMBER OF PLAYERS: 6
 
 ![](../media/blitz_bowl/wood_elf_team.jpg){ width=1000 height=732 }
 
-| POSITION   | MOVE | BLOCK | THROW | ARMOUR | ABILITY                |
+| Position   | Move | Block | Throw | Armour | Ability                |
 |------------|------|-------|-------|--------|------------------------|
-| LINEMAN    | 7    | 1     | 4+    | 5+     |                        |
-| THROWER    | 7    | 1     | 2+    | 5+     | **Handling Skills**    |
-| CATCHER    | 8    | 1     | 4+    | 6+     | **Catcher's Instincts** |
-| WARDANCER  | 8    | 1     | 4+    | 4+     | **Wardance**           |
+| Lineman    | 7    | 1     | 4+    | 5+     |                        |
+| Thrower    | 7    | 1     | 2+    | 5+     | Handling Skills    |
+| Catcher    | 8    | 1     | 4+    | 6+     | Catcher's Instincts |
+| Wardancer  | 8    | 1     | 4+    | 4+     | Wardance           |
 
 EMERGENCY RESERVES: 4
 

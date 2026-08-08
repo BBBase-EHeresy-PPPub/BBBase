@@ -222,7 +222,7 @@ Additionally, some Event Organisers may wish to add their own unique Inducements
 
 After you have drafted your team you are able to give them some additional Skills for the duration of the event. Coaches will receive a number of Skill Points they can spend depending on the Tier of the team they are playing, as listed below.
 
-| TIER OF TEAM | NUMBER OF SKILL POINTS |
+| Tier of Team | Number of Skill Points |
 | ------------ | ---------------------- |
 | Tier 1 | 6 |
 | Tier 2 | 8 |
@@ -256,7 +256,7 @@ Below is a table summarising the breakdown of what Skills Points can be spent on
 
 *Skill Points Example: Jay is taking a Wood Elf team to a tournament. As this is a Tier 1 team, Jay has 6 Skill Points to spend. He decides to give one of his Wardancers Strip Ball as a Primary Skill for 1 Skill Point, and another Wardancer Sidestep as a Primary Skill for 1 Skill Point. He then gives his Loren Forest Treeman Grab for 1 Skill Point, and one of his Wood Elf Linemen Wrestle for 1 Skill Point. Jay then spends his last two Skill Points to have Akhorne the Squirrel as a Star Player.*
 
-| | SECONDARY SKILL (1 SKILL POINT) | STAR PLAYER (2 SKILL POINTS) | MEGA-STAR (2 SKILL POINTS) |
+| | Secondary Skill (1 Skill Point) | Star Player (2 Skill Points) | Mega-Star (2 Skill Points) |
 | ------------------------- | -------------------------------- | ----------------------------- | --------------------------- |
 | Tier 1 (6 Skills Points) | No limit | Maximum 1 | Maximum 1 |
 | Tier 2 (8 Skill Points) | No Limit | Maximum 2 | Maximum 2 |
@@ -270,16 +270,16 @@ With this in mind, if the Cheering Fans result comes up on the Kick-off event ta
 
 **PRAYERS TO NUFFLE TABLE**
 
-| D8 | RESULT |
+| D8 | Result |
 | ------ | ---------- |
 | 1  | **Treacherous Trapdoor:** Until the end of this half, every time any player enters a Trapdoor square, roll a D6. On a roll of 1, the trapdoor falls open. The player is immediately removed from play. Treat them exactly as if they had been pushed into the crowd. |
 | 2  | **Friends with the Ref:** Until the end of this drive, you may treat a roll of 5 or 6 on the Argue the Call table as a "Well, When You Put It Like That..." result and a roll of 2-4 as an "I Don't Care!" result. |
-| 3  | **Stiletto:** Randomly select one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Stab trait. |
-| 4  | **Iron Man:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+. |
-| 5  | **Knuckle Dusters:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this drive, that player gains the Mighty Blow (+1) skill. |
-| 6  | **Bad Habits:** Randomly select D3 opposition players that are available to play during this drive and that do not have the Loner (X+) trait. Until the end of this drive, those players gain the Loner (2+) trait. |
+| 3  | **Stiletto:** Randomly select one player on your team that is available to play during this drive and that does not have the [Loner] (X+) trait. Until the end of this drive, that player gains the [Stab] trait. |
+| 4  | **Iron Man:** Choose one player on your team that is available to play during this drive and that does not have the [Loner] (X+) trait. Until the end of this game, that player improves their AV by 1, to a maximum of 11+. |
+| 5  | **Knuckle Dusters:** Choose one player on your team that is available to play during this drive and that does not have the [Loner] (X+) trait. Until the end of this drive, that player gains the [Mighty Blow] (+1) skill. |
+| 6  | **Bad Habits:** Randomly select D3 opposition players that are available to play during this drive and that do not have the [Loner] (X+) trait. Until the end of this drive, those players gain the [Loner] (2+) trait. |
 | 7  | **Greasy Cleats:** Randomly select one opposition player that is available to play during this drive. That player has had their boots tampered with. Until the end of this drive, their MA is reduced by 1. |
-| 8  | **Blessed Statue of Nuffle:** Choose one player on your team that is available to play during this drive and that does not have the Loner (X+) trait. Until the end of this game, that player gains the Pro skill. |
+| 8  | **Blessed Statue of Nuffle:** Choose one player on your team that is available to play during this drive and that does not have the [Loner] (X+) trait. Until the end of this game, that player gains the [Pro] skill. |
 
 ## POST-MATCH
 
@@ -485,14 +485,14 @@ The festive period is a time for giving and many teams engage in this tradition 
 
 Before the game begins, randomly select one player on your team. That player has been given their festive gift and ripped it open with unbridled excitement! Roll a D6 to determine the effect of the gift.
 
-| D6 | GIFT                                                                                                                                                                                                                                                                              |
+| D6 | Gift                                                                                                                                                                                                                                                                              |
 |----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **More Socks...:** The player gains the Animosity (all team-mates) trait as they are annoyed that their team-mates got them such a totally rubbish gift!                                                                                                                           |
+| 1  | **More Socks...:** The player gains the [Animosity] (all team-mates) trait as they are annoyed that their team-mates got them such a totally rubbish gift!                                                                                                                           |
 | 2  | **Tasty Treat:** Until the end of the game, the player may attempt to Rush one more time than they usually could as they are fuelled by the delicious delicacy.                                                                                                                   |
 | 3  | **Protection Spell:** The first time in this game that the player suffers a KO'd or Casualty result on the Injury table, they do not suffer the effects and are instead placed in the Reserves box.                                                                               |
 | 4  | **Bugman'sXXXXXX:** Until the end of the game, the player may add 1 to the roll when rolling to see if they recover from being Knocked-out.                                                                                                                                      |
-| 5  | **Spiked Gloves:** The player gains the Mighty Blow (+1) skill until the end of the game.                                                                                                                                                                                        |
-| 6  | **Lucky Trinket:** The player gains the Pro skill until the end of the game.                                                                                                                                                                                                     |
+| 5  | **Spiked Gloves:** The player gains the [Mighty Blow] (+1) skill until the end of the game.                                                                                                                                                                                        |
+| 6  | **Lucky Trinket:** The player gains the [Pro] skill until the end of the game.                                                                                                                                                                                                     |
 #### BOOBY TRAPPED END ZONE
 
 **100,000 GOLD PIECES, AVAILABLE TO ANY TEAM**
@@ -509,14 +509,14 @@ Whenever a Blood Bowl tournament comes to the Moot, fans can be assured of three
 
 During the pre-game sequence, before determining the kicking team, any team that has hired a Famous Moot Buffet must roll a D6 to determine what manner of tasty treats the Halfling bakers have provided for their team. The effects last for the duration of the game.
 
-| D6 | GIFT                                                                                                                                                                                                                                                                                 |
+| D6 | Gift                                                                                                                                                                                                                                                                                 |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **Garlic Eclairs:** Though delicious to eat, Garlic Eclairs do tend to leave a player's breath smelling particularly pungent, and not many opponents are willing to get near them if they can help it! Players on your team gain the Foul Appearance skill.                             |
-| 2  | **Super-sticky Buns:** Sticky Buns are a firm favourite in the Moot, though eating them does leave a player's mitts somewhat stickier than before; something that does aid in picking the ball up however! Players on your team gain a bonus of +1 when rolling to pick up the ball.    |
-| 3  | **Fresh Tripleberry Scones:** The smell of freshly baked Tripleberry Scones wafting through the dugout is enough to rouse almost any knocked-out player. Players on your team gain a +2 bonus when rolling to recover from being KO'd.                                             |
-| 4  | **Energy Bars:** These delicious snacks are the perfect treat to fuel any player, letting them unleash bursts of energy all game long. Players on your team may Rush one more time than they usually could.                                                                           |
-| 5  | **Amazing Apple Pie:** It's long been said in the Moot that Apple Pie is very much a superfood, and many players will scoff down as many helpings as they can to keep their strength up! Players on your team gain a bonus of +1 to their ST when performing a Block action as part of a Blitz action for the duration of the action. This is applied before counting assists or applying any other modifiers. |
-| 6  | **Delightful Doughnuts:** Everyone loves doughnuts, and no tournament is complete without players wolfing down a doughnut or three to raise their spirits! Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.                          |
+| 1  | **Garlic Eclairs:** Players on your team gain the [Foul Appearance] skill.                             |
+| 2  | **Super-sticky Buns:** Players on your team gain a bonus of +1 when rolling to pick up the ball.    |
+| 3  | **Fresh Tripleberry Scones:** Players on your team gain a +2 bonus when rolling to recover from being KO'd.                                             |
+| 4  | **Energy Bars:** Players on your team may Rush one more time than they usually could.                                                                           |
+| 5  | **Amazing Apple Pie:** Players on your team gain a bonus of +1 to their ST when performing a Block action as part of a Blitz action for the duration of the action. This is applied before counting assists or applying any other modifiers. |
+| 6  | **Delightful Doughnuts:** Whenever a player on your team uses a team re-roll, roll a D6. On a 5+, the team re-roll is free.                          |
 
 These are just a few examples of the kind of custom Inducements that Event Organisers can use if they wish. Of course, when it comes to creating your own Inducements they can be themed around whatever takes your fancy. You may even decide that every coach in your event gets your custom Inducement for free to add that extra level of flavour to your event!
 
@@ -544,24 +544,24 @@ There are a total of 16 different Secret Objectives that can be used (provided o
 
 When rolling to determine Secret Objectives, roll a D16 three times consult the table opposite, re-rolling any results that you have already rolled:
 
-| D16  | SECRET OBJECTIVE                                |
+| D16  | Secret Objective                                |
 | ------------------------ | ------------------------------- |
-| 1                  | *Red Card:* Have a player on your team Sent-off. |
-| 2                  | *Didn't Need Them Anyway:* Finish any half with at least one re-roll unused. |
-| 3                  | *Coming Alone:* Have a player on your team knock down an opposition player without having any offensive assists. |
-| 4                  | *Fouling Frenzy:* Make at least three Foul actions over the course of the game. |
-| 5                  | *Coming Surfing:* Push an opposition player into the crowd. |
-| 6                  | *Ganging Up:* Have two or more players on your team make a Block action against the same opposition player in the same team turn. |
-| 7                  | *Whoops!:* Have a player on your team Knocked Down as a result of their own Block or Blitz action. |
-| 8                  | *Not so Fast!:* Cause an opposition player to fail a Dodge roll. |
-| 9                  | *Timely Tackle:* Successfully knock down an opposition player that was carrying the ball. |
-| 10                 | *Precision Passing:* Make three successful Pass actions over the course of the game. |
-| 11                 | *Hit 'em Hard:* Knock-out or inflict a Casualty! result on two opposition players in the same team turn. |
-| 12                 | *Just a Little Further:* Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone. |
-| 13                 | *Go Long:* Make a successful Pass action that is either a Long Pass or a Long Bomb. |
-| 14                 | *Nuffle Favors the Bold:* Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated. |
-| 15                 | *All According to Plan:* Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover. |
-| 16                 | *Headtaker:* Inflict a Casualty! result on an opposition player. |
+| 1                  | **Red Card:** Have a player on your team Sent-off. |
+| 2                  | **Didn't Need Them Anyway:** Finish any half with at least one re-roll unused. |
+| 3                  | **Coming Alone:** Have a player on your team knock down an opposition player without having any offensive assists. |
+| 4                  | **Fouling Frenzy:** Make at least three Foul actions over the course of the game. |
+| 5                  | **Coming Surfing:** Push an opposition player into the crowd. |
+| 6                  | **Ganging Up:** Have two or more players on your team make a Block action against the same opposition player in the same team turn. |
+| 7                  | **Whoops!:** Have a player on your team Knocked Down as a result of their own Block or Blitz action. |
+| 8                  | **Not so Fast!:** Cause an opposition player to fail a Dodge roll. |
+| 9                  | **Timely Tackle:** Successfully knock down an opposition player that was carrying the ball. |
+| 10                 | **Precision Passing:** Make three successful Pass actions over the course of the game. |
+| 11                 | **Hit 'em Hard:** Knock-out or inflict a Casualty! result on two opposition players in the same team turn. |
+| 12                 | **Just a Little Further:** Have a player on your team score a touchdown after successfully Rushing into the opposition's End Zone. |
+| 13                 | **Go Long:** Make a successful Pass action that is either a Long Pass or a Long Bomb. |
+| 14                 | **Nuffle Favors the Bold:** Have a player on your team make a Block action against an opposition player that has a higher ST after assists have been calculated. |
+| 15                 | **All According to Plan:** Finish a turn after activating every eligible player without using a re-roll and without causing a Turnover. |
+| 16                 | **Headtaker:** Inflict a Casualty! result on an opposition player. |
 
 It is important to note that while every team is able to accomplish each of these Secret Objectives in theory, some teams will find some easier than others - you'll want to hope Nuffle gives you a favourable roll!
 

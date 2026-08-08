@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/BBChaosRenegades.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position               | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                       | Primary | Secondary | Cost |
+| Qty  | Position               | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                                       | Primary | Secondary | Cost |
 | ---- | ---------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0‑12 | Renegade Human Lineman | 6 | 3 | 3+ | 4+ | 9+  |                                                                                                                                                              | G M    | A S       | 50K  |
 | 0‑1  | Renegade Human Thrower | 6 | 3 | 3+ | 3+ | 9+  | • [Animosity] (All)<br /> • [Pass] <br /> • [Safe Pair of Hands]                                                                                                     | G M P   | A S       | 75K  |

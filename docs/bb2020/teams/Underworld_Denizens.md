@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/UnderworldDenizens2.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position                  | MA | ST | AG | PA | AR  | Skills                                                                                                                                                                                   | Primary | Secondary | Cost |
+| Qty  | Position                  | MA | ST | AG | PA | Ar  | Skills                                                                                                                                                                                   | Primary | Secondary | Cost |
 | ---- | ------------------------- | -- | -- | -- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑12 | Underworld Goblin Lineman | 6  | 2  | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Stunty]                                                                                                                                  | A M    | G S      | 40K  |
 | 0‑6  | Underworld Snotling       | 5  | 1  | 3+ | 5+ | 6+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Sidestep] <br /> • [Stunty] <br /> • [Titchy]                                                                   | A M    | G         | 15K  |

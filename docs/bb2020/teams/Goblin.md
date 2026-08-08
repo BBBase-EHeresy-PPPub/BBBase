@@ -1,9 +1,9 @@
-﻿**TIER 3**
+**TIER 3**
 ![](../media/teams/ScarcragSnivelersTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position       | MA | ST | AG | PA  | AR  | Skills                                                                                                                                          | Primary | Secondary | Cost |
+| Qty  | Position       | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | -------------- | - | - | -- | -- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Goblin Lineman | 6 | 2 | 3+ | 4+ | 8+  | • [Dodge] <br /> • [Right Stuff] <br /> • [Stunty]                                                                                                        | A       | G P S     | 40K  |
 | 0‑1  | Bomma          | 6 | 2 | 3+ | 4+ | 8+  | • [Bombardier] <br /> • [Dodge] <br /> • [Secret Weapon] <br /> • [Stunty]                                                                                    | A P      | G S     | 45K  |

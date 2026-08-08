@@ -1,9 +1,9 @@
-﻿**TIER 3**
+**TIER 3**
 ![](../media/teams/FireMountainGutbusters01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position         | MA | ST | AG | PA  | AR  | Skills                                                                             | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | Ar  | Skills                                                                             | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ---------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Gnoblar Lineman   | 5 | 1 | 3+ | 5+ | 6+  | • [Dodge]<br /> • [Right Stuff] <br /> • [Sidestep] <br /> • [Stunty] <br /> • [Titchy]     | A       | G         | 15K  |
 | 0‑1  | Ogre Runt Punter | 5 | 5 | 4+ | 4+ | 10+ | • [Bone Head]<br /> • [Kick Team-mate] <br /> • [Mighty Blow] (+1) <br /> • [Thick Skull]    | P S    | A G       | 145K |

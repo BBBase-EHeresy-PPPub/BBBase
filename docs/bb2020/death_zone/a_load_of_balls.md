@@ -31,7 +31,7 @@ Astute readers will notice that many of the balls described here tie in with the
 
 **UNUSUAL BALL ATTRIBUTES TABLE**
 
-| D16 |  ATTRIBUTE                         |
+| D16 |  Attribute                         |
 | ----------------- | ------------------------- |
 | 1             | Explodin' Ball            |
 | 2             | Daemonic Ball             |
@@ -186,12 +186,12 @@ Additionally, should any player score a touchdown with the Limpin' Squig Ball, r
 
 Whenever a player rolls a natural 1 when attempting to pick up, catch or intercept a Warpstone Brazier Ball (after re-rolls), the player finds their physical form temporarily warped! Roll a D6 on the table opposite to see what happens if a player is granted a Skill or Trait they already have, this roll has no additional effect. The effects of the Warpstone Brazier Ball last until the end of the drive, or until the player is (un)lucky enough to roll again on the table opposite:
 
-| D6 | EFFECT                                                                                                                                                                                 |
+| D6 | Effect                                                                                                                                                                                 |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | ***Spontaneous Combustion:*** The player is immediately Knocked Down. You may modify either the Armour roll or Injury roll by +1.                                                       |
-| 2  | ***Temporal Instability:*** The player moves out of phase with reality, gaining the No Hands trait.                                                                                      |
-| 3  | ***Shrunken Head:*** The only thing worse than a tiny head is the realisation that your helmet no longer fits. The player gains the Bone Head trait.                                     |
-| 4  | ***Massively Obese:*** The player expands in size until they are a hulking mass of flesh. The player's MA is reduced by 1, to a minimum of 1, and their AV is improved by 1, to a maximum of 11+. |
-| 5  | ***Leprous Flesh:*** Skin and flesh hang from the player in sickening folds. The player gains the Foul Appearance skill.                                                                 |
-| 6  | ***Thorny Carapace:*** The player's body sprouts a thick, spiked shell. The player gains the Iron Hard Skin skill and their AV is improved by 1, to a maximum of 11+.                     |
+| 1  | **Spontaneous Combustion:** The player is immediately Knocked Down. You may modify either the Armour roll or Injury roll by +1.                                                       |
+| 2  | **Temporal Instability:** The player moves out of phase with reality, gaining the [No Hands] trait.                                                                                      |
+| 3  | **Shrunken Head:** The player gains the [Bone Head] trait.                                     |
+| 4  | **Massively Obese:** The player's MA is reduced by 1, to a minimum of 1, and their AV is improved by 1, to a maximum of 11+. |
+| 5  | **Leprous Flesh:** The player gains the [Foul Appearance] skill.                                                                 |
+| 6  | **Thorny Carapace:** The player gains the [Iron Hard Skin] skill and their AV is improved by 1, to a maximum of 11+.                     |
 

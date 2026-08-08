@@ -10,11 +10,11 @@ Any player who begins their activation within the Tuck Shop may choose to take t
 
 **TASTY SNACK:** When a player performs this action, roll a D6 and consult the snack table below.
 
-| D6 | RESULT                           | OUTCOME                                                                                                                                                                                                                                                                                                            |
+| D6 | Result                           | Outcome                                                                                                                                                                                                                                                                                                            |
 |----|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | *"Was It Something They Ate?"*   | The player's stomach begins to tighten and twist, wracked with pain thanks to the perilous pastry they just consumed! The player is Placed Prone and is Stunned; this will not cause a Turnover unless this player was carrying the ball.                                                                       |
-| 2‑5| *"Oh, That's My Favourite!"*     | After a quick pit stop, the player is refreshed and ready to play some Dungeon Bowl! The player may re-roll a single Block dice, Agility test or Passing Ability test until the end of the game — remember you can't re-roll a re-roll! A player may only benefit from this result once per game; if they roll this again, nothing happens. |
-| 6  | *"Don't Forget Your Vegetables!"* | After consuming a new trial superfood, this player seems to be at the top of their game, perhaps even above it! The player increases their ST by 1 until the end of the game. A player may only benefit from this result once per game; if they roll this again, nothing happens.                               |
+| 1  | "Was It Something They Ate?"   | The player's stomach begins to tighten and twist, wracked with pain thanks to the perilous pastry they just consumed! The player is Placed Prone and is Stunned; this will not cause a Turnover unless this player was carrying the ball.                                                                       |
+| 2‑5| "Oh, That's My Favourite!"     | After a quick pit stop, the player is refreshed and ready to play some Dungeon Bowl! The player may re-roll a single Block dice, Agility test or Passing Ability test until the end of the game — remember you can't re-roll a re-roll! A player may only benefit from this result once per game; if they roll this again, nothing happens. |
+| 6  | "Don't Forget Your Vegetables!" | After consuming a new trial superfood, this player seems to be at the top of their game, perhaps even above it! The player increases their ST by 1 until the end of the game. A player may only benefit from this result once per game; if they roll this again, nothing happens.                               |
 
 ### THE ROOT WALK
 
@@ -42,10 +42,10 @@ Any player who begins their activation within the Fountain of Youth tile may per
 
 **DRINK FROM THE FOUNTAIN:** When a player performs this action, roll a D6 and consult the table below:
 
-| D6  | RESULT                     | OUTCOME                                                                                                                                                                                                                                                                                  |
+| D6  | Result                     | Outcome                                                                                                                                                                                                                                                                                  |
 |-----|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1‑3 | *"You Have Chosen, Poorly!"* | The player begins to cough and splutter, as if their very life is draining away! The player is Placed Prone and an Injury roll is made against them - this will not cause a Turnover unless the player was carrying the ball.                                                         |
-| 4‑6 | *"You Have Chosen, Wisely!"* | Old wounds begin to heal and the player swells with new-found energy! The player immediately recovers from any Serious Injuries or Lasting Injuries from previous games. Additionally, for the duration of the game, the first time this player would be removed from play as a Casualty, instead place them in the Reserves box and do not roll on the Casualty table. |
+| 1‑3 | "You Have Chosen, Poorly!" | The player begins to cough and splutter, as if their very life is draining away! The player is Placed Prone and an Injury roll is made against them - this will not cause a Turnover unless the player was carrying the ball.                                                         |
+| 4‑6 | "You Have Chosen, Wisely!" | Old wounds begin to heal and the player swells with new-found energy! The player immediately recovers from any Serious Injuries or Lasting Injuries from previous games. Additionally, for the duration of the game, the first time this player would be removed from play as a Casualty, instead place them in the Reserves box and do not roll on the Casualty table. |
 
 ### GLUTTONOUS GREENHOUSE
 
@@ -101,12 +101,12 @@ Any player who begins their activation within the Necromancer's Laboratory may c
 
 **UNDER THE SAW:** When a player performs this action, roll a D6 and consult the Experiment table below. Once the result has been applied, that player's activation immediately ends.
 
-| D6 | RESULT                         | OUTCOME |
+| D6 | Result                         | Outcome |
 |----|--------------------------------|---------|
-| 1  | *"Oops..."*                   | The player is immediately placed in the Casualty box; they will take no further part in the game. This does not result in a Turnover unless this player was also carrying the ball. |
-| 2  | *"That Was Close!"*           | The player doesn't receive any benefits from the experiment other than leaving with their life! |
-| 3‑5| *"No, There Won't Be Side Effects!"* | The player gains a random Mutation until the end of the game. If the player would gain a random Mutation which they cannot use or already have, simply randomise again until you get one that is appropriate. A player may only benefit from this result once per game; if they roll this again, nothing happens. |
-| 6  | *"Yes, Yes, YES!"*            | The player gains a Mutation of your choice until the end of the game. A player may only benefit from this result once per game; if they roll this again, nothing happens. |
+| 1  | "Oops..."                   | The player is immediately placed in the Casualty box; they will take no further part in the game. This does not result in a Turnover unless this player was also carrying the ball. |
+| 2  | "That Was Close!"           | The player doesn't receive any benefits from the experiment other than leaving with their life! |
+| 3‑5| "No, There Won't Be Side Effects!" | The player gains a random Mutation until the end of the game. If the player would gain a random Mutation which they cannot use or already have, simply randomise again until you get one that is appropriate. A player may only benefit from this result once per game; if they roll this again, nothing happens. |
+| 6  | "Yes, Yes, Yes!"            | The player gains a Mutation of your choice until the end of the game. A player may only benefit from this result once per game; if they roll this again, nothing happens. |
 
 ### THE CORPSE CHASM
 

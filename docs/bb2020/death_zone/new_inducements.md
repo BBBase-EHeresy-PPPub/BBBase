@@ -43,16 +43,16 @@ At the start of each drive, after the teams have been set up but before the kick
 
 **"BY THE POWER OF THE GODS!"**
 
-| D8 | RESULT |
+| D8 | Result |
 | ------ | ---------- |
-| 1  | ***Unworthy:*** The player is struck down. The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
-| 2  | ***Overlooked:*** The chosen player is overlooked by the fickle gods. Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
-| 3  | ***Freakish Proportions:*** The player gains the [Big Hand] and [Very Long Legs] skills. |
-| 4  | ***Grasping Tendrils:*** The player gains the [Tentacles] and [Prehensile Tail] skills. |
-| 5  | ***Horrific Visage:*** The player gains the [Disturbing Presence] and [Foul Appearance] skills. |
-| 6  | ***Grisly Bifurcation:*** The player gains the [Extra Arms] and [Two Heads] skills. |
-| 7  | ***Thorny Protrusions:*** The player gains the [Claws] and [Horns] skills. |
-| 8  | ***Favour of the Gods:*** The player gains two Skills of your choice, chosen from the Mutations category. |
+| 1  | **Unworthy:** The player is immediately removed from play and placed in the Knocked-out box of their team dugout. |
+| 2  | **Overlooked:** Randomly select another player from the same team, excluding players not on the pitch and players for whom a roll on this table has already been made, and roll on this table again. |
+| 3  | **Freakish Proportions:** The player gains the [Big Hand] and [Very Long Legs] skills. |
+| 4  | **Grasping Tendrils:** The player gains the [Tentacles] and [Prehensile Tail] skills. |
+| 5  | **Horrific Visage:** The player gains the [Disturbing Presence] and [Foul Appearance] skills. |
+| 6  | **Grisly Bifurcation:** The player gains the [Extra Arms] and [Two Heads] skills. |
+| 7  | **Thorny Protrusions:** The player gains the [Claws] and [Horns] skills. |
+| 8  | **Favour of the Gods:** The player gains two Skills of your choice, chosen from the Mutations category. |
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: GALANDRIL SILVERWATER
 
@@ -72,12 +72,12 @@ Once per game, during Step 2 of the End of Drive sequence, Krot can experiment o
 
 **"A NEW PLAYTHI... ER, PATIENT!"**
 
-| D6 | RESULT |
+| D6 | Result |
 | ------ | ---------- |
-| 1  | ***There Were... Complications:*** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
-| 2‑3| ***Useless Flesh-thing!*** Krot's tinkering has no effect and the player remains in the Casualty box. |
-| 4‑5| ***Flawed Execution:*** The player is returned to the Reserves box and can be set up with the rest of the team. However, until the end of the next drive, they gain the [Really Stupid] (4+) trait. If they already have the [Really Stupid] (4+) trait, it is replaced with the [Really Stupid] (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
-| 6  | ***Witness Perfection!*** The player is returned to the Reserves box and can be set up with the rest of the team. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 1  | **There Were... Complications:** The player's condition has worsened. The coach of the opposing team rolls on the Casualty table to determine exactly what has happened to the player. The result of this roll is applied immediately, in addition to any other Casualty table results already applied. Note that multiple Miss Next Game results do not stack. |
+| 2‑3| **Useless Flesh-thing!** Krot's tinkering has no effect and the player remains in the Casualty box. |
+| 4‑5| **Flawed Execution:** If they already have the [Really Stupid] (4+) trait, it is replaced with the [Really Stupid] (5+) trait. At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
+| 6  | **Witness Perfection!** At the end of this drive, the player is returned to the Casualty box, where the effects of the Casualty roll that was previously made against them are applied as normal. |
 
 ### 0-1 (IN)FAMOUS COACHING STAFF INDUCEMENT: AYLEEN ANDAR
 
@@ -601,8 +601,8 @@ During Step 2 of every Start of Drive sequence, the Master of Ballistics can att
 | D3 | Result                                                                                      |
 |----|---------------------------------------------------------------------------------------------|
 | 1  | **Complete Misunderstanding:** The kicker has rather missed the point, and the kick-off deviates as normal. |
-| 2  | **Interesting Theory...** The Master of Ballistics becomes side-tracked explaining the theory and runs out of time before the whistle. The distance the ball deviates is reduced by one square, from D6 squares to D6-1 squares (meaning there is a chance it won't deviate at all if a 1 is rolled). |
-| 3  | **Successful Practical Application:** By Nuffle, the kicker's grasped it! After rolling the dice for deviation, the kicking team's coach can choose to modify the roll of either the D6 or the D8 by +1 or +2, or -1 or -2 as they wish, to a minimum of 1, and a maximum of 6 (for the D6) and 8 (for the D8). |
+| 2  | **Interesting Theory...** The distance the ball deviates is reduced by one square, from D6 squares to D6-1 squares (meaning there is a chance it won't deviate at all if a 1 is rolled). |
+| 3  | **Successful Practical Application:** After rolling the dice for deviation, the kicking team's coach can choose to modify the roll of either the D6 or the D8 by +1 or +2, or -1 or -2 as they wish, to a minimum of 1, and a maximum of 6 (for the D6) and 8 (for the D8). |
 
 ### 0-3 BOTTLES OF HEADY BREW
 

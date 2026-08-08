@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/DwarfGiants01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position              | MA | ST | AG | PA  | AR  | Skills                                                                                                                                                          | Primary | Secondary | Cost |
+| Qty  | Position              | MA | ST | AG | PA  | Ar  | Skills                                                                                                                                                          | Primary | Secondary | Cost |
 | ---- | --------------------- | - | - | -- | -- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑12 | Dwarf Blocker Lineman | 4 | 3 | 4+ | 5+ | 10+ | • [Block]<br /> • [Tackle] <br /> • [Thick Skull]                                                                                                                     | G S     | A         | 70K  |
 | 0‑2  | Runner                | 6 | 3 | 3+ | 4+ | 9+  | • [Sure Hands]<br /> • [Thick Skull]                                                                                                                                  | G P     | A S       | 85K  |

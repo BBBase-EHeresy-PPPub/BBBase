@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBS2LizardmenTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position             | MA | ST | AG | PA  | AR  | Skills                                                                                                 | Primary | Secondary | Cost |
+| Qty  | Position             | MA | ST | AG | PA  | Ar  | Skills                                                                                                 | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | --- | ------------------------------------------------------------------------------------------------------ | ------- | --------- | ---- |
 | 0‑12 | Skink Runner Lineman | 8 | 2 | 3+ | 4+ | 8+  | • [Dodge]<br /> • [Stunty]                                                                                 | A       | G P S     | 60K  |
 | 0‑2  | Chameleon Skink      | 7 | 2 | 3+ | 3+ | 8+  | • [Dodge]<br /> • [On the Ball] <br /> • [Shadowing] <br /> • [Stunty]                                           | A       | G P S     | 70K  |

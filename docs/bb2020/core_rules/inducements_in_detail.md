@@ -88,7 +88,7 @@ Each Special Plays Inducement purchased gives you one Special Plays card to use 
 
 **SPECIAL PLAYS CARDS**
 
-| D6 | DECK |
+| D6 | Deck |
 |----|--------------------------|
 | 1  | [Random Events](./special_plays_card_pack.md#1-random-events) |
 | 2  | [Dirty Tricks](./special_plays_card_pack.md#2-dirty-tricks) |

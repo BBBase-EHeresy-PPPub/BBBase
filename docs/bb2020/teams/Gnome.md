@@ -1,9 +1,9 @@
-﻿**TIER 3**
+**TIER 3**
 ![](../media/teams/BBGnomeTeam01.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position              | MA | ST | AG | PAA | AR  | Skills                                                                                                                                                         | Primary | Secondary | Cost    |
+| Qty  | Position              | MA | ST | AG | Paa | Ar  | Skills                                                                                                                                                         | Primary | Secondary | Cost    |
 | ---- | --------------------- | - | - | -- | -- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ------- |
 | 0‑16 | Gnome Lineman         | 5 | 2 | 3+ | 4+ | 7+  | • [Jump Up]<br /> • [Right Stuff]<br /> • [Stunty]<br /> • [Wrestle]                                                                                       | A       | G S        | 40K  |
 | 0‑2  | Gnome Beastmaster     | 5 | 2 | 3+ | 4+ | 8+  | • [Guard]<br /> • [Jump Up]<br /> • [Stunty]<br /> • [Wrestle]                                                                                             | A       | G S        | 55K  |

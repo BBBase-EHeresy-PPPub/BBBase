@@ -1,9 +1,9 @@
-﻿**TIER 2**
+**TIER 2**
 ![](../media/teams/BBTombKings.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position         | MA | ST | AG | PA  | AR  | Skills                                                        | Primary | Secondary | Cost |
+| Qty  | Position         | MA | ST | AG | PA  | Ar  | Skills                                                        | Primary | Secondary | Cost |
 | ---- | ---------------- | - | - | -- | -- | --- | ------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Skeleton Lineman | 5 | 3 | 4+ | 6+ | 8+  | • [Regeneration] <br /> • [Thick Skull]                               | G       | A S        | 40K  |
 | 0‑4  | Tomb Guardian    | 4 | 5 | 5+ | -  | 10+ | • [Decay] <br /> • [Regeneration]                                     | S       | A G       | 100K |

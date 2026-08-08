@@ -43,8 +43,8 @@ Once per game, at the start of any friendly team turn, the head coach of a team 
 | D6 | Result                                                                                               |
 |----|------------------------------------------------------------------------------------------------------|
 | 1  | The gods are angered by the coach's insolence, and curses the team's fortunes. The team immediately loses a team re-roll. |
-| 2-5 | The gods answer the coach, bringing havoc to the opposition. Randomly select an opposition player on the pitch. The selected player is immediately Knocked Down; make an Armour roll as normal. |
-| 6  | The gods decide to bestow their blessing upon the team, in their own unique way. Randomly select a friendly player on the pitch. The selected player immediately gains one of the following Mutations skills of your choice for the remainder of the game: Claws, Disturbing Presence, Horns, Iron Hard Skin, Tentacles. |
+| 2‑5 | The gods answer the coach, bringing havoc to the opposition. Randomly select an opposition player on the pitch. The selected player is immediately Knocked Down; make an Armour roll as normal. |
+| 6  | The gods decide to bestow their blessing upon the team, in their own unique way. Randomly select a friendly player on the pitch. The selected player immediately gains one of the following Mutations skills of your choice for the remainder of the game: [Claws], [Disturbing Presence], [Horns], [Iron Hard Skin], [Tentacles]. |
 
 ### Many Glorious Prizes!
 
@@ -64,11 +64,11 @@ To represent the unique conditions teams must face in Khornate stadia, the follo
 
 | 2D6 | Result                                                                                                                                      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Khorne's Fury:** Khorne has become incensed that there is not enough carnage to stem his bloodlust, and he demands more bloodshed. To fuel his rage, Khorne plants his wrath within his chosen vessels on the pitch - though it comes with a cost to the players. Randomly select two players from each team. Those players gain +1 to their Strength characteristic and the Frenzy skill until a different result is rolled on the Weather table. When a different result is rolled, these players immediately roll on the Injury table. |
-| 3   | **Losing Patience:** The insufficient spilling of blood, at least in his eyes, is beginning to draw the ire of Khorne - which brings its own risks. At the end of each drive, randomly select one player on the pitch. Immediately make an Armour roll, and an Injury roll if necessary, for that player. |
-| 4-10 | **All Is Calm:** Khorne is content to simply watch the game without intervening, making it perfect Blood Bowl weather.                                                              |
-| 11  | **Red Mist:** A red mist descends upon the pitch, coating the players in a thin veil of blood and making visibility increasingly worse. Players making a Pass action may not perform a Long pass or a Long bomb. |
-| 12  | **Crimson Downpour:** So impressed with the display of violence, Khorne causes the heavens to rain crimson down upon those on the pitch, drenching them in gallons of blood and making it slippery underfoot. Players attempting to Rush will fail on the roll of a 1 or 2. Additionally, if a player suffers a Push result from a Block, roll a D6. On the roll of a 1, the player is KO'd after the push is made. |
+| 2   | **Khorne's Fury:** Randomly select two players from each team. Those players gain +1 to their Strength characteristic and the [Frenzy] skill until a different result is rolled on the Weather table. When a different result is rolled, these players immediately roll on the Injury table. |
+| 3   | **Losing Patience:** At the end of each drive, randomly select one player on the pitch. Immediately make an Armour roll, and an Injury roll if necessary, for that player. |
+| 4‑10 | **All Is Calm:** Khorne is content to simply watch the game without intervening, making it perfect Blood Bowl weather. |
+| 11  | **Red Mist:** Players making a Pass action may not perform a Long pass or a Long bomb. |
+| 12  | **Crimson Downpour:** Players attempting to Rush will fail on the roll of a 1 or 2. Additionally, if a player suffers a Push result from a Block, roll a D6. On the roll of a 1, the player is KO'd after the push is made. |
 
 ### Khornate Kick-off Table
 
@@ -76,17 +76,17 @@ To represent playing Blood Bowl under the watchful gaze of Khorne, where a game 
 
 | 2D6 | Result                                                                                                                          |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Ref of Khorne:** The referee clearly seems to be a devotee of Khorne and actively encourages as much violence as possible. For the duration of the drive, players from both teams cannot be Sent-off for committing a Foul action. |
-| 3   | **Horrifying Howls:** The bloodcurdling howls of the servants of Khorne are enough to invoke terror in even the most steadfast of players. Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. During each player's next turn, that player is frozen by fear and may not move, perform any actions, and does not have a Tackle Zone. |
-| 4   | **Frenzied Crowd:** The fans have been whipped into a murderous frenzy, and any player that ends up pushed into the crowd is likely to be at their mercy! For the duration of the drive, whenever a player is pushed into the crowd, apply a +1 modifier to the Injury roll. |
+| 2   | **Ref of Khorne:** For the duration of the drive, players from both teams cannot be Sent-off for committing a Foul action. |
+| 3   | **Horrifying Howls:** Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. During each player's next turn, that player is frozen by fear and may not move, perform any actions, and does not have a Tackle Zone. |
+| 4   | **Frenzied Crowd:** For the duration of the drive, whenever a player is pushed into the crowd, apply a +1 modifier to the Injury roll. |
 | 5   | **High Kick:** Apply the High Kick result as normal.                                                                             |
 | 6   | **Cheering Fans:** Apply the Cheering Fans result as normal.                                                                     |
 | 7   | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal.                                                          |
 | 8   | **Changing Weather:** Make a new roll on the Wrath of Khorne Weather table and apply that result. If the result is 'All is Calm' as a result of the roll, the ball will scatter before landing. |
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                          |
-| 10  | **Khorne Cares Not:** To Khorne, it doesn't matter from where the blood flows, so long as it does. For the duration of the drive, if a player causes a Casualty as the result of a Secret Weapon, Foul action, or pushing an opposition player into the crowd, that player will receive 2 Star Player Points, exactly as if they had caused a Casualty by performing a Block action. |
-| 11  | **Blood-crazed Fan:** The violence on the pitch is just too much for one fan who is desperate to get in on the action. Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been attacked by the blood-crazed fan and is immediately KO'd. |
-| 12  | **Blood Rage:** Wanting even more bloodshed, Khorne infuses a player on each team with his fury and watches as they unleash his wrath upon the opposition! Starting with the active team, coaches randomly select one player on their team that is Marking an opposition player. The chosen player must immediately perform a Block action against an opposition player. This will not cause a Turnover. |
+| 10  | **Khorne Cares Not:** For the duration of the drive, if a player causes a Casualty as the result of a Secret Weapon, Foul action, or pushing an opposition player into the crowd, that player will receive 2 Star Player Points, exactly as if they had caused a Casualty by performing a Block action. |
+| 11  | **Blood-crazed Fan:** Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been attacked by the blood-crazed fan and is immediately KO'd. |
+| 12  | **Blood Rage:** Starting with the active team, coaches randomly select one player on their team that is Marking an opposition player. The chosen player must immediately perform a Block action against an opposition player. This will not cause a Turnover. |
 
 ### Additional Post-game Sequence Rules
 

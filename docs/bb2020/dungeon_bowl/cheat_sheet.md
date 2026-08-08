@@ -216,30 +216,30 @@ Whenever a player's armour is broken, an Injury roll is made against them. The c
 
 ## INJURY TABLE
 
-| 2D6           | RESULT                                                                                                                                                                                                                                                                        |
+| 2D6           | Result                                                                                                                                                                                                                                                                        |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2‑7 | ***Stunned:*** The player immediately becomes Stunned, as described on page 13 of the *Dungeon Bowl* rulebook, and is laid face-down in the dungeon.                                                                                                                                                   |
-| 8‑9 | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout.                                            |
-| 10+ | ***Casualty!*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposition team immediately makes a Casualty roll against the player. |
+| 2‑7 | **Stunned:** The player immediately becomes Stunned, as described on page 13 of the Dungeon Bowl rulebook, and is laid face-down in the dungeon.                                                                                                                                                   |
+| 8‑9 | **KO'd:** The player is immediately removed from play and placed in the Knocked-out box of their team dugout.                                            |
+| 10+ | **Casualty!** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposition team immediately makes a Casualty roll against the player. |
 
 **STUNTY INJURY TABLE**
 
-| 2D6  | RESULT                                                                                                                                               |
+| 2D6  | Result                                                                                                                                               |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2‑6  | ***Stunned:*** The player immediately becomes Stunned, as described on page 13 of the *Dungeon Bowl* rulebook, and is laid face-down in the dungeon. |
-| 7‑8  | ***KO'd:*** The player is immediately removed from play and placed in the Knocked-out box of their team dugout.                                      |
-| 9    | ***Badly Hurt:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. No Casualty roll is made. Instead, a Badly Hurt result is automatically applied against them. |
-| 10+  | ***Casualty:*** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player. |
+| 2‑6  | **Stunned:** The player immediately becomes Stunned, as described on page 13 of the Dungeon Bowl rulebook, and is laid face-down in the dungeon. |
+| 7‑8  | **KO'd:** The player is immediately removed from play and placed in the Knocked-out box of their team dugout.                                      |
+| 9    | **Badly Hurt:** Instead, a Badly Hurt result is automatically applied against them. |
+| 10+  | **Casualty:** The player becomes a casualty and is immediately removed from play and placed in the Casualty box of their team dugout. The coach of the opposing team immediately makes a Casualty roll against the player. |
 
 **CASUALTY TABLE**
 
-| D16              | RESULT                       | EFFECT                                                                   |
+| D16              | Result                       | Effect                                                                   |
 | ---------------- | ---------------------------- | ------------------------------------------------------------------------ |
-| 1‑6   | ***Badly Hurt***     | The player misses the rest of this game, but suffers no long term effect |
-| 7‑9   | ***Seriously Hurt*** | MNG                                                                      |
-| 10‑12 | ***Serious Injury*** | NI and MNG                                                               |
-| 13‑14 | ***Lasting Injury*** | Characteristic Reduction and MNG                                         |
-| 15‑16 | ***DEAD***           | This player is far too dead to play Dungeon Bowl!                          |
+| 1‑6   | Badly Hurt     | The player misses the rest of this game, but suffers no long term effect |
+| 7‑9   | Seriously Hurt | Mng                                                                      |
+| 10‑12 | Serious Injury | NI and MNG                                                               |
+| 13‑14 | Lasting Injury | Characteristic Reduction and MNG                                         |
+| 15‑16 | Dead           | This player is far too dead to play Dungeon Bowl!                          |
 
 **MNG (MISS NEXT GAME)**
 
@@ -257,13 +257,13 @@ Note, however, that no characteristic can ever be reduced below the minimum valu
 
 **LASTING INJURY TABLE**
 
-| D6  | LASTING INJURY          | REDUCTION |
+| D6  | Lasting Injury          | Reduction |
 |-----|-------------------------|-----------|
-| 1‑2 | ***Head Injury***         | -1 AV     |
-| 3   | ***Smashed Knee***        | -1 MA     |
-| 4   | ***Broken Arm***          | -1 PA     |
-| 5   | ***Neck Injury***         | -1 AG     |
-| 6   | ***Dislocated Shoulder*** | -1 ST     |
+| 1‑2 | Head Injury         | -1 AV     |
+| 3   | Smashed Knee        | -1 MA     |
+| 4   | Broken Arm          | -1 PA     |
+| 5   | Neck Injury         | -1 AG     |
+| 6   | Dislocated Shoulder | -1 ST     |
 
 **DEAD**
 

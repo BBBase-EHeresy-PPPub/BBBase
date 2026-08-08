@@ -59,9 +59,9 @@ Immediately after step 6 of the pre-game sequence, a team that has hired a Norsc
 | D6 | Result                                                                                                        |
 |----|---------------------------------------------------------------------------------------------------------------|
 | 1  | **The Portents read Doom!** The team immediately loses one team re-roll.                                      |
-| 2-3 | **The Portents are Clouded, much like the Weather.** You may immediately change the weather to any result on the Weather table. |
-| 4-5 | **Nuffle is Watching...** You may immediately roll once on the Prayers to Nuffle table.                       |
-| 6  | **Nuffle Smiles on us this day!** Randomly select one player on your team that is available to play during the drive, and that does not have the Loner (X+) trait. Until the end of the game, that player gains a single Primary skill of your choice. |
+| 2‑3 | **The Portents are Clouded, much like the Weather.** You may immediately change the weather to any result on the Weather table. |
+| 4‑5 | **Nuffle is Watching...** You may immediately roll once on the Prayers to Nuffle table.                       |
+| 6  | **Nuffle Smiles on us this day!** Randomly select one player on your team that is available to play during the drive, and that does not have the [Loner] (X+) trait. Until the end of the game, that player gains a single Primary skill of your choice. |
 
 ### Many Glorious Prizes!
 
@@ -81,11 +81,11 @@ To represent the unique conditions teams must face in the Icebowl, the following
 
 | 2D6 | Result                                                                                                                                   |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Wind Chill:** The biting wind is enough to force some players to hide from the freezing cold in the dugout! At the end of step 1 of the Start of Drive sequence, both coaches roll a D6. The team that scores the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has had enough of the dreadful wind. Immediately place the selected player in the Reserves box to warm up. |
-| 3   | **Freezing Fog:** The weather is so cold it's causing players' fingers to go numb, which makes catching the ball difficult indeed! Apply a -1 modifier every time a player makes an AG test when attempting to catch the ball, pick up the ball, or to interfere with a Pass action. |
-| 4-10 | **Clear and Calm:** The frequently dangerous climate is unusually calm and warm (for Norsca at least!), making it perfect (*ish - Ed*) Blood Bowl weather. |
+| 2   | **Wind Chill:** At the end of step 1 of the Start of Drive sequence, both coaches roll a D6. The team that scores the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has had enough of the dreadful wind. Immediately place the selected player in the Reserves box to warm up. |
+| 3   | **Freezing Fog:** Apply a -1 modifier every time a player makes an AG test when attempting to catch the ball, pick up the ball, or to interfere with a Pass action. |
+| 4‑10 | **Clear and Calm:** The frequently dangerous climate is unusually calm and warm (for Norsca at least!), making it perfect (ish - Ed) Blood Bowl weather. |
 | 11  | **Hail Shower:** At the start of each team's turn, roll a D6. On a 1, randomly select one player on the pitch from the active team. This player is struck by an unusually large hailstone; make an Armour roll for this player. If the Armour roll is successful, do not make an Injury roll; the player is instead automatically Stunned. This will not cause a Turnover, even if the player with the ball is Knocked Down. |
-| 12  | **White-out:** It's snowing so heavily that it's near impossible for the players to see anything at all! Players may not perform Pass actions. Additionally, a player may not declare a Blitz action against an opposing player who is more than three squares away from them. |
+| 12  | **White-out:** Players may not perform Pass actions. Additionally, a player may not declare a Blitz action against an opposing player who is more than three squares away from them. |
 
 ### Norsca Kick-off Table
 
@@ -93,16 +93,16 @@ To represent a game of Blood Bowl in the desolate north, where rowdy fans and th
 
 | 2D6 | Result                                                                                                                         |
 |-----|-------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Pitchside Brawl:** The fans are going at it and have flooded onto the pitch to continue the fight! Both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned. |
-| 3   | **Icicles:** Those icicles look sharp! Good job they will melt before the teams can get much use out of them! Both coaches select one player on their team from among those on the pitch. The chosen player may perform the Stab Special action once before the end of the drive. |
-| 4   | **Snowball:** Fans hurl a volley of snowballs at the players on the pitch, distracting some of them! Both coaches randomly select one of their players from among those on the pitch. The first time the selected players are activated this drive, their activation immediately ends as they spend their turn searching the stands for the perpetrators! |
+| 2   | **Pitchside Brawl:** Both coaches randomly select D3 of their players from among those on the pitch. All of the randomly selected players are Placed Prone and become Stunned. |
+| 3   | **Icicles:** Both coaches select one player on their team from among those on the pitch. The chosen player may perform the Stab Special action once before the end of the drive. |
+| 4   | **Snowball:** Both coaches randomly select one of their players from among those on the pitch. The first time the selected players are activated this drive, their activation immediately ends as they spend their turn searching the stands for the perpetrators! |
 | 5   | **High Kick:** Apply the High Kick result as normal.                                                                           |
 | 6   | **Cheering Fans:** Apply the Cheering Fans result as normal.                                                                   |
 | 7   | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal.                                                        |
 | 8   | **Changing Weather:** Make a new roll on the Harsh Tundra Weather table and apply that result. If the weather conditions are 'Clear and Calm' as a result of this roll, the ball will scatter before landing. |
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                        |
-| 10  | **Snow Drifts:** Thick snow drifts cover the field, softening the landing as players hit the ground! Apply a -1 modifier to any Armour rolls until the end of the drive. |
-| 11  | **Reckless Rookies:** Sometimes, the young rookies of Norsca can't stop themselves from joining in a game, even if they are not wanted! Both coaches immediately gain a Norse Raider Lineman for the duration of the drive. This can mean that teams have more than 11 players on the pitch for this drive and they can be placed anywhere in their team's half, but not in either of the Wide Zones. At the end of the drive, remove the Norse Raider Linemen from play as the referees eject them from the game. |
+| 10  | **Snow Drifts:** Apply a -1 modifier to any Armour rolls until the end of the drive. |
+| 11  | **Reckless Rookies:** Both coaches immediately gain a Norse Raider Lineman for the duration of the drive. This can mean that teams have more than 11 players on the pitch for this drive and they can be placed anywhere in their team's half, but not in either of the Wide Zones. At the end of the drive, remove the Norse Raider Linemen from play as the referees eject them from the game. |
 | 12  | **Feast and Drink!:** Both teams look like they have enjoyed plenty of revelry before getting back onto the pitch! All players on both teams gain the Drunkard trait - if they don't already have it, of course! |
 
 ---

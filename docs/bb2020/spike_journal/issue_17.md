@@ -46,27 +46,27 @@ Whenever your team uses a Team Re-Roll, roll a D6. On a 6, the Team Re-Roll is f
 
 | 2D6 | Result                                                                                                                       |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Powerful Gale:** The winds have picked up and are battering the trees with reckless abandon, causing branches to fall and making the passing game all but impossible! Players may not attempt Pass actions. Additionally, any player that ends their activation in a Wide Zone must roll a D6. On a 1, a falling branch hits them and they are immediately Knocked Down. This will not cause a turnover unless the player was carrying the ball. |
+| 2   | **Powerful Gale:** Players may not attempt Pass actions. Additionally, any player that ends their activation in a Wide Zone must roll a D6. On a 1, a falling branch hits them and they are immediately Knocked Down. This will not cause a turnover unless the player was carrying the ball. |
 | 3   | **Spring Showers:** While the rain isn't heavy, and is more of a light drizzle, when combined with the leaves on the forest floor it makes it rather hard for players to keep their footing if they are moving too quickly! Players attempting to Rush suffer a -1 penalty to the roll. |
-| 4-10 | **All Is Calm:** The air is still, the weather is nice, and the birds are chirping in the trees; it's a perfect day for some Blood Bowl! |
-| 11  | **Bright Sunlight:** It's a beautiful day, though the sun is filtering through the tree branches and making it hard to see properly for anyone caught in its warmth. Any players that attempt a Pass action must apply an additional -1 modifier to the Passing Ability test. |
-| 12  | **Summer Scorcher:** It's really rather hot for the time of year, and some of the players simply can't cope with the heat and may decide to have a quick rest. Whenever a player attempts to stand up, they must first roll a D6. On a 1, the player is taking a quick breather, may not stand up, and their activation immediately ends. |
+| 4‑10 | **All Is Calm:** The air is still, the weather is nice, and the birds are chirping in the trees; it's a perfect day for some Blood Bowl! |
+| 11  | **Bright Sunlight:** Any players that attempt a Pass action must apply an additional -1 modifier to the Passing Ability test. |
+| 12  | **Summer Scorcher:** Whenever a player attempts to stand up, they must first roll a D6. On a 1, the player is taking a quick breather, may not stand up, and their activation immediately ends. |
 
 ### Gnomish Trickery Kick-off Table
 
 | 2D6 | Result                                                                                                                       |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|
-| 2   | **That's Not the Ball...:** Gnomes are cheeky blighters, and one such individual has made a sleeping badger look like the ball - and it hasn't taken too kindly to being roughly awoken by an unsuspecting player! Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players are immediately Knocked Down. |
-| 3   | **Fey Interference:** Some of the more mischievous Spites are getting bored, and have decided to make things more interesting by flittering around some players to distract them! Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players cannot be activated during their team's next team turn. |
-| 4   | **Terrible Kick:** The player has been distracted by something during the kick-off; at least that is what they are claiming after that awful kick! The ball deviates from its current position before landing. |
+| 2   | **That's Not the Ball...:** Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players are immediately Knocked Down. |
+| 3   | **Fey Interference:** Both coaches roll a D6. The coach that rolls the lowest randomly selects one of their players from among those on the pitch. In the case of a tie, both coaches randomly select a player. The selected players cannot be activated during their team's next team turn. |
+| 4   | **Terrible Kick:** The ball deviates from its current position before landing. |
 | 5   | **Solid Defence:** Apply the Solid Defence result as normal.                                                                 |
 | 6   | **Cheering Fans:** Apply the Cheering Fans result as normal.                                                                 |
 | 7   | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal.                                                      |
 | 8   | **Changing Weather:** Make a new roll on the Hidden Forest Weather table and apply that result. If the result is 'All Is Calm' as a result of the roll, the ball will scatter before landing. |
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                      |
-| 10  | **The Old Switcheroo:** With a snap of their fingers, one of the watching Gnomes causes chaos as multiple players suddenly trade places with each other! Each coach randomly selects two of their players on the pitch. The two selected players immediately swap places with each other. |
+| 10  | **The Old Switcheroo:** Each coach randomly selects two of their players on the pitch. The two selected players immediately swap places with each other. |
 | 11  | **A Cunning Plan:** The kicking team seems to be taking a leaf out of the Gnomes' book and putting to full a fast one on their opponents, ganging up on them and driving them into the dirt! The coach of the kicking team may select one Open player on their team and immediately set them up again, following all the usual rules for setting up, so that they are Marking an opposition player. Then a different player on the kicking team, that is Marking the same opposition player that the first player was set up, may immediately perform a Block action targeting that opposition player. |
-| 12  | **Mass Illusion:** It suddenly looks like there are at least twice as many players on the pitch, though some of them don't seem particularly real. Not that the players have noticed, and many are violently swinging away at them in the hope of hitting, well, anything really! Until the end of both coaches' next team turn, players from both teams may not provide either offensive or defensive assists. |
+| 12  | **Mass Illusion:** Until the end of both coaches' next team turn, players from both teams may not provide either offensive or defensive assists. |
 
 ---
 

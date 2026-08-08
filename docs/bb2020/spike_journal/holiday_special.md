@@ -86,9 +86,9 @@ If a natural 1 is rolled for the Passing Ability test, the player performing thi
 
 | 2D6 | Weather Condition |
 |-----|-------------------|
-| 2   | **Squigalanche:** At the start of each team's turn, roll a D6. On a 1, randomly select one player from the active team. That player is bitten by a rampant squig; make an Armour roll. If passed, make an Injury roll as normal. This does **not** cause a Turnover, even if the player with the ball is Knocked Down. |
+| 2   | **Squigalanche:** At the start of each team's turn, roll a D6. On a 1, randomly select one player from the active team. That player is bitten by a rampant squig; make an Armour roll. If passed, make an Injury roll as normal. This does not cause a Turnover, even if the player with the ball is Knocked Down. |
 | 3   | **Frozen Snow:** When a player Falls Over or is Knocked Down, the opposing coach applies a +1 modifier when making an Armour roll against them. |
-| 4-10 | **Perfect(ish) Conditions:** No additional effect. |
+| 4‑10 | **Perfect(ish) Conditions:** No additional effect. |
 | 11  | **Cold Snap:** At the start of each team's turn, the coach randomly selects a player on the pitch. That player's MA is reduced to 0 until the end of the turn (they may still Rush as normal). |
 | 12  | **Blizzard:** Apply a -1 modifier each time a player attempts to Rush an extra square. Only Quick and Short passes may be attempted. |
 
@@ -100,9 +100,9 @@ If a natural 1 is rolled for the Passing Ability test, the player performing thi
 
 | 2D6 | Result |
 |-----|--------|
-| 2-7 | **Stunned:** The player is immediately Stunned and laid face-down on the pitch. |
-| 8-9 | **KO'd:** The player is removed from play and placed in the Knocked-out box of their team dugout. At the end of each drive, KO'd players may recover as per the Blood Bowl rulebook (p.66). |
-| 10+ | **Switch!:** *As decreed by the Red Gobbo and his rulez*, the injured player must **switch sides**. Remove them from play and place them in the Reserves box of the opposing team. They count as part of that team's roster for the rest of the game (even above 16 players). |
+| 2‑7 | **Stunned:** The player is immediately Stunned and laid face-down on the pitch. |
+| 8‑9 | **KO'd:** At the end of each drive, KO'd players may recover as per the Blood Bowl rulebook (p.66). |
+| 10+ | **Switch!:** Remove them from play and place them in the Reserves box of the opposing team. They count as part of that team's roster for the rest of the game (even above 16 players). |
 
 ---
 

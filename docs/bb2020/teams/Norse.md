@@ -1,9 +1,9 @@
-﻿**TIER 1**
+**TIER 1**
 ![](../media/teams/BBNorseTeamLead.jpg){ width=920 height=950 }
 
 ### Positionals
 
-| Qty  | Position             | MA | ST | AG | PA  | AR | Skills                                                                                                                 | Primary | Secondary | Cost |
+| Qty  | Position             | MA | ST | AG | PA  | Ar | Skills                                                                                                                 | Primary | Secondary | Cost |
 | ---- | -------------------- | - | - | -- | -- | -- | ---------------------------------------------------------------------------------------------------------------------- | ------- | --------- | ---- |
 | 0‑16 | Norse Raider Lineman | 6 | 3 | 3+ | 4+ | 8+ | • [Block]<br /> • [Drunkard] <br /> • [Thick Skull]                                                              | G       | A P S    | 50K  |
 | 0‑2  | Beer Boar            | 5 | 1 | 3+ | -  | 6+ | • [Dodge]<br /> • [No Hands] <br /> • [Pick-me-up] <br /> • [Stunty] <br /> • [Titchy]                       |         | A         | 20K  |

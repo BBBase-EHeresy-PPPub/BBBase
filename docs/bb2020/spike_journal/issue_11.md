@@ -41,11 +41,11 @@ To represent the unique conditions teams must face in Sylvania, the following We
 
 | 2D6 | Result                                                                                                                              |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Thunderstorm:** The rain lashes down furiously, and overhead a freak thunderstorm threatens to cause havoc on the pitch. Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. Additionally, at the start of each team's turn, roll a D6. On a 1, randomly select one player on the pitch from the active team. This player is hit by lightning; make an Injury roll for this player. If this causes a Casualty, it will always be treated as a Badly Hurt result. This will not cause a turnover, even if it hits a player with the ball. |
-| 3   | **Pouring Rain:** A torrential downpour leaves the players soaked and the ball very slippery! Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. |
-| 4-10 | **Still Night:** It may be dark and eerily quiet in Sylvania, but otherwise it is perfect Blood Bowl weather.                                                            |
-| 11  | **Thick Fog:** Fog descends on the pitch, making it hard to see past a certain point. Players making a Pass action may not perform a Long pass or a Long bomb.           |
-| 12  | **Can't see the Hand in Front of your Face:** The fog is so thick that it is all but impossible for a player to see themselves, let alone their team-mates or opponents! Players may not make Pass actions. Additionally, a player may not declare a Blitz action against an opposing model that is more than three squares away from it. |
+| 2   | **Thunderstorm:** Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. Additionally, at the start of each team's turn, roll a D6. On a 1, randomly select one player on the pitch from the active team. This player is hit by lightning; make an Injury roll for this player. If this causes a Casualty, it will always be treated as a Badly Hurt result. This will not cause a turnover, even if it hits a player with the ball. |
+| 3   | **Pouring Rain:** Apply a -1 modifier every time a player makes an Agility test to catch or pick up the ball, or attempts to interfere with a Pass. |
+| 4‑10 | **Still Night:** It may be dark and eerily quiet in Sylvania, but otherwise it is perfect Blood Bowl weather. |
+| 11  | **Thick Fog:** Players making a Pass action may not perform a Long pass or a Long bomb.           |
+| 12  | **Can't see the Hand in Front of your Face:** Players may not make Pass actions. Additionally, a player may not declare a Blitz action against an opposing model that is more than three squares away from it. |
 
 ### Sylvanian Kick-Off Table
 
@@ -53,17 +53,17 @@ To represent the dangers of playing Blood Bowl in the darkness of Sylvania, wher
 
 | 2D6 | Result                                                                                                                            |
 |-----|------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Hungry Fans:** The fans in the crowd have begun to get a bit peckish, and the players in the dugout look particularly tasty! Both coaches roll a D6 and add their Dedicated Fans characteristic. The team that scored the lowest (or both teams in the case of a tie) randomly selects one player in their dugout. Immediately make an Injury roll for that player. |
-| 3   | **Chilling Howl:** The terrifying sound of baying Werewolves can be heard throughout the stadium. Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. During each player's next turn, that player is frozen by fear and may not move, perform any actions, and does not have a Tackle Zone. |
-| 4   | **Thrown Pumpkins:** Pumpkins are often handed out at games in Sylvania, and usually end up being thrown onto the pitch! Each coach randomly selects two players from the opposing team and make an Armour roll for them. If the Armour roll is successful, do not make an Injury roll; instead that player is automatically Stunned. |
+| 2   | **Hungry Fans:** Both coaches roll a D6 and add their Dedicated Fans characteristic. The team that scored the lowest (or both teams in the case of a tie) randomly selects one player in their dugout. Immediately make an Injury roll for that player. |
+| 3   | **Chilling Howl:** Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. During each player's next turn, that player is frozen by fear and may not move, perform any actions, and does not have a Tackle Zone. |
+| 4   | **Thrown Pumpkins:** Each coach randomly selects two players from the opposing team and make an Armour roll for them. If the Armour roll is successful, do not make an Injury roll; instead that player is automatically Stunned. |
 | 5   | **High Kick:** Apply the High Kick result as normal.                                                                              |
 | 6   | **Cheering Fans:** Apply the Cheering Fans result as normal.                                                                      |
 | 7   | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal.                                                           |
-| 8   | **Changing Weather:** Make a new roll on the Dark of Night Weather table and apply that result. If the result is **A Still Night** as a result of the roll, the ball will scatter before landing. |
+| 8   | **Changing Weather:** Make a new roll on the Dark of Night Weather table and apply that result. If the result is A Still Night as a result of the roll, the ball will scatter before landing. |
 | 9   | **Quick Snap:** Apply the Quick Snap result as normal.                                                                            |
-| 10  | **Zombified Hand:** Sometimes, even parts of the Undead can keep moving when separated from their original body! Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been grabbed by a zombified hand; until the end of the drive reduce that player's MA by 1. |
-| 11  | **Boo!:** Ghosts and spectres enjoy nothing more than giving players a good old fright in the middle of a game. Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been spooked by the sudden appearance of a ghost and is immediately Placed Prone. |
-| 12  | **The Restless Dead:** Even the dead enjoy Blood Bowl, and some will climb from their graves mid-game to have one last chance at glory! Both coaches immediately gain a Zombie Lineman for the duration of the drive. This Zombie Lineman can mean that one team has more than 11 players on the pitch for this drive, and can be placed anywhere in its team's half, but not in either of the Wide Zones. At the end of the drive, remove the Zombie Lineman from play. |
+| 10  | **Zombified Hand:** Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been grabbed by a zombified hand; until the end of the drive reduce that player's MA by 1. |
+| 11  | **Boo!:** Both coaches roll a D6. The team that scored the lowest (or both teams in the case of a tie) randomly selects one of their players on the pitch. That player has been spooked by the sudden appearance of a ghost and is immediately Placed Prone. |
+| 12  | **The Restless Dead:** Both coaches immediately gain a Zombie Lineman for the duration of the drive. This Zombie Lineman can mean that one team has more than 11 players on the pitch for this drive, and can be placed anywhere in its team's half, but not in either of the Wide Zones. At the end of the drive, remove the Zombie Lineman from play. |
 
 ### Additional Post-game Sequence Rules
 
@@ -77,10 +77,10 @@ The coach then rolls a D6 to see what happens to the dead player:
 
 | D6 | Result                                                                                                                                                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | **"Hah! Suckers!"** The Necromancer never had any intention of raising the player from the dead, and has instead made off with the money! The player remains dead, and you lose the 50,000 gold pieces. |
+| 1  | **"Hah! Suckers!"** The player remains dead, and you lose the 50,000 gold pieces. |
 | 2  | **"There was nothing I could do":** The Necromancer has been unable to raise the player; they were too badly damaged. The money paid is refunded to the team's treasury.                     |
-| 3  | **"It may cost a little bit more":** The Necromancer has successfully raised the player, however, they are demanding an extra 20,000 gold pieces for their services. If the 20,000 gold pieces is paid then the player is raised as described below, otherwise the player is not raised and the money spent is lost. |
-| 4-6 | **"They Live!"** The Necromancer has successfully raised the player from the dead, they may be added back to your roster and will gain the Regeneration trait. However, the player gains the Loner (3+) trait and reduces their Agility by 1 (e.g., a player with an Agility of 2+ would reduce it to 3+) to a maximum of 5+. |
+| 3  | **"It may cost a little bit more":** If the 20,000 gold pieces is paid then the player is raised as described below, otherwise the player is not raised and the money spent is lost. |
+| 4‑6 | **"They Live!"** The Necromancer has successfully raised the player from the dead, they may be added back to your roster and will gain the [Regeneration] trait. However, the player gains the [Loner] (3+) trait and reduces their Agility by 1 (e.g., a player with an Agility of 2+ would reduce it to 3+) to a maximum of 5+. |
 
 ---
 
@@ -121,12 +121,12 @@ At the start of the game, roll a D6 to see which type of brain was used to craft
 
 | D6 | Type of Brain                                                                                     |
 |----|---------------------------------------------------------------------------------------------------|
-| 1  | **Troll Brain:** A player carrying the ball gains the Really Stupid trait whilst it is in their possession. |
-| 2  | **Infected Brain:** A player carrying the ball gains the Disturbing Presence skill whilst it is in their possession. |
-| 3  | **Possessed Brain:** A player carrying the ball gains the Frenzy skill whilst it is in their possession. |
-| 4  | **Human Brain:** A player carrying the ball gains the Wrestle skill whilst it is in their possession. |
-| 5  | **Dwarf Brain:** A player carrying the ball gains the Thick Skull skill whilst it is in their possession. |
-| 6  | **Elf Brain:** A player carrying the ball gains the Dodge skill whilst it is in their possession. |
+| 1  | **Troll Brain:** A player carrying the ball gains the [Really Stupid] trait whilst it is in their possession. |
+| 2  | **Infected Brain:** A player carrying the ball gains the [Disturbing Presence] skill whilst it is in their possession. |
+| 3  | **Possessed Brain:** A player carrying the ball gains the [Frenzy] skill whilst it is in their possession. |
+| 4  | **Human Brain:** A player carrying the ball gains the [Wrestle] skill whilst it is in their possession. |
+| 5  | **Dwarf Brain:** A player carrying the ball gains the [Thick Skull] skill whilst it is in their possession. |
+| 6  | **Elf Brain:** A player carrying the ball gains the [Dodge] skill whilst it is in their possession. |
 
 ---
 
@@ -143,7 +143,7 @@ Until the end of this game, each selected player gains a single randomly selecte
 | D6 | Result                                                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **The experiment proves a bit of a failure, really:** The player immediately loses the Skill. In addition, the player must miss the next game, exactly as if they had suffered a Casualty table result of 7-9, Seriously Hurt, during this game. |
-| 2-5 | **The experiment proved only a short-lived success:** The player immediately loses the Skill.                                                       |
+| 2‑5 | **The experiment proved only a short-lived success:** The player immediately loses the Skill.                                                       |
 | 6  | **The professor's experiments have proven a success!** The player retains the Skill without having to pay any SPP (note that you must adjust their Current Value accordingly, as if they had randomly selected a Secondary skill). |
 
 ---
