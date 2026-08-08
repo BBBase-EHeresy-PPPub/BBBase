@@ -42,7 +42,7 @@ Unless the Skill states otherwise, multiple players can use the same Skill durin
 
 Below is the full list of the different Skills and the categories they are in. When randomly selecting a Skill for a player, first choose one of the eligible Skill categories for that player and then roll two D6s, one after the other. The first dice will determine which half of the table you are rolling in, and the second roll will determine which Skill is selected.
 
-| 1ST D6 | 2ND D6 | AGILITY                | DEVIOUS              | GENERAL             | MUTATION                  | PASSING             | STRENGTH        |
+| 1st D6 | 2nd D6 | Agility                | Devious              | General             | Mutation                  | Passing             | Strength        |
 |--------|--------|------------------------|-----------------------|----------------------|---------------------------|----------------------|------------------|
 | 1‑3    | 1      | [Catch]                | [Dirty Player]       | [Block]             | [Big Hand]               | [Accurate]           | [Arm Bar]        |
 | 1‑3    | 2      | [Diving Catch]         | [Eye Gouge]          | [Dauntless]         | [Claws]                  | [Cannoneer]          | [Brawler]        |

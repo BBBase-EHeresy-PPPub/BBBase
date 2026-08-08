@@ -131,7 +131,7 @@ After all SPP have been assigned following a game, players are then able to spen
 
 #### ADVANCEMENT TABLE
 
-|                          | RANDOMLY SELECT A PRIMARY SKILL | CHOOSE A PRIMARY SKILL | CHOOSE A SECONDARY SKILL | CHARACTERISTIC IMPROVEMENT |
+|                          | Randomly Select a Primary Skill | Choose a Primary Skill | Choose a Secondary Skill | Characteristic Improvement |
 |--------------------------|----------------------------------|-------------------------|----------------------------|------------------------------|
 | Experienced (first advancement) | 3 SPP | 6 SPP | 10 SPP | 14 SPP |
 | Veteran (second advancement) | 4 SPP | 8 SPP | 12 SPP | 16 SPP |
@@ -167,7 +167,7 @@ If a player elects to spend their SPP on improving a Characteristic, then they d
 
 ### CHARACTERISTIC IMPROVEMENT TABLE
 
-| D8 | CHARACTERISTIC IMPROVEMENT |
+| D8 | Characteristic Improvement |
 |----|-----------------------------|
 | 1  | Improve the player's AV by 1. |
 | 2  | Improve the player's AV or PA by 1. |
@@ -189,7 +189,7 @@ When a player gains new Skills or improves one of its Characteristics, their val
 
 ### VALUE INCREASE TABLE
 
-| ADVANCEMENT TYPE | VALUE INCREASE |
+| Advancement Type | Value Increase |
 |------------------|----------------|
 | Primary Skill    | +20,000 gold pieces |
 | Secondary Skill  | +40,000 gold pieces |
@@ -225,7 +225,7 @@ Following each League Fixture, if a team has at least 100,000 gold pieces in its
 
 ### EXPENSIVE MISTAKE TABLE
 
-| D6 | 100,000-195,000 GOLD PIECES | 200,000-295,000 GOLD PIECES | 300,000-395,000 GOLD PIECES | 400,000-495,000 GOLD PIECES | 500,000-595,000 GOLD PIECES | 600,000+ GOLD PIECES |
+| D6 | 100,000‑195,000 Gold Pieces | 200,000‑295,000 Gold Pieces | 300,000‑395,000 Gold Pieces | 400,000‑495,000 Gold Pieces | 500,000‑595,000 Gold Pieces | 600,000+ Gold Pieces |
 |----|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------|
 | 1  | Minor Incident              | Minor Incident              | Major Incident              | Major Incident              | Catastrophe                 | Catastrophe          |
 | 2  | Crisis Averted              | Minor Incident              | Minor Incident              | Major Incident              | Major Incident              | Catastrophe          |

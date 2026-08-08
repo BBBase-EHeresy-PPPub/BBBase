@@ -44,40 +44,40 @@ The following table is used to represent the effects playing in the various Duke
 
 | D8 | Result |
 |----|--------|
-| 1 | **Brionne:** The lyrical prowess of Brionne's minstrels is well known and even the crowd's improvised chants don't sound too ear-splittingly awful! For the duration of the game, each team gains a Team Mascot inducement. |
-| 2 | **Couronne:** The people of Couronne love little more than showing off their horses in grand, ground shaking parades. For the duration of the game, all players must apply a -1 modifier to the roll each time they attempt to Rush. |
-| 3 | **Bastonne:** Bastonne is often said to be the spiritual heart of Bretonnia and is famed for the many Damsels who take residence there. For the duration of the game, each team gains a Bretonnian Damsel inducement. |
-| 4 | **Parravon:** Many Parravon stadia have Pegasus roosts built in, which can lead to some unfortunate circumstances. At the start of each Drive, both Coaches randomly select one of their players on the pitch. Until the end of that Drive, those players have the [Foul Appearance] and [Disturbing Presence] Skills. |
-| 5 | **Mousillon:** Mousillon may be a dreary place but their medical skills are miraculous - even death doesn't always take! For the duration of the game, all players gain the [Regeneration] Skill if they do not already have it. |
-| 6 | **Bordeleaux:** The nobles of Bordeleaux are famous for their wine. For the duration of the game each team receives two Bordeleaux Caskets - for rules purposes, these function in the same way as Blitzer's Best Kegs. Neither team may purchase additional Blitzer's Best Kegs. |
-| 7 | **Quenelles:** Stupefying magic is abound due to a visiting delegation from Athel Loren! Each Coach selects one player on their team; for the duration of the game the selected player gains the [Trickster] skill. At the end of a Drive in which that player takes part, even if they are not on the pitch at the end of the Drive, that player is placed in the Knocked-out box of the Dugout as the magic of the Elves sends them into a confused stupor! |
-| 8 | **Aquitaine:** Walking on the expertly cultivated grasslands and pitches of Aquitaine feels like walking on air. When a player trips and Falls Over due to Rushing, no Injury roll is made. The player is placed Prone and a Turnover occurs as normal. |
+| 1 | **Brionne:** For the duration of the game, each team gains a Team Mascot inducement. |
+| 2 | **Couronne:** For the duration of the game, all players must apply a -1 modifier to the roll each time they attempt to Rush. |
+| 3 | **Bastonne:** For the duration of the game, each team gains a Bretonnian Damsel inducement. |
+| 4 | **Parravon:** At the start of each Drive, both Coaches randomly select one of their players on the pitch. Until the end of that Drive, those players have the [Foul Appearance] and [Disturbing Presence] Skills. |
+| 5 | **Mousillon:** For the duration of the game, all players gain the [Regeneration] Skill if they do not already have it. |
+| 6 | **Bordeleaux:** For the duration of the game each team receives two Bordeleaux Caskets - for rules purposes, these function in the same way as Blitzer's Best Kegs. Neither team may purchase additional Blitzer's Best Kegs. |
+| 7 | **Quenelles:** Each Coach selects one player on their team; for the duration of the game the selected player gains the [Trickster] skill. At the end of a Drive in which that player takes part, even if they are not on the pitch at the end of the Drive, that player is placed in the Knocked-out box of the Dugout as the magic of the Elves sends them into a confused stupor! |
+| 8 | **Aquitaine:** When a player trips and Falls Over due to Rushing, no Injury roll is made. The player is placed Prone and a Turnover occurs as normal. |
 
 ### Bretonnia Weather Table
 
 | 2D6 | Result |
 |----|--------|
-| 2 | **Wildflower Fields:** The flower-filled meadows of Bretonnia lead to high pollen count, causing havoc for those afflicted with allergies! At the end of a Coach's Turn, the Coach randomly selects one of their players that is on the pitch. That player becomes Distracted. |
-| 3 | **Enchanted Mist:** The lakes of Bretonnia are often inexplicably covered with magical mists that sometimes spread across neighbouring lands. When a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. In addition, all players apply a -1 modifier to the test whenever they attempt to Rush. |
-| 4-10 | **Perfect Conditions:** Not too hot, not too cold. It's perfect weather for Blood Bowl! There is no additional effect. |
-| 11 | **Pouring Rain:** The heavens have opened and the sudden downpour has left the players soaked and the ball rather slippery! Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
-| 12 | **A Bit Nippy:** The sun is shining but the air is rather chilly; sitting by the fireside seems an attractive prospect! Apply a -1 modifier when rolling to see if a player recovers from being Knocked-out. |
+| 2 | **Wildflower Fields:** At the end of a Coach's Turn, the Coach randomly selects one of their players that is on the pitch. That player becomes Distracted. |
+| 3 | **Enchanted Mist:** When a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. In addition, all players apply a -1 modifier to the test whenever they attempt to Rush. |
+| 4‑10 | **Perfect Conditions:** There is no additional effect. |
+| 11 | **Pouring Rain:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
+| 12 | **A Bit Nippy:** Apply a -1 modifier when rolling to see if a player recovers from being Knocked-out. |
 
 ### Bretonnia Kick-off Event Table
 
 | 2D6 | Result |
 |----|--------|
-| 2 | **That Peasant Is Revolting:** A peasant has left the watching nobles quite aghast by dashing onto the pitch absent of clothes, and great rewards are offered to those who catch him. Both Coaches randomly select one of their players on the pitch, then roll a D6 and add the MA value of that player to the result. The Coach with the highest total immediately gains a free Team Re-roll for the duration of the Drive, while the player selected by the losing Coach is immediately Placed Prone and becomes Stunned. In the result of a tie, both Coaches' selected players are immediately Placed Prone and become Stunned. |
-| 3 | **Local Delicacies:** Platters of the dukedom's cuisine were handed around to the teams, much to their gastric distress. Both Coaches randomly select one of their players without the [Loner] (X+) Trait. Those players gained the [Projectile Vomit] Trait until the end of the Drive. |
-| 4 | **Moment of Glory:** Who becomes a hero is often determined by who hits first! The Coach of the kicking team randomly selects one of their players that is Marking an opposition player. The chosen player must immediately perform a Block action against an opposition player; the player gains the [Dauntless] Skill while performing this action. This will not cause a Turnover. |
+| 2 | **That Peasant Is Revolting:** Both Coaches randomly select one of their players on the pitch, then roll a D6 and add the MA value of that player to the result. The Coach with the highest total immediately gains a free Team Re-roll for the duration of the Drive, while the player selected by the losing Coach is immediately Placed Prone and becomes Stunned. In the result of a tie, both Coaches' selected players are immediately Placed Prone and become Stunned. |
+| 3 | **Local Delicacies:** Both Coaches randomly select one of their players without the [Loner] (X+) Trait. Those players gained the [Projectile Vomit] Trait until the end of the Drive. |
+| 4 | **Moment of Glory:** The Coach of the kicking team randomly selects one of their players that is Marking an opposition player. The chosen player must immediately perform a Block action against an opposition player; the player gains the [Dauntless] Skill while performing this action. This will not cause a Turnover. |
 | 5 | **High Kick:** Apply the High Kick result as normal. |
 | 6 | **Cheering Fans:** Apply the Cheering Fans result as normal. |
 | 7 | **Brilliant Coaching:** Apply the Brilliant Coaching result as normal. |
 | 8 | **Changing Weather:** Make a new roll on the Bretonnia Weather table and apply that result. If the result is 'Perfect Conditions' the ball will Scatter (3) before it lands. |
 | 9 | **Quick Snap:** Apply the Quick Snap result as normal. |
 | 10 | **Charge!:** Apply the Charge! result as normal. |
-| 11 | **Joust!:** Stadium timetables have been mixed-up and a Knight is determined to start their 'scheduled' joust - irrespective of the game going on! Both Coaches randomly select one of their players on the pitch and roll a D6. On a 2+, the player is knocked down by the horse and is immediately Placed Prone and becomes Stunned. On a 1, the player is lanced by the Knight; place the player in the Knocked-out box. |
-| 12 | **The Wild Hunt:** The scent of fresh blood has got the local Wood Elves convinced a Wild Hunt has been called. The Kicking Team's Coach rolls a D3. Both Coaches then randomly select that many players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
+| 11 | **Joust!:** Both Coaches randomly select one of their players on the pitch and roll a D6. On a 2+, the player is knocked down by the horse and is immediately Placed Prone and becomes Stunned. On a 1, the player is lanced by the Knight; place the player in the Knocked-out box. |
+| 12 | **The Wild Hunt:** The Kicking Team's Coach rolls a D3. Both Coaches then randomly select that many players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
 
 ---
 

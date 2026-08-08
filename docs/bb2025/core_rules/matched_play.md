@@ -49,7 +49,7 @@ If a team acquires additional players during the course of a game, such as those
 
 As mentioned on the [previous page](#team-tiers), in a Matched Play game, teams are given a number of Skill Points which they can use to spend on additional Skills or Star Players for their team. The amount of Skills Points a team receives will depend on the team's Tier, as listed below.
 
-| TIER OF TEAM | NUMBER OF SKILL POINTS |
+| Tier of Team | Number of Skill Points |
 |--------------|-------------------------|
 | Tier 1       | 6                       |
 | Tier 2       | 8                       |
@@ -85,12 +85,12 @@ Below is a table summarising the breakdown of what Skill Points can be spent on,
 
 Note that teams may still only have a maximum of two Star Players, including Mega-stars.
 
-|                  | PRIMARY SKILL (1 SKILL POINT) | SECONDARY SKILL (2 SKILL POINTS) | STAR PLAYER (2 SKILL POINTS) | MEGA-STAR (4 SKILL POINTS) |
+|                  | Primary Skill (1 Skill Point) | Secondary Skill (2 Skill Points) | Star Player (2 Skill Points) | Mega-star (4 Skill Points) |
 |------------------|-------------------------------|-----------------------------------|-------------------------------|-----------------------------|
-| **Tier 1**       | No Limit                      | Maximum 1                         | Maximum 1                     | Maximum 1                   |
-| **Tier 2**       | No Limit                      | Maximum 2                         | Maximum 2                     | Maximum 1                   |
-| **Tier 3**       | No Limit                      | Maximum 3                         | Maximum 2                     | Maximum 1                   |
-| **Tier 4**       | No Limit                      | Maximum 4                         | Maximum 2                     | Maximum 1                   |
+| Tier 1       | No Limit                      | Maximum 1                         | Maximum 1                     | Maximum 1                   |
+| Tier 2       | No Limit                      | Maximum 2                         | Maximum 2                     | Maximum 1                   |
+| Tier 3       | No Limit                      | Maximum 3                         | Maximum 2                     | Maximum 1                   |
+| Tier 4       | No Limit                      | Maximum 4                         | Maximum 2                     | Maximum 1                   |
 
 **Skill Points example:**
 Jay is taking a Wood Elf Team to a tournament. As this is a Tier 1 team, Jay has 6 Skill Points to spend. He decides to give one of his Wardancers Strip Ball as a Primary Skill for 1 Skill Point, and another Wardancer Sidestep as a Primary Skill for 1 Skill Point. He then gives his Loren Forest Treeman Grab for 1 Skill Point, and one of his Wood Elf Throwers Leader for 1 Skill Point. Jay then spends his last 2 Skill Points to have Akhorne the Squirrel as a Star Player.

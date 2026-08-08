@@ -224,10 +224,10 @@ Sometimes the rules will call for an Armour Roll to be made against a player. In
 
 Characteristics have a maximum and minimum value, and they can never be improved or reduced past the values shown below. Additionally, no Characteristic can ever be improved more than twice.
 
-| CHARACTERISTIC | MA | ST | AG | PA | AV |
+| Characteristic | MA | ST | AG | PA | AV |
 |----------------|----|----|----|----|----|
-| MAXIMUM        | 9  | 8  | 1+ | 1+ | 11+ |
-| MINIMUM        | 1  | 1  | 6+ | 6+ | 3+ |
+| Maximum        | 9  | 8  | 1+ | 1+ | 11+ |
+| Minimum        | 1  | 1  | 6+ | 6+ | 3+ |
 
 #### 10. SKILLS & TRAITS
 
@@ -285,10 +285,9 @@ When a player is Prone, place a Prone Token beside them to show they are Prone. 
 #### STUNNED
 When a player is Stunned, place a Stunned Token beside them to show they are Stunned. A Stunned player cannot be activated during their team's turn. At the end of each team's turn, any players on their team that started that turn Stunned will automatically roll over and become Prone instead - flip their Stunned Token over to become a Prone Token. This means that any player that became Stunned during the course of their team's turn will not roll over as they did not start their team's turn as Stunned - they must wait until the end of their team's next turn to roll over.
 
-#### DESIGNER'S NOTE: LYING DOWN MODELS
-In previous versions of the game we used to lie our players down on the pitch to denote being Prone or Stunned. Face-up players were Prone, and face-down players were Stunned. However, in Season 3, this has changed to using tokens. This means that regardless of how large and/or dynamic a model is, it is easy to tell where a miniature is and if they are Prone and Stunned. It also prevents damage to miniatures that Coaches had spent a lot of time and love painting.
-
-You may find that some veterans still lay their players down during a game out of habit. This is fine if they wish to do so, so long as they make it clear which square each player is in and what their status is.
+> **Designer's Note - Lying Down Models:** *In previous versions of the game we used to lie our players down on the pitch to denote being Prone or Stunned. Face-up players were Prone, and face-down players were Stunned. However, in Season 3, this has changed to using tokens. This means that regardless of how large and/or dynamic a model is, it is easy to tell where a miniature is and if they are Prone and Stunned. It also prevents damage to miniatures that Coaches had spent a lot of time and love painting.*
+>
+> *You may find that some veterans still lay their players down during a game out of habit. This is fine if they wish to do so, so long as they make it clear which square each player is in and what their status is.*
 
 ### BECOMING PRONE OR STUNNED
 There are a number of ways that a player can become Prone or Stunned over the course of a game, though this will usually be due to being punched down by an opposition player or by falling over as they try to duck and weave through the opposition lines. There are three ways that a player can find themselves on the ground: Placed Prone, Falls Over or Knocked Down, each of which is described here.

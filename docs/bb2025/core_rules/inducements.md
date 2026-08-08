@@ -45,16 +45,16 @@ Below is a list of the common Inducements and their associated costs for easy re
 
 For each Prayer to Nuffle a team purchases, roll a D16 (re-rolling any results a team has already rolled) and consult the Prayers to Nuffle Table opposite to see the effect that Nuffle has bestowed upon the team. Prayers to Nuffle last until the end of the game. If a Prayer to Nuffle requires players to be selected, then Star Players may never be selected under any circumstances.
 
-| D16 | RESULT |
+| D16 | Result |
 |-----|---------|
 | 1 | **Treacherous Trapdoor:** Each time a player from either team enters a square containing a Trapdoor for any reason, roll a D6. On a 1, the Trapdoor falls open and the player falls through it. Make an Injury Roll for the player exactly as if they had been Pushed into the Crowd. If the player was holding the ball, it will Bounce from the Trapdoor square. |
 | 2 | **Friends with the Ref:** Whenever you Argue the Call, treat any roll of a 5 or 6 as "Well, when you put it like that..." |
-| 3 | **Stiletto:** Randomly select one player on your team that is playing this game. The selected player gains the Stab Trait for the duration of the game. |
+| 3 | **Stiletto:** Randomly select one player on your team that is playing this game. The selected player gains the [Stab] Trait for the duration of the game. |
 | 4 | **Iron Man:** Select one player on your team that is playing this game. The selected player improves their AV by 1 (to a maximum of 11+) for the duration of the game. |
-| 5 | **Knuckle Dusters:** Select one player on your team that is playing this game. The selected player gains the Mighty Blow Skill for the duration of the game. |
-| 6 | **Bad Habits:** Randomly select D3 opposition players that are playing this game. The selected players gain the Loner (2+) Trait for the duration of the game. |
+| 5 | **Knuckle Dusters:** Select one player on your team that is playing this game. The selected player gains the [Mighty Blow] Skill for the duration of the game. |
+| 6 | **Bad Habits:** Randomly select D3 opposition players that are playing this game. The selected players gain the [Loner] (2+) Trait for the duration of the game. |
 | 7 | **Greasy Cleats:** Randomly select one opposition player that is playing this game. The selected player reduces their MA by 1 (to a minimum of 1) for the duration of the game. |
-| 8 | **Blessing of Nuffle:** Randomly select one player on your team that is playing this game. The selected player gains the Pro Skill for the duration of the game. |
+| 8 | **Blessing of Nuffle:** Randomly select one player on your team that is playing this game. The selected player gains the [Pro] Skill for the duration of the game. |
 | 9 | **Moles Under the Pitch:** Opposition players apply a -1 modifier to the roll when attempting to Rush. |
 | 10 | **Perfect Passing:** Any player on your team that makes a Completion will earn 2 SPP rather than the usual 1. |
 | 11 | **Dazzling Catching:** Any player on your team that successfully Catches the ball as a result of a Pass Action will earn 1 SPP. |
@@ -208,7 +208,7 @@ At the end of any Turn, before the next Turn begins, you may select any player o
 
 A Frog has the following profile:
 
-| FROG (FROG, SPECIAL) | MA | ST | AG | PA | AV      | Skills & Traits                  |
+| Frog (Frog, Special) | MA | ST | AG | PA | AV      | Skills & Traits                  |
 |----------------------|----|----|----|----|---------|----------------------------------|
 |                      | 5  | 1  | 2+ | -  | 5+ | [Dodge], [Leap], [No Ball], [Stunty], [Titchy], [Very Long Legs] |
 

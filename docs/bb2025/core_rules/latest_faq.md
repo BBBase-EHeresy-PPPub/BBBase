@@ -15,7 +15,7 @@ Where the update has a note, e.g., *"Regional update"*, this means it has had a 
 
     *"The score on a D6 can never be modified to above 6, regardless of modifiers."*
 
-  - Designers' Note: The above change allows a result to be modified below 1 - for example, rolling a 2 for an Agility Test as part of a Dodge into four Tackle Zones would have a -4 modifier, leading to a final result of -2.
+  > **Designers' Note:** *The above change allows a result to be modified below 1 - for example, rolling a 2 for an Agility Test as part of a Dodge into four Tackle Zones would have a -4 modifier, leading to a final result of -2.*
 
 ---
 
@@ -33,7 +33,7 @@ Where the update has a note, e.g., *"Regional update"*, this means it has had a 
 
     *"If an Active Trait allows a player to declare a Special Action, then they may still declare the Special Action whilst Prone, so long as the Special Action allows them to first make a free Move Action to use the Special Action."*
 
-  - Designers' Note: The above change clarifies that Prone players can use Special Actions such as Punt or Hypnotic Gaze.
+  > **Designers' Note:** *The above change clarifies that Prone players can use Special Actions such as Punt or Hypnotic Gaze.*
 
 ---
 
@@ -412,7 +412,7 @@ Here we present an updated tier list for all of the teams within Blood Bowl. Thi
 
 When a team has changed tiers from the previous update they will be highlighted in **magenta**.
 
-| **TIER 1**          | **TIER 2**         | **TIER 3**     | **TIER 4** |
+| Tier 1          | Tier 2         | Tier 3     | Tier 4 |
 | ------------------- | ------------------ | -------------- | ---------- |
 | Amazon              | Bretonnian         | Black Orc      | Gnome      |
 | Chaos Dwarf         | Dwarf              | Chaos Chosen   | Goblin     |

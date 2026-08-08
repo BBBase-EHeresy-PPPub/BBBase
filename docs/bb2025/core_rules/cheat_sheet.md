@@ -31,13 +31,13 @@ When a Touchdown is scored, or the final Turn of a half is played, the current d
 
 ### WEATHER TABLE
 
-| 2D6 | WEATHER CONDITION |
+| 2D6 | Weather Condition |
 |-----|------------------|
-| **2** | **SWELTERING HEAT:** At the end of each Drive, one coach rolls a D3. Each coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
-| **3** | **VERY SUNNY:** Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
-| **4‑10** | **PERFECT CONDITIONS:** There is no additional effect. |
-| **11** | **POURING RAIN:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
-| **12** | **BLIZZARD:** Whenever a player attempts to Rush, apply a -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
+| 2 | **Sweltering Heat:** At the end of each Drive, one coach rolls a D3. Each coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
+| 3 | **Very Sunny:** Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
+| 4‑10 | **Perfect Conditions:** There is no additional effect. |
+| 11 | **Pouring Rain:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
+| 12 | **Blizzard:** Whenever a player attempts to Rush, apply a -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
 
 ### THE TURNOVER
 
@@ -67,34 +67,34 @@ If playing in a league, Coaches should run through the following sequence after 
 
 ### KICK-OFF EVENT TABLE
 
-| 2D6 | KICK-OFF EVENT |
+| 2D6 | Kick-off Event |
 |-----|----------------|
-| **2** | **GET THE REF:** Each team immediately receives one free Bribe Inducement. This Bribe must be used by the end of the game or it is lost. |
-| **3** | **TIME-OUT:** If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space. |
-| **4** | **SOLID DEFENCE:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team. |
-| **5** | **HIGH KICK:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
-| **6** | **CHEERING FANS:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
-| **7** | **BRILLIANT COACHING:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
-| **8** | **CHANGING WEATHER:** Immediately make a new roll on the [Weather Table](#weather-table). If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
-| **9** | **QUICK SNAP!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition half. |
-| **10** | **CHARGE!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
-| **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
-| **12** | **PITCH INVASION:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
+| 2 | **Get the Ref:** Each team immediately receives one free Bribe Inducement. This Bribe must be used by the end of the game or it is lost. |
+| 3 | **TIME-OUT:** If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space. |
+| 4 | **Solid Defence:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team. |
+| 5 | **High Kick:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
+| 6 | **Cheering Fans:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
+| 7 | **Brilliant Coaching:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
+| 8 | **Changing Weather:** Immediately make a new roll on the [Weather Table](#weather-table). If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
+| 9 | **Quick Snap!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition half. |
+| 10 | **Charge!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
+| 11 | **Dodgy Snack:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
+| 12 | **Pitch Invasion:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
 
 ### PLAYER ACTIVATIONS
 During your Turn, you may activate each of your Standing and/or Prone players to perform one action available to them. Players that began the turn Stunned cannot be activated. Common Actions include:
 
-| ACTION | NOTES | RULEBOOK REFERENCE |
+| Action | Notes | Rulebook Reference |
 |--------|--------|---------------------|
-| **MOVE** | Up to MA, can Rush | [Page 54](./the_game_of_blood_bowl.md#move-actions) |
-| **BLOCK** | Block adjacent player | [Page 60](./the_game_of_blood_bowl.md#block-actions) |
-| **BLITZ** | Move then Block | [Page 64](./the_game_of_blood_bowl.md#blitz-actions) |
-| **PASS** | Move, then Pass the ball | [Page 70](./the_game_of_blood_bowl.md#pass-actions) |
-| **HAND-OFF** | Pass to adjacent player, roll to Catch only |[ Page 74](./the_game_of_blood_bowl.md#hand-off-actions) |
-| **FOUL** | Move, then Foul adjacent Prone opposing player | [Page 69](./the_game_of_blood_bowl.md#foul-actions) |
-| **THROW TEAM-MATE** | "Pass" a player with the Right Stuff Trait | [Page 76](./the_game_of_blood_bowl.md#throw-team-mate-actions) |
-| **SPECIAL ACTIONS** | Skill or Trait Action | [Page 123](./skills_and_traits.md) |
-| **SECURE THE BALL** | Move, then pick up the ball safely | [Page 59](./the_game_of_blood_bowl.md#secure-the-ball-actions) |
+| Move | Up to MA, can Rush | [Page 54](./the_game_of_blood_bowl.md#move-actions) |
+| Block | Block adjacent player | [Page 60](./the_game_of_blood_bowl.md#block-actions) |
+| Blitz | Move then Block | [Page 64](./the_game_of_blood_bowl.md#blitz-actions) |
+| Pass | Move, then Pass the ball | [Page 70](./the_game_of_blood_bowl.md#pass-actions) |
+| Hand-off | Pass to adjacent player, roll to Catch only |[ Page 74](./the_game_of_blood_bowl.md#hand-off-actions) |
+| Foul | Move, then Foul adjacent Prone opposing player | [Page 69](./the_game_of_blood_bowl.md#foul-actions) |
+| Throw Team-mate | "Pass" a player with the [Right Stuff] Trait | [Page 76](./the_game_of_blood_bowl.md#throw-team-mate-actions) |
+| **SPECIAL ActionS** | Skill or Trait Action | [Page 123](./skills_and_traits.md) |
+| Secure the Ball | Move, then pick up the ball safely | [Page 59](./the_game_of_blood_bowl.md#secure-the-ball-actions) |
 
 ### PASS ACTION
 Once per team turn, a player with the ball can perform the Pass Action. Follow the sequence:
@@ -150,29 +150,29 @@ If the Armour Roll results in a player's armour being broken, the opposing team'
 
 #### INJURY TABLE
 
-| 2D6 | RESULT |
+| 2D6 | Result |
 |-----|--------|
-| **2‑7** | **STUNNED:** The player is immediately Stunned. |
-| **8‑9** | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| **10‑12** | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them ([page 67](./the_game_of_blood_bowl.md#casualty-rolls)). |
+| 2‑7 | **Stunned:** The player is immediately Stunned. |
+| 8‑9 | **Knocked-out:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| 10‑12 | **Casualty:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them ([page 67](./the_game_of_blood_bowl.md#casualty-rolls)). |
 
 #### CASUALTY TABLE
-| D16 | RESULT |
+| D16 | Result |
 |-----|--------|
-| **1‑8** | **BADLY HURT:** The player suffers no long-term effects. |
-| **9‑10** | **SERIOUSLY HURT:** The player must miss their next game. |
-| **11‑12** | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
-| **13‑14** | **LASTING INJURY:** The player suffers a characteristic reduction and must miss their next game. |
-| **15‑16** | **DEAD:** The player is dead. |
+| 1‑8 | **Badly Hurt:** The player suffers no long-term effects. |
+| 9‑10 | **Seriously Hurt:** The player must miss their next game. |
+| 11‑12 | **Serious Injury:** The player suffers a Niggling Injury and must miss their next game. |
+| 13‑14 | **Lasting Injury:** The player suffers a characteristic reduction and must miss their next game. |
+| 15‑16 | **Dead:** The player is dead. |
 
 #### LASTING INJURY TABLE
-| D6 | LASTING INJURY | CHARACTERISTIC REDUCTION |
+| D6 | Lasting Injury | Characteristic Reduction |
 |----|----------------|--------------------------|
-| **1‑2** | HEAD INJURY | -1 AV |
-| **3** | SMASHED KNEE | -1 MV |
-| **4** | BROKEN ARM | -1 PA |
-| **5** | DISLOCATED HIP | -1 AG |
-| **6** | BROKEN SHOULDER | -1 ST |
+| 1‑2 | Head Injury | -1 AV |
+| 3 | Smashed Knee | -1 MV |
+| 4 | Broken Arm | -1 PA |
+| 5 | Dislocated Hip | -1 AG |
+| 6 | Broken Shoulder | -1 ST |
 
 ### INJURY BY THE CROWD
 Make an Injury Roll for a player Pushed into the Crowd ([page 68](./the_game_of_blood_bowl.md#pushed-into-the-crowd)). If the player would be Stunned, place them in their team's Reserve Box. Otherwise, follow the result on the relevant [Injury Table](#injury-table).
@@ -186,7 +186,7 @@ Make an Armour Roll for the target of the Foul Action. Apply a +1 modifier to th
 ### EARNING STAR PLAYER POINTS
 During League Play, players earn Star Player Points (SPP) for the following (see [page 96](./league_play.md#earning-star-player-points) for more detail):
 
-| ACTION | SPP |
+| Action | SPP |
 |--------|-----|
 | Completion | 1 SPP |
 | Throw Team-mate | See [page 76](./the_game_of_blood_bowl.md#throw-team-mate-actions) |

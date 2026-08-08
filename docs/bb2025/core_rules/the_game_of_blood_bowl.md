@@ -57,13 +57,13 @@ To determine what the weather is like at the start of the game, each Coach rolls
 
 #### WEATHER TABLE
 
-| 2D6 | WEATHER CONDITION |
+| 2D6 | Weather Condition |
 |-----|-------------------|
-| **2** | **SWELTERING HEAT:** The intense heat causes some players to faint! At the end of each Drive whilst this weather condition is in effect, one Coach rolls a D3 and each Coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
-| **3** | **VERY SUNNY:** The glorious sunshine makes for a beautiful day, but plays havoc with the passing game! Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
-| **4‑10** | **PERFECT CONDITIONS:** Not too hot, nor too cold. It's perfect weather for Blood Bowl! There is no additional effect. |
-| **11** | **POURING RAIN:** The heavens have opened and the sudden downpour has left the players soaked and the ball rather slippery! Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
-| **12** | **BLIZZARD:** The freezing conditions and swirling snow makes the footing treacherous and drastically impedes a player's vision. Whenever a player attempts to Rush, apply an additional -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
+| 2 | **Sweltering Heat:** At the end of each Drive whilst this weather condition is in effect, one Coach rolls a D3 and each Coach randomly selects that many of their players that were on the pitch when the Drive ended. The selected players are placed in the Reserves Box and cannot be set up on the pitch for the next Drive. |
+| 3 | **Very Sunny:** Whenever a player makes a Passing Ability Test, apply a -1 modifier to the roll. |
+| 4‑10 | **Perfect Conditions:** There is no additional effect. |
+| 11 | **Pouring Rain:** Whenever a player attempts to pick up or Catch the ball, or Intercept a Pass Action, they suffer a -1 modifier to the roll. |
+| 12 | **Blizzard:** Whenever a player attempts to Rush, apply an additional -1 modifier to the roll. Additionally, when a player makes a Pass Action, they may only attempt to make a Quick Pass or a Short Pass. |
 
 ### DETERMINE KICKING TEAM
 
@@ -123,19 +123,19 @@ Immediately after the kick has Deviated, the Coach of the kicking team must roll
 
 #### KICK-OFF EVENT TABLE
 
-| 2D6 | KICK-OFF EVENT |
+| 2D6 | Kick-off Event |
 |-----|----------------|
-| **2** | **GET THE REF:** Each team immediately receives one free Bribe Inducement. This Bribe must be used by the end of the game or it is lost. |
-| **3** | **TIME-OUT!:** If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space. |
-| **4** | **SOLID DEFENCE:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team. |
-| **5** | **HIGH KICK:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
-| **6** | **CHEERING FANS:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
-| **7** | **BRILLIANT COACHING:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
-| **8** | **CHANGING WEATHER:** Immediately make a new roll on the [Weather Table](#weather-table). If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
-| **9** | **QUICK SNAP!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition's half. |
-| **10** | **CHARGE!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
-| **11** | **DODGY SNACK:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
-| **12** | **PITCH INVASION:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
+| 2 | **Get the Ref:** Each team immediately receives one free Bribe Inducement. This Bribe must be used by the end of the game or it is lost. |
+| 3 | **TIME-OUT!:** If the kicking team's Turn Marker is on turn 6, 7 or 8 for the half, move both teams' Turn Marker back one space. Otherwise, move both teams' Turn Marker forwards one space. |
+| 4 | **Solid Defence:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players are then removed from the pitch and can be set up again following all the usual restrictions for setting up the team. |
+| 5 | **High Kick:** One Open player on the receiving team may immediately be placed in the square the ball is going to land in. |
+| 6 | **Cheering Fans:** Both Coaches roll a D6 and add the number of Cheerleaders on their Team Roster. The first Block Action performed during the Coach with the highest roll's next Turn receives an additional Offensive Assist. If both Coaches roll the same, both will receive this benefit during their next Turn. |
+| 7 | **Brilliant Coaching:** Both Coaches roll a D6 and add the number of Assistant Coaches on their Team Roster. The Coach with the highest total, or both Coaches in the result of a tie, immediately gains a free Team Re-roll for the Drive ahead. If this free Team Re-roll has not been used by the end of the Drive, it is lost. |
+| 8 | **Changing Weather:** Immediately make a new roll on the [Weather Table](#weather-table). If the new result is Perfect Conditions, the ball will Scatter (3) in the air before it lands. |
+| 9 | **Quick Snap!:** The Coach of the receiving team selects up to D3+3 Open players on their team. The selected players may immediately move one square in any direction, even if this takes them into the opposition's half. |
+| 10 | **Charge!:** The Coach of the kicking team selects up to D3+3 Open players on their team. The selected players may then be activated one at a time, exactly as if it was their team's Turn, and perform a free Move Action. One of the selected players may instead perform a free Blitz Action, one may perform a free Throw Team-mate Action, and one may perform a free Kick Team-mate Action. If a selected player Falls Over or is Knocked Down during their activation, no further selected players can be activated and the Charge ends. |
+| 11 | **Dodgy Snack:** Both Coaches roll a D6. The Coach that rolled the lowest, or both Coaches in the result of a tie, randomly selects one of their players on the pitch and rolls a D6. On a 2+, the player's pre-drive snack has not gone down well and for the duration of the Drive the player reduces their MA and AV by 1. On a 1, the player's pre-drive snack has violently disagreed with them; place the player in the Reserves box as they spend the rest of the Drive locked in the lavatory! |
+| 12 | **Pitch Invasion:** Both Coaches roll a D6 and add their Fan Factor. The Coach that rolled lowest, or both Coaches in the result of a tie, randomly selects D3 of their players on the pitch. The selected players are immediately Placed Prone and become Stunned. |
 
 #### WHAT GOES UP...
 
@@ -486,11 +486,11 @@ Whenever an Injury Roll must be made for a player, the Coach of the opposing tea
 
 ##### INJURY TABLE
 
-| 2D6 | RESULT |
+| 2D6 | Result |
 |-----|--------|
-| 2‑7 | **STUNNED:** The player is immediately Stunned. |
-| 8‑9 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| 10‑12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
+| 2‑7 | **Stunned:** The player is immediately Stunned. |
+| 8‑9 | **Knocked-out:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| 10‑12 | **Casualty:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
 #### STUNTY PLAYERS
 
@@ -498,12 +498,12 @@ If an Injury Roll is made for a player with the Stunty Trait, then use the Stunt
 
 ##### STUNTY INJURY TABLE
 
-| 2D6 | RESULT |
+| 2D6 | Result |
 |-----|--------|
-| 2‑6 | **STUNNED:** The player is immediately Stunned. |
-| 7‑8 | **KNOCKED-OUT:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
-| 9 | **BADLY HURT:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the [Casualty Table](#casualty-table). |
-| 10‑12 | **CASUALTY:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
+| 2‑6 | **Stunned:** The player is immediately Stunned. |
+| 7‑8 | **Knocked-out:** The player is immediately Knocked-out. Remove them from the pitch and place them in the Knocked-out box of their dugout. |
+| 9 | **Badly Hurt:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. In League Play, no Casualty Roll is made for them, instead they automatically suffer the Badly Hurt result on the [Casualty Table](#casualty-table). |
+| 10‑12 | **Casualty:** The player suffers a Casualty. Remove them from the pitch and place them in the Casualty box of their dugout. The Coach of the opposing team then makes a Casualty Roll against them. |
 
 #### CASUALTY ROLLS
 
@@ -513,13 +513,13 @@ During Exhibition Play and Matched Play, this will have little to no effect on t
 
 ##### CASUALTY TABLE
 
-| D16 | RESULT |
+| D16 | Result |
 |-----|--------|
-| 1‑8 | **BADLY HURT:** The player suffers no long term effects. |
-| 9‑10 | **SERIOUSLY HURT:** The player must miss their next game. |
-| 11‑12 | **SERIOUS INJURY:** The player suffers a Niggling Injury and must miss their next game. |
-| 13‑14 | **LASTING INJURY:** The player suffers a Characteristic reduction and must miss their next game. |
-| 15‑16 | **DEAD:** The player is dead! |
+| 1‑8 | **Badly Hurt:** The player suffers no long term effects. |
+| 9‑10 | **Seriously Hurt:** The player must miss their next game. |
+| 11‑12 | **Serious Injury:** The player suffers a Niggling Injury and must miss their next game. |
+| 13‑14 | **Lasting Injury:** The player suffers a Characteristic reduction and must miss their next game. |
+| 15‑16 | **Dead:** The player is dead! |
 
 ##### MISS NEXT GAME
 
@@ -533,13 +533,13 @@ Make a note on your team roster that the player has suffered a Niggling Injury. 
 
 The player has one of their Characteristics reduced by 1 so that it is worse. To determine which Characteristic has been reduced, roll a D6 and consult the Lasting Injury Table below:
 
-| D6 | LASTING INJURY | CHARACTERISTIC REDUCTION |
+| D6 | Lasting Injury | Characteristic Reduction |
 |----|----------------|---------------------------|
-| 1‑2 | HEAD INJURY | -1 AV |
-| 3 | SMASHED KNEE | -1 MV |
-| 4 | BROKEN ARM | -1 PA |
-| 5 | DISLOCATED HIP | -1 AG |
-| 6 | BROKEN SHOULDER | -1 ST |
+| 1‑2 | Head Injury | -1 AV |
+| 3 | Smashed Knee | -1 MV |
+| 4 | Broken Arm | -1 PA |
+| 5 | Dislocated Hip | -1 AG |
+| 6 | Broken Shoulder | -1 ST |
 
 In the case of Move Allowance and Strength, simply reduce the value by 1.
 
@@ -597,11 +597,11 @@ Regardless of the outcome, if during a Foul Action a natural double is rolled fo
 
 When a player is Sent-off for any reason, their Coach may attempt to Argue the Call - roll a D6 and refer to the table below:
 
-| D6 | RESULT |
+| D6 | Result |
 |----|--------|
-| 1 | **"YOU'RE OUTTA HERE!":** The referee is having none of it and has ejected the Coach as well for daring to question their authority on the pitch! The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
-| 2-5 | **"I DON'T CARE!":** The referee is not interested in your argument and sticks to their decision. The player is still Sent-off. |
-| 6 | **"WELL, WHEN YOU PUT IT LIKE THAT...":** You make some good points and the referee is swayed. The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
+| 1 | **"You're outta here!":** The player is still Sent-off and their controlling Coach may not attempt to Argue the Call for the remainder of the game. |
+| 2‑5 | **"I don't care!":** The player is still Sent-off. |
+| 6 | **"Well, when you put it like that...":** The player is placed back in the square they were in and is not Sent-off, though a Turnover is still caused. |
 
 *Continuing with our example, the Tomb Kings Blitzer makes an Armour Roll for the Bretonnian Squire they are fouling, rolling a 6 and a 3, which breaks their armour. They then make an Injury Roll and roll a double 2, causing the Tomb Kings Blitzer to be Sent-off and the Bretonnian Squire to be Stunned. The Tomb Kings Coach attempts to Argue the Call and rolls a 1, meaning that the Tomb Kings Blitzer is still Sent-off and the Coach cannot Argue the Call for the remainder of the game!*
 
