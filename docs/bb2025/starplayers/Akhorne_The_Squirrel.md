@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/AkhorneTheSquirrel.jpg){ width=600 height=620 }
 
-|   80K   | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 7  | 1  | 2+ | -  | 6+ |
+| **80K** | 7  | 1  | 2+ | -  | 6+ |
 
 *(Blitzer, Squirrel)*
 

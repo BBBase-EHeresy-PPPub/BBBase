@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/PuggyBaconbreath.jpg){ width=600 height=620 }
 
-|  130K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 3  | 3+ | 3+ | 8+ |
+| **130K** | 5  | 3  | 3+ | 3+ | 8+ |
 
 *(Blitzer, Halfling)*
 

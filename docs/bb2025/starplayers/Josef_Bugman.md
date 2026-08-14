@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBJosephBugman01.jpg){ width=600 height=620 }
 
-|  180K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 3  | 3+ | 4+ | 9+ |
+| **180K** | 5  | 3  | 3+ | 4+ | 9+ |
 
 *(Blocker, Dwarf)*
 

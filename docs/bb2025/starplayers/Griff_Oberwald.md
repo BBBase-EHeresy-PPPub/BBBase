@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBGriffOberwaldLead.jpg){ width=600 height=620 }
 
-|  300K  | MA | ST | AG | PA | AV |
+**MEGA-STAR**
+
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 7  | 4  | 2+ | 3+ | 9+ |
+| **300K** | 7  | 4  | 2+ | 3+ | 9+ |
 
 *(Blitzer, Human)*
 

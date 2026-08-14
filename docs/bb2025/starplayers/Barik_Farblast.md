@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBBarikFarblastLead.jpg){ width=600 height=620 }
 
-|   80K   | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 4+ | 3+ | 9+ |
+| **80K** | 6  | 3  | 4+ | 3+ | 9+ |
 
 *(Dwarf, Thrower)*
 

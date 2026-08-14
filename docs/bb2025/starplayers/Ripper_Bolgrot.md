@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/RipperBolgrot1.jpg){ width=600 height=620 }
 
-|  250K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 5  | 6  | 5+ | 4+ | 10+ |
+| **250K** | 5  | 6  | 5+ | 4+ | 10+ |
 
 *(Big Guy, Troll)*
 

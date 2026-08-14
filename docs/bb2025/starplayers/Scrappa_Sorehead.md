@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/ScrappaSorehead01.jpg){ width=600 height=620 }
 
-| 120K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 7  | 2  | 3+ | 4+ | 8+ |
+| **120K** | 7  | 2  | 3+ | 4+ | 8+ |
 
 *(Goblin, Special)*
 

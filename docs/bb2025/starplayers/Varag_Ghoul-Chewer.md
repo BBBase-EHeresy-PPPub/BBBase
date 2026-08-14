@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/VaragGhoulchewerUpdateLead.jpg){ width=600 height=620 }
 
-|  260K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 5  | 3+ | 5+ | 10+ |
+| **260K** | 6  | 5  | 3+ | 5+ | 10+ |
 
 *(Blocker, Orc)*
 

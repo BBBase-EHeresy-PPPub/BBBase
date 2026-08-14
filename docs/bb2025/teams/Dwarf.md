@@ -34,6 +34,7 @@
 * [Skrull Halfheight] - 150K
 * [Grombrindal] - 170K
 * [Thorsson Stoutmead] - 170K
+* [Josef Bugman] - 180K
 * [Grim Ironjaw] - 190K
 * [The Mighty Zug] - 220K
 * [Skrorg Snowpelt] - 240K

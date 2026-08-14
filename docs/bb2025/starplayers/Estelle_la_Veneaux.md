@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBEstellelaVeneauxLead.jpg){ width=600 height=620 }
 
-|  190K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 3  | 3+ | 4+ | 8+ |
+| **190K** | 6  | 3  | 3+ | 4+ | 8+ |
 
 *(Human, Lineman)*
 

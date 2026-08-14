@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBScylaAnfinngrimmLead.jpg){ width=600 height=620 }
 
-| 200K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 5  | 4+ | 6+ | 10+ |
+| **200K** | 5  | 5  | 4+ | 6+ | 10+ |
 
 *(Big Guy, Spawn)*
 

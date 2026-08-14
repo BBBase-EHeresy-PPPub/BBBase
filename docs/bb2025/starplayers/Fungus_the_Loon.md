@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/FungusTheLoon.jpg){ width=600 height=620 }
 
-|   80K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 4  | 7  | 3+ | - | 8+ |
+| **80K** | 4  | 7  | 3+ | - | 8+ |
 
 *(Goblin, Special)*
 

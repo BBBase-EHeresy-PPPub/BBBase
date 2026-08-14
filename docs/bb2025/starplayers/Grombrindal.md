@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/Grombrindal.jpg){ width=600 height=620 }
 
-|  170K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 5  | 3  | 3+ | 4+ | 10+ |
+| **170K** | 5  | 3  | 3+ | 4+ | 10+ |
 
 *(Blocker, Dwarf)*
 

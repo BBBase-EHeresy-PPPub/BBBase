@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBJordellFreshbreeze01.jpg){ width=606 height=626 }
 
-|  280K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 8  | 3  | 1+ | 3+ | 8+ |
+| **280K** | 8  | 3  | 1+ | 3+ | 8+ |
 
 *(Blitzer, Elf)*
 

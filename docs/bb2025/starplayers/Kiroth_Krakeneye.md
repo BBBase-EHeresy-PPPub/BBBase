@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/KirothKrakeneye1.jpg){ width=600 height=620 }
 
-|  160K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 7  | 3  | 2+ | 3+ | 8+ |
+| **160K** | 7  | 3  | 2+ | 3+ | 8+ |
 
 *(Elf, Runner)*
 

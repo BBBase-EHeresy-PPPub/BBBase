@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBS2GretchenWachterLead.jpg){ width=600 height=620 }
 
-|  180K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 7  | 3  | 2+ | - | 9+ |
+| **180K** | 7  | 3  | 2+ | - | 9+ |
 
 *(Special, Undead, Wraith)*
 

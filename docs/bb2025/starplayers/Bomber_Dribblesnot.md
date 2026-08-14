@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BomberDribblesnotLead.jpg){ width=600 height=620 }
 
-|  80K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 2  | 3+ | 3+ | 8+ |
+| **80K** | 6  | 2  | 3+ | 3+ | 8+ |
 
 *(Goblin, Special)*
 

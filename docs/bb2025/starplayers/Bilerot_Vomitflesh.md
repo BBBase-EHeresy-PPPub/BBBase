@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/Bilerot1.jpg){ width=600 height=620 }
 
-|  180K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 4  | 5  | 4+ | 6+ | 10+ |
+| **180K** | 4  | 5  | 4+ | 6+ | 10+ |
 
 *(Blocker, Human)*
 

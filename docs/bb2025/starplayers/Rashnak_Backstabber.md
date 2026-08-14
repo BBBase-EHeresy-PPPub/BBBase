@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBRashnakBackstabber.jpg){ width=620 height=600 }
 
-| 130K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 7  | 3  | 3+ | 5+ | 8+ |
+| **130K** | 7  | 3  | 3+ | 5+ | 8+ |
 
 *(Goblin, Special)*
 

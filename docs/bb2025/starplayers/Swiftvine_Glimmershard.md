@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/SwiftvineGlimmershard.jpg){ width=600 height=620 }
 
-| 110K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 7  | 2  | 3+ | 5+ | 7+ |
+| **110K** | 7  | 2  | 3+ | 5+ | 7+ |
 
 *(Special, Spite)*
 

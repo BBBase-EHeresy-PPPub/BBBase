@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/MorgnThorg01.jpg){ width=600 height=620 }
 
-|  340K  | MA | ST | AG | PA | AV |
+**MEGA-STAR**
+
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 6  | 3+ | 4+ | 11+ |
+| **340K** | 6  | 6  | 3+ | 4+ | 11+ |
 
 *(Big Guy, Ogre)*
 

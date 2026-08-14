@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/SkitterStabStab1.jpg){ width=600 height=620 }
 
-|  170K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 9  | 2  | 2+ | 4+ | 8+ |
+| **170K** | 9  | 2  | 2+ | 4+ | 8+ |
 
 *(Runner, Skaven)*
 

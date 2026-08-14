@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/DeeprootStrongbranch01.jpg){ width=600 height=620 }
 
-|  280K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 2  | 7  | 5+ | 4+ | 11+ |
+| **280K** | 2  | 7  | 5+ | 4+ | 11+ |
 
 *(Big Guy, Treeman)*
 

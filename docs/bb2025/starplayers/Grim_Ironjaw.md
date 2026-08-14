@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/GrimIronjaw01.jpg){ width=600 height=620 }
 
-|  190K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 4  | 3+ | 6+ | 9+ |
+| **190K** | 5  | 4  | 3+ | 6+ | 9+ |
 
 *(Dwarf, Special)*
 

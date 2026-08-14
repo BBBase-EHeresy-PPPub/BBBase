@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBAnqiPanqi.jpg){ width=620 height=600 }
 
-|  190K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 7  | 4  | 5+ | 6+ | 10+ |
+| **190K** | 7  | 4  | 5+ | 6+ | 10+ |
 
 *(Blocker, Lizardman)*
 

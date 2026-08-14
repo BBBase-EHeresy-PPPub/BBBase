@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/RumbelowSheepskinLead.jpg){ width=600 height=620 }
 
-|  170K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 3+ | 5+ | 8+ |
+| **170K** | 6  | 3  | 3+ | 5+ | 8+ |
 
 *(Blitzer, Halfling)*
 

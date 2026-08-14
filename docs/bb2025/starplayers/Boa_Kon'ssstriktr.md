@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBBoaKonssstriktrLead.jpg){ width=600 height=620 }
 
-|  180K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 3+ | 4+ | 9+ |
+| **180K** | 6  | 3  | 3+ | 4+ | 9+ |
 
 *(Runner, Snakeman)*
 

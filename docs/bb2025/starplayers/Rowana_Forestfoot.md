@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/RowanaForestfoot.jpg){ width=600 height=620 }
 
-| 160K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 3+ | 4+ | 8+ |
+| **160K** | 6  | 3  | 3+ | 4+ | 8+ |
 
 *(Blocker, Gnome)*
 

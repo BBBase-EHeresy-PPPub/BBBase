@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/IvanAnimal1.jpg){ width=600 height=620 }
 
-|  210K  | MA | ST | AG | PA | AV |
+**MEGA-STAR**
+
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 4  | 4+ | 5+ | 9+ |
+| **210K** | 6  | 4  | 4+ | 5+ | 9+ |
 
 *(Blitzer, Human, Skeleton, Undead)*
 

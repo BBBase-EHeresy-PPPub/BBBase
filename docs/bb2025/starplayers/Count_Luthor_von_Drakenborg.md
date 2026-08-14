@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/LuthorVonDrakenborg1.jpg){ width=600 height=620 }
 
-|  300K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 5  | 2+ | 3+ | 10+ |
+| **300K** | 6  | 5  | 2+ | 3+ | 10+ |
 
 *(Blocker, Vampire)*
 

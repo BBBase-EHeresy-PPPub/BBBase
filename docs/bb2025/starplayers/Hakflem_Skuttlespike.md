@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/HakflemSkuttlespike01.jpg){ width=600 height=620 }
 
-|  200K  | MA | ST | AG | PA | AV |
+**MEGA-STAR**
+
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 8  | 3  | 2+ | 3+ | 8+ |
+| **200K** | 8  | 3  | 2+ | 3+ | 8+ |
 
 *(Runner, Skaven)*
 

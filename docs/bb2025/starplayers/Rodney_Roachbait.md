@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBRodneyRoachbait01.jpg){ width=600 height=620 }
 
-|   70K   | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 2  | 3+ | 4+ | 7+ |
+| **70K** | 6  | 2  | 3+ | 4+ | 7+ |
 
 *(Gnome, Special)*
 

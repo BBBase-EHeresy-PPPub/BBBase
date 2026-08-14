@@ -2,9 +2,11 @@
 
 ![](../media/starplayers/BBHtharkTheUnstoppable01.jpg){ width=600 height=620 }
 
-|  300K  | MA | ST | AG | PA | AV |
+**MEGA-STAR**
+
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 6  | 4+ | 6+ | 10+ |
+| **300K** | 6  | 6  | 4+ | 6+ | 10+ |
 
 *(Blitzer, Dwarf)*
 

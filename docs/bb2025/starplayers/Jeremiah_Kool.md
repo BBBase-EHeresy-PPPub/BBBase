@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBJeremiahKool.jpg){ width=600 height=620 }
 
-|  300K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 8  | 3  | 1+ | 2+ | 9+ |
+| **300K** | 8  | 3  | 1+ | 2+ | 9+ |
 
 *(Elf, Runner)*
 

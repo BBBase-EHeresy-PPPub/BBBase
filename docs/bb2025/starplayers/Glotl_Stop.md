@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBGlotlStopLead.jpg){ width=600 height=620 }
 
-|  260K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 6  | 5+ | 6+ | 10+ |
+| **260K** | 6  | 6  | 5+ | 6+ | 10+ |
 
 *(Big Guy, Lizardman)*
 

@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/RoxannaDarknail01.jpg){ width=600 height=620 }
 
-| 270K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 8  | 3  | 1+ | 3+ | 8+ |
+| **270K** | 8  | 3  | 1+ | 3+ | 8+ |
 
 *(Elf, Special)*
 

@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBWilhelmChaneyLead.jpg){ width=600 height=620 }
 
-| 220K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 8  | 4  | 3+ | 4+ | 9+ |
+| **220K** | 8  | 4  | 3+ | 4+ | 9+ |
 
 *(Blitzer, Undead, Werewolf)*
 

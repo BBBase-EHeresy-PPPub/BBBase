@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/CindyPiewhistle01.jpg){ width=600 height=620 }
 
-|  100K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 2  | 3+ | 3+ | 7+ |
+| **100K** | 5  | 2  | 3+ | 3+ | 7+ |
 
 *(Halfling, Special)*
 

@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBZzhargMadeye01.jpg){ width=600 height=620 }
 
-| 130K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 4  | 4  | 4+ | 3+ | 10+ |
+| **130K** | 4  | 4  | 4+ | 3+ | 10+ |
 
 *(Dwarf, Special)*
 

@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/HelmutWulf01.jpg){ width=600 height=620 }
 
-|  140K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 3  | 3+ | - | 9+ |
+| **140K** | 6  | 3  | 3+ | - | 9+ |
 
 *(Human, Special)*
 

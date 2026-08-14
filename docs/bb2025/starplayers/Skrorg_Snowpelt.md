@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/SkrorgSnowpeltLead.jpg){ width=600 height=620 }
 
-| 240K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 5  | 4+ | 6+ | 9+ |
+| **240K** | 5  | 5  | 4+ | 6+ | 9+ |
 
 *(Big Guy, Yhetee)*
 

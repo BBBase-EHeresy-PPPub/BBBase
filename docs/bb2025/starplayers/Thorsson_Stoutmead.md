@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/ThorssonStoutmeadLead.jpg){ width=600 height=620 }
 
-| 170K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 4+ | 3+ | 8+ |
+| **170K** | 6  | 3  | 4+ | 3+ | 8+ |
 
 *(Human, Lineman)*
 

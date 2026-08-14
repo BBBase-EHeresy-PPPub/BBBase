@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBSkrullHalfheightLead.jpg){ width=600 height=620 }
 
-| 150K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 3  | 4+ | 3+ | 9+ |
+| **150K** | 6  | 3  | 4+ | 3+ | 9+ |
 
 *(Dwarf, Skeleton, Thrower, Undead)*
 

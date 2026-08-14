@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBGuffle.jpg){ width=620 height=600 }
 
-|  150K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 5  | 4  | 4+ | 6+ | 10+ |
+| **150K** | 5  | 4  | 4+ | 6+ | 10+ |
 
 *(Blocker, Human)*
 

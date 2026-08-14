@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/MapleHighgrove.jpg){ width=600 height=620 }
 
-| 210K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 3  | 5  | 5+ | 5+  | 11+ |
+| **210K** | 3  | 5  | 5+ | 5+  | 11+ |
 
 *(Big Guy, Treeman)*
 

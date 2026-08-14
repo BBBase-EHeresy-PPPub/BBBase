@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBEldrilSidewinder01.jpg){ width=600 height=620 }
 
-|  220K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 8  | 3  | 2+ | 3+ | 8+ |
+| **220K** | 8  | 3  | 2+ | 3+ | 8+ |
 
 *(Catcher, Elf)*
 

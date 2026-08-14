@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/GrashnakBlackhoof.jpg){ width=600 height=620 }
 
-| 240K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 6  | 4+ | 6+ | 9+ |
+| **240K** | 6  | 6  | 4+ | 6+ | 9+ |
 
 *(Big Guy, Minotaur)*
 

@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBIvarErikssonLead.jpg){ width=600 height=620 }
 
-|  215K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 4  | 3+ | 4+ | 9+ |
+| **215K** | 6  | 4  | 3+ | 4+ | 9+ |
 
 *(Blitzer, Human)*
 

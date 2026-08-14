@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/KarlaVonKill01.jpg){ width=600 height=620 }
 
-|  210K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 6  | 4  | 3+ | 3+ | 9+ |
+| **210K** | 6  | 4  | 3+ | 3+ | 9+ |
 
 *(Blitzer, Human)*
 

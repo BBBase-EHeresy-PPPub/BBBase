@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/ZolcathZoatLead.jpg){ width=600 height=620 }
 
-| 220K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 5  | 4+ | 5+ | 10+ |
+| **220K** | 5  | 5  | 4+ | 5+ | 10+ |
 
 *(Big Guy, Zoat)*
 

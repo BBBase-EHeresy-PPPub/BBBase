@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BlackGobbo01.jpg){ width=620 height=620 }
 
-|  210K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 2  | 3+ | 3+ | 8+ |
+| **210K** | 6  | 2  | 3+ | 3+ | 8+ |
 
 *(Goblin, Special)*
 

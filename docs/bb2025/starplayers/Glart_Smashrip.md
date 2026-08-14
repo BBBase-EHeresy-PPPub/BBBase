@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/GlartSmashrip01.jpg){ width=600 height=620 }
 
-|  175K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 5  | 4  | 4+ | 6+ | 9+ |
+| **175K** | 5  | 4  | 4+ | 6+ | 9+ |
 
 *(Blocker, Skaven)*
 

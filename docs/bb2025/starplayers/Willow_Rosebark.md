@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBWillowRosebark01.jpg){ width=600 height=620 }
 
-| 160K | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 6  | 4  | 3+ | 5+ | 9+ |
+| **160K** | 6  | 4  | 3+ | 5+ | 9+ |
 
 *(Blitzer, Dryad)*
 

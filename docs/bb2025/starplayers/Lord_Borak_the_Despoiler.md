@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/LordBoraktheDespoiler01.jpg){ width=600 height=620 }
 
-|  270K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | -- |
-|      | 5  | 5  | 3+ | 5+ | 10+ |
+| **270K** | 5  | 5  | 3+ | 5+ | 10+ |
 
 *(Blocker, Human)*
 

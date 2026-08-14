@@ -2,9 +2,9 @@
 
 ![](../media/starplayers/BBKreekTheVerminatorRustgougerLead.jpg){ width=600 height=620 }
 
-|  180K  | MA | ST | AG | PA | AV |
+| Cost | MA | ST | AG | PA | AV |
 | ---- | -- | -- | -- | -- | --- |
-|      | 4  | 7  | 4+ | - | 10+ |
+| **180K** | 4  | 7  | 4+ | - | 10+ |
 
 *(Big Guy, Skaven, Special)*
 
