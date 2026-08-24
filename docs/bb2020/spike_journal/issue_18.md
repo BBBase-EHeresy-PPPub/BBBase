@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Chaos Dwarf Wasteland Leagues 'Fanning The Flames!'
 
 The Chaos Dwarfs have never been shy of running their own, independent competitions; their time in exile from organised Blood Bowl forcing them to adapt to life without an official governing body. However, since their return to the limelight, the denizens of Zharr-Naggrund have been responsible for running some of the most competitive and lucrative events in the sport. It is during these tournaments that the Chaos Dwarfs showcase their brutally effective playstyle, wowing fans with their mastery of the bloodier side of Blood Bowl.

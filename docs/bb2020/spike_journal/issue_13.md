@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Chaos Leagues 'For the Dark Gods!'
 
 Teams that have devoted their lives to the Dark Gods will ply their trade within the Chaos Leagues, vying for their chosen god's blessings. Such leagues are unlike the more organised competitions that take place across the Old World, and put far more emphasis on causing carnage in the name of their dark patrons - there is no point winning if the way you secure victory would displease your god!

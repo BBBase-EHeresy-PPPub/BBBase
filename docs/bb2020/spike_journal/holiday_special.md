@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Exhibition Game Special Rules
 
 This Exhibition Game uses a standard Blood Bowl pitch with additional special rules and alternate victory conditions. Teams are built using the standard rules for Exhibition Games found in the Blood Bowl rulebook. When setting up the pitch, players take it in turns to place up to five Gingerbread Houses each on the pitch; these occupy one or more squares and are covered by the special rules described later.

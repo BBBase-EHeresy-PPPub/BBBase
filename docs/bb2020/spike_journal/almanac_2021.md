@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## All-Star Games
 
 **LEGENDS OF THE GAME**

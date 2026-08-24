@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## SPECTACLE OF THE FLAME ETERNAL!
 
 The Elven Kingdoms League is one of the oldest known competitions in the modern Blood Bowl world. Catering exclusively to Elven teams of all kinds, its hallmarks are graceful moments, delightful dodging, world-class passing play, and being massively boring to most fans without pointy ears! The exception to this is the triennially occurring 'Spectacle of the Flame Eternal', which begins straight after that year's regular championship event.

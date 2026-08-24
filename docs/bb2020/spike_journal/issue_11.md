@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Sylvanian Night-Time Leagues Monster Mash
 
 The Sylvanian Night-time Leagues are where the teams made up of Ghouls, ghosts, and all manner of things that go bump in the night, find their feet in the world of Blood Bowl. In fact, they have actually been going on for many years, though they have been largely unnoticed by ordinary folk, as the majority of their fixtures

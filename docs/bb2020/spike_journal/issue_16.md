@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Vampire Noble Leagues 'Raising the Stakes!'
 
 Spending their nights indulging in the honourable sport of Blood Bowl has become a common pastime for many of the aristocratic Vampire families across Sylvania. Rather than engaging in high society cloak and dagger gossip, a large number of the nocturnal nobles now resolve their petty (*and some more serious - Ed*) grievances on the gridiron instead; either stepping onto the field themselves alongside a team they own or manage, or inviting teams to play on their behalf.

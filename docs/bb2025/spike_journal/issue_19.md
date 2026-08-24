@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## THE JOLLY JOUSTER CUP
 
 This is a variation on a standard Blood Bowl league season, as described in the Blood Bowl rulebook. How the league itself is organised, the number of teams, how many divisions there are, how many rounds are played, and so forth, should all be decided upon by the League Commissioner based upon how many coaches wish to take part, and what is best for everyone participating. The Jolly Jouster Cup differs from a normal season, however, in a couple of key aspects.

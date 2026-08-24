@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## The Chaos Cup
 
 Second to perhaps only the Blood Bowl itself in prestige and notoriety, the Chaos Cup has hosted some of the fiercest and hard-fought action ever caught on CAMRA (Named after the Campaign for Real Arcanery, a group of wizards who mastered the technique of trapping a soul inside a box and broadcasting everything it sees through the Cabalvision network of crystal balls and magic mirrors - Ed).

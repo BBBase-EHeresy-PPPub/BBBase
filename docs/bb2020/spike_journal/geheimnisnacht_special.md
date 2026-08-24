@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Sylvania Showdown
 
 This is a variation on a standard Blood Bowl game with a unique Weather table, a new Inducement and a special rule designed to feel like a gridiron clash at this most frightful time of year.

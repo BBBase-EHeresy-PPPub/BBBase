@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Imperial Nobility & Black Orc Balls
 
 **Gem-encrusted Ball**

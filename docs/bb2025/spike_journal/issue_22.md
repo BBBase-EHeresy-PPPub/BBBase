@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## THE BLOOD BOWL SEVENS PITCH
 
 Blood Bowl Sevens uses a bespoke pitch that shares many similarities with the regular Blood Bowl pitch, but is shorter and narrower to enable faster, action-packed play. There are some key differences to be aware of, which we will go through here. A Sevens pitch is split into a number of sections:

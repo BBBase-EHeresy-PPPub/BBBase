@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## KHEMRI CLASSIC CUP
 
 The people of Nehekhara have been running Blood Bowl leagues since before most nations even existed! Necrotects still frequently object to the cost of converting old stadia to match new regulations, stating "We hate change!", "It was better in my day!" and "This is evidence the game is dead!". Nevertheless, the elaborate ambiance of Nehekharan architecture is much-loved by Cabalvision networks and so the Tomb Kings host a multitude of exciting leagues!

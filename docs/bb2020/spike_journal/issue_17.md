@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Gnome Garden Leagues 'No Place Like Gnome!'
 
 As it turns out, Gnomes have actually been playing Blood Bowl for a lot longer than most races have given them credit for - albeit their own unique brand of the game that focuses mainly on their more magical talents. Illusions and trickery are actively encouraged in the Gnome Garden Leagues, making the games played within the cloaked Gnomish lands a spectacular sight (*if very unorthodox - Ed*) for any fan that isn't a stickler for the rules - after all, there's no business like Gnome business!

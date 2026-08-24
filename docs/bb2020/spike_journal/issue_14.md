@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Northern Leagues for Glory and Ale!
 
 Populated by teams of powerful Norscans, and anyone else crazy enough to sail to the cold wastes, the Northern League is a tough test for any team wanting to prove themselves as one of the best. With the brutal, unforgiving weather, not to mention the brutal, unforgiving playstyle of most of the teams, only the most hardy and rugged of players can hope to survive a season in the Northern Leagues in one piece!

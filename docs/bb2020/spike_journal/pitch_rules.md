@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.5
+---
+
 ## Amazon
 
 ### [Overgrown Jungle Blood Bowl Pitch](issue_15.md#overgrown-jungle-blood-bowl-pitch)
