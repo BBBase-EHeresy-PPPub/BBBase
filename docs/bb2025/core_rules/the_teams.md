@@ -183,4 +183,4 @@ Below is a rough indication of what each Tier means:
 - Tier 1 is for the best performing teams in the game, those that have all the tools they need to take on any team and recover from mistakes easily.
 - Tier 2 is for those teams that can compete on their own merit, though don't quite have the same flexibility as those in Tier 1.
 - Tier 3 is for teams that will often be a bit trickier to play; those that will require a bit more thought and experience to perform well with.
-- Tier 4 is reserved for the weakest (but often most fun) teams in Blood Bowl. Often these will be the ‘Stunty' teams, ones where the majority of their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!
+- Tier 4 is reserved for the weakest (but often most fun) teams in Blood Bowl. Often these will be the 'Stunty' teams, ones where the majority of their players have the Stunty Trait. For coaches looking to put fun before winning, or looking for a real challenge, these are the teams for you!

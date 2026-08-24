@@ -849,7 +849,7 @@ This card expires at the end of this game.
 
 When you play this card, select a player on your team, roll a D6 and apply the corresponding effect until this card expires.
 
-On a 1, the selected player has opened a brand new pair of socks – Woo. This card has no additional effect.
+On a 1, the selected player has opened a brand new pair of socks - Woo. This card has no additional effect.
 
 On a 2-3, the selected player gains a Primary Skill of your choice.
 

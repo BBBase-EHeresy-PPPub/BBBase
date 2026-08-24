@@ -38,7 +38,7 @@ It's also a good idea to read through this rulebook in its entirety at least onc
 
 ### UNDERSTANDING YOUR TEAM
 
-Both of the teams in the box – Dwarfs and Orcs – consist of six Players, which is the standard for a Blitz Bowl team. Both teams have three Linemen, who are decent all-round Players but do not have any abilities of their own.
+Both of the teams in the box - Dwarfs and Orcs - consist of six Players, which is the standard for a Blitz Bowl team. Both teams have three Linemen, who are decent all-round Players but do not have any abilities of their own.
 
 Both teams have a Blitzer on their roster. Blitzers excel at blocking opposing Players thanks to their Offensive Specialist ability, which allows them to re-roll the Block Dice when making a Block Action. If there is an Opposition Player that needs taking down, then these are the guys to send after them!
 
@@ -48,7 +48,7 @@ In contrast, the Orc team has a Thrower. It is the role of the Thrower to collec
 
 Each team also has a more unique Player on their roster that suits their own, individual playstyle.
 
-The Dwarf team has a Troll Slayer who can make a free Block Action after making a Mark Action – ideal for blocking an opposition player who may think themselves just out of reach!
+The Dwarf team has a Troll Slayer who can make a free Block Action after making a Mark Action - ideal for blocking an opposition player who may think themselves just out of reach!
 
 The Orc team has a Big Un Blocker. Though they may not have an ability of their own, the Big Un Blocker has a Block value of 2, allowing them to roll more Block Dice than anyone else on the pitch! Both the Dwarf and Orc team excel in getting stuck in, taking the fight to the opposition, and then squeezing the ball into the End Zone to score.
 
@@ -80,7 +80,7 @@ If a Coach is called upon to make a Throw Check or Armour Check for one of their
 
 Some rules will modify the result of a check, and this is done before comparing the dice result to the relevant value. However, in all cases, a check can never be modified by more than -1/+1, even when more than one modifier would apply. Additionally, a roll of an unmodified 1 on the dice will always fail, and a roll of an unmodified 6 will always succeed.
 
-A Player with a '–' for their Armour Value will automatically fail any Armour Check they are required to make – do not roll the dice. A Player with a '–' for their Throw Value cannot take possession of a ball, and if they move into the same square as a ball, or a ball would Bounce onto that Player, it will automatically Bounce again from the square that player is in (see page 17).
+A Player with a '-' for their Armour Value will automatically fail any Armour Check they are required to make - do not roll the dice. A Player with a '-' for their Throw Value cannot take possession of a ball, and if they move into the same square as a ball, or a ball would Bounce onto that Player, it will automatically Bounce again from the square that player is in (see page 17).
 
 **RE-ROLLING DICE**
 
@@ -101,7 +101,7 @@ The rules for these are covered later in this rulebook, but regardless of how a 
 
 **WITHIN**
 
-If a rule states that something needs to be 'within' a certain number of squares of something else (such as a Player having to be within 3 squares of another Player or an End Zone), simply count the number of squares between the two things by the shortest route – including over any other Players or through blocked squares.
+If a rule states that something needs to be 'within' a certain number of squares of something else (such as a Player having to be within 3 squares of another Player or an End Zone), simply count the number of squares between the two things by the shortest route - including over any other Players or through blocked squares.
 
 **CHALLENGE CARDS**
 
@@ -134,31 +134,31 @@ When Challenge Cards are claimed, they are put to one side or held by the Coach 
 
 **INTERRUPT**
 
-Some Abilities or Bonus Plays will allow a Coach or a particular Player to interrupt the current Action and apply an effect. These are called Interrupt effects. When a rule would allow for a Coach to Interrupt, the current Action Step is paused and then the Interrupt effect is applied. Once the Interrupt effect has been applied, the current Action Step resumes from where it was paused, and play continues. An Interrupt effect cannot be played during the course of another Interrupt effect – you cannot Interrupt an Interrupt!
+Some Abilities or Bonus Plays will allow a Coach or a particular Player to interrupt the current Action and apply an effect. These are called Interrupt effects. When a rule would allow for a Coach to Interrupt, the current Action Step is paused and then the Interrupt effect is applied. Once the Interrupt effect has been applied, the current Action Step resumes from where it was paused, and play continues. An Interrupt effect cannot be played during the course of another Interrupt effect - you cannot Interrupt an Interrupt!
 
 **PLAYER STATUS**
 
 During a game of Blitz Bowl, Players can either be Open, Marked, Prone or in Reserves. Each of these are explained below:
 
-**Open Players** – A Player who is standing and is not adjacent to any standing Opposition Players is Open. Each of the eight squares around a given square are said to be adjacent to them.
+**Open Players** - A Player who is standing and is not adjacent to any standing Opposition Players is Open. Each of the eight squares around a given square are said to be adjacent to them.
 
 ![](../media/blitz_bowl/player_status_1.jpg){ width=459 height=477 }
 
 *This Dwarf Lineman has no Opposition Players adjacent to them, and so is said to be Open.*
 
-**Marked Players** – A Player who is standing and is adjacent to an Opposition Player who is not Prone is said to be Marked. Players can Mark, and be Marked by, multiple Opposition Players at the same time. Marking has a number of effects, which will be explained later on.
+**Marked Players** - A Player who is standing and is adjacent to an Opposition Player who is not Prone is said to be Marked. Players can Mark, and be Marked by, multiple Opposition Players at the same time. Marking has a number of effects, which will be explained later on.
 
 ![](../media/blitz_bowl/player_status_2.jpg){ width=461 height=477 }
 
 *This Dwarf Runner is adjacent to the Orc Blitzer. As such, both Players are Marking, and being Marked by, each other.*
 
-**Prone Players** – A Player who is laying on the ground is Prone. A Prone Player cannot Mark, or be Marked by, Opposition Players and is for all intents and purposes not an active participant in the game. For example, they cannot score Challenge Cards and do not affect the placement of Players returning to the pitch (see page 19). If a Player becomes Prone whilst holding a ball, it will immediately Bounce from that Player's square.
+**Prone Players** - A Player who is laying on the ground is Prone. A Prone Player cannot Mark, or be Marked by, Opposition Players and is for all intents and purposes not an active participant in the game. For example, they cannot score Challenge Cards and do not affect the placement of Players returning to the pitch (see page 19). If a Player becomes Prone whilst holding a ball, it will immediately Bounce from that Player's square.
 
 ![](../media/blitz_bowl/player_status_3.jpg){ width=460 height=478 }
 
 *This Dwarf Lineman has been Knocked Down and has been laid down as a result. They are said to be Prone.*
 
-**Reserves Players** – Sometimes, a Player will find themselves placed in the Dugout. A Player in a team's Dugout is said to be in Reserves and will be waiting to return to the pitch.
+**Reserves Players** - Sometimes, a Player will find themselves placed in the Dugout. A Player in a team's Dugout is said to be in Reserves and will be waiting to return to the pitch.
 
 ![](../media/blitz_bowl/player_status_4.jpg){ width=303 height=579 }
 
@@ -180,9 +180,9 @@ To set up a game of Blitz Bowl, follow the steps outlined below:
 
 2. Next, each Coach takes a Dugout and places it at their end of the pitch as shown in the diagram.
 
-3. The Coaches then decide who will use each team. If you are playing straight out of the box, then the Coach who won the toss may choose which of the two teams – either Dwarfs or Orcs – they control, with the other Coach taking control of the other. If you are using the other teams available in Blitz Bowl, simply tell your opponent which team you are using. In either case, place your team's Team Card in front of you with the Players' profiles and abilities side face-up so it can be easily referenced.
+3. The Coaches then decide who will use each team. If you are playing straight out of the box, then the Coach who won the toss may choose which of the two teams - either Dwarfs or Orcs - they control, with the other Coach taking control of the other. If you are using the other teams available in Blitz Bowl, simply tell your opponent which team you are using. In either case, place your team's Team Card in front of you with the Players' profiles and abilities side face-up so it can be easily referenced.
 
-4. Shuffle the 26 Challenge Cards and place them with the Bonus Play side face-down next to the space marked with the (![](../media/blitz_bowl/cards_1.jpg){ width=30 height=19 }) icon. Then, deal the top three Challenge Cards, challenge side up, into the Active Challenge Card spaces – the top card is dealt to the '1', the second card is dealt to the '2', and the third card is dealt to the '3'.
+4. Shuffle the 26 Challenge Cards and place them with the Bonus Play side face-down next to the space marked with the (![](../media/blitz_bowl/cards_1.jpg){ width=30 height=19 }) icon. Then, deal the top three Challenge Cards, challenge side up, into the Active Challenge Card spaces - the top card is dealt to the '1', the second card is dealt to the '2', and the third card is dealt to the '3'.
 
 5. The Coach that lost the toss then sets up their Players in their End Zone; the other Coach then does the same. When setting up their Players, the Coach may choose which of the squares in their End Zone each Player is placed in. Each square can only have one Player in it.
 
@@ -212,7 +212,7 @@ On their turn, each Coach works through the following game sequence:
 
 \** In addition, Challenge cards cannot be claimed by either coach during their first turn.
 
-A Coach first completes the Pre-Turn Sequence – refreshing the Challenge Card row (see Challenge Cards, page 21), checking to see if a new ball enters play (see No Ball in Play, page 20), and then finally checking for Emergency Reserves (see Emergency Reserves, page 19). They will then make three Player Actions, one after the other (see Actions, page 15).
+A Coach first completes the Pre-Turn Sequence - refreshing the Challenge Card row (see Challenge Cards, page 21), checking to see if a new ball enters play (see No Ball in Play, page 20), and then finally checking for Emergency Reserves (see Emergency Reserves, page 19). They will then make three Player Actions, one after the other (see Actions, page 15).
 
 Play then passes to the other Coach to take their turn, and play then alternates in this way, one Coach taking a turn followed by the other, until the game comes to an end.
 
@@ -244,7 +244,7 @@ Free Actions must be performed when they are granted and cannot be saved for lat
 
 ### RUN ACTION
 
-When a Coach chooses a Player to make a Run Action, they may choose one of their Open Players and move them a number of squares up to their Move Value. A move can be made into any adjacent square that is not occupied by another Player (either standing or Prone) or blocked (see page 5), and the Player cannot move off the pitch. Additionally, during a Player's Run Action, they cannot move into any square that is adjacent to an Open or Marked Opposition Player, though they can move adjacent to Prone Opposition Players. Trapdoors do not block movement; though they can be quite hazardous as they fly open whenever a new ball enters play, and many a Player has disappeared down them never to be seen again – you have been warned!
+When a Coach chooses a Player to make a Run Action, they may choose one of their Open Players and move them a number of squares up to their Move Value. A move can be made into any adjacent square that is not occupied by another Player (either standing or Prone) or blocked (see page 5), and the Player cannot move off the pitch. Additionally, during a Player's Run Action, they cannot move into any square that is adjacent to an Open or Marked Opposition Player, though they can move adjacent to Prone Opposition Players. Trapdoors do not block movement; though they can be quite hazardous as they fly open whenever a new ball enters play, and many a Player has disappeared down them never to be seen again - you have been warned!
 
 ![](../media/blitz_bowl/run_action.jpg){ width=461 height=652 }
 
@@ -256,7 +256,7 @@ If a Player's Move Value on their Team Card is shown as D6, roll a D6 each time 
 
 ### PICKING UP A BALL
 
-A Player who makes a Run Action and moves into a square containing a ball will automatically pick it up and gain possession of that ball. If a Player moves, or is moved, onto a ball in any other way – such as making a Sidestep or Mark Action, or when pushed by an opponent – then they do not take possession of that ball and it will Bounce instead (see page 17).
+A Player who makes a Run Action and moves into a square containing a ball will automatically pick it up and gain possession of that ball. If a Player moves, or is moved, onto a ball in any other way - such as making a Sidestep or Mark Action, or when pushed by an opponent - then they do not take possession of that ball and it will Bounce instead (see page 17).
 
 A Player who is already in possession of a ball cannot take possession of another one. Should a Player who is in possession of a ball move onto another ball, or have another ball Bounce into their square, the other ball will immediately Bounce from their square.
 
@@ -276,7 +276,7 @@ An Open Player can make a Mark Action. When a Player makes a Mark Action, they m
 
 ### THROW ACTION
 
-An Open Player who is in possession of a ball can make a Throw Action to pass a ball to another Player from their team on the pitch. To make a Throw Action, pick a Team-mate that is in range of the throw. To see whether a Team-mate is in range, place the Throw Ruler so that the curved end is in line with the edge of the throwing Player's base, as shown in the diagram below. A Team-mate is in range if any part of the Throw Ruler can reach the centre of the square that the Team-mate is standing in; if the Team-mate is in the black section, it is a Short Throw ![](../media/blitz_bowl/short_throw.jpg){ width=35 height=35 }, whilst if they are in the red section it is a Long Throw ![](../media/blitz_bowl/long_throw.jpg){ width=35 height=35 }. A Throw Action can still be made if the Throw Ruler is touching any obstructions – they do not stop a Player from throwing a ball. A Player cannot make a Throw Action to a Prone Team-mate.
+An Open Player who is in possession of a ball can make a Throw Action to pass a ball to another Player from their team on the pitch. To make a Throw Action, pick a Team-mate that is in range of the throw. To see whether a Team-mate is in range, place the Throw Ruler so that the curved end is in line with the edge of the throwing Player's base, as shown in the diagram below. A Team-mate is in range if any part of the Throw Ruler can reach the centre of the square that the Team-mate is standing in; if the Team-mate is in the black section, it is a Short Throw ![](../media/blitz_bowl/short_throw.jpg){ width=35 height=35 }, whilst if they are in the red section it is a Long Throw ![](../media/blitz_bowl/long_throw.jpg){ width=35 height=35 }. A Throw Action can still be made if the Throw Ruler is touching any obstructions - they do not stop a Player from throwing a ball. A Player cannot make a Throw Action to a Prone Team-mate.
 
 ![](../media/blitz_bowl/throw_action.jpg){ width=461 height=354 }
 
@@ -298,7 +298,7 @@ When a ball Bounces, it is placed into an adjacent square. Roll a D8 and look at
 - If a ball Bounces into an empty square, it remains in that square and nothing further happens.
 - If a ball Bounces into a square containing an Open Player, that Player takes possession of that ball.
 - If a ball Bounces into a square containing a Marked or Prone Player, it immediately Bounces again from the new square.
-- If a ball Bounces into an obstructed square or off the board, the ball will not Bounce in that direction. Instead, work clockwise around the Bounce Chart (from 1–8) until you reach a result which means the ball will Bounce into a square on the pitch that doesn't contain an obstruction. Use that result instead.
+- If a ball Bounces into an obstructed square or off the board, the ball will not Bounce in that direction. Instead, work clockwise around the Bounce Chart (from 1-8) until you reach a result which means the ball will Bounce into a square on the pitch that doesn't contain an obstruction. Use that result instead.
 
 ![](../media/blitz_bowl/bouncing_ball.jpg){ width=460 height=304 }
 
@@ -310,7 +310,7 @@ If the result of a Throw Check is a 1 (before or after modifiers), the throw aut
 
 ### HAND-OFF
 
-If the target Team-mate is already adjacent to the Player making the Throw Action, then they automatically take possession of that ball – there is no need to make the Throw Check. This is referred to as a Hand-off.
+If the target Team-mate is already adjacent to the Player making the Throw Action, then they automatically take possession of that ball - there is no need to make the Throw Check. This is referred to as a Hand-off.
 
 ### BLOCK ACTION
 
@@ -344,7 +344,7 @@ If the target of a Block Action is also Marked by one or more Team-mates of the 
 
 ![](../media/blitz_bowl/assisting_a_block_action.jpg){ width=424 height=375 }
 
-*The Orc Blitzer is making a Block Action against the Dwarf Lineman. As the Dwarf Lineman is also being Marked by the Orc Thrower, the Block Action is Assisted. The Orc Coach rolls two Block Dice – one for the Orc Blitzer's Block Value of 1, and one for the Block Action being Assisted.*
+*The Orc Blitzer is making a Block Action against the Dwarf Lineman. As the Dwarf Lineman is also being Marked by the Orc Thrower, the Block Action is Assisted. The Orc Coach rolls two Block Dice - one for the Orc Blitzer's Block Value of 1, and one for the Block Action being Assisted.*
 
 ### SIDESTEP ACTION
 
@@ -398,7 +398,7 @@ When there is more than one ball in play at once, only one ball can occupy a squ
 
 ## CHALLENGE CARDS
 
-Challenge Cards represent objectives that both teams can complete in order to score points and claim the Bonus Play on the other side. In Coach A's first turn, Challenge Cards are not used and the Claim Challenge Card and Replace Challenge Cards Steps are skipped. At all other times, including during Coach B's first turn, the three Challenge Cards in the spaces marked 1-3 are considered to be active and can be claimed during the Claim Challenge Cards Steps of a Coach's turn. The Challenge Card on top of the Challenge Card Deck is not active, though it is visible to both Coaches – that way they can always see what the next card to become active will be.
+Challenge Cards represent objectives that both teams can complete in order to score points and claim the Bonus Play on the other side. In Coach A's first turn, Challenge Cards are not used and the Claim Challenge Card and Replace Challenge Cards Steps are skipped. At all other times, including during Coach B's first turn, the three Challenge Cards in the spaces marked 1-3 are considered to be active and can be claimed during the Claim Challenge Cards Steps of a Coach's turn. The Challenge Card on top of the Challenge Card Deck is not active, though it is visible to both Coaches - that way they can always see what the next card to become active will be.
 
 Coaches are not allowed to look at the Bonus Play side of the Challenge Cards until they take them into their hand.
 
@@ -430,11 +430,11 @@ The reverse of each Challenge Card has a Bonus Play on it. These are a special b
 
 The only restriction is that a Coach cannot play multiple of the same type of Bonus Play during the same turn. For example, if a Coach had two copies of *Raw Talent* in their hand, they could only play one of them.
 
-One important thing to note is that Challenge Cards of the same type will not always have the same Bonus Play on the reverse – in fact, quite often they will purposefully be different. As a result, it is important to make sure that you keep your Bonus Plays hidden from your opponent.
+One important thing to note is that Challenge Cards of the same type will not always have the same Bonus Play on the reverse - in fact, quite often they will purposefully be different. As a result, it is important to make sure that you keep your Bonus Plays hidden from your opponent.
 
 ## WINNING THE GAME
 
-There are two ways to win a game of Blitz Bowl – with a Sudden Death Victory or with a Points Victory.
+There are two ways to win a game of Blitz Bowl - with a Sudden Death Victory or with a Points Victory.
 
 ### SUDDEN DEATH VICTORY
 
@@ -446,19 +446,19 @@ If, at the start of a Coach's turn, before the Pre-Turn Sequence begins, their t
 
 Once the last Challenge Card has been dealt out and becomes active, each team has one more turn, after which the game ends and the team with the highest score wins the game with a Points Victory. If the game ends with both teams having the same number of points, the game is a draw!
 
-*For example, at the start of the Dwarf Coach's turn, they deal out the last Challenge Card, which becomes active. This means that each team will only have a single turn remaining. The Dwarf Coach completes their final turn, before the Orc Coach takes their final turn. The game ends with the Dwarf Coach having 25 points to the Orc Coach's 26 – securing the Orc Coach a Points Victory by the narrowest of margins!*
+*For example, at the start of the Dwarf Coach's turn, they deal out the last Challenge Card, which becomes active. This means that each team will only have a single turn remaining. The Dwarf Coach completes their final turn, before the Orc Coach takes their final turn. The game ends with the Dwarf Coach having 25 points to the Orc Coach's 26 - securing the Orc Coach a Points Victory by the narrowest of margins!*
 
 ## ADVANCED RULES
 
-Once you are familiar with the rules of Blitz Bowl and have a few games under your belt, you can add the following advanced rules to your games. These add Random Event Cards, additional Actions and teams to your games — all of which are a lot of fun and provide you with new, exciting challenges to overcome!
+Once you are familiar with the rules of Blitz Bowl and have a few games under your belt, you can add the following advanced rules to your games. These add Random Event Cards, additional Actions and teams to your games - all of which are a lot of fun and provide you with new, exciting challenges to overcome!
 
 ### RANDOM EVENT CARDS
 
-These rules introduce the special Random Event Cards to your games, which are designed to represent all manner of crazy and unusual situations that are synonymous with the game of Blitz Bowl — and further fuel the excitement that crowds have come to expect!
+These rules introduce the special Random Event Cards to your games, which are designed to represent all manner of crazy and unusual situations that are synonymous with the game of Blitz Bowl - and further fuel the excitement that crowds have come to expect!
 
-After the top three Challenge Cards have been placed into the Active Challenge Card spaces, take the 12 Random Event Cards and shuffle them face-down. Then, take the top 6 Random Event Cards and shuffle them into the Challenge Card Deck face-down so that the front of the card cannot be seen. If one of the Random Event Cards ends up on top of the deck, shuffle them again so that there is not a Random Event Card on top. Place the remaining Random Event Cards back in the box — they won't be used for this game.
+After the top three Challenge Cards have been placed into the Active Challenge Card spaces, take the 12 Random Event Cards and shuffle them face-down. Then, take the top 6 Random Event Cards and shuffle them into the Challenge Card Deck face-down so that the front of the card cannot be seen. If one of the Random Event Cards ends up on top of the deck, shuffle them again so that there is not a Random Event Card on top. Place the remaining Random Event Cards back in the box - they won't be used for this game.
 
-Every time a Challenge Card is moved from the Challenge Card Deck into an Active Challenge Card space, if the new top card of the Challenge Card Deck is a Random Event Card then the Coach whose turn it is must draw it and apply the effect written on the card. If, after a Random Event Card is drawn, the top card of the Challenge Card Deck is another Random Event Card, repeat the process above — there is no telling when something unpredictable may happen in Blitz Bowl!
+Every time a Challenge Card is moved from the Challenge Card Deck into an Active Challenge Card space, if the new top card of the Challenge Card Deck is a Random Event Card then the Coach whose turn it is must draw it and apply the effect written on the card. If, after a Random Event Card is drawn, the top card of the Challenge Card Deck is another Random Event Card, repeat the process above - there is no telling when something unpredictable may happen in Blitz Bowl!
 
 Random Event Cards are discarded after they have been resolved.
 
@@ -496,14 +496,14 @@ An Open Player who is adjacent to a Prone Opposition Player can make a Foul Acti
 
 ### THROW TEAM-MATE ACTION
 
-Certain larger Players can throw some of their smaller team-mates around the pitch, allowing for some unique and impressive looking plays – provided that their allies land on their feet instead of in a pile of broken bones! An Ogre, Troll or Treeman can make a Throw Team-mate Action. A Throw Team-mate Action is considered a Throw Action (e.g., for the purpose of claiming Challenge Cards) with the following changes:
+Certain larger Players can throw some of their smaller team-mates around the pitch, allowing for some unique and impressive looking plays - provided that their allies land on their feet instead of in a pile of broken bones! An Ogre, Troll or Treeman can make a Throw Team-mate Action. A Throw Team-mate Action is considered a Throw Action (e.g., for the purpose of claiming Challenge Cards) with the following changes:
 
 - The Player making the Throw Team-mate Action must be Open and cannot have possession of a ball.
-- When a Player makes a Throw Team-mate Action, they can throw one adjacent standing team-mate (either Open or Marked) and not of the same position – an Ogre cannot throw another Ogre, for example!
+- When a Player makes a Throw Team-mate Action, they can throw one adjacent standing team-mate (either Open or Marked) and not of the same position - an Ogre cannot throw another Ogre, for example!
 - To make a Throw Team-mate Action, pick a target square that is within range of the thrower, as determined by the Throw Ruler, and then make a Throw Check for the Player making the Action.
 - If the Throw Check succeeds and the target square is unoccupied, place the thrown Player standing in the target square. If the thrown Player has possession of a ball, they keep possession of it.
 - If the Throw Check fails, place the thrown Player Prone in the target square, but do not make an Armour Check for them. If the thrown Player has possession of a ball, that ball will Bounce from the target square.
-- If the target square is a square containing another Player then, unless the Throw Check is a Fumble (see below), place the Player in the target square Prone and make an Armour Check for them – apply a -1 modifier to the Armour Check if the Throw Check was successful. If the Player in the target square was in possession of a ball, it will Bounce from the target square. Additionally, the thrown Player is automatically Injured, and if they were in possession of a ball it will Bounce from the target square.
+- If the target square is a square containing another Player then, unless the Throw Check is a Fumble (see below), place the Player in the target square Prone and make an Armour Check for them - apply a -1 modifier to the Armour Check if the Throw Check was successful. If the Player in the target square was in possession of a ball, it will Bounce from the target square. Additionally, the thrown Player is automatically Injured, and if they were in possession of a ball it will Bounce from the target square.
 - If the Throw Check is a Fumble, regardless of if the target square was occupied or not, then the thrown Player is Injured. If it is the thrown Player that was in possession of a ball, it will Bounce from the throw square containing the Player that made the Throw Team-mate Action.
 - If a Player is thrown to a square that already contains a ball, that ball will Bounce from the square.
 
@@ -560,7 +560,7 @@ Players in possession of this ball may re-roll results of Miss when making a Blo
 
 ### SQUIG BALL
 
-A Squig stuffed with a regulation ball, or simply a ball-shaped Squig, makes for an excellent substitute for a ball – especially if you want to encourage a bit more bloodshed in the arena!
+A Squig stuffed with a regulation ball, or simply a ball-shaped Squig, makes for an excellent substitute for a ball - especially if you want to encourage a bit more bloodshed in the arena!
 
 At the start of each Coach's turn, if a Player from their team is in possession of this ball, roll a D6. On a 1, this ball will immediately Bounce from the square the Player holding this ball is in as the Squig bites their fingers.
 
@@ -568,7 +568,7 @@ Additionally, at the start of each Coach's turn, if this ball is on the floor, i
 
 ## ADDITIONAL TEAMS
 
-In this box you will also find the Team Cards for a number of different teams available to be used in Blitz Bowl – 23 of them in fact! These additional teams represent all manner of different races that play the great sport, and each team has its own spread of Players, positions, and abilities that make each of them play differently in the arena.
+In this box you will also find the Team Cards for a number of different teams available to be used in Blitz Bowl - 23 of them in fact! These additional teams represent all manner of different races that play the great sport, and each team has its own spread of Players, positions, and abilities that make each of them play differently in the arena.
 
 Using these different teams in place of one of those in the box is a great way to expand your Blitz Bowl playing experience, giving you new challenges to overcome, new oppositions to face, and new tactics to add to your ever growing repertoire as a coach!
 
