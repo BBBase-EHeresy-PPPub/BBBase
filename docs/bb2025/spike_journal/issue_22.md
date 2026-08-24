@@ -23,7 +23,7 @@ A Blood Bowl Sevens pitch features:
 
 ### Dugouts
 
-Just as with normal Blood Bowl, each team in a game of Blood Bowl Sevens will have its own Dugout. The Dugouts used for Blood Bowl Sevens are almost identical to normal Dugouts, as described on page 24 of the *Blood Bowl Rulebook*, except for one important distinction. On a Blood Bowl Sevens Dugout the Turn Tracker and Team Re-roll tracker only go up to six each, rather than the usual eight. This is because a game of Blood Bowl Sevens only has six Turns per half.
+Just as with normal Blood Bowl, each team in a game of Blood Bowl Sevens will have its own Dugout. The Dugouts used for Blood Bowl Sevens are almost identical to normal Dugouts, as described on [page 24](../core_rules/game_essentials.md#dugouts) of the *Blood Bowl Rulebook*, except for one important distinction. On a Blood Bowl Sevens Dugout the Turn Tracker and Team Re-roll tracker only go up to six each, rather than the usual eight. This is because a game of Blood Bowl Sevens only has six Turns per half.
 
 1. **The Reserves Box:** This is where any healthy players are kept, ready for the next Drive.
 2. **The Knocked-out Box:** Players that have been Knocked-out are placed here until they recover.
@@ -48,7 +48,7 @@ Every Blood Bowl team needs players and Sevens teams are no exception! Each Team
 
 ### Number of Players
 
-The most important thing to note is that Sevens teams require a minimum of 7 permanently hired players when they are first drafted - though if you are playing in a league, then injuries may temporarily take the team below this as explained on page 14.
+The most important thing to note is that Sevens teams require a minimum of 7 permanently hired players when they are first drafted - though if you are playing in a league, then injuries may temporarily take the team below this as explained on [page 14](#take-on-journeymen).
 
 No Blood Bowl Sevens team may ever have more than 11 permanently hired players on their Team Draft List.
 
@@ -111,7 +111,7 @@ The kicking team must set up first followed by the receiving team. Teams are set
 - Each team must set up a minimum of three players in the Centre Field directly adjacent to their own Line of Scrimmage.
 - Neither team may set up players in No Man's Land under any circumstance.
 
-If a team is unable to set up three or more players on their Line of Scrimmage during any Start of Drive Sequence, then they may opt to Concede Without Penalty. This works exactly as described on page 101 of the *Blood Bowl Rulebook*, including for League Play.
+If a team is unable to set up three or more players on their Line of Scrimmage during any Start of Drive Sequence, then they may opt to Concede Without Penalty. This works exactly as described on [page 101](../core_rules/league_play.md#conceding-without-penalty) of the *Blood Bowl Rulebook*, including for League Play.
 
 Should a team that is unable to set up three or more players on their Line of Scrimmage wish to soldier on, then all available players must be set up on the Line of Scrimmage, as described above - and no doubt they'll be praying to Nuffle for some form of miracle!
 
@@ -192,7 +192,7 @@ Once per game, when your Veteran fails to pick up the ball, catch the ball, make
 
 Much like with standard Blood Bowl, leagues are an ever popular part of the Blood Bowl Sevens landscape, with plenty of short, quick-fire leagues popping up in the off season as a way to get the reserves some much needed practice - and a way of seeing who is actually any good without the risk of having any important players hurt in the process!
 
-A Blood Bowl Sevens league will function in mostly the same way as a standard Blood Bowl league as described on pages 94-101 of the *Blood Bowl Rulebook*. However, there are a few differences to take into account for Sevens, and so there is a need to highlight where the rules for Sevens differ. The pages that follow detail where the rules differ when playing Blood Bowl Sevens leagues.
+A Blood Bowl Sevens league will function in mostly the same way as a standard Blood Bowl league as described on [pages 94-101](../core_rules/league_play.md) of the *Blood Bowl Rulebook*. However, there are a few differences to take into account for Sevens, and so there is a need to highlight where the rules for Sevens differ. The pages that follow detail where the rules differ when playing Blood Bowl Sevens leagues.
 
 ### Pre-game Sequence
 
@@ -202,15 +202,15 @@ With fewer players, and ultimately less cash floating around a Blood Bowl Sevens
 
 As with any Blood Bowl team, during the course of a league players may get injured and a temporary replacement will be required.
 
-Teams may recruit Journeymen in the same way as described on page 94 of the *Blood Bowl Rulebook*, with the exception that they may do so if their team is unable to field 7 players rather than the usual 11. This may not take the number of available players on a team above 7.
+Teams may recruit Journeymen in the same way as described on [page 94](../core_rules/league_play.md#take-on-journeymen) of the *Blood Bowl Rulebook*, with the exception that they may do so if their team is unable to field 7 players rather than the usual 11. This may not take the number of available players on a team above 7.
 
 Additionally, as the quality of these Journeymen will be even worse than those for the standard teams, any Journeymen hired will replace the [Loner] (4+) Trait with the [Loner] (5+) Trait.
 
 ### Inducements
 
-Blood Bowl Sevens teams are allowed to purchase Inducements in the same manner as a standard Blood Bowl team as described on page 94 of the *Blood Bowl Rulebook*. However, due to the amateur nature of Blood Bowl Sevens, the list of available Inducements is somewhat shorter, and may even cost different amounts.
+Blood Bowl Sevens teams are allowed to purchase Inducements in the same manner as a standard Blood Bowl team as described on [page 94](../core_rules/league_play.md#inducements) of the *Blood Bowl Rulebook*. However, due to the amateur nature of Blood Bowl Sevens, the list of available Inducements is somewhat shorter, and may even cost different amounts.
 
-The list of Inducements available to Blood Bowl Sevens teams, and their associated costs, are listed below. Unless included here, the rules for the associated Inducement can be found in the Inducements section of the *Blood Bowl Rulebook* (see pages 142-149).
+The list of Inducements available to Blood Bowl Sevens teams, and their associated costs, are listed below. Unless included here, the rules for the associated Inducement can be found in the Inducements section of the *Blood Bowl Rulebook* (see [pages 142-149](../core_rules/inducements.md)).
 
 #### List of Inducements
 
@@ -254,7 +254,7 @@ Desperate Measures are a new type of Inducement unique to Blood Bowl Sevens. The
 | 5 | **Set Piece:** You may use this Desperate Measure when one of your players performs a Pass Action. Ignore the PA of the throwing player; the Pass will automatically be an Accurate Pass on any roll of a 2+. Additionally, ignore the AG of the receiving player; they will automatically catch the ball on any roll of a 2+. |
 | 6 | **Sports Espionage:** You may use this Desperate Measure when your team suffers a Turnover. Your team gains two Team Re-rolls after the Turnover has been resolved (these cannot be used to re-roll the dice that caused the Turnover). |
 | 7 | **Discarded Banana Skin:** You may use this Desperate Measure when an opposition player enters the Tackle Zone of one of your players. The opposition player is immediately Placed Prone and their Activation immediately ends. This will not cause a Turnover unless the player was holding the ball. |
-| 8 | **Magic Scroll:** A suspicious-looking man from a betting syndicate has given you a strange scroll. You'd be foolish not to read it aloud... wouldn't you? You may use this Desperate Measure before either team is set up. Your team gains a single Sports-Wizard Inducement for free (see the *Blood Bowl Rulebook* page 149). |
+| 8 | **Magic Scroll:** A suspicious-looking man from a betting syndicate has given you a strange scroll. You'd be foolish not to read it aloud... wouldn't you? You may use this Desperate Measure before either team is set up. Your team gains a single Sports-Wizard Inducement for free (see the *Blood Bowl Rulebook* [page 149](../core_rules/inducements.md#wizard-sports-wizard)). |
 
 ### Player Advancement
 
@@ -264,7 +264,7 @@ If you wish for a player to gain a Primary Skill, then during the Player Advance
 
 *For example: Tom's Bloodborn Marauder is gaining a new Skill after a game. Tom decides he would like them to gain a Mutation Skill, and first selects Claws as an option. His opponent, Jay, then selects Very Long Legs (no doubt to try to scupper Tom's plans!). Tom then selects Iron Hard Skin as the final choice. Tom assigns each of the choices a number between one and three, and rolls a D3. The result is a 2 which corresponds to Iron Hard Skin, and so Tom's Bloodborn Marauder gains that Skill.*
 
-Alternatively, if you wish for a player to gain a Secondary Skill, then during the Player Advancement step of the Post-game Sequence, you must randomly select any player on your team that was not removed as a Casualty during the course of the game. The chosen player gains a randomly selected Secondary Skill as explained on page 97 of the *Blood Bowl Rulebook*.
+Alternatively, if you wish for a player to gain a Secondary Skill, then during the Player Advancement step of the Post-game Sequence, you must randomly select any player on your team that was not removed as a Casualty during the course of the game. The chosen player gains a randomly selected Secondary Skill as explained on [page 97](../core_rules/league_play.md#new-skills) of the *Blood Bowl Rulebook*.
 
 It is important to note that, due to the amateur nature of Blood Bowl Sevens, any Skills that are gained by players are always randomly generated. Head Coaches can do what they can to try to improve the quality of their, largely inept, players and squad members, but even they cannot do much when a player is hell-bent on trying to perfect a completely futile set of skills and specialisms!
 
@@ -303,7 +303,7 @@ If the money is paid, the player remains on the team. However, to reflect the in
 
 ### Re-drafting a Blood Bowl Sevens Team
 
-If you are playing a league with multiple seasons, then you may wish to Re-draft your team at the start of a subsequent season and continue your team's legacy. The rules for Re-drafting a Blood Bowl Sevens team remain much the same as those presented on pages 104-106 of the *Blood Bowl Rulebook*, with a few notable exceptions.
+If you are playing a league with multiple seasons, then you may wish to Re-draft your team at the start of a subsequent season and continue your team's legacy. The rules for Re-drafting a Blood Bowl Sevens team remain much the same as those presented on [pages 104-106](../core_rules/league_play.md#off-season-and-re-drafting) of the *Blood Bowl Rulebook*, with a few notable exceptions.
 
 #### Rest & Relaxation
 
@@ -325,11 +325,11 @@ However, should a team's Re-draft Budget exceed 750,000 gold pieces then any gol
 
 ## MATCHED PLAY
 
-Matched Play is a great way to play Blood Bowl Sevens, and is perfect for tournaments and events where you want to get plenty of games in. Matched Play for Blood Bowl Sevens functions in the same way as for standard Blood Bowl as described on pages 110-113 of the *Blood Bowl Rulebook*. However, there are a few differences to take into account for Sevens, and so here we will highlight where the rules for Sevens differ from the standard. The pages that follow detail where the rules differ when playing Matched Play games of Blood Bowl Sevens.
+Matched Play is a great way to play Blood Bowl Sevens, and is perfect for tournaments and events where you want to get plenty of games in. Matched Play for Blood Bowl Sevens functions in the same way as for standard Blood Bowl as described on [pages 110-113](../core_rules/matched_play.md) of the *Blood Bowl Rulebook*. However, there are a few differences to take into account for Sevens, and so here we will highlight where the rules for Sevens differ from the standard. The pages that follow detail where the rules differ when playing Matched Play games of Blood Bowl Sevens.
 
 ### Drafting a Team
 
-For the most part, drafting a team for Matched Play is the same as drafting one for League Play as described on page 14. However, there are a couple of key differences:
+For the most part, drafting a team for Matched Play is the same as drafting one for League Play as described on [page 14](#league-play). However, there are a couple of key differences:
 
 For Matched Play, Coaches will still receive a Team Draft Budget of 600,000 gold pieces (though on rare occasions some events may set this slightly higher), though one important thing to note is that any gold pieces not spent when drafting your team are lost, so it's always worth trying to spend them all if you can.
 

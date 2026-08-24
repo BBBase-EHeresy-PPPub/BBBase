@@ -80,7 +80,7 @@ If a Coach is called upon to make a Throw Check or Armour Check for one of their
 
 Some rules will modify the result of a check, and this is done before comparing the dice result to the relevant value. However, in all cases, a check can never be modified by more than -1/+1, even when more than one modifier would apply. Additionally, a roll of an unmodified 1 on the dice will always fail, and a roll of an unmodified 6 will always succeed.
 
-A Player with a '-' for their Armour Value will automatically fail any Armour Check they are required to make - do not roll the dice. A Player with a '-' for their Throw Value cannot take possession of a ball, and if they move into the same square as a ball, or a ball would Bounce onto that Player, it will automatically Bounce again from the square that player is in (see page 17).
+A Player with a '-' for their Armour Value will automatically fail any Armour Check they are required to make - do not roll the dice. A Player with a '-' for their Throw Value cannot take possession of a ball, and if they move into the same square as a ball, or a ball would Bounce onto that Player, it will automatically Bounce again from the square that player is in (see [page 17](#bouncing-ball)).
 
 **RE-ROLLING DICE**
 
@@ -152,7 +152,7 @@ During a game of Blitz Bowl, Players can either be Open, Marked, Prone or in Res
 
 *This Dwarf Runner is adjacent to the Orc Blitzer. As such, both Players are Marking, and being Marked by, each other.*
 
-**Prone Players** - A Player who is laying on the ground is Prone. A Prone Player cannot Mark, or be Marked by, Opposition Players and is for all intents and purposes not an active participant in the game. For example, they cannot score Challenge Cards and do not affect the placement of Players returning to the pitch (see page 19). If a Player becomes Prone whilst holding a ball, it will immediately Bounce from that Player's square.
+**Prone Players** - A Player who is laying on the ground is Prone. A Prone Player cannot Mark, or be Marked by, Opposition Players and is for all intents and purposes not an active participant in the game. For example, they cannot score Challenge Cards and do not affect the placement of Players returning to the pitch (see [page 19](#emergency-reserves)). If a Player becomes Prone whilst holding a ball, it will immediately Bounce from that Player's square.
 
 ![](../media/blitz_bowl/player_status_3.jpg){ width=460 height=478 }
 
@@ -190,13 +190,13 @@ To set up a game of Blitz Bowl, follow the steps outlined below:
 
 7. Finally, place a ball on the Trapdoor. If you are using a pitch with multiple Trapdoors, randomly determine which of the Trapdoors a ball is placed on.
 
-***Important:** When placing a ball during the set-up of the game, you do not roll to see where a ball will Bounce to (see page 17). Additionally, the colour and shape of a ball does not matter; a ball does not belong to either team.*
+***Important:** When placing a ball during the set-up of the game, you do not roll to see where a ball will Bounce to (see [page 17](#bouncing-ball)). Additionally, the colour and shape of a ball does not matter; a ball does not belong to either team.*
 
 [![](../media/blitz_bowl/setting_up_the_game_small.jpg){ width=1000 height=333 }](../media/blitz_bowl/setting_up_the_game.jpg)
 
 ## PLAYING THE GAME
 
-A game of Blitz Bowl is played over a variable number of turns. The Coach who set up their team first is Coach A, and they take the first turn. The other Coach is Coach B, and they take the second turn. Coaches then alternate taking turns, one after the other, until the game ends (see page 22).  
+A game of Blitz Bowl is played over a variable number of turns. The Coach who set up their team first is Coach A, and they take the first turn. The other Coach is Coach B, and they take the second turn. Coaches then alternate taking turns, one after the other, until the game ends (see [page 22](#winning-the-game)).
 On their turn, each Coach works through the following game sequence:
 
 | Coach A's turn                                                                                                                                 | Coach B's turn                                                                                                                                 |
@@ -212,7 +212,7 @@ On their turn, each Coach works through the following game sequence:
 
 \** In addition, Challenge cards cannot be claimed by either coach during their first turn.
 
-A Coach first completes the Pre-Turn Sequence - refreshing the Challenge Card row (see Challenge Cards, page 21), checking to see if a new ball enters play (see No Ball in Play, page 20), and then finally checking for Emergency Reserves (see Emergency Reserves, page 19). They will then make three Player Actions, one after the other (see Actions, page 15).
+A Coach first completes the Pre-Turn Sequence - refreshing the Challenge Card row (see Challenge Cards, [page 21](#challenge-cards)), checking to see if a new ball enters play (see No Ball in Play, [page 20](#no-ball-in-play)), and then finally checking for Emergency Reserves (see Emergency Reserves, [page 19](#emergency-reserves)). They will then make three Player Actions, one after the other (see Actions, [page 15](#actions)).
 
 Play then passes to the other Coach to take their turn, and play then alternates in this way, one Coach taking a turn followed by the other, until the game comes to an end.
 
@@ -244,7 +244,7 @@ Free Actions must be performed when they are granted and cannot be saved for lat
 
 ### RUN ACTION
 
-When a Coach chooses a Player to make a Run Action, they may choose one of their Open Players and move them a number of squares up to their Move Value. A move can be made into any adjacent square that is not occupied by another Player (either standing or Prone) or blocked (see page 5), and the Player cannot move off the pitch. Additionally, during a Player's Run Action, they cannot move into any square that is adjacent to an Open or Marked Opposition Player, though they can move adjacent to Prone Opposition Players. Trapdoors do not block movement; though they can be quite hazardous as they fly open whenever a new ball enters play, and many a Player has disappeared down them never to be seen again - you have been warned!
+When a Coach chooses a Player to make a Run Action, they may choose one of their Open Players and move them a number of squares up to their Move Value. A move can be made into any adjacent square that is not occupied by another Player (either standing or Prone) or blocked (see [page 5](./contents_of_the_box.md#contents-of-the-box)), and the Player cannot move off the pitch. Additionally, during a Player's Run Action, they cannot move into any square that is adjacent to an Open or Marked Opposition Player, though they can move adjacent to Prone Opposition Players. Trapdoors do not block movement; though they can be quite hazardous as they fly open whenever a new ball enters play, and many a Player has disappeared down them never to be seen again - you have been warned!
 
 ![](../media/blitz_bowl/run_action.jpg){ width=461 height=652 }
 
@@ -256,7 +256,7 @@ If a Player's Move Value on their Team Card is shown as D6, roll a D6 each time 
 
 ### PICKING UP A BALL
 
-A Player who makes a Run Action and moves into a square containing a ball will automatically pick it up and gain possession of that ball. If a Player moves, or is moved, onto a ball in any other way - such as making a Sidestep or Mark Action, or when pushed by an opponent - then they do not take possession of that ball and it will Bounce instead (see page 17).
+A Player who makes a Run Action and moves into a square containing a ball will automatically pick it up and gain possession of that ball. If a Player moves, or is moved, onto a ball in any other way - such as making a Sidestep or Mark Action, or when pushed by an opponent - then they do not take possession of that ball and it will Bounce instead (see [page 17](#bouncing-ball)).
 
 A Player who is already in possession of a ball cannot take possession of another one. Should a Player who is in possession of a ball move onto another ball, or have another ball Bounce into their square, the other ball will immediately Bounce from their square.
 
@@ -282,14 +282,14 @@ An Open Player who is in possession of a ball can make a Throw Action to pass a 
 
 *The Throw Ruler is placed in line with the Player's base. The grey shaded area is in short range whilst the red shaded area is within long range.*
 
-To see if the Throw Action is successful, the throwing Player makes a Throw Check as described on page 8. The throwing Player subtracts 1 from the result if either of the following apply:
+To see if the Throw Action is successful, the throwing Player makes a Throw Check as described on [page 8](#important-principles). The throwing Player subtracts 1 from the result if either of the following apply:
 
 - **Long Throw:** The centre of the target square is in the half of the Throw Ruler marked Long Throw.
 - **Obstructed Throw:** The target Team-mate is Marked, or any part of the Throw Ruler between the thrower and the target Team-mate crosses over a blocked square or a square containing an Open Opposition Player.
 
 **Important:** Remember that a Throw Check can only ever be modified by a maximum of -1/+1.
 
-If the Throw Check is successful, the target Team-mate takes possession of that ball. If the Throw Check fails, that ball will Bounce from the target Team-mate's square as described opposite.
+If the Throw Check is successful, the target Team-mate takes possession of that ball. If the Throw Check fails, that ball will Bounce from the target Team-mate's square as described [opposite](#bouncing-ball).
 
 ### BOUNCING BALL
 
