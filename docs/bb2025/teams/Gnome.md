@@ -43,7 +43,7 @@ or
 
 * [Rodney Roachbait] - 70K
 * [Swiftvine Glimmershard] - 110K
-* [Willow Rosebark] - 150K
+* [Willow Rosebark] - 160K
 * [Rowana Forestfoot] - 160K
 * [Maple Highgrove] - 210K
 * [Deeproot Strongbranch] - 280K

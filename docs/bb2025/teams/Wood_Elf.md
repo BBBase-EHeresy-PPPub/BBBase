@@ -38,7 +38,7 @@ or
 * [Gloriel Summerbloom] - 150K
 * [Kiroth Krakeneye] - 160K
 * [Eldril Sidewinder] - 220K
-* [Zolcath the Zoat] - 230K
+* [Zolcath the Zoat] - 220K
 * [Roxanna Darknail] - 270K
 * [Jeremiah Kool] - 300K
 * [The Swift Twins] - 300K
@@ -47,7 +47,7 @@ or
 
 * [Rodney Roachbait] - 70K
 * [Swiftvine Glimmershard] - 110K
-* [Willow Rosebark] - 150K
+* [Willow Rosebark] - 160K
 * [Rowana Forestfoot] - 160K
 * [Maple Highgrove] - 210K
 * [Deeproot Strongbranch] - 280K
