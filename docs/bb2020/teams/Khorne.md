@@ -33,6 +33,7 @@
 * [Scyla Anfingrimm] - 200K
 * [Hakflem Skuttlespike] - 210K
 * [Grashnak Blackhoof] - 240K
+* [Grak and Crumbleberry] - 250K
 * [Lord Borak the Despoiler] - 260K
 * [Morg 'n' Thorg] - 380K
 

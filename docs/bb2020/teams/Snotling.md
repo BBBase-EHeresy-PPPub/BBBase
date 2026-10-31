@@ -33,6 +33,8 @@
 * [Fungus the Loon] - 80K
 * [Nobbla Blackwart] - 120K
 * [Scrappa Sorehead] - 130K
+* [Rashnak Backstabber] - 130K
+* [Zzharg Madeye] - 130K
 * [Helmut Wulf] - 140K
 * [Skitter Stab-Stab] - 150K
 * [Kreek 'the Verminator' Rustgouger] - 170K
@@ -42,6 +44,7 @@
 * [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K
 * [Varag Ghoul-Chewer] - 280K
+* [H'thark the Unstoppable] - 300K
 * [Morg 'n' Thorg] - 380K
 
 ### Inducements

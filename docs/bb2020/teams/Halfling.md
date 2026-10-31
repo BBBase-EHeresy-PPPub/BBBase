@@ -19,12 +19,12 @@
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Cindy Piewhistle] - 50K
 * [Apothecary]  - 50K
 * [Re-roll] - 60K
 
 ### Starplayers
 
+* [Cindy Piewhistle] - 50K
 * [Rodney Roachbait] - 70K
 * [Akhorne The Squirrel] - 80K
 * [Barik Farblast] - 80K

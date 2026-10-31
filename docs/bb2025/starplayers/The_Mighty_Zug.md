@@ -23,10 +23,10 @@ Once per game, when an opposition player is Knocked Down as the result of a Bloc
 
 ### Accept to play for...
 
-* [Amazon]
 * [Bretonnian]
+* [Dwarf]
 * [Human]
 * [Imperial Nobility]
-* [Lizardmen]
 * [Norse]
+* [Ogre]
 * [Old World Alliance]

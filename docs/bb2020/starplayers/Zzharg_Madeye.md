@@ -31,3 +31,4 @@ Once per half, at the start of his activation, Zzharg may perform a Blunderbuss 
 * [Goblin]
 * [Ogre]
 * [Orc]
+* [Snotling]

@@ -24,12 +24,12 @@ Choose either:
 
 * [Cheerleader] - 10K
 * [Assistant Coach] - 10K
-* [Cindy Piewhistle] - 50K
 * [Apothecary]  - 50K
 * [Re-roll] - 60K
 
 ### Starplayers
 
+* [Cindy Piewhistle] - 50K
 * [Puggy Baconbreath] - 120K
 * [Max Spleenripper] - 130K
 * [Helmut Wulf] - 140K

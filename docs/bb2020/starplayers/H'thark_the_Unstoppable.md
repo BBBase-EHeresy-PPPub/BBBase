@@ -32,3 +32,4 @@ Whenever H'thark performs a Blitz action, he may re-roll a single block dice.
 * [Goblin]
 * [Ogre]
 * [Orc]
+* [Snotling]

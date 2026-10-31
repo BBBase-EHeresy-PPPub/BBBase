@@ -27,6 +27,7 @@ Once per game, if Morg fails the Passing Ability test when making a Pass action 
 * [Dark Elf]
 * [Dwarf]
 * [Elven Union]
+* [Gnome]
 * [Goblin]
 * [Halfling]
 * [High Elf]

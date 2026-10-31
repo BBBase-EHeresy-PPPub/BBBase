@@ -26,3 +26,4 @@ Once per game, when Rashnak successfully breaks an opposition player's armour as
 * [Goblin]
 * [Ogre]
 * [Orc]
+* [Snotling]

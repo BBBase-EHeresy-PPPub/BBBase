@@ -26,13 +26,6 @@ Once per game, when Grombrindal is activated he may select one team-mate within 
 * [Old World Classic]
 * [Worlds Edge Superleague]
 
-### Special Rules
-
-* [Halfling Thimble Cup]
-* [Lustrian Superleague]
-* [Old World Classic]
-* [Worlds Edge Superleague]
-
 ### Accept to play for...
 
 * [Bretonnian]

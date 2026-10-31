@@ -38,6 +38,7 @@
 * [Mighty Zug] - 220K
 * [Ivar Eriksson] - 245K
 * [Frank 'n' Stein] - 250K
+* [Grak and Crumbleberry] - 250K
 * [Skrorg Snowpelt] - 250K
 * [Deeproot Strongbranch] - 280K
 * [Griff Oberwald] - 280K

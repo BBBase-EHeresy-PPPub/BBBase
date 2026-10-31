@@ -27,7 +27,6 @@ Once per game, when Skrorg causes an opposition player to be removed as a Casual
 
 * [Bretonnian]
 * [Dwarf]
-* [Halfling]
 * [Human]
 * [Imperial Nobility]
 * [Norse]

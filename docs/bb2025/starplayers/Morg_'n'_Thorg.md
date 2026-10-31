@@ -36,6 +36,7 @@ Once per game, when Morg performs a Throw Team-mate Action, he may re-roll the P
 * [Dark Elf]
 * [Dwarf]
 * [Elven Union]
+* [Gnome]
 * [Goblin]
 * [Halfling]
 * [High Elf]
