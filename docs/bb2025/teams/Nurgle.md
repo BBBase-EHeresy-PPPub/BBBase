@@ -31,6 +31,7 @@
 * [Guffle Pusmaw] - 150K
 * [Withergrasp Doubledrool] - 170K
 * [Bilerot Vomitflesh] - 180K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Lord Borak the Despoiler] - 270K

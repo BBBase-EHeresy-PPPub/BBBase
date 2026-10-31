@@ -27,6 +27,7 @@
 * [Boa Kon'ssstriktr] - 180K
 * [Estelle la Veneaux] - 190K
 * [Anqi Panqi] - 190K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [Karla von Kill] - 210K
 * [Zolcath the Zoat] - 220K
 * [Dribl and Drull] - 230K

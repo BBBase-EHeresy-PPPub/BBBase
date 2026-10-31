@@ -33,6 +33,7 @@
 * [Glart Smashrip] - 175K
 * [Kreek Rustgouger] - 180K
 * [Hakflem Skuttlespike] - 200K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [The Black Gobbo] - 210K
 * [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K

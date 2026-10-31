@@ -31,6 +31,7 @@
 * [Akhorne the Squirrel] - 80K
 * [Max Spleenripper] - 130K
 * [Scyla Anfingrimm] - 200K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [Grashnak Blackhoof] - 240K
 * [Grak and Crumbleberry] - 250K
 * [Lord Borak the Despoiler] - 270K

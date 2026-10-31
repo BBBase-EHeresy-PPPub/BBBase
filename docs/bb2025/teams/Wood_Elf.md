@@ -29,6 +29,7 @@ or
 ### Star Players
 
 * [Akhorne the Squirrel] - 80K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [Grak and Crumbleberry] - 250K
 * [Jordell Freshbreeze] - 280K
 * [Morg 'n' Thorg] - 340K

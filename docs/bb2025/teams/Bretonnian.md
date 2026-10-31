@@ -30,6 +30,7 @@
 * [Grombrindal] - 170K
 * [Thorsson Stoutmead] - 170K
 * [Josef Bugman] - 180K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [Karla von Kill] - 210K
 * [Ivar Eriksson] - 215K
 * [The Mighty Zug] - 220K

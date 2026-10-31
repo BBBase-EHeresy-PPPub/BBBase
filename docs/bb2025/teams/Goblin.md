@@ -40,6 +40,7 @@ or
 * [Fungus the Loon] - 80K
 * [Nobbla Blackwart] - 120K
 * [Scrappa Sorehead] - 120K
+* [Da Red Gobbo's Squigmobile] - 200K
 * [The Black Gobbo] - 210K
 * [Grak and Crumbleberry] - 250K
 * [Ripper Bolgrot] - 250K
