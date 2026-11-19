@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://bloodbowlbase.ru/bb2025/sitemap.xml
