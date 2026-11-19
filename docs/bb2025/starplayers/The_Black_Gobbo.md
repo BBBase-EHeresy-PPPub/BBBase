@@ -29,6 +29,7 @@ If your team includes the Black Gobbo, then you may declare two Foul Actions per
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

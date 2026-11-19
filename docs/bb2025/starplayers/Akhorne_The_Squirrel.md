@@ -46,6 +46,7 @@ Akhorne may choose to re-roll the D6 when rolling for the Dauntless Skill.
 * [Khorne]
 * [Lizardmen]
 * [Necromantic Horror]
+* [Night Goblin]
 * [Norse]
 * [Nurgle]
 * [Ogre]

@@ -24,6 +24,7 @@ Once per game, when Skitter performs a Stab Special Action, he may choose to re-
 ### Accept to play for...
 
 * [Goblin]
+* [Night Goblin]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

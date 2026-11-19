@@ -28,6 +28,7 @@ Once per half, Ripper may re-roll a single dice that was rolled either as a sing
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

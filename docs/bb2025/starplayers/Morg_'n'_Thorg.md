@@ -44,6 +44,7 @@ Once per game, when Morg performs a Throw Team-mate Action, he may re-roll the P
 * [Imperial Nobility]
 * [Khorne]
 * [Lizardmen]
+* [Night Goblin]
 * [Norse]
 * [Nurgle]
 * [Ogre]

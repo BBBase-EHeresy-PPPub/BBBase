@@ -72,6 +72,7 @@ The Sylvanian Spotlight is where the vast majority of undead players ply their t
 Until recently, many fans and pundits didn't even believe the Underworld Challenge existed! Games within the Underworld Challenge are perhaps the most diverse in Blood Bowl, hosting the likes of Skaven, Snotlings, Goblins and anyone else who frequents the stinking sewers in search of a game of Blood Bowl!
 
 * [Goblin]
+* [Night Goblin]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]
@@ -117,6 +118,7 @@ Once per game, when a team with this special rule rolls a 1 to Argue the Call, t
 * [Black Orc]
 * [Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Snotling]
 * [Underworld Denizens]
 

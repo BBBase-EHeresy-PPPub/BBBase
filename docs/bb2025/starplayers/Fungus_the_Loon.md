@@ -28,6 +28,7 @@ Once per Activation, Fungus may re-roll the D6 when determining which direction 
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

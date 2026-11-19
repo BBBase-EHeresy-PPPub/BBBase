@@ -647,6 +647,16 @@ This player can be thrown by a team-mate with the Throw Team-mate Trait, even if
 
 At the end of a Drive in which this player took part, even if they are not on the pitch at the end of the Drive, they are Sent-off for committing a Foul.
 
+#### SQUIG RAGE* (PASSIVE)
+
+Whenever this player is activated, before declaring their action, they must roll a D6. On a 3+, the player may activate as normal.
+
+On a 1-2, the player must declare a Block Action targeting an opposition player they are Marking if able (using the [Jump Up] Skill if applicable) – they may do this even if they have the [Ball & Chain] Trait and couldn't normally do so. If the player cannot declare a Block Action against an opposition player, but are adjacent to at least one team-mate, then they may choose an adjacent team-mate to be immediately Knocked Down (this will not cause a Turnover unless the chosen team-mate was holding the ball); this player may then continue their activation as normal. If this player cannot declare a Block Action against an opposition player, is not adjacent to a team-mate, or chooses to not Knock Down a team-mate, then this player becomes Distracted.
+
+#### SQUIG RESTRAINT* (PASSIVE)
+
+Team-mates within 3 squares of a Standing player with this Trait do not roll for their [Squig Rage] Trait at the start of their activation and may activate as normal.
+
 #### STAB (ACTIVE)
 
 When this player is activated, they can declare a Stab Special Action; there is no limit to the number of players that can declare this Special Action each Turn.

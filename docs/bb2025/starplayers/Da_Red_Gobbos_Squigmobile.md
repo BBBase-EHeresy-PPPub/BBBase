@@ -50,6 +50,7 @@ If both coaches agree, Da Red Gobbo's Squigmobile can be hired as a Star Player 
 * [Khorne]
 * [Lizardmen]
 * [Necromantic Horror]
+* [Night Goblin]
 * [Norse]
 * [Nurgle]
 * [Ogre]

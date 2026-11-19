@@ -16,6 +16,7 @@
 [Khorne]: ../teams/Khorne.md
 [Lizardmen]: ../teams/Lizardmen.md
 [Necromantic Horror]: ../teams/Necromantic_Horror.md
+[Night Goblin]: ../teams/Night_Goblin.md
 [Norse]: ../teams/Norse.md
 [Nurgle]: ../teams/Nurgle.md
 [Ogre]: ../teams/Ogre.md

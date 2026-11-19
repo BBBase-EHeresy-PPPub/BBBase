@@ -26,6 +26,7 @@ Once per game, if Hakflem is adjacent to a team-mate who is in possession of the
 ### Accept to play for...
 
 * [Goblin]
+* [Night Goblin]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

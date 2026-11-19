@@ -28,6 +28,7 @@ Once per game, if an opposition player catches a bomb thrown by Bomber, you can 
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

@@ -30,6 +30,7 @@ Once per game, when Scrappa attempts to Intercept a Pass Action he may roll a D6
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

@@ -102,6 +102,8 @@
 [Regeneration]: ../core_rules/skills_and_traits.md#regeneration-passive
 [Right Stuff]: ../core_rules/skills_and_traits.md#right-stuff-passive
 [Secret Weapon]: ../core_rules/skills_and_traits.md#secret-weapon-passive
+[Squig Rage]: ../core_rules/skills_and_traits.md#squig-rage-passive
+[Squig Restraint]: ../core_rules/skills_and_traits.md#squig-restraint-passive
 [Stab]: ../core_rules/skills_and_traits.md#stab-active
 [Stunty]: ../core_rules/skills_and_traits.md#stunty-passive
 [Swoop]: ../core_rules/skills_and_traits.md#swoop-active

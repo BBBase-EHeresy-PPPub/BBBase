@@ -25,6 +25,7 @@ Once per half, when Glart declares a Blitz Action he may gain the Frenzy Skill u
 ### Accept to play for...
 
 * [Goblin]
+* [Night Goblin]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

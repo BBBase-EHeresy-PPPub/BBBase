@@ -25,6 +25,7 @@ The first time in a game that Kreek would be Sent-off as per the Secret Weapon T
 ### Accept to play for...
 
 * [Goblin]
+* [Night Goblin]
 * [Skaven]
 * [Snotling]
 * [Underworld Denizens]

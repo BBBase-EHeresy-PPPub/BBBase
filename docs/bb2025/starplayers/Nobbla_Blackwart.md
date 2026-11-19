@@ -30,6 +30,7 @@ Once per game, Nobbla may use the Chainsaw Attack Special Action against a Prone
 * [Black Orc]
 * [Chaos Dwarf]
 * [Goblin]
+* [Night Goblin]
 * [Ogre]
 * [Orc]
 * [Skaven]

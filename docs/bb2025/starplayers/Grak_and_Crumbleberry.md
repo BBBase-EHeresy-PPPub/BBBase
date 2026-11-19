@@ -63,6 +63,7 @@ Grak & Crumbleberry must be hired as a pair. Additionally, while Crumbleberry is
 * [Khorne]
 * [Lizardmen]
 * [Necromantic Horror]
+* [Night Goblin]
 * [Norse]
 * [Nurgle]
 * [Ogre]
